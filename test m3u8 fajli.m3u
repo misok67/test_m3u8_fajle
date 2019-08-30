@@ -46,7 +46,6 @@ http://185.132.177.97:25461/live/rados/rados1234/333.m3u8
 http://185.132.177.97:25461/live/rados/rados1234/343.m3u8
 #EXTINF:-1,Arena Sport 6 HR
 http://185.132.177.97:25461/live/rados/rados1234/332.m3u8
-
 #EXTINF:-1,HBO Adria
 http://185.132.177.97:25461/live/rados/rados1234/275.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -77,10 +76,203 @@ http://185.132.177.97:25461/live/rados/rados1234/27.m3u8
 http://185.132.177.97:25461/live/rados/rados1234/238.m3u8
 #EXTINF:-1,TV 1000
 http://185.132.177.97:25461/live/rados/rados1234/198.m3u8
-
 #EXTINF:-1,RTL 2
 http://185.132.177.97:25461/live/rados/rados1234/11.m3u8
 #EXTINF:-1,RTL Crime
 http://185.132.177.97:25461/live/rados/rados1234/219.m3u8
 #EXTINF:-1,Doma TV
 http://185.132.177.97:25461/live/rados/rados1234/290.m3u8
+
+#EXTINF:-1,  ****  LISTA  ****
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/99999.m3u8
+#EXTINF:-1,...ARENA SPORT 1 HR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12319.m3u8
+#EXTINF:-1,...ARENA SPORT 2 HR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12317.m3u8
+#EXTINF:-1,...ARENA SPORT 3 HR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12315.m3u8
+#EXTINF:-1,...ARENA SPORT 4 HR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12313.m3u8
+#EXTINF:-1,...ARENA SPORT 1 SRB
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12318.m3u8
+#EXTINF:-1,...ARENA SPORT 2 SRB
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12316.m3u8
+#EXTINF:-1,...ARENA SPORT 4 SRB
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12312.m3u8
+#EXTINF:-1,...ARENA SPORT 5 SRB
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12310.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/16985.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 2 .HR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/16986.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/16987.m3u8
+#EXTINF:-1,EX-YU: SPORTKLUB 4 SR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/16989.m3u8
+#EXTINF:-1,EX-YU: SPORTKLUB 5 SR
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/16990.m3u8
+#EXTINF:-1,...BEIN SPORTS 11 UHD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/31021.m3u8
+#EXTINF:-1,...BEIN SPORTS ESPN HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/31020.m3u8
+#EXTINF:-1,...BEIN SPORTS HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7866.m3u8
+#EXTINF:-1,...BEIN SPORTS LIGA FHD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/31019.m3u8
+#EXTINF:-1,...BT SPORTS 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7975.m3u8
+#EXTINF:-1,...BT SPORTS 2 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7974.m3u8
+#EXTINF:-1,...BT SPORTS 3 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7973.m3u8
+#EXTINF:-1,...BT SPORTS ESPN HD-GB
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7965.m3u8
+#EXTINF:-1,...ESPN DEPORTE
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7913.m3u8
+#EXTINF:-1,...FOX SPORTS 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7894.m3u8
+#EXTINF:-1,...FOX SPORTS 2 HD.
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7893.m3u8
+#EXTINF:-1,...SKY SPORT PREMIER LEAGUE
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7968.m3u8
+#EXTINF:-1,...SKY SPORTS ACTION HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7970.m3u8
+#EXTINF:-1,...SKY SPORTS ARENA HD-GB
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7966.m3u8
+#EXTINF:-1,...SKY SPORTS F1 HD-GB
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7967.m3u8
+#EXTINF:-1,...SKY SPORTS F1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15367.m3u8
+#EXTINF:-1,...SKY SPORTS NEWS HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7972.m3u8
+#EXTINF:-1,...SKY SPORTS PREMIER LEAGUE HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15364.m3u8
+#EXTINF:-1,...TSN 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8007.m3u8
+#EXTINF:-1,...TSN 2 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8006.m3u8
+#EXTINF:-1,...TSN 3 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8005.m3u8
+#EXTINF:-1,...TSN 4 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8004.m3u8
+#EXTINF:-1,...TSN 5 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8003.m3u8
+#EXTINF:-1,...UNIVISION DEPORTES
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7915.m3u8
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/30239.m3u8
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/30238.m3u8
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/30237.m3u8
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/30242.m3u8
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/30241.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD [UK]
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/148444.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/31194.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/31193.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/31192.m3u8
+#EXTINF:-1,IT: EUROSPORT 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12687.m3u8
+#EXTINF:-1,IT: EUROSPORT 2 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12686.m3u8
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12700.m3u8
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12699.m3u8
+#EXTINF:-1,IT: SKY SPORT ARENA
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12866.m3u8
+#EXTINF:-1,IT: SKY SPORT FOOTBALL HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12887.m3u8
+#EXTINF:-1,NL | FOX SPORTS 1
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/11312.m3u8
+#EXTINF:-1,NL | FOX SPORTS 2
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/11311.m3u8
+#EXTINF:-1,NL | FOX SPORTS 3
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/11310.m3u8
+#EXTINF:-1,NL | FOX SPORTS 4
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/11309.m3u8
+#EXTINF:-1,NL | FOX SPORTS 5
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/11308.m3u8
+#EXTINF:-1,NL | FOX SPORTS 6
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/11307.m3u8
+#EXTINF:-1,PL: CANAL SPORT
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15207.m3u8
+#EXTINF:-1,PL: ELEVEN SPORTS 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15198.m3u8
+#EXTINF:-1,PL: ELEVEN SPORTS 2 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15200.m3u8
+#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/60949.m3u8
+#EXTINF:-1,PL: EUROSPORT 1
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15197.m3u8
+#EXTINF:-1,PL: EUROSPORT 2
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15196.m3u8
+#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15169.m3u8
+#EXTINF:-1,PL: POLSAT SPORT HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15170.m3u8
+#EXTINF:-1,PT: EUROSPORT 1
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/26615.m3u8
+#EXTINF:-1,UK: EUROSPORT_1_HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15483.m3u8
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15395.m3u8
+
+#EXTINF:-1, ?????  LISTA 3 ?????
+http://thepk.co:2086/live/drifter1/drifter1/99999.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 10
+http://thepk.co:2086/live/drifter1/drifter1/50627.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 11
+http://thepk.co:2086/live/drifter1/drifter1/50626.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 12
+http://thepk.co:2086/live/drifter1/drifter1/50625.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 7
+http://thepk.co:2086/live/drifter1/drifter1/50630.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 8
+http://thepk.co:2086/live/drifter1/drifter1/50629.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 9
+http://thepk.co:2086/live/drifter1/drifter1/50628.m3u8
+#EXTINF:-1,CA: TSN 1
+http://thepk.co:2086/live/drifter1/drifter1/3202.m3u8
+#EXTINF:-1,CA: TSN 2
+http://thepk.co:2086/live/drifter1/drifter1/3201.m3u8
+#EXTINF:-1,CA: TSN 3
+http://thepk.co:2086/live/drifter1/drifter1/8802.m3u8
+#EXTINF:-1,CA: TSN 4
+http://thepk.co:2086/live/drifter1/drifter1/3199.m3u8
+#EXTINF:-1,CA: TSN 5
+http://thepk.co:2086/live/drifter1/drifter1/3198.m3u8
+#EXTINF:-1,DANISH: EUROSPORT 1
+http://thepk.co:2086/live/drifter1/drifter1/52116.m3u8
+#EXTINF:-1,DANISH: EUROSPORT 2
+http://thepk.co:2086/live/drifter1/drifter1/52117.m3u8
+#EXTINF:-1,ESP: EUROSPORT
+http://thepk.co:2086/live/drifter1/drifter1/22369.m3u8
+#EXTINF:-1,FINNISH: EUROSPORTS 1
+http://thepk.co:2086/live/drifter1/drifter1/55255.m3u8
+#EXTINF:-1,FINNISH: EUROSPORTS 2
+http://thepk.co:2086/live/drifter1/drifter1/55254.m3u8
+#EXTINF:-1,GERMAN: EUROSPORTS 1
+http://thepk.co:2086/live/drifter1/drifter1/51223.m3u8
+#EXTINF:-1,GERMAN: EUROSPORTS 2
+http://thepk.co:2086/live/drifter1/drifter1/51222.m3u8
+#EXTINF:-1,GREEK: EUROSPORT 1
+http://thepk.co:2086/live/drifter1/drifter1/61216.m3u8
+#EXTINF:-1,ITALIAN: EUROSPORT 1
+http://thepk.co:2086/live/drifter1/drifter1/51740.m3u8
+#EXTINF:-1,ITALIAN: EUROSPORT 2 HD
+http://thepk.co:2086/live/drifter1/drifter1/51739.m3u8
+#EXTINF:-1,POLISH: EUROSPORT 1
+http://thepk.co:2086/live/drifter1/drifter1/51366.m3u8
+#EXTINF:-1,POLISH: EUROSPORT 2
+http://thepk.co:2086/live/drifter1/drifter1/51364.m3u8
+#EXTINF:-1,UK: EUROSPORTS 1
+http://thepk.co:2086/live/drifter1/drifter1/18683.m3u8
+#EXTINF:-1,UK: EUROSPORTS 2
+http://thepk.co:2086/live/drifter1/drifter1/18684.m3u8
