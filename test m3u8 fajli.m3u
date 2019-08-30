@@ -1,0 +1,86 @@
+#EXTM3U
+
+#EXTINF:-1,Sport Klub 1 HR
+http://185.132.177.97:25461/live/rados/rados1234/209.m3u8
+#EXTINF:-1,Sport Klub 1 SR
+http://185.132.177.97:25461/live/rados/rados1234/206.m3u8
+#EXTINF:-1,Sport Klub 2 HR
+http://185.132.177.97:25461/live/rados/rados1234/208.m3u8
+#EXTINF:-1,Sport Klub 2 SR
+http://185.132.177.97:25461/live/rados/rados1234/205.m3u8
+#EXTINF:-1,Sport Klub 3 HR
+http://185.132.177.97:25461/live/rados/rados1234/207.m3u8
+#EXTINF:-1,Sport Klub 3 SR
+http://185.132.177.97:25461/live/rados/rados1234/204.m3u8
+#EXTINF:-1,Sport Klub 4
+http://185.132.177.97:25461/live/rados/rados1234/203.m3u8
+#EXTINF:-1,Sport Klub 5
+http://185.132.177.97:25461/live/rados/rados1234/202.m3u8
+#EXTINF:-1,Sport Klub 6
+http://185.132.177.97:25461/live/rados/rados1234/201.m3u8
+#EXTINF:-1,Sport Klub Start
+http://185.132.177.97:25461/live/rados/rados1234/57.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://185.132.177.97:25461/live/rados/rados1234/337.m3u8
+#EXTINF:-1,Arena Sport 1 SD
+http://185.132.177.97:25461/live/rados/rados1234/330.m3u8
+#EXTINF:-1,Arena Sport 1
+http://185.132.177.97:25461/live/rados/rados1234/16.m3u8
+#EXTINF:-1,Arena Sport 2 SD
+http://185.132.177.97:25461/live/rados/rados1234/329.m3u8
+#EXTINF:-1,Arena Sport 2
+http://185.132.177.97:25461/live/rados/rados1234/17.m3u8
+#EXTINF:-1,Arena Sport 3 HR
+http://185.132.177.97:25461/live/rados/rados1234/335.m3u8
+#EXTINF:-1,Arena Sport 3
+http://185.132.177.97:25461/live/rados/rados1234/18.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://185.132.177.97:25461/live/rados/rados1234/334.m3u8
+#EXTINF:-1,Arena Sport 4 SD
+http://185.132.177.97:25461/live/rados/rados1234/327.m3u8
+#EXTINF:-1,Arena Sport 4
+http://185.132.177.97:25461/live/rados/rados1234/19.m3u8
+#EXTINF:-1,Arena Sport 5 HR
+http://185.132.177.97:25461/live/rados/rados1234/333.m3u8
+#EXTINF:-1,Arena Sport 5
+http://185.132.177.97:25461/live/rados/rados1234/343.m3u8
+#EXTINF:-1,Arena Sport 6 HR
+http://185.132.177.97:25461/live/rados/rados1234/332.m3u8
+
+#EXTINF:-1,HBO Adria
+http://185.132.177.97:25461/live/rados/rados1234/275.m3u8
+#EXTINF:-1,HBO 2 HD
+http://185.132.177.97:25461/live/rados/rados1234/274.m3u8
+#EXTINF:-1,HBO 3 HD
+http://185.132.177.97:25461/live/rados/rados1234/273.m3u8
+#EXTINF:-1,HBO slo
+http://185.132.177.97:25461/live/rados/rados1234/88.m3u8
+#EXTINF:-1,Kino TV
+http://185.132.177.97:25461/live/rados/rados1234/265.m3u8
+#EXTINF:-1,Klasik Tv
+http://185.132.177.97:25461/live/rados/rados1234/264.m3u8
+#EXTINF:-1,CineStar Premiere 1
+http://185.132.177.97:25461/live/rados/rados1234/28.m3u8
+#EXTINF:-1,CineStar Premiere 2
+http://185.132.177.97:25461/live/rados/rados1234/303.m3u8
+#EXTINF:-1,CineStar TV
+http://185.132.177.97:25461/live/rados/rados1234/302.m3u8
+#EXTINF:-1,Cinemax 1 HD
+http://185.132.177.97:25461/live/rados/rados1234/29.m3u8
+#EXTINF:-1,Cinemax 2
+http://185.132.177.97:25461/live/rados/rados1234/301.m3u8
+#EXTINF:-1,CineStar Fantasy
+http://185.132.177.97:25461/live/rados/rados1234/304.m3u8
+#EXTINF:-1,Cinestar Action
+http://185.132.177.97:25461/live/rados/rados1234/27.m3u8
+#EXTINF:-1,Pink Film
+http://185.132.177.97:25461/live/rados/rados1234/238.m3u8
+#EXTINF:-1,TV 1000
+http://185.132.177.97:25461/live/rados/rados1234/198.m3u8
+
+#EXTINF:-1,RTL 2
+http://185.132.177.97:25461/live/rados/rados1234/11.m3u8
+#EXTINF:-1,RTL Crime
+http://185.132.177.97:25461/live/rados/rados1234/219.m3u8
+#EXTINF:-1,Doma TV
+http://185.132.177.97:25461/live/rados/rados1234/290.m3u8
