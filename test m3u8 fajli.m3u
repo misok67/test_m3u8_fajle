@@ -1,90 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 HR
-http://185.132.177.97:25461/live/rados/rados1234/209.m3u8
-#EXTINF:-1,Sport Klub 1 SR
-http://185.132.177.97:25461/live/rados/rados1234/206.m3u8
-#EXTINF:-1,Sport Klub 2 HR
-http://185.132.177.97:25461/live/rados/rados1234/208.m3u8
-#EXTINF:-1,Sport Klub 2 SR
-http://185.132.177.97:25461/live/rados/rados1234/205.m3u8
-#EXTINF:-1,Sport Klub 3 HR
-http://185.132.177.97:25461/live/rados/rados1234/207.m3u8
-#EXTINF:-1,Sport Klub 3 SR
-http://185.132.177.97:25461/live/rados/rados1234/204.m3u8
-#EXTINF:-1,Sport Klub 4
-http://185.132.177.97:25461/live/rados/rados1234/203.m3u8
-#EXTINF:-1,Sport Klub 5
-http://185.132.177.97:25461/live/rados/rados1234/202.m3u8
-#EXTINF:-1,Sport Klub 6
-http://185.132.177.97:25461/live/rados/rados1234/201.m3u8
-#EXTINF:-1,Sport Klub Start
-http://185.132.177.97:25461/live/rados/rados1234/57.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://185.132.177.97:25461/live/rados/rados1234/337.m3u8
-#EXTINF:-1,Arena Sport 1 SD
-http://185.132.177.97:25461/live/rados/rados1234/330.m3u8
-#EXTINF:-1,Arena Sport 1
-http://185.132.177.97:25461/live/rados/rados1234/16.m3u8
-#EXTINF:-1,Arena Sport 2 SD
-http://185.132.177.97:25461/live/rados/rados1234/329.m3u8
-#EXTINF:-1,Arena Sport 2
-http://185.132.177.97:25461/live/rados/rados1234/17.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://185.132.177.97:25461/live/rados/rados1234/335.m3u8
-#EXTINF:-1,Arena Sport 3
-http://185.132.177.97:25461/live/rados/rados1234/18.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://185.132.177.97:25461/live/rados/rados1234/334.m3u8
-#EXTINF:-1,Arena Sport 4 SD
-http://185.132.177.97:25461/live/rados/rados1234/327.m3u8
-#EXTINF:-1,Arena Sport 4
-http://185.132.177.97:25461/live/rados/rados1234/19.m3u8
-#EXTINF:-1,Arena Sport 5 HR
-http://185.132.177.97:25461/live/rados/rados1234/333.m3u8
-#EXTINF:-1,Arena Sport 5
-http://185.132.177.97:25461/live/rados/rados1234/343.m3u8
-#EXTINF:-1,Arena Sport 6 HR
-http://185.132.177.97:25461/live/rados/rados1234/332.m3u8
-#EXTINF:-1,HBO Adria
-http://185.132.177.97:25461/live/rados/rados1234/275.m3u8
-#EXTINF:-1,HBO 2 HD
-http://185.132.177.97:25461/live/rados/rados1234/274.m3u8
-#EXTINF:-1,HBO 3 HD
-http://185.132.177.97:25461/live/rados/rados1234/273.m3u8
-#EXTINF:-1,HBO slo
-http://185.132.177.97:25461/live/rados/rados1234/88.m3u8
-#EXTINF:-1,Kino TV
-http://185.132.177.97:25461/live/rados/rados1234/265.m3u8
-#EXTINF:-1,Klasik Tv
-http://185.132.177.97:25461/live/rados/rados1234/264.m3u8
-#EXTINF:-1,CineStar Premiere 1
-http://185.132.177.97:25461/live/rados/rados1234/28.m3u8
-#EXTINF:-1,CineStar Premiere 2
-http://185.132.177.97:25461/live/rados/rados1234/303.m3u8
-#EXTINF:-1,CineStar TV
-http://185.132.177.97:25461/live/rados/rados1234/302.m3u8
-#EXTINF:-1,Cinemax 1 HD
-http://185.132.177.97:25461/live/rados/rados1234/29.m3u8
-#EXTINF:-1,Cinemax 2
-http://185.132.177.97:25461/live/rados/rados1234/301.m3u8
-#EXTINF:-1,CineStar Fantasy
-http://185.132.177.97:25461/live/rados/rados1234/304.m3u8
-#EXTINF:-1,Cinestar Action
-http://185.132.177.97:25461/live/rados/rados1234/27.m3u8
-#EXTINF:-1,Pink Film
-http://185.132.177.97:25461/live/rados/rados1234/238.m3u8
-#EXTINF:-1,TV 1000
-http://185.132.177.97:25461/live/rados/rados1234/198.m3u8
-#EXTINF:-1,RTL 2
-http://185.132.177.97:25461/live/rados/rados1234/11.m3u8
-#EXTINF:-1,RTL Crime
-http://185.132.177.97:25461/live/rados/rados1234/219.m3u8
-#EXTINF:-1,Doma TV
-http://185.132.177.97:25461/live/rados/rados1234/290.m3u8
 
-#EXTINF:-1,  ****  LISTA  ****
-http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/99999.m3u8
+#EXTINF:-1,...TSN 1 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8007.m3u8
+#EXTINF:-1,...TSN 2 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8006.m3u8
+#EXTINF:-1,...TSN 3 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8005.m3u8
+#EXTINF:-1,...TSN 4 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8004.m3u8
+#EXTINF:-1,...TSN 5 HD
+http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8003.m3u8
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15627
+#EXTINF:-1,DE: EUROSPORT 2 EXT
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15626
+#EXTINF:-1,ESP: MOVISTAR DEPORTES
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/20215
+#EXTINF:-1,IT: EUROSPORT 1 HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/12687
+#EXTINF:-1,IT: EUROSPORT 2 HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/12686
+#EXTINF:-1,PL: EUROSPORT 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15197
+#EXTINF:-1,PL: EUROSPORT 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15196
+#EXTINF:-1,PT: EUROSPORT 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26615
+#EXTINF:-1,RO: EUROSPORT 1 HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/14925
+#EXTINF:-1,RO: EUROSPORT 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/14936
+#EXTINF:-1,RO: EUROSPORT
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/14852
+#EXTINF:-1,RU: EUROSPORT HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/54618
+#EXTINF:-1,TR: EUROSPORT 1 HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/11442
+#EXTINF:-1,TR: EUROSPORT 2 HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/11441
+#EXTINF:-1,UK: EUROSPORT_1_HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15483
+#EXTINF:-1,UK: EUROSPORT_2_HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15482
+
 #EXTINF:-1,...ARENA SPORT 1 HR
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12319.m3u8
 #EXTINF:-1,...ARENA SPORT 2 HR
@@ -147,18 +106,6 @@ http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15367.m3u8
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7972.m3u8
 #EXTINF:-1,...SKY SPORTS PREMIER LEAGUE HD
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15364.m3u8
-#EXTINF:-1,...TSN 1 HD
-http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8007.m3u8
-#EXTINF:-1,...TSN 2 HD
-http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8006.m3u8
-#EXTINF:-1,...TSN 3 HD
-http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8005.m3u8
-#EXTINF:-1,...TSN 4 HD
-http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8004.m3u8
-#EXTINF:-1,...TSN 5 HD
-http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/8003.m3u8
-#EXTINF:-1,...UNIVISION DEPORTES
-http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/7915.m3u8
 #EXTINF:-1,AR: BEIN SPORT 10 HD
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/30239.m3u8
 #EXTINF:-1,AR: BEIN SPORT 11 HD
@@ -224,55 +171,3 @@ http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15483.m3u8
 #EXTINF:-1,UK: SKY SPORTS NEWS HD
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15395.m3u8
 
-#EXTINF:-1, ?????  LISTA 3 ?????
-http://thepk.co:2086/live/drifter1/drifter1/99999.m3u8
-#EXTINF:-1,ARABIC: BEIN SPORTS 10
-http://thepk.co:2086/live/drifter1/drifter1/50627.m3u8
-#EXTINF:-1,ARABIC: BEIN SPORTS 11
-http://thepk.co:2086/live/drifter1/drifter1/50626.m3u8
-#EXTINF:-1,ARABIC: BEIN SPORTS 12
-http://thepk.co:2086/live/drifter1/drifter1/50625.m3u8
-#EXTINF:-1,ARABIC: BEIN SPORTS 7
-http://thepk.co:2086/live/drifter1/drifter1/50630.m3u8
-#EXTINF:-1,ARABIC: BEIN SPORTS 8
-http://thepk.co:2086/live/drifter1/drifter1/50629.m3u8
-#EXTINF:-1,ARABIC: BEIN SPORTS 9
-http://thepk.co:2086/live/drifter1/drifter1/50628.m3u8
-#EXTINF:-1,CA: TSN 1
-http://thepk.co:2086/live/drifter1/drifter1/3202.m3u8
-#EXTINF:-1,CA: TSN 2
-http://thepk.co:2086/live/drifter1/drifter1/3201.m3u8
-#EXTINF:-1,CA: TSN 3
-http://thepk.co:2086/live/drifter1/drifter1/8802.m3u8
-#EXTINF:-1,CA: TSN 4
-http://thepk.co:2086/live/drifter1/drifter1/3199.m3u8
-#EXTINF:-1,CA: TSN 5
-http://thepk.co:2086/live/drifter1/drifter1/3198.m3u8
-#EXTINF:-1,DANISH: EUROSPORT 1
-http://thepk.co:2086/live/drifter1/drifter1/52116.m3u8
-#EXTINF:-1,DANISH: EUROSPORT 2
-http://thepk.co:2086/live/drifter1/drifter1/52117.m3u8
-#EXTINF:-1,ESP: EUROSPORT
-http://thepk.co:2086/live/drifter1/drifter1/22369.m3u8
-#EXTINF:-1,FINNISH: EUROSPORTS 1
-http://thepk.co:2086/live/drifter1/drifter1/55255.m3u8
-#EXTINF:-1,FINNISH: EUROSPORTS 2
-http://thepk.co:2086/live/drifter1/drifter1/55254.m3u8
-#EXTINF:-1,GERMAN: EUROSPORTS 1
-http://thepk.co:2086/live/drifter1/drifter1/51223.m3u8
-#EXTINF:-1,GERMAN: EUROSPORTS 2
-http://thepk.co:2086/live/drifter1/drifter1/51222.m3u8
-#EXTINF:-1,GREEK: EUROSPORT 1
-http://thepk.co:2086/live/drifter1/drifter1/61216.m3u8
-#EXTINF:-1,ITALIAN: EUROSPORT 1
-http://thepk.co:2086/live/drifter1/drifter1/51740.m3u8
-#EXTINF:-1,ITALIAN: EUROSPORT 2 HD
-http://thepk.co:2086/live/drifter1/drifter1/51739.m3u8
-#EXTINF:-1,POLISH: EUROSPORT 1
-http://thepk.co:2086/live/drifter1/drifter1/51366.m3u8
-#EXTINF:-1,POLISH: EUROSPORT 2
-http://thepk.co:2086/live/drifter1/drifter1/51364.m3u8
-#EXTINF:-1,UK: EUROSPORTS 1
-http://thepk.co:2086/live/drifter1/drifter1/18683.m3u8
-#EXTINF:-1,UK: EUROSPORTS 2
-http://thepk.co:2086/live/drifter1/drifter1/18684.m3u8
