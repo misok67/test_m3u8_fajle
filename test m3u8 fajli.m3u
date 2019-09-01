@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,SP: Sky Sports Main Event UHD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/105.m3u8
+
 
 #EXTINF:-1,EuroSport HD
 http://valecpf.dyndns.tv:8000/live/AYRE175/8OEgyWIsOG/72.m3u8
@@ -59,6 +62,9 @@ http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15482
 
 #EXTINF:-1,...ARENA SPORT 1 HR
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12319.m3u8
+#EXTINF:-1,ex-Yu: Arena Sport 1 HR HD
+http://IP4Utv.cf:8898/live/soft4sat/0625e2f5ee/15052.m3u8
+
 #EXTINF:-1,...ARENA SPORT 2 HR
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/12317.m3u8
 #EXTINF:-1,...ARENA SPORT 3 HR
@@ -183,4 +189,27 @@ http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/26615.m3u8
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15483.m3u8
 #EXTINF:-1,UK: SKY SPORTS NEWS HD
 http://qqtv.nl:8080/live/RB2XM5Nvcu/U6BbntTJ31/15395.m3u8
+
+#EXTINF:-1,*****
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/999999.m3u8
+#EXTINF:-1,DE:EUROSPORT 1
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/337.m3u8
+#EXTINF:-1,DE:EUROSPORT 2
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/1865.m3u8
+#EXTINF:-1,DE:EUROSPORT 2 EXTRA
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/13156.m3u8
+#EXTINF:-1,DE:DAZN SPORT 1
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/23995.m3u8
+#EXTINF:-1,DE:DAZN SPORT 2
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/23996.m3u8
+#EXTINF:-1,DE:SKY SPORT HD 1
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/253.m3u8
+#EXTINF:-1,DE:SKY SPORT 1 HD-BACKUP
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/1850.m3u8
+#EXTINF:-1,DE:SKY SPORT 2 HD BACK
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/1851.m3u8
+#EXTINF:-1,DE:BUNDESLIGA 1
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/251.m3u8
+#EXTINF:-1,DE:BUNDESLIGA 1 HD
+http://eurocast1.net:8000/live/KZbDfZex4O/2Ij64uqFp2/1852.m3u8
 
