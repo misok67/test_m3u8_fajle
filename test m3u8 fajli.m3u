@@ -1,11 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,CA | TSN 1
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/9444.m3u8
-#EXTINF:-1,CA | TSN 2
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22782.m3u8
-#EXTINF:-1,CA | TSN 3
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22783.m3u8
+
 #EXTINF:-1,DE: Eurosport 1 HD
 http://hd.007iptv.com:2095/live/DITI/DITI/416.m3u8
 #EXTINF:-1,DE: Eurosport 2 HD
@@ -224,91 +219,77 @@ http://hd.007iptv.com:2095/live/DITI/DITI/612.m3u8
 #EXTINF:-1,UK: Sky Sports Premier League
 http://hd.007iptv.com:2095/live/DITI/DITI/614.m3u8
 
-#EXTINF:-1,+++++
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/999999.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 10 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/3684.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 11 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/3685.m3u8
-#EXTINF:-1,(AR) BEIN SPORTS 12 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/3686.m3u8
-#EXTINF:-1,(DK) EUROSPORT 1 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/8018.m3u8
-#EXTINF:-1,(IT) EUROSPORT 1
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4913.m3u8
-#EXTINF:-1,CA | TSN 1
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/9444.m3u8
-#EXTINF:-1,CA | TSN 2
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22782.m3u8
-#EXTINF:-1,CA | TSN 3
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22783.m3u8
-#EXTINF:-1,CA | TSN 4
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/32756.m3u8
-#EXTINF:-1,CA | TSN 5
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/32742.m3u8
-#EXTINF:-1,DAZN 1 Bar FHD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22499.m3u8
-#EXTINF:-1,DAZN 1 HD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/35588.m3u8
-#EXTINF:-1,DAZN 2 Bar FHD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22500.m3u8
-#EXTINF:-1,DAZN 2 HD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/35589.m3u8
-#EXTINF:-1,ES: BeIN Sports HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4263.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 1 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4201.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 2 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4200.m3u8
-#EXTINF:-1,ES: Teledeporte HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4162.m3u8
-#EXTINF:-1,Eurosport 1 HD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7189.m3u8
-#EXTINF:-1,Eurosport 2 HD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/7490.m3u8
-#EXTINF:-1,FR:EUROSPORT 1 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/379.m3u8
-#EXTINF:-1,IT: Sky Sport Football HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/23704.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4326.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1138.m3u8
-#EXTINF:-1,NL:FOX SPORTS 1 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/264.m3u8
-#EXTINF:-1,NL:FOX SPORTS 2 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/265.m3u8
-#EXTINF:-1,NL:FOX SPORTS 3 HD EREDIVISIE
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/266.m3u8
-#EXTINF:-1,NL:FOX SPORTS 4 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/267.m3u8
-#EXTINF:-1,NL:FOX SPORTS 5 HD EREDIVISIE HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/268.m3u8
-#EXTINF:-1,Sky Bundesliga 1 FHD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/20862.m3u8
-#EXTINF:-1,Sky Sport 1 FHD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/3697.m3u8
-#EXTINF:-1,Sky Sport 2 FHD (DE)
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1027.m3u8
-#EXTINF:-1,UK:BT SPORT 1
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4758.m3u8
-#EXTINF:-1,UK:BT SPORT 2
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4759.m3u8
-#EXTINF:-1,UK:BT SPORT 3
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/4760.m3u8
-#EXTINF:-1,UK:BT SPORT ESPN HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1512.m3u8
-#EXTINF:-1,UK:SKY SPORTS ACTION HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1018.m3u8
-#EXTINF:-1,UK:SKY SPORTS ARENA HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1016.m3u8
-#EXTINF:-1,UK:SKY SPORTS F1 HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1020.m3u8
-#EXTINF:-1,UK:SKY SPORTS GOLF HD
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/1019.m3u8
-#EXTINF:-1,UK:Sky Sports Premier League
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/22755.m3u8
-#EXTINF:-1,USA | FOX SPORTS 1
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/9476.m3u8
-#EXTINF:-1,USA | FOX SPORTS 2
-http://iptv.iptivihd.com:8000/live/ahRlFJyrTf/93jda43XtY/9475.m3u8
+#EXTINF:-1,EX: ARENA 1HD
+http://hd.007iptv.com:2095/live/DITI/DITI/861.m3u8
+#EXTINF:-1,EX: ARENA 2HD               
+http://hd.007iptv.com:2095/live/DITI/DITI/860.m3u8
+#EXTINF:-1,EX: ARENA 3HD             
+http://hd.007iptv.com:2095/live/DITI/DITI/859.m3u8
+#EXTINF:-1,EX: ARENA 4HD             
+http://hd.007iptv.com:2095/live/DITI/DITI/858.m3u8
+#EXTINF:-1,EX: ARENA 5 HD            
+http://hd.007iptv.com:2095/live/DITI/DITI/857.m3u8
+#EXTINF:-1,EX: ARENA 6 HD            
+http://hd.007iptv.com:2095/live/DITI/DITI/856.m3u8
+#EXTINF:-1,EX: SPORT KLUB 1  (SR)    
+http://hd.007iptv.com:2095/live/DITI/DITI/855.m3u8
+#EXTINF:-1,EX: SPORT KLUB 2 (RS)     
+http://hd.007iptv.com:2095/live/DITI/DITI/854.m3u8
+#EXTINF:-1,EX: SPORT KLUB 3 HD (SR)  
+http://hd.007iptv.com:2095/live/DITI/DITI/853.m3u8
+#EXTINF:-1,EX: SPORT KLUB 4 HD       
+http://hd.007iptv.com:2095/live/DITI/DITI/852.m3u8
+#EXTINF:-1,EX: SPORT KLUB 5          
+http://hd.007iptv.com:2095/live/DITI/DITI/851.m3u8
+#EXTINF:-1,EX: SPORT KLUB 6          
+http://hd.007iptv.com:2095/live/DITI/DITI/850.m3u8
+#EXTINF:-1,EX: HBO 1                 
+http://hd.007iptv.com:2095/live/DITI/DITI/912.m3u8
+#EXTINF:-1,EX: HBO 2                 
+http://hd.007iptv.com:2095/live/DITI/DITI/911.m3u8
+#EXTINF:-1,EX: HBO HD                
+http://hd.007iptv.com:2095/live/DITI/DITI/913.m3u8
+#EXTINF:-1,EX: Fox Movies            
+http://hd.007iptv.com:2095/live/DITI/DITI/907.m3u8
+#EXTINF:-1,EX: PINK FILM             
+http://hd.007iptv.com:2095/live/DITI/DITI/897.m3u8
+#EXTINF:-1,EX: HRT 1 (HR)            
+http://hd.007iptv.com:2095/live/DITI/DITI/932.m3u8
+#EXTINF:-1,EX: HRT 2 (HR)            
+http://hd.007iptv.com:2095/live/DITI/DITI/931.m3u8
+#EXTINF:-1,EX: HRT 3                 
+http://hd.007iptv.com:2095/live/DITI/DITI/930.m3u8
+#EXTINF:-1,EX: Nova TV
+http://hd.007iptv.com:2095/live/DITI/DITI/917.m3u8
+#EXTINF:-1,EX: NOVA TV HR
+http://hd.007iptv.com:2095/live/DITI/DITI/905.m3u8
+#EXTINF:-1,EX: RTL
+http://hd.007iptv.com:2095/live/DITI/DITI/928.m3u8
+#EXTINF:-1,EX: RTL 2                 
+http://hd.007iptv.com:2095/live/DITI/DITI/927.m3u8
+#EXTINF:-1,EX: RTL CRIME             
+http://hd.007iptv.com:2095/live/DITI/DITI/926.m3u8
+
+#EXTINF:-1,++++++
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/99999.m3u8
+#EXTINF:-1,UK | Premiere Sports FHD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16736.m3u8
+#EXTINF:-1,UK | SKY Sports ACTION HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16733.m3u8
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19558.m3u8
+#EXTINF:-1,UK | Sky Sport Football HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16734.m3u8
+#EXTINF:-1,UK | Sky Sport Arena HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18772.m3u8
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16729.m3u8
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18483.m3u8
+#EXTINF:-1,UK | Sky Sports News HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16727.m3u8
+#EXTINF:-1,UK | SKY Sports PREMIER LEAGUE
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16726.m3u8
+#EXTINF:-1,UK | Sky Sports The Open HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16725.m3u8
+
