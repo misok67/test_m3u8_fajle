@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Eurosport Deutschland
+http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/214.m3u8
+
 #EXTINF:-1,FR: Eurosport 1
 http://omega.ws:8080/live/localhd/211VGH699/4513.m3u8
 #EXTINF:-1,ES | EUROSPORT 1
