@@ -1,142 +1,135 @@
 #EXTM3U
 
-#EXTINF:-1,ᴱˣʸᵘ/ HRT 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36333.m3u8
-#EXTINF:-1,EXYU: RTS 1
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36372.m3u8
-#EXTINF:-1,beIN SPORTS HD10
-http://streamsmax.eu:8080/live/JAYKHANVOD/IIyrTwNovI/88597.m3u8
-#EXTINF:-1,AR:BEINSPORTS-10 HD
-http://iptv-janberyan.com:25461/live/7741032120558/7741032120558/5338.m3u8
-#EXTINF:-1,IT: Sky Sport  Uno
-http://omega.ws:8080/live/monir/123456/1749.m3u8
+#EXTINF:-1,Sport Klub 1 Cro
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9572.m3u8
+#EXTINF:-1,Sport Klub 1 SRB
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9569.m3u8
+#EXTINF:-1,Sport Klub 2 Cro
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9571.m3u8
+#EXTINF:-1,Sport Klub 2 SRB
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9568.m3u8
+#EXTINF:-1,Sport Klub 3 Cro
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9570.m3u8
+#EXTINF:-1,Sport Klub 3 SRB
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9567.m3u8
+#EXTINF:-1,Sport Klub 4 SRB
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9566.m3u8
+#EXTINF:-1,Sport Klub 5 SRB
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9565.m3u8
+#EXTINF:-1,Sport Klub 6 SRB
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9564.m3u8
+#EXTINF:-1,ARENA Sport 1 (SRB)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9558.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9563.m3u8
+#EXTINF:-1,ARENA Sport 2 (SRB)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9557.m3u8
+#EXTINF:-1,Arena Sport 2 HR
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9562.m3u8
+#EXTINF:-1,ARENA Sport 3 (SRB)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9556.m3u8
+#EXTINF:-1,Arena Sport 3 HR
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9561.m3u8
+#EXTINF:-1,ARENA Sport 4 (SRB)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9555.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9560.m3u8
+#EXTINF:-1,Arena Sport 5 HR
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9559.m3u8
+
+#EXTINF:-1,HBO
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9655.m3u8
+#EXTINF:-1,HBO 2
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9654.m3u8
+#EXTINF:-1,HBO 3
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9653.m3u8
+#EXTINF:-1,Cinemax 1
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9631.m3u8
+#EXTINF:-1,Cinemax 2
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9630.m3u8
+#EXTINF:-1,CineStar Action & Thriler
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9632.m3u8
+#EXTINF:-1,Cinestar TV Premiere 1 (RS)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9629.m3u8
+#EXTINF:-1,Cinestar TV Premiere 2 (RS)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9628.m3u8
+#EXTINF:-1,FOX Crime
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9635.m3u8
+#EXTINF:-1,FOX Movies
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9634.m3u8
+#EXTINF:-1,Klasik TV
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9638.m3u8
+#EXTINF:-1,M1 Film
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9643.m3u8
+#EXTINF:-1,Pink Film
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9579.m3u8
+#EXTINF:-1,HRT 1
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9673.m3u8
+#EXTINF:-1,HRT 1 (B)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9669.m3u8
+#EXTINF:-1,HRT 2
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9672.m3u8
+#EXTINF:-1,HRT 2 (B)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9668.m3u8
+#EXTINF:-1,HRT 3
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9671.m3u8
+#EXTINF:-1,HRT 3 (B)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9667.m3u8
+#EXTINF:-1,Nova TV (HR)
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9664.m3u8
+#EXTINF:-1,Nova TV HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9665.m3u8
+#EXTINF:-1,RTL
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9662.m3u8
+#EXTINF:-1,RTL 2
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9661.m3u8
+#EXTINF:-1,RTL Crime
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9677.m3u8
+
+#EXTINF:-1,TV 1000
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9649.m3u8
+#EXTINF:-1,(SL) Cinemax HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9518.m3u8
+#EXTINF:-1,(SL) Cinestar Premiere 1 HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9517.m3u8
+#EXTINF:-1,(SL) Cinestar Premiere 2 HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9516.m3u8
+#EXTINF:-1,(SL) Discovery Channel
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9507.m3u8
+#EXTINF:-1,(SL) FOX CRIME HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9523.m3u8
+#EXTINF:-1,(SL) FOX HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9524.m3u8
+#EXTINF:-1,(SL) FOX MOVIES HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9522.m3u8
+#EXTINF:-1,(SL) HBO 2 HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9520.m3u8
+#EXTINF:-1,(SL) HBO 3 HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9519.m3u8
+#EXTINF:-1,(SL) HBO HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9521.m3u8
+#EXTINF:-1,(SL) KANAL A HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9529.m3u8
+#EXTINF:-1,(SL) POP KINO HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9513.m3u8
+#EXTINF:-1,(SL) POP OTO HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9514.m3u8
+#EXTINF:-1,(SL) POP TV HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9515.m3u8
+#EXTINF:-1,(SL) SLO 1 HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9534.m3u8
+#EXTINF:-1,(SL) SLO 2 HD
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9533.m3u8
+#EXTINF:-1,(SL) Sport Klub 1
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9501.m3u8
+#EXTINF:-1,(SL) Sport Klub 2
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9500.m3u8
+#EXTINF:-1,(SL) Sport Klub 3
+http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9499.m3u8
+
+
+
 #EXTINF:-1,US: ESPN | UHD
 http://ppvplug.net:8000/live/XcAUXssLDX/zzWutF2NbU/101309.m3u8
 #EXTINF:-1,US: ESPN 2 | HD
 http://ppvplug.net:8000/live/XcAUXssLDX/zzWutF2NbU/101308.m3u8
-#EXTINF:-1,Sport Klub 1
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/222.m3u8
-#EXTINF:-1,Sport Klub 2
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/221.m3u8
-#EXTINF:-1,Sport Klub 3
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/220.m3u8
-#EXTINF:-1,Arena Sport 1
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/219.m3u8
-#EXTINF:-1,Arena Sport 2
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/216.m3u8
-#EXTINF:-1,Arena Sport 3
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/217.m3u8
-#EXTINF:-1,Arena Sport 4
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/218.m3u8
-#EXTINF:-1,Eurosport Deutschland
-http://main001.mine.nu:25461/live/IqIwAO7mhy/V5YvwJb4Rr/214.m3u8
-#EXTINF:-1,+++++ EXYU
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36293.m3u8
-#EXTINF:-1,EXYU: Arena Sport 1
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36293.m3u8
-#EXTINF:-1,EXYU: Arena Sport 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36291.m3u8
-#EXTINF:-1,EXYU: Arena Sport 3
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36289.m3u8
-#EXTINF:-1,EXYU: B92
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36311.m3u8
-#EXTINF:-1,EXYU: Cinemax 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36309.m3u8
-#EXTINF:-1,EXYU: Cinestar Action
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36308.m3u8
-#EXTINF:-1,EXYU: Cinestar Fantasy
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36307.m3u8
-#EXTINF:-1,EXYU: CineStar Premiere 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36315.m3u8
-#EXTINF:-1,EXYU: Discovery Channel
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36316.m3u8
-#EXTINF:-1,EXYU: DM Sat
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36317.m3u8
-#EXTINF:-1,EXYU: Filmbox Extra
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36306.m3u8
-#EXTINF:-1,EXYU: Filmbox Plus
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36305.m3u8
-#EXTINF:-1,EXYU: Fox Crime
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36302.m3u8
-#EXTINF:-1,EXYU: Fox Life
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36301.m3u8
-#EXTINF:-1,EXYU: Grand Narodna TV
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36320.m3u8
-#EXTINF:-1,EXYU: Happy TV
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36321.m3u8
-#EXTINF:-1,EXYU: Hayat TV
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36322.m3u8
-#EXTINF:-1,EXYU: HBO 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36323.m3u8
-#EXTINF:-1,EXYU: HBO Adria
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36324.m3u8
-#EXTINF:-1,ᴱˣʸᵘ/ HRT 1
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36334.m3u8
-#EXTINF:-1,ᴱˣʸᵘ/ HRT 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36333.m3u8
-#EXTINF:-1,ᴱˣʸᵘ/ HRT 3
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36332.m3u8
-#EXTINF:-1,ᴱˣʸᵘ/ HRT 4
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36331.m3u8
-#EXTINF:-1,EXYU: Kino TV
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36299.m3u8
-#EXTINF:-1,EXYU: Nova TV
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36327.m3u8
-#EXTINF:-1,EXYU: OBN
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36328.m3u8
-#EXTINF:-1,EXYU: Pink 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36365.m3u8
-#EXTINF:-1,EXYU: Pink 3 Info
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36364.m3u8
-#EXTINF:-1,EXYU: Pink Action
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36360.m3u8
-#EXTINF:-1,EXYU: Pink Comedy
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36361.m3u8
-#EXTINF:-1,EXYU: Pink Crime & Mistery
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36353.m3u8
-#EXTINF:-1,EXYU: Pink Film
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36363.m3u8
-#EXTINF:-1,EXYU: Pink Folk 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36351.m3u8
-#EXTINF:-1,EXYU: Pink Hits
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36350.m3u8
-#EXTINF:-1,EXYU: Pink Horor
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36349.m3u8
-#EXTINF:-1,EXYU: Pink Kids
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36348.m3u8
-#EXTINF:-1,EXYU: Pink Movies
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36362.m3u8
-#EXTINF:-1,EXYU: Pink Music
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36357.m3u8
-#EXTINF:-1,EXYU: Pink Pedia
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36346.m3u8
-#EXTINF:-1,EXYU: Pink Romance
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36343.m3u8
-#EXTINF:-1,EXYU: Pink Sci-Fi & Fantasy
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36359.m3u8
-#EXTINF:-1,EXYU: Pink Serije
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36342.m3u8
-#EXTINF:-1,EXYU: Pink Show
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36341.m3u8
-#EXTINF:-1,EXYU: Pink Style
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36339.m3u8
-#EXTINF:-1,EXYU: Pink Thriller
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36338.m3u8
-#EXTINF:-1,EXYU: Pink Western
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36337.m3u8
-#EXTINF:-1,EXYU: Pink World
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36336.m3u8
-#EXTINF:-1,EXYU: Pink Zabava
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36335.m3u8
-#EXTINF:-1,EXYU: Prva
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36329.m3u8
-#EXTINF:-1,EXYU: Prva Plus
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36330.m3u8
-#EXTINF:-1,ᴱˣʸᵘ/ RTL
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36369.m3u8
-#EXTINF:-1,EXYU: RTL 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36368.m3u8
-#EXTINF:-1,EXYU: RTS 1
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36372.m3u8
-#EXTINF:-1,EXYU: RTS 2
-http://2gb1.tvcdn.online:7477/live/2HvWUMgiSF/zLbBjClLRD/36371.m3u8
