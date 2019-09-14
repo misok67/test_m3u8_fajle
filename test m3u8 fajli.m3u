@@ -1,196 +1,172 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 Cro
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9572.m3u8
-#EXTINF:-1,Sport Klub 1 SRB
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9569.m3u8
-#EXTINF:-1,Sport Klub 2 Cro
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9571.m3u8
-#EXTINF:-1,Sport Klub 2 SRB
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9568.m3u8
-#EXTINF:-1,Sport Klub 3 Cro
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9570.m3u8
-#EXTINF:-1,Sport Klub 3 SRB
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9567.m3u8
-#EXTINF:-1,Sport Klub 4 SRB
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9566.m3u8
-#EXTINF:-1,Sport Klub 5 SRB
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9565.m3u8
-#EXTINF:-1,Sport Klub 6 SRB
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9564.m3u8
-#EXTINF:-1,ARENA Sport 1 (SRB)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9558.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9563.m3u8
-#EXTINF:-1,ARENA Sport 2 (SRB)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9557.m3u8
-#EXTINF:-1,Arena Sport 2 HR
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9562.m3u8
-#EXTINF:-1,ARENA Sport 3 (SRB)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9556.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9561.m3u8
-#EXTINF:-1,ARENA Sport 4 (SRB)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9555.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9560.m3u8
-#EXTINF:-1,Arena Sport 5 HR
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9559.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1                                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3605.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2                                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3604.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3                                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3603.m3u8
+#EXTINF:-1,EX-YU: Arena sport 2 HD                                 
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/401.m3u8
+#EXTINF:-1,SR: Arenasport 3 HD                                     
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/402.m3u8
+#EXTINF:-1,SR: Arenasport 4 HD                                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/403.m3u8
+#EXTINF:-1,SR: Arenasport 5 HD                                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/404.m3u8
+#EXTINF:-1,EX YU: CINEMAX 1                                       
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3551.m3u8
+#EXTINF:-1,EX YU: CINEMAX-2                                       
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3550.m3u8
+#EXTINF:-1,EX YU: HBO 2                                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3545.m3u8
+#EXTINF:-1,EX YU: HBO 3                                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4011.m3u8
+#EXTINF:-1,EX YU: HBO Adria                                       
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3544.m3u8
+#EXTINF:-1,EX-YU: Cinestar Action                                 
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3555.m3u8
+#EXTINF:-1,EX-YU: Cinestar Premiere 1                             
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3534.m3u8
+#EXTINF:-1,EX-YU: Fox Movies                                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3517.m3u8
+#EXTINF:-1,EX-YU: KLASIK TV                                       
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3589.m3u8
+#EXTINF:-1,EX-YU: Pink Film                                       
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3566.m3u8
+#EXTINF:-1,EX YU: HRT 2                                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3541.m3u8
+#EXTINF:-1,EX YU: HRT 3                                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3540.m3u8
+#EXTINF:-1,EX YU: RTL 2                                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3558.m3u8
+#EXTINF:-1,EX YU: RTL                                             
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3559.m3u8
+#EXTINF:-1,EX-YU: Arena sport 2 HD                                
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/401 .m3u8
+#EXTINF:-1,EX-YU: HRT 1                                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3542.m3u8
+#EXTINF:-1,Ex-Yu: RTL Crime                                       
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8864.m3u8
+#EXTINF:-1,Ex-Yu: RTL Passion                                     
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8865.m3u8
 
-#EXTINF:-1,HBO
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9655.m3u8
-#EXTINF:-1,HBO 2
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9654.m3u8
-#EXTINF:-1,HBO 3
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9653.m3u8
-#EXTINF:-1,Cinemax 1
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9631.m3u8
-#EXTINF:-1,Cinemax 2
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9630.m3u8
-#EXTINF:-1,CineStar Action & Thriler
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9632.m3u8
-#EXTINF:-1,Cinestar TV Premiere 1 (RS)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9629.m3u8
-#EXTINF:-1,Cinestar TV Premiere 2 (RS)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9628.m3u8
-#EXTINF:-1,FOX Crime
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9635.m3u8
-#EXTINF:-1,FOX Movies
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9634.m3u8
-#EXTINF:-1,Klasik TV
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9638.m3u8
-#EXTINF:-1,M1 Film
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9643.m3u8
-#EXTINF:-1,Pink Film
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9579.m3u8
-#EXTINF:-1,HRT 1
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9673.m3u8
-#EXTINF:-1,HRT 1 (B)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9669.m3u8
-#EXTINF:-1,HRT 2
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9672.m3u8
-#EXTINF:-1,HRT 2 (B)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9668.m3u8
-#EXTINF:-1,HRT 3
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9671.m3u8
-#EXTINF:-1,HRT 3 (B)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9667.m3u8
-#EXTINF:-1,Nova TV (HR)
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9664.m3u8
-#EXTINF:-1,Nova TV HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9665.m3u8
-#EXTINF:-1,RTL
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9662.m3u8
-#EXTINF:-1,RTL 2
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9661.m3u8
-#EXTINF:-1,RTL Crime
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9677.m3u8
-
-#EXTINF:-1,TV 1000
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9649.m3u8
-#EXTINF:-1,(SL) Cinemax HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9518.m3u8
-#EXTINF:-1,(SL) Cinestar Premiere 1 HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9517.m3u8
-#EXTINF:-1,(SL) Cinestar Premiere 2 HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9516.m3u8
-#EXTINF:-1,(SL) Discovery Channel
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9507.m3u8
-#EXTINF:-1,(SL) FOX CRIME HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9523.m3u8
-#EXTINF:-1,(SL) FOX HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9524.m3u8
-#EXTINF:-1,(SL) FOX MOVIES HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9522.m3u8
-#EXTINF:-1,(SL) HBO 2 HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9520.m3u8
-#EXTINF:-1,(SL) HBO 3 HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9519.m3u8
-#EXTINF:-1,(SL) HBO HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9521.m3u8
-#EXTINF:-1,(SL) KANAL A HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9529.m3u8
-#EXTINF:-1,(SL) POP KINO HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9513.m3u8
-#EXTINF:-1,(SL) POP OTO HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9514.m3u8
-#EXTINF:-1,(SL) POP TV HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9515.m3u8
-#EXTINF:-1,(SL) SLO 1 HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9534.m3u8
-#EXTINF:-1,(SL) SLO 2 HD
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9533.m3u8
-#EXTINF:-1,(SL) Sport Klub 1
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9501.m3u8
-#EXTINF:-1,(SL) Sport Klub 2
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9500.m3u8
-#EXTINF:-1,(SL) Sport Klub 3
-http://ip.xcn.link:80/live/rB2VHj1wGh/GseH4no45a/9499.m3u8
-
-#EXTINF:-1,+++ LISTA 2
-http://linux-app.tv:6204/live/ernsme/erns57me/21228.m3u8
-#EXTINF:-1,Sr- Sport Klub HD 1
-http://linux-app.tv:6204/live/ernsme/erns57me/21228.m3u8
-#EXTINF:-1,Sr- Sport Klub HD 2
-http://linux-app.tv:6204/live/ernsme/erns57me/21227.m3u8
-#EXTINF:-1,Sr- Sport Klub HD 3
-http://linux-app.tv:6204/live/ernsme/erns57me/21226.m3u8
-#EXTINF:-1,Sr- Sport Klub 4
-http://linux-app.tv:6204/live/ernsme/erns57me/21231.m3u8
-#EXTINF:-1,Sr- Sport Klub 5
-http://linux-app.tv:6204/live/ernsme/erns57me/21230.m3u8
-#EXTINF:-1,Sr- Sport Klub 6
-http://linux-app.tv:6204/live/ernsme/erns57me/21229.m3u8
-#EXTINF:-1,Sr- TV1000
-http://linux-app.tv:6204/live/ernsme/erns57me/21248.m3u8
-#EXTINF:-1,Yu- Arena Sport 1 HR HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21225.m3u8
-#EXTINF:-1,Yu- Arena Sport 2 HR HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21224.m3u8
-#EXTINF:-1,Yu- Arena Sport 3 HR HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21223.m3u8
-#EXTINF:-1,Yu- Arena Sport 4 HR HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21222.m3u8
-#EXTINF:-1,Yu- Arena Sport 5 HR HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21221.m3u8
-#EXTINF:-1,Yu- HBO Adria
-http://linux-app.tv:6204/live/ernsme/erns57me/21239.m3u8
-#EXTINF:-1,Yu- HBO Comedy
-http://linux-app.tv:6204/live/ernsme/erns57me/21238.m3u8
-#EXTINF:-1,Sr- HBO 1 HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21253.m3u8
-#EXTINF:-1,Sr- HBO 2 HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21252.m3u8
-#EXTINF:-1,Sr- HBO 3 HD
-http://linux-app.tv:6204/live/ernsme/erns57me/21251.m3u8
-#EXTINF:-1,Sr- Pink Film
-http://linux-app.tv:6204/live/ernsme/erns57me/14097.m3u8
-#EXTINF:-1,Sr- Cinestar Action
-http://linux-app.tv:6204/live/ernsme/erns57me/21257.m3u8
-#EXTINF:-1,Sr- Cinestar TV
-http://linux-app.tv:6204/live/ernsme/erns57me/21256.m3u8
-#EXTINF:-1,Yu- Cinemax 1
-http://linux-app.tv:6204/live/ernsme/erns57me/21246.m3u8
-#EXTINF:-1,Yu- Cinemax 2
-http://linux-app.tv:6204/live/ernsme/erns57me/21245.m3u8
-#EXTINF:-1,Yu- Cinestar Premiere 1
-http://linux-app.tv:6204/live/ernsme/erns57me/21244.m3u8
-#EXTINF:-1,Yu- Cinestar Premiere 2
-http://linux-app.tv:6204/live/ernsme/erns57me/21243.m3u8
-#EXTINF:-1,Yu- FOX MOVIES
-http://linux-app.tv:6204/live/ernsme/erns57me/21411.m3u8
-#EXTINF:-1,Hr- HRT 1
-http://linux-app.tv:6204/live/ernsme/erns57me/21430.m3u8
-#EXTINF:-1,Hr- HRT 2
-http://linux-app.tv:6204/live/ernsme/erns57me/21429.m3u8
-#EXTINF:-1,Hr- HRT 3
-http://linux-app.tv:6204/live/ernsme/erns57me/21428.m3u8
-#EXTINF:-1,Hr- RTL 2
-http://linux-app.tv:6204/live/ernsme/erns57me/21424.m3u8
-#EXTINF:-1,Hr- RTL Crime HR
-http://linux-app.tv:6204/live/ernsme/erns57me/21423.m3u8
-#EXTINF:-1,Hr- RTL
-http://linux-app.tv:6204/live/ernsme/erns57me/21425.m3u8
+#EXTINF:-1,**** SPORT
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/999999.m3u8
+#EXTINF:-1,AR VIP: Bein Sport 10 HD (Backup)
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5995.m3u8
+#EXTINF:-1,AR VIP: Bein Sport 11 HD (Backup)                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5996.m3u8
+#EXTINF:-1,AR VIP: Bein Sport 12 HD (Backup)                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5997.m3u8
+#EXTINF:-1,AR: beIN Sports 10 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/39.m3u8
+#EXTINF:-1,AR: beIN Sports 11 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/40.m3u8
+#EXTINF:-1,AR: beIN Sports 12 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/41.m3u8
+#EXTINF:-1,AR: beIN Sports 13 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/42.m3u8
+#EXTINF:-1,DE : Eurosport 1 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/521.m3u8
+#EXTINF:-1,DE: *Sky Sport 1 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8276.m3u8
+#EXTINF:-1,DE: *Sky Sport 2 HD                                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8275.m3u8
+#EXTINF:-1,DE: Bundesliga 1 FHD (BackUp)                          
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8126.m3u8
+#EXTINF:-1,DE: Bundesliga 1 UHD (BackUp)                          
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8125.m3u8
+#EXTINF:-1,DE: Sky Sport 1 FHD                                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8274.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD 1080P                               
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7524.m3u8
+#EXTINF:-1,DE: Sky Sport 2 FHD                                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8273.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD 1080P                               
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7523.m3u8
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (1080P)                  
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6794.m3u8
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD 1080P                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7534.m3u8
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD (1080P)                 
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6803.m3u8
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD 1080P                   
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7533.m3u8
+#EXTINF:-1,FR: BeIN SPORTS 1 HD (1080P)                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8310.m3u8
+#EXTINF:-1,FR: BeIN SPORTS 2 HD (1080P)                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8309.m3u8
+#EXTINF:-1,FR: BeIN SPORTS 3 HD (1080P)                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8308.m3u8
+#EXTINF:-1,NL: FOX Sports 1 FHD 1080                              
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5644.m3u8
+#EXTINF:-1,NL: FOX Sports 2 HD                                    
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5645.m3u8
+#EXTINF:-1,NL: FOX Sports 3 HD ( 1080P )                          
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7474.m3u8
+#EXTINF:-1,NL: Fox Sports 4 HD ( 1080P )                          
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7475.m3u8
+#EXTINF:-1,NL: Fox Sports 5 HD ( 1080P )                          
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7476.m3u8
+#EXTINF:-1,NL: Fox Sports 6
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/152.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select FHD 1080
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5452.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD                              
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/3892.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD                                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8.m3u8
+#EXTINF:-1,UK: BT Sport 1 backup                                  
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/8950.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/6.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5547.m3u8
+#EXTINF:-1,UK: BT Sport 3 SD                                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4954.m3u8
+#EXTINF:-1,UK: BT Sport ESPN                                      
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4.m3u8
+#EXTINF:-1,UK: EUROSPORT 1 HD                                     
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7689.m3u8
+#EXTINF:-1,UK: EUROSPORT 2 HD                                     
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/7688.m3u8
+#EXTINF:-1,UK: Eurosport 1                                        
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4472.m3u8
+#EXTINF:-1,UK: Eurosport 2                                        
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/4473.m3u8
+#EXTINF:-1,UK: SKY SPORTS ACTION HD                               
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/22.m3u8
+#EXTINF:-1,UK: SKY SPORTS ACTION                                  
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/2461.m3u8
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD                           
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/26.m3u8
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT                              
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/2463.m3u8
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD                       
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/18.m3u8
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE                          
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/2459.m3u8
+#EXTINF:-1,UK: Sky Sport 1 SD                                     
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1922.m3u8
+#EXTINF:-1,UK: Sky Sport Football HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/10164.m3u8
+#EXTINF:-1,UK: Sky Sports Mix
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/5496.m3u8
+#EXTINF:-1,US: Bein Sports USA HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/1104.m3u8
+#EXTINF:-1,US: Fox Sports 1 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/14.m3u8
+#EXTINF:-1,US: Fox Sports 2 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/13.m3u8
+#EXTINF:-1,US: Fox sport 1 backup
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/10182.m3u8
+#EXTINF:-1,US: TSN 1
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/92.m3u8
+#EXTINF:-1,US: TSN 3*
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/94.m3u8
+#EXTINF:-1,US: TSN 4 HD
+http://iptvfree1.com:6969/live/live:ced61b68af247a24/EttCGEGRfr345dSd/95
 
 
 
