@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5328.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5326.m3u8
+#EXTINF:-1,DE: SKY SPORT 3 HD
+http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5324.m3u8
 
 #EXTINF:-1,DE: Sky Sport 1 HD
 http://iptv.poweralb.ch:8037/live/964477998/357854467/397.m3u8
