@@ -1,15 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1,RTS HD
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rtshd
 #EXTINF:0,DAZN 1 Bar HD
 http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5457.m3u8
 #EXTINF:0,DAZN 2 Bar HD
 http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5458.m3u8
-#EXTINF:0,AR:BEINSPORTS-10 HD
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5338.m3u8
+#EXTINF:-1,Sky Sport 1 HD (Alemania)
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16765.m3u8
+#EXTINF:-1,Sky Sport 2 HD (Alemania)
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16764.m3u8
 #EXTINF:0,AR:BEINSPORTS-11 HD
 http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5339.m3u8
 #EXTINF:0,AR:BEINSPORTS-12 HD
 http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5340.m3u8
+
+#EXTINF:-1,NL: ZIGGO SPORT HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/507.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/518.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/517.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/11463.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/10375.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7332.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7331.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7330.m3u8
+#EXTINF:-1,UK: BT Sport Espn
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7328.m3u8
+#EXTINF:-1,UK: BT Sport Europe HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7329.m3u8
+#EXTINF:-1,UK: BT Sport Extra 2
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7326.m3u8
+#EXTINF:-1,UK: BT Sport Extra 3
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7325.m3u8
+#EXTINF:-1,UK: BT Sport Extra 4
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7324.m3u8
+
 #EXTINF:0,TR:BEINSPORTS 1
 http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5478.m3u8
 #EXTINF:0,TR:BEINSPORTS 2
