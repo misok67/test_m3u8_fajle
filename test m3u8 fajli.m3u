@@ -1,61 +1,227 @@
 #EXTM3U
+
+#EXTINF:0,DAZN 1 Bar HD
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5457.m3u8
+#EXTINF:0,DAZN 2 Bar HD
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5458.m3u8
+#EXTINF:0,AR:BEINSPORTS-10 HD
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5338.m3u8
+#EXTINF:0,AR:BEINSPORTS-11 HD
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5339.m3u8
+#EXTINF:0,AR:BEINSPORTS-12 HD
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5340.m3u8
+#EXTINF:0,TR:BEINSPORTS 1
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5478.m3u8
+#EXTINF:0,TR:BEINSPORTS 2
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5476.m3u8
+#EXTINF:0,TR:BEINSPORTS 3
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5477.m3u8
+#EXTINF:0,FR:BEINSPORTS 1
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5167.m3u8
+#EXTINF:0,FR:BEINSPORTS 2
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5168.m3u8
+#EXTINF:0,FR:BEINSPORTS 3
+http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5169.m3u8
+
+****
+
+#EXTINF:-1,Bein Sports English FULL HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11126.m3u8
+#EXTINF:-1,Bein Sports La Liga HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16760.m3u8
+#EXTINF:-1,Bein Sports Ñ [Español] FULL HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11127.m3u8
+#EXTINF:-1,Bein Sports
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16990.m3u8
+#EXTINF:-1,CL: Fox Sports 1 Full HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/20163.m3u8
+#EXTINF:-1,CL: Fox Sports 2 Full HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/20164.m3u8
+#EXTINF:-1,CL: Fox Sports 3 Full HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/20165.m3u8
+#EXTINF:-1,CL: Fox Sports 3 HD *
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/14870.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/17317.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 2 HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/17315.m3u8
+#EXTINF:-1,ESPN Deportes HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16976.m3u8
+#EXTINF:-1,Eleven Sports FULL HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11117.m3u8
+#EXTINF:-1,FOX Deportes HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11113.m3u8
+#EXTINF:-1,Italia | Sky Sports 1
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13058.m3u8
+#EXTINF:-1,Italia | Sky Sports 2
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13057.m3u8
+#EXTINF:-1,Italia | Sky Sports 3
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13055.m3u8
+#EXTINF:-1,Italia | Sky Sports 4
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13054.m3u8
+#EXTINF:-1,Movistar Deportes |PE|
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16952.m3u8
+#EXTINF:-1,Sky Sport 1 HD (Alemania)
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16765.m3u8
+#EXTINF:-1,Sky Sport 2 HD (Alemania)
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16764.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16762.m3u8
+#EXTINF:-1,UK | SKY Sports ACTION HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16733.m3u8
+#EXTINF:-1,UK | SKY Sports PREMIER LEAGUE
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16726.m3u8
+#EXTINF:-1,UK | Sky Sport Arena HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/18772.m3u8
+#EXTINF:-1,UK | Sky Sport Football HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16734.m3u8
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/19558.m3u8
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16729.m3u8
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/18483.m3u8
+#EXTINF:-1,UK | Sky Sports News HD
+http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16727.m3u8
+
+***
+#EXTINF:-1,UK: BT Sport 1 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7332.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7331.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7330.m3u8
+#EXTINF:-1,UK: BT Sport Espn
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7328.m3u8
+#EXTINF:-1,UK: BT Sport Europe HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7329.m3u8
+#EXTINF:-1,UK: BT Sport Extra 2
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7326.m3u8
+#EXTINF:-1,UK: BT Sport Extra 3
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7325.m3u8
+#EXTINF:-1,UK: BT Sport Extra 4
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7324.m3u8
+#EXTINF:-1,UK: BT Sport Extra 5
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7323.m3u8
+#EXTINF:-1,UK: BT Sport Extra 6
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7322.m3u8
+#EXTINF:-1,UK: BT Sport Extra HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7327.m3u8
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7321.m3u8
+
+#EXTINF:-1,PL: POLSAT SPORT HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3051.m3u8
+#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3052.m3u8
+#EXTINF:-1,PL: CANAL  SPORT  HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2992.m3u8
+#EXTINF:-1,PL: CANAL  SPORT 2 HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2993.m3u8
+#EXTINF:-1,PL: Eleven Sports HD
+http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3009.m3u8
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3730.m3u8
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3728.m3u8
+#EXTINF:-1,AR: BeinSport 12 HD
+http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3731.m3u8
+#EXTINF:-1,UK: British Eurosport 1
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7317.m3u8
+#EXTINF:-1,UK: British Eurosport 2
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7316.m3u8
+#EXTINF:-1,UK: Sky Sports 1
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7346.m3u8
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7345.m3u8
+#EXTINF:-1,UK: Sky Sports 2
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7344.m3u8
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7343.m3u8
+#EXTINF:-1,UK: Sky Sports 3
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7342.m3u8
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7341.m3u8
+#EXTINF:-1,UK: Sky Sports 4
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7340.m3u8
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7339.m3u8
+#EXTINF:-1,UK: Sky Sports 5
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7338.m3u8
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7337.m3u8
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7336.m3u8
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7335.m3u8
+#EXTINF:-1,UK: Sky Sports News
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7347.m3u8
+#EXTINF:-1,UK: Sky Sport Arena
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19074.m3u8
+#EXTINF:-1,UK: Sky Sports Action
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19790.m3u8
+#EXTINF:-1,UK: Sky Sports Cricket
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19791.m3u8
+#EXTINF:-1,UK: Sky Sports Football
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19792.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League
+http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19793.m3u8
+#EXTINF:-1,HU: DIGI Sport 1
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26109.m3u8
+#EXTINF:-1,HU: DIGI Sport 2
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26108.m3u8
+#EXTINF:-1,HU: DIGI Sport 3
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26107.m3u8
+#EXTINF:-1,HU: Eurosport 1
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26104.m3u8
+#EXTINF:-1,HU: Eurosport 2
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26103.m3u8
+#EXTINF:-1,HU: Extreme Sports
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26102.m3u8
+#EXTINF:-1,HU: Sport 1 HD
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26023.m3u8
+#EXTINF:-1,HU: Sport1
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26066.m3u8
+#EXTINF:-1,HU: Sport2
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26065.m3u8
+#EXTINF:-1,HU: Sport5
+http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26064.m3u8
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/524.m3u8
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/523.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/522.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/525.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/487.m3u8
+#EXTINF:-1,NL: FOX SPORT 6 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6790.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/507.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/518.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/517.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT GOLF HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/519.m3u8
+#EXTINF:-1,NL: Ziggo Sport Racing HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6788.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/11463.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/10375.m3u8
+#EXTINF:-1,NL: EUROSPORT 1 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/530.m3u8
+#EXTINF:-1,NL: EUROSPORT 2 HD
+http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6764.m3u8
+
+
+****
 #EXTINF:-1,DE: SKY SPORT 1 HD
 http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5328.m3u8
 #EXTINF:-1,DE: SKY SPORT 2 HD
 http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5326.m3u8
 #EXTINF:-1,DE: SKY SPORT 3 HD
 http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5324.m3u8
-
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/397.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/398.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
-http://iptv.poweralb.ch:8037/live/964477998/357854467/580.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/683.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/684.m3u8
-#EXTINF:-1,TR: beIN SPORTS 1 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/372.m3u8
-#EXTINF:-1,TR: beIN SPORTS 2 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/373.m3u8
-#EXTINF:-1,TR: beIN SPORTS 3 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/374.m3u8
-#EXTINF:-1,TR: beIN SPORTS 4 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/371.m3u8
-#EXTINF:-1,AR: beIN SPORTS 7 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/392.m3u8
-#EXTINF:-1,AR: beIN SPORTS 8 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/393.m3u8
-#EXTINF:-1,AR: beIN SPORTS 9 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/394.m3u8
-EXTINF:-1,ES: Movistar Deportes 1 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/556.m3u8
-#EXTINF:-1,ES: beIN SPORTS Ñ HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/551.m3u8
-#EXTINF:-1,FR: beIN SPORTS 1 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/386.m3u8
-#EXTINF:-1,FR: beIN SPORTS 2 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/387.m3u8
-#EXTINF:-1,FR: beIN SPORTS 3 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/388.m3u8
-#EXTINF:-1,NL: FOX SPORT 1 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/594.m3u8
-#EXTINF:-1,NL: FOX SPORT 2 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/595.m3u8
-#EXTINF:-1,NL: FOX SPORT 3 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/596.m3u8
-#EXTINF:-1,NL: FOX SPORT 4 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/597.m3u8
-#EXTINF:-1,NL: FOX SPORT 5 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/598.m3u8
-#EXTINF:-1,NL: FOX SPORT 6 HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/599.m3u8
-http://iptv.poweralb.ch:8037/live/964477998/357854467/638.m3u8
-#EXTINF:-1,UK: Eurosport 1
-http://iptv.poweralb.ch:8037/live/964477998/357854467/637.m3u8
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://iptv.poweralb.ch:8037/live/964477998/357854467/618.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
-http://iptv.poweralb.ch:8037/live/964477998/357854467/620.m3u8
