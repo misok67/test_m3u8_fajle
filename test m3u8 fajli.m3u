@@ -1,436 +1,301 @@
 #EXTM3U
 
-#EXTINF:-1,Arena Sport 3
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/536.m3u8
 #EXTINF:-1,Sport Klub 1 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/237.m3u8
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/48.m3u8
+#EXTINF:-1,Sport Klub 1 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2338.m3u8
 #EXTINF:-1,Sport Klub 2 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/238.m3u8
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/47.m3u8
+#EXTINF:-1,Sport Klub 2 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2339.m3u8
 #EXTINF:-1,Sport Klub 3 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/1982.m3u8
-#EXTINF:-1,Sport Klub 1
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/1983.m3u8
-#EXTINF:-1,Sport Klub 2
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/1984.m3u8
-#EXTINF:-1,Sport Klub 3
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/239.m3u8
-#EXTINF:-1,Sport Klub 4
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/14687.m3u8
-#EXTINF:-1,Sport Klub 5
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/14688.m3u8
-#EXTINF:-1,Sport Klub 6
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/38251.m3u8
-#EXTINF:-1,(HR) Arena Sport 1 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/404.m3u8
-#EXTINF:-1,(HR) Arena Sport 2 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/218.m3u8
-#EXTINF:-1,(HR) Arena Sport 3 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/405.m3u8
-#EXTINF:-1,(HR) Arena Sport 4 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/406.m3u8
-#EXTINF:-1,(HR) Arena Sport 5 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/787.m3u8
-#EXTINF:-1,(HR) Arena Sport 6 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/14685.m3u8
-#EXTINF:-1,Cinemax 1
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/778.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/779.m3u8
-#EXTINF:-1,Cinestar TV Premiere 1 HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/777.m3u8
-#EXTINF:-1,Cinestar TV Premiere 2
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/781.m3u8
-#EXTINF:-1,Cinestar TV
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/632.m3u8
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/46.m3u8
+#EXTINF:-1,Sport Klub 3 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2340.m3u8
+#EXTINF:-1,Sport Klub 4 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2341.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/306.m3u8
+#EXTINF:-1,Arena Sport 1 SR HD
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/124.m3u8
+#EXTINF:-1,Arena Sport 1 SR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/55.m3u8
+#EXTINF:-1,Arena Sport 2 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/50.m3u8
+#EXTINF:-1,Arena Sport 2 SR HD
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/128.m3u8
+#EXTINF:-1,Arena Sport 2 SR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/54.m3u8
+#EXTINF:-1,Arena Sport 3 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/307.m3u8
+#EXTINF:-1,Arena Sport 3 SR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/53.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/49.m3u8
+#EXTINF:-1,Arena Sport 4 SR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/52.m3u8
+#EXTINF:-1,Arena Sport 5 SR
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/51.m3u8
+#EXTINF:-1,Cinemax 2
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/72.m3u8
 #EXTINF:-1,Cinestar Action
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/21735.m3u8
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/141.m3u8
 #EXTINF:-1,Cinestar Fantasy
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/39751.m3u8
-#EXTINF:-1,Kino TV
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/39748.m3u8
-#EXTINF:-1,Pickbox
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/39747.m3u8
-#EXTINF:-1,TV 1000
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/21737.m3u8
-#EXTINF:-1,Fox Crime
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/776.m3u8
-#EXTINF:-1,Fox Movies
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/774.m3u8
-#EXTINF:-1,FilmBox Plus
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/14682.m3u8
-#EXTINF:-1,FilmBox Extra test
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/14683.m3u8
-#EXTINF:-1,Filmklub
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/35264.m3u8
-#EXTINF:-1,HBO HD
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18123.m3u8
-
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/148.m3u8
+#EXTINF:-1,Cinestar TV
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/113.m3u8
 #EXTINF:-1,HBO 2
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/21732.m3u8
-#EXTINF:-1,HBO 3
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/21733.m3u8
-#EXTINF:-1,AMC
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/28687.m3u8
-#EXTINF:-1,AXN
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/7682.m3u8
-#EXTINF:-1,DIVA
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/28688.m3u8
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2694.m3u8
+#EXTINF:-1,Kino TV
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/138.m3u8
 #EXTINF:-1,Klasik TV
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/748.m3u8
-#EXTINF:-1,M1 Film
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/14678.m3u8
-
-#EXTINF:-1,(HR) Doma TV
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/749.m3u8
-#EXTINF:-1,(HR) HRT 1
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/733.m3u8
-#EXTINF:-1,(HR) HRT 2
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/732.m3u8
-#EXTINF:-1,(HR) HRT 3
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/731.m3u8
-#EXTINF:-1,(HR) RTL 2
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/745.m3u8
-#EXTINF:-1,(HR) RTL Crime
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/21724.m3u8
-#EXTINF:-1,(HR) RTL
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/617.m3u8
-#EXTINF:-1,(RS) Arena Sport 1
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/534.m3u8
-#EXTINF:-1,(RS) Arena Sport 2
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/535.m3u8
-#EXTINF:-1,(RS) Arena Sport 3
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/536.m3u8
-#EXTINF:-1,(RS) Arena Sport 4
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/537.m3u8
-#EXTINF:-1,(RS) Arena Sport 5
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/401.m3u8
-#EXTINF:-1,(RS) Pink Film
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/643.m3u8
-#EXTINF:-1,(SL) HBO 2
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/30905.m3u8
-#EXTINF:-1,(SL) HBO 3
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/30906.m3u8
-#EXTINF:-1,(SL) HBO
-http://5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/30904.m3u8
-
-#EXTINF:-1,(AR) beIN Sports 10 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/13250.m3u8
-#EXTINF:-1,(AR) beIN Sports 10
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/1971.m3u8
-#EXTINF:-1,(AR) beIN Sports 11 (ENG)
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/13251.m3u8
-#EXTINF:-1,(AR) beIN Sports 11
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/1972.m3u8
-#EXTINF:-1,(ES) Bein Sports HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/16538.m3u8
-#EXTINF:-1,(ES) Bein Sports La Liga HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/16539.m3u8
-#EXTINF:-1,(ES) Movistar Deportes 1 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/560.m3u8
-#EXTINF:-1,(ES) Movistar Deportes 2 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/16512.m3u8
-#EXTINF:-1,(ES) Teledeporte
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/13155.m3u8
-#EXTINF:-1,(IT) Sky Sport 1 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/4395.m3u8
-#EXTINF:-1,(IT) Sky Sport 24 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/296.m3u8
-#EXTINF:-1,(IT) Sky Sport 2
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/13332.m3u8
-#EXTINF:-1,(IT) Sky Sport 3
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/13334.m3u8
-#EXTINF:-1,(LT) Fox Sport 2
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/24971.m3u8
-#EXTINF:-1,(LT) Fox Sports
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/24970.m3u8
-#EXTINF:-1,(UK) BT Sport / ESPN HD
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/316.m3u8
-#EXTINF:-1,(UK) BT Sport 1 HD
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/11484.m3u8
-#EXTINF:-1,(UK) BT Sport 1
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/206.m3u8
-#EXTINF:-1,(UK) BT Sport 2 HD
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/11485.m3u8
-#EXTINF:-1,(UK) BT Sport 2
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/207.m3u8
-#EXTINF:-1,(UK) BT Sport 3
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/11486.m3u8
-#EXTINF:-1,(UK) Eurosport 1
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/985.m3u8
-#EXTINF:-1,(UK) Sky Sports Action HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/11400.m3u8
-#EXTINF:-1,(UK) Sky Sports Action
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/211.m3u8
-#EXTINF:-1,(UK) Sky Sports Arena HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/28035.m3u8
-#EXTINF:-1,(UK) Sky Sports F1 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/214.m3u8
-#EXTINF:-1,(UK) Sky Sports Golf HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/11401.m3u8
-#EXTINF:-1,(UK) Sky Sports Main Event
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/7641.m3u8
-#EXTINF:-1,(UK) Sky Sports Mix HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/22456.m3u8
-#EXTINF:-1,(UK) Sky Sports Premier League
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/213.m3u8
-#EXTINF:-1,(US) Bein Sports USA HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18240.m3u8
-#EXTINF:-1,(US) Fox Sport 1 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18206.m3u8
-#EXTINF:-1,(US) Fox Sport 2 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18205.m3u8
-#EXTINF:-1,(US) SportsNet One HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18154.m3u8
-#EXTINF:-1,(US) TSN 1 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18139.m3u8
-#EXTINF:-1,(US) TSN 2 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18138.m3u8
-#EXTINF:-1,(US) TSN 3 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18137.m3u8
-#EXTINF:-1,(US) TSN 4 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18136.m3u8
-#EXTINF:-1,(US) TSN 5 HD+
-http:///5.254.66.69:1339/live/pIAgvokRqm/zXcbXtQaXj/18135.m3u8
-.m3u8
-#EXTINF:-1,Sky Sport 1 HD (Alemania)
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16765.m3u8
-#EXTINF:-1,Sky Sport 2 HD (Alemania)
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16764.m3u8
-#EXTINF:0,AR:BEINSPORTS-11 HD
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5339.m3u8
-#EXTINF:0,AR:BEINSPORTS-12 HD
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5340.m3u8
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2692.m3u8
+#EXTINF:-1,Pink Film
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/165.m3u8
+#EXTINF:-1,Doma TV Hrvatska
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/93.m3u8
+#EXTINF:-1,Fox Movies HD
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/111.m3u8
+#EXTINF:-1,RTL 2 Hrvatska
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/131.m3u8
+#EXTINF:-1,RTL Crime
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/57.m3u8
+#EXTINF:-1,RTL Televizija
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/116.m3u8
 
 
-#EXTINF:-1,UK: BT Sport 1 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7332.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7331.m3u8
-#EXTINF:-1,UK: BT Sport 3 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7330.m3u8
-#EXTINF:-1,UK: BT Sport Espn
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7328.m3u8
-#EXTINF:-1,UK: BT Sport Europe HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7329.m3u8
-#EXTINF:-1,UK: BT Sport Extra 2
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7326.m3u8
-#EXTINF:-1,UK: BT Sport Extra 3
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7325.m3u8
-#EXTINF:-1,UK: BT Sport Extra 4
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7324.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 1  HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92606.m3u8
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/72659.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 1 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92612.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 10 (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92597.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 2 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92611.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 2 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92605.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 3 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92610.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 3 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92604.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 4 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92609.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 4 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92603.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 5 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92608.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 5 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92602.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 6 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92607.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 6 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92601.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 7 (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92600.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 8 (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92599.m3u8
+#EXTINF:-1,|SPORT| SPORT KLUB 9 (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92598.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 1 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92623.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 1 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92617.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 2 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92622.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 2 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92616.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 3 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92621.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 3 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92615.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 4 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92620.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 4 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92614.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 5 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92619.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 5 HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92613.m3u8
+#EXTINF:-1,|SPORT| ARENA SPORT 6 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92618.m3u8
+#EXTINF:-1,|EXYU| HBO 1 (backup)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/83221.m3u8
+#EXTINF:-1,|EXYU| HBO 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67898.m3u8
+#EXTINF:-1,|EXYU| HBO 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67897.m3u8
+#EXTINF:-1,|EXYU| HBO 3 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67896.m3u8
+#EXTINF:-1,|EXYU| CINEMAX 1
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67909.m3u8
+#EXTINF:-1,|EXYU| CINEMAX 2
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67908.m3u8
+#EXTINF:-1,|EXYU| CINESTAR ACTION TV
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67907.m3u8
+#EXTINF:-1,|EXYU| CINESTAR ACTION
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67864.m3u8
+#EXTINF:-1,|EXYU| CINESTAR FANTASY
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67906.m3u8
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 1
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67905.m3u8
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 2
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67904.m3u8
+#EXTINF:-1,|EXYU| CINESTAR TV
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67903.m3u8
+#EXTINF:-1,|EXYU| FOX MOVIES HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67899.m3u8
+#EXTINF:-1,|EXYU| KLASIK TV
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67878.m3u8
+#EXTINF:-1,|EXYU| RTL CRIME
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67861.m3u8
+#EXTINF:-1,|CRO| DOMA TV HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67958.m3u8
+#EXTINF:-1,|CRO| RTL 2
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67956.m3u8
+#EXTINF:-1,|CRO| RTL CRIME
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67955.m3u8
+#EXTINF:-1,|SLOVENIA| CINEMAX HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/94881.m3u8
+#EXTINF:-1,|SLOVENIA| CINEMAX2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/94880.m3u8
+#EXTINF:-1,|SLOVENIA| FOX MOVIES HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/94876.m3u8
+#EXTINF:-1,|SLOVENIA| HBO HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/94913.m3u8
+#EXTINF:-1,|SLOVENIA| HBO2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/94910.m3u8
 
-#EXTINF:0,TR:BEINSPORTS 1
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5478.m3u8
-#EXTINF:0,TR:BEINSPORTS 2
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5476.m3u8
-#EXTINF:0,TR:BEINSPORTS 3
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5477.m3u8
-#EXTINF:0,FR:BEINSPORTS 1
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5167.m3u8
-#EXTINF:0,FR:BEINSPORTS 2
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5168.m3u8
-#EXTINF:0,FR:BEINSPORTS 3
-http://iptv-janberyan.com:25461/live/7774511120544111/7774511120544111/5169.m3u8
 
-****
-
-#EXTINF:-1,Bein Sports English FULL HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11126.m3u8
-#EXTINF:-1,Bein Sports La Liga HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16760.m3u8
-#EXTINF:-1,Bein Sports Ñ [Español] FULL HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11127.m3u8
-#EXTINF:-1,Bein Sports
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16990.m3u8
-#EXTINF:-1,CL: Fox Sports 1 Full HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/20163.m3u8
-#EXTINF:-1,CL: Fox Sports 2 Full HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/20164.m3u8
-#EXTINF:-1,CL: Fox Sports 3 Full HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/20165.m3u8
-#EXTINF:-1,CL: Fox Sports 3 HD *
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/14870.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 1 HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/17317.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 2 HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/17315.m3u8
-#EXTINF:-1,ESPN Deportes HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16976.m3u8
-#EXTINF:-1,Eleven Sports FULL HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11117.m3u8
-#EXTINF:-1,FOX Deportes HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/11113.m3u8
-#EXTINF:-1,Italia | Sky Sports 1
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13058.m3u8
-#EXTINF:-1,Italia | Sky Sports 2
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13057.m3u8
-#EXTINF:-1,Italia | Sky Sports 3
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13055.m3u8
-#EXTINF:-1,Italia | Sky Sports 4
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/13054.m3u8
-#EXTINF:-1,Movistar Deportes |PE|
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16952.m3u8
-#EXTINF:-1,Sky Sport 1 HD (Alemania)
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16765.m3u8
-#EXTINF:-1,Sky Sport 2 HD (Alemania)
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16764.m3u8
+#EXTINF:-1,Dazn 1 BAR HD
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/44.m3u8
+#EXTINF:-1,Dazn 2 BAR HD
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2331.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/40.m3u8
 #EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16762.m3u8
-#EXTINF:-1,UK | SKY Sports ACTION HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16733.m3u8
-#EXTINF:-1,UK | SKY Sports PREMIER LEAGUE
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16726.m3u8
-#EXTINF:-1,UK | Sky Sport Arena HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/18772.m3u8
-#EXTINF:-1,UK | Sky Sport Football HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16734.m3u8
-#EXTINF:-1,UK | Sky Sports F1 HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/19558.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16729.m3u8
-#EXTINF:-1,UK | Sky Sports Mix HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/18483.m3u8
-#EXTINF:-1,UK | Sky Sports News HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/16727.m3u8
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/39.m3u8
+#EXTINF:-1,Eurosport 1 Deutschland
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/43.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://185.132.178.76:25461/live/old.portal/U9McAxclx1/145.m3u8
 
-***
-#EXTINF:-1,UK: BT Sport 1 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7332.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7331.m3u8
-#EXTINF:-1,UK: BT Sport 3 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7330.m3u8
-#EXTINF:-1,UK: BT Sport Espn
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7328.m3u8
-#EXTINF:-1,UK: BT Sport Europe HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7329.m3u8
-#EXTINF:-1,UK: BT Sport Extra 2
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7326.m3u8
-#EXTINF:-1,UK: BT Sport Extra 3
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7325.m3u8
-#EXTINF:-1,UK: BT Sport Extra 4
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7324.m3u8
-#EXTINF:-1,UK: BT Sport Extra 5
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7323.m3u8
-#EXTINF:-1,UK: BT Sport Extra 6
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7322.m3u8
-#EXTINF:-1,UK: BT Sport Extra HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7327.m3u8
-#EXTINF:-1,UK: BT Sport Mosaic 2
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7321.m3u8
-
-#EXTINF:-1,PL: POLSAT SPORT HD
-http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3051.m3u8
-#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
-http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3052.m3u8
-#EXTINF:-1,PL: CANAL  SPORT  HD
-http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2992.m3u8
-#EXTINF:-1,PL: CANAL  SPORT 2 HD
-http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/2993.m3u8
-#EXTINF:-1,PL: Eleven Sports HD
-http://forever.moppie.info:7444/live/ineASCDSSA----av_ga/OknrLQU4wI/3009.m3u8
-#EXTINF:-1,AR: Bein Sports 10 HD
-http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3730.m3u8
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3728.m3u8
-#EXTINF:-1,AR: BeinSport 12 HD
-http://forever.moppie.info:7444/live/QWSO9JNHSOVALSSDas/30v3rtolOJ/3731.m3u8
-#EXTINF:-1,UK: British Eurosport 1
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7317.m3u8
-#EXTINF:-1,UK: British Eurosport 2
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7316.m3u8
-#EXTINF:-1,UK: Sky Sports 1
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7346.m3u8
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7345.m3u8
-#EXTINF:-1,UK: Sky Sports 2
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7344.m3u8
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7343.m3u8
-#EXTINF:-1,UK: Sky Sports 3
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7342.m3u8
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7341.m3u8
-#EXTINF:-1,UK: Sky Sports 4
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7340.m3u8
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7339.m3u8
-#EXTINF:-1,UK: Sky Sports 5
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7338.m3u8
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7337.m3u8
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7336.m3u8
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7335.m3u8
-#EXTINF:-1,UK: Sky Sports News
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/7347.m3u8
-#EXTINF:-1,UK: Sky Sport Arena
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19074.m3u8
-#EXTINF:-1,UK: Sky Sports Action
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19790.m3u8
-#EXTINF:-1,UK: Sky Sports Cricket
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19791.m3u8
-#EXTINF:-1,UK: Sky Sports Football
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19792.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League
-http://forever.moppie.info:7444/live/lanet--0090kaRTSS/p9DDxUoqZW/19793.m3u8
-#EXTINF:-1,HU: DIGI Sport 1
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26109.m3u8
-#EXTINF:-1,HU: DIGI Sport 2
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26108.m3u8
-#EXTINF:-1,HU: DIGI Sport 3
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26107.m3u8
-#EXTINF:-1,HU: Eurosport 1
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26104.m3u8
-#EXTINF:-1,HU: Eurosport 2
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26103.m3u8
-#EXTINF:-1,HU: Extreme Sports
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26102.m3u8
-#EXTINF:-1,HU: Sport 1 HD
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26023.m3u8
-#EXTINF:-1,HU: Sport1
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26066.m3u8
-#EXTINF:-1,HU: Sport2
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26065.m3u8
-#EXTINF:-1,HU: Sport5
-http://forever.moppie.info:7444/live/ahunsharrysyyyss_uqq/nOJUtdx5be/26064.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/524.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/523.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/522.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/525.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/487.m3u8
-#EXTINF:-1,NL: FOX SPORT 6 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6790.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/507.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/518.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/517.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT GOLF HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/519.m3u8
-#EXTINF:-1,NL: Ziggo Sport Racing HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6788.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/11463.m3u8
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/10375.m3u8
-#EXTINF:-1,NL: EUROSPORT 1 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/530.m3u8
-#EXTINF:-1,NL: EUROSPORT 2 HD
-http://forever.moppie.info:7444/live/keyfinusxzas1QW--AV/grPiRqajx7/6764.m3u8
-
-
-****
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5328.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5326.m3u8
-#EXTINF:-1,DE: SKY SPORT 3 HD
-http://forever.moppie.info:7444/live/5taSADXCAASqwepla/NNiozsZJ62/5324.m3u8
+#EXTINF:-1,|CA| TSN 1
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/51701.m3u8
+#EXTINF:-1,|CA| TSN 2
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/51700.m3u8
+#EXTINF:-1,|CA| TSN 3
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/51699.m3u8
+#EXTINF:-1,|CA| TSN 4
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/51698.m3u8
+#EXTINF:-1,|CA| TSN 5
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/51697.m3u8
+#EXTINF:-1,|DE| DAZN 1 BAR HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/47004.m3u8
+#EXTINF:-1,|DE| DAZN 2 BAR HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/47005.m3u8
+#EXTINF:-1,|DE| EUROSPORT 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/3713.m3u8
+#EXTINF:-1,|DE| EUROSPORT 2 HD XTRA
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/48423.m3u8
+#EXTINF:-1,|DE| EUROSPORT 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/3714.m3u8
+#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/2563.m3u8
+#EXTINF:-1,|DE| SKY SPORT 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/582.m3u8
+#EXTINF:-1,|DE| SKY SPORT 1
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/8511.m3u8
+#EXTINF:-1,|DE| SKY SPORT 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/8509.m3u8
+#EXTINF:-1,|DE| SKY SPORT 2
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/3052.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/1419.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/1420.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/1421.m3u8
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/95149.m3u8
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/95148.m3u8
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 3 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/95147.m3u8
+#EXTINF:-1,|IT| SKY SPORT 24 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/96250.m3u8
+#EXTINF:-1,|IT| SKY SPORT 24 [SD]
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/96372.m3u8
+#EXTINF:-1,|IT| SKY SPORT 251 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/96227.m3u8
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/96248.m3u8
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL [SD]
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/96370.m3u8
+#EXTINF:-1,|IT| SKY SPORTS F1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/96242.m3u8
+#EXTINF:-1,|SP| EUROSPORT 1
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/36499.m3u8
+#EXTINF:-1,|SP| EUROSPORT 2
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/36471.m3u8
+#EXTINF:-1,|SP| EUROSPORT1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/36529.m3u8
+#EXTINF:-1,|SP| M. DEPORTES1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/36528.m3u8
+#EXTINF:-1,|SP| M.DEPORTES1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/36509.m3u8
+#EXTINF:-1,|SP| TELEDEPORTE
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/36486.m3u8
+#EXTINF:-1,|UK| BEIN SPORTS 11 | UHD+ EN
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/98143.m3u8
+#EXTINF:-1,|UK| BEIN SPORTS 12 | UHD+ EN
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/98144.m3u8
+#EXTINF:-1,|UK| BEIN SPORTS 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/73126.m3u8
+#EXTINF:-1,|UK| BT SPORTS 1 FHD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18033.m3u8
+#EXTINF:-1,|UK| BT SPORTS 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/35991.m3u8
+#EXTINF:-1,|UK| BT SPORTS 1
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46422.m3u8
+#EXTINF:-1,|UK| BT SPORTS 2 FHD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18032.m3u8
+#EXTINF:-1,|UK| BT SPORTS 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/35992.m3u8
+#EXTINF:-1,|UK| BT SPORTS 2
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46421.m3u8
+#EXTINF:-1,|UK| BT SPORTS 3 FHD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18031.m3u8
+#EXTINF:-1,|UK| BT SPORTS 3 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/35993.m3u8
+#EXTINF:-1,|UK| BT SPORTS 3
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46420.m3u8
+#EXTINF:-1,|UK| BT SPORTS ESPN HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18034.m3u8
+#EXTINF:-1,|UK| EUROSPORTS 1 FHD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18029.m3u8
+#EXTINF:-1,|UK| EUROSPORTS 1
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46412.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS ACTION
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18045.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS ARENA
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18044.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS MAIN EVENT
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18039.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS PREMIER LEAGUE
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/18038.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS MIX
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/72665.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS ACTION
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46408.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS ARENA
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46407.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS MAIN EVENT
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46402.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS PREMIER LEAGUE
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46401.m3u8
+#EXTINF:-1,|USA| FOX SPORTS 1 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/65209.m3u8
+#EXTINF:-1,|USA| FOX SPORTS 2 HD
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/65208.m3u8
+.m3u8
