@@ -1,153 +1,87 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/48.m3u8
-#EXTINF:-1,Sport Klub 1 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2338.m3u8
-#EXTINF:-1,Sport Klub 2 HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/47.m3u8
-#EXTINF:-1,Sport Klub 2 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2339.m3u8
-#EXTINF:-1,Sport Klub 3 HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/46.m3u8
-#EXTINF:-1,Sport Klub 3 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2340.m3u8
-#EXTINF:-1,Sport Klub 4 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2341.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/306.m3u8
-#EXTINF:-1,Arena Sport 1 SR HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/124.m3u8
-#EXTINF:-1,Arena Sport 1 SR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/55.m3u8
-#EXTINF:-1,Arena Sport 2 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/50.m3u8
-#EXTINF:-1,Arena Sport 2 SR HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/128.m3u8
-#EXTINF:-1,Arena Sport 2 SR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/54.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/307.m3u8
-#EXTINF:-1,Arena Sport 3 SR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/53.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/49.m3u8
-#EXTINF:-1,Arena Sport 4 SR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/52.m3u8
-#EXTINF:-1,Arena Sport 5 SR
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/51.m3u8
-#EXTINF:-1,Cinemax 2
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/72.m3u8
-#EXTINF:-1,Cinestar Action
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/141.m3u8
-#EXTINF:-1,Cinestar Fantasy
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/148.m3u8
-#EXTINF:-1,Cinestar TV
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/113.m3u8
-#EXTINF:-1,HBO 2
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2694.m3u8
-#EXTINF:-1,Kino TV
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/138.m3u8
-#EXTINF:-1,Klasik TV
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2692.m3u8
-#EXTINF:-1,Pink Film
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/165.m3u8
-#EXTINF:-1,Doma TV Hrvatska
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/93.m3u8
-#EXTINF:-1,Fox Movies HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/111.m3u8
-#EXTINF:-1,RTL 2 Hrvatska
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/131.m3u8
-#EXTINF:-1,RTL Crime
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/57.m3u8
-#EXTINF:-1,RTL Televizija
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/116.m3u8
 
-
-#EXTINF:-1,|SPORT| SPORT KLUB 1  HD (SR)
-http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92606.m3u8
-http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/72659.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 1 HD (HR)
-http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92612.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 10 (SR)
-http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92597.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 2 HD (HR)
+#EXTINF:-1,SPORT KLUB 2 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92611.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 2 HD (SR)
+#EXTINF:-1,SPORT KLUB 1  HD (SR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92606.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD (HR)
+http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92612.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92605.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 3 HD (HR)
+#EXTINF:-1,SPORT KLUB 3 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92610.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 3 HD (SR)
+#EXTINF:-1,SPORT KLUB 3 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92604.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 4 HD (HR)
+#EXTINF:-1,SPORT KLUB 4 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92609.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 4 HD (SR)
+#EXTINF:-1,SPORT KLUB 4 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92603.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 5 HD (HR)
+#EXTINF:-1,SPORT KLUB 5 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92608.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 5 HD (SR)
+#EXTINF:-1,SPORT KLUB 5 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92602.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 6 HD (HR)
+#EXTINF:-1,SPORT KLUB 6 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92607.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 6 HD (SR)
+#EXTINF:-1,SPORT KLUB 6 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92601.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 7 (SR)
+#EXTINF:-1,SPORT KLUB 7 (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92600.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 8 (SR)
+#EXTINF:-1,SPORT KLUB 8 (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92599.m3u8
-#EXTINF:-1,|SPORT| SPORT KLUB 9 (SR)
+#EXTINF:-1,SPORT KLUB 9 (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92598.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 1 HD (HR)
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92623.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 1 HD (SR)
+#EXTINF:-1,ARENA SPORT 1 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92617.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 2 HD (HR)
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92622.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 2 HD (SR)
+#EXTINF:-1,ARENA SPORT 2 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92616.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 3 HD (HR)
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92621.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 3 HD (SR)
+#EXTINF:-1,ARENA SPORT 3 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92615.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 4 HD (HR)
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92620.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 4 HD (SR)
+#EXTINF:-1,ARENA SPORT 4 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92614.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 5 HD (HR)
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92619.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 5 HD (SR)
+#EXTINF:-1,ARENA SPORT 5 HD (SR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92613.m3u8
-#EXTINF:-1,|SPORT| ARENA SPORT 6 HD (HR)
+#EXTINF:-1,ARENA SPORT 6 HD (HR)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/92618.m3u8
-#EXTINF:-1,|EXYU| HBO 1 (backup)
+#EXTINF:-1,HBO 1 (backup)
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/83221.m3u8
-#EXTINF:-1,|EXYU| HBO 1 HD
+#EXTINF:-1,HBO 1 HD
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67898.m3u8
-#EXTINF:-1,|EXYU| HBO 2 HD
+#EXTINF:-1,HBO 2 HD
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67897.m3u8
-#EXTINF:-1,|EXYU| HBO 3 HD
+#EXTINF:-1,HBO 3 HD
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67896.m3u8
-#EXTINF:-1,|EXYU| CINEMAX 1
+#EXTINF:-1,CINEMAX 1
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67909.m3u8
-#EXTINF:-1,|EXYU| CINEMAX 2
+#EXTINF:-1,CINEMAX 2
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67908.m3u8
-#EXTINF:-1,|EXYU| CINESTAR ACTION TV
+#EXTINF:-1,CINESTAR ACTION TV
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67907.m3u8
-#EXTINF:-1,|EXYU| CINESTAR ACTION
+#EXTINF:-1,CINESTAR ACTION
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67864.m3u8
-#EXTINF:-1,|EXYU| CINESTAR FANTASY
+#EXTINF:-1,CINESTAR FANTASY
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67906.m3u8
-#EXTINF:-1,|EXYU| CINESTAR PREMIERE 1
+#EXTINF:-1,CINESTAR PREMIERE 1
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67905.m3u8
-#EXTINF:-1,|EXYU| CINESTAR PREMIERE 2
+#EXTINF:-1,CINESTAR PREMIERE 2
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67904.m3u8
-#EXTINF:-1,|EXYU| CINESTAR TV
+#EXTINF:-1,CINESTAR TV
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67903.m3u8
-#EXTINF:-1,|EXYU| FOX MOVIES HD
+#EXTINF:-1,FOX MOVIES HD
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67899.m3u8
-#EXTINF:-1,|EXYU| KLASIK TV
+#EXTINF:-1,KLASIK TV
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67878.m3u8
-#EXTINF:-1,|EXYU| RTL CRIME
+#EXTINF:-1,RTL CRIME
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67861.m3u8
 #EXTINF:-1,|CRO| DOMA TV HD
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/67958.m3u8
@@ -166,19 +100,6 @@ http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/94913.m3u8
 #EXTINF:-1,|SLOVENIA| HBO2 HD
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/94910.m3u8
 
-
-#EXTINF:-1,Dazn 1 BAR HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/44.m3u8
-#EXTINF:-1,Dazn 2 BAR HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/2331.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/40.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/39.m3u8
-#EXTINF:-1,Eurosport 1 Deutschland
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/43.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://185.132.178.76:25461/live/old.portal/U9McAxclx1/145.m3u8
 
 #EXTINF:-1,|CA| TSN 1
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/51701.m3u8
@@ -298,4 +219,132 @@ http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/46401.m3u8
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/65209.m3u8
 #EXTINF:-1,|USA| FOX SPORTS 2 HD
 http://line.myott.net:80/live/w3YfSoNx6B/U9nZuCqXf6/65208.m3u8
+
+#EXTINF:-1,/////****  LISTA 2 /////
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/99999.m3u8
+
+#EXTINF:-1,NL: FOX SPORTS 1 4K
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/5420.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 4K
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/5419.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 4K
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/5446.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 4K
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/5418.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 4K
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/5417.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT 4K
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/5392.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL 4K
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/5391.m3u8
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4907.m3u8
+#EXTINF:-1,UK: BT SPORT 2 FHD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4903.m3u8
+#EXTINF:-1,UK: BT SPORT 2 HD L
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4905.m3u8
+#EXTINF:-1,UK: BT SPORT ESPN
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4899.m3u8
+#EXTINF:-1,UK: BT SPORTS 1 FHD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4906.m3u8
+#EXTINF:-1,UK: BT SPORTS 3 HD V
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4900.m3u8
+#EXTINF:-1,UK: Bt Sport 3 HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4902.m3u8
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4889.m3u8
+#EXTINF:-1,UK: EUROSPORTS 1 HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4892.m3u8
+#EXTINF:-1,UK: SKY SPORT  MIX HD  L
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4913.m3u8
+#EXTINF:-1,UK: SKY SPORT F1 HD L
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4909.m3u8
+#EXTINF:-1,UK: SKY SPORT FOOTBALL V
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4924.m3u8
+#EXTINF:-1,UK: SKY SPORT GOLF FHD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4919.m3u8
+#EXTINF:-1,UK: SKY SPORT MAIN EVENTS HD L
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4929.m3u8
+#EXTINF:-1,UK: SKY SPORT NEWS HD V
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4933.m3u8
+#EXTINF:-1,UK: SKY SPORT NEWS HQ HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4932.m3u8
+#EXTINF:-1,UK: SKY SPORTS  ACTION
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4916.m3u8
+#EXTINF:-1,UK: SKY SPORTS F1 HD V
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4910.m3u8
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4923.m3u8
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD V
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4930.m3u8
+#EXTINF:-1,UK: SKY SPORTS MIX HD V
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4914.m3u8
+#EXTINF:-1,UK: SKY SPORTS PREMIER  LEAGUE  HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4922.m3u8
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4920.m3u8
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE SD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4921.m3u8
+#EXTINF:-1,UK: SKY SPORTs NEWS HQ HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4931.m3u8
+#EXTINF:-1,UK: SKy SPORTS ARENA HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4911.m3u8
+#EXTINF:-1,UK: SKy SPORTS MAIN EVENT HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4928.m3u8
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/1195.m3u8
+#EXTINF:-1,ES: M. Deportes 1 FHD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6800.m3u8
+#EXTINF:-1,ES: M. Deportes 2
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6799.m3u8
+#EXTINF:-1,ES: M. Deportes 3
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6798.m3u8
+#EXTINF:-1,ES: M. Deportes 4
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6797.m3u8
+#EXTINF:-1,ES: M. Deportes 5
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6796.m3u8
+#EXTINF:-1,ES: M. Deportes 6
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6795.m3u8
+#EXTINF:-1,ES: M. Deportes 7
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6794.m3u8
+#EXTINF:-1,ES: M. Deportes FHD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6804.m3u8
+#EXTINF:-1,ES: M. Deportes HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6803.m3u8
+#EXTINF:-1,ES: M. Deportes
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6802.m3u8
+#EXTINF:-1,ES: Multideporte 1
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6754.m3u8
+#EXTINF:-1,ES: Multideporte 2
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6753.m3u8
+#EXTINF:-1,ES: Multideporte 3
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6752.m3u8
+#EXTINF:-1,ES: Multideporte 4
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6751.m3u8
+#EXTINF:-1,ES: Multideporte 5
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6750.m3u8
+#EXTINF:-1,ES: Multideporte 6
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6749.m3u8
+#EXTINF:-1,ES: Multideporte 7
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6748.m3u8
+#EXTINF:-1,ES: Multideporte 8
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6747.m3u8
+#EXTINF:-1,ES: Multideporte
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6755.m3u8
+#EXTINF:-1,ES: TELEDEPORTE HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6714.m3u8
+#EXTINF:-1,ES: Teledeporte
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/6715.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4680.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4681.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4678.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4679.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4677.m3u8
+#EXTINF:-1,FR: CANAL SPORTS HD
+http://clientportaliptv.com:25500/live/nilesh_nardani/nilesh_nardanidhtyiutgk/4626.m3u8
 .m3u8
