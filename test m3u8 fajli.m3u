@@ -1,434 +1,90 @@
 #EXTM3U
 
-#EXTINF:-1,HBO HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5041.m3u8
-#EXTINF:-1,HBO 2 FHD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5040.m3u8
-#EXTINF:-1,HBO 3 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5039.m3u8
-#EXTINF:-1,Kino TV HD RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/12396.m3u8
-#EXTINF:-1,CineStar Premiere 1 HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5065.m3u8
-#EXTINF:-1,CineStar Premiere 1 (Backup) HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/11490.m3u8
-#EXTINF:-1,CineStar Premiere 2 HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5064.m3u8
-#EXTINF:-1,CineStar Premiere 2 (Backup) HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/11489.m3u8
-#EXTINF:-1,Cinestar TV HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5063.m3u8
-#EXTINF:-1,CineStar TV Action HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5062.m3u8
-#EXTINF:-1,Cinestar Fantasy HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/11053.m3u8
-#EXTINF:-1,Premium Film 1 HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/635087.m3u8
-#EXTINF:-1,Premium Film 1 (Backup) HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/32379.m3u8
-#EXTINF:-1,CineMax 1 HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5067.m3u8
-#EXTINF:-1,Cinemax 2 HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9375.m3u8
-#EXTINF:-1,Fox Movies HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5047.m3u8
-#EXTINF:-1,Sport Klub 1 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/53605.m3u8
-#EXTINF:-1,Sport Klub 2 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9413.m3u8
-#EXTINF:-1,Sport Klub 2 HD SI
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9097.m3u8
-#EXTINF:-1,Sport Klub 3 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/53166.m3u8
-#EXTINF:-1,Sport Klub 3 HD SI
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/625228.m3u8
-#EXTINF:-1,Sport Klub 4 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9411.m3u8
-#EXTINF:-1,Sport Klub 4 SI
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9095.m3u8
-#EXTINF:-1,Sport Klub 5 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9410.m3u8
-#EXTINF:-1,Sport Klub 6 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9409.m3u8
-#EXTINF:-1,Sport Klub HD 1 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/625234.m3u8
-#EXTINF:-1,Sport Klub HD 2 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9407.m3u8
-#EXTINF:-1,Sport Klub HD 3 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9406.m3u8
-#EXTINF:-1,Sport Klub HD 4 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9405.m3u8
-#EXTINF:-1,Sport Klub HD 5 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9404.m3u8
-#EXTINF:-1,Sport Klub HD 6 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9403.m3u8
-#EXTINF:-1,Arena Sport 1 FHD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5464.m3u8
-#EXTINF:-1,Arena Sport 1 HD RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5465.m3u8
-#EXTINF:-1,Arena Sport 2 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5462.m3u8
-#EXTINF:-1,Arena Sport 2 HD RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5463.m3u8
-#EXTINF:-1,Arena Sport 3 FHD RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5461.m3u8
-#EXTINF:-1,Arena Sport 3 HD  HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5460.m3u8
-#EXTINF:-1,Arena Sport 4 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5458.m3u8
-#EXTINF:-1,Arena Sport 4 HD RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5459.m3u8
-#EXTINF:-1,Arena Sport 5 FHD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/545734.m3u8
-#EXTINF:-1,Arena Sport 5 HD RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5456.m3u8
-#EXTINF:-1,Arena Sport 6 HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9415.m3u8
-#EXTINF:-1,Doma TV HD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/23193.m3u8
-#EXTINF:-1,Doma TV SD HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5057.m3u8
-#EXTINF:-1,Klasik TV HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5032.m3u8
-#EXTINF:-1,Pink Film RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5011.m3u8
-#EXTINF:-1,Planet Sports 1 FHD HR VIP
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/623691.m3u8
-#EXTINF:-1,Planet Sports 2 FHD HR VIP
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/623690.m3u8
-#EXTINF:-1,Planet Sports 3 FHD HR VIP
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/623689.m3u8
-#EXTINF:-1,RTL 2 HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/4984.m3u8
-#EXTINF:-1,RTL Crime HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/4983.m3u8
-#EXTINF:-1,RTL HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/4985.m3u8
-#EXTINF:-1,RTS 1 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/4979.m3u8
-#EXTINF:-1,RTS 2 (Backup) RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/10408.m3u8
-#EXTINF:-1,RTS 2 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/4978.m3u8
-#EXTINF:-1,RTS 3 RS
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/4977.m3u8
-#EXTINF:-1,TV 1000 HR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9372.m3u8
-
-#EXTINF:-1,EXYU| ARENA 1 HR
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15707.m3u8
-#EXTINF:-1,EXYU| ARENA 2 HR
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15706.m3u8
-#EXTINF:-1,EXYU| ARENA 3 HR
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15705.m3u8
-#EXTINF:-1,EXYU| ARENA 4 HR
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15704.m3u8
-#EXTINF:-1,EXYU| ARENA SPORT 1
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15703.m3u8
-#EXTINF:-1,EXYU| ARENA SPORT 2
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15702.m3u8
-#EXTINF:-1,EXYU| ARENA SPORT 3
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15701.m3u8
-#EXTINF:-1,EXYU| ARENA SPORT 4
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15700.m3u8
-#EXTINF:-1,EXYU| ARENA SPORT 5
-http://185.165.240.163:8000/live/test0925qzj004/02e8a41ac1/15699.m3u8
-
-#EXTINF:-1,EX-YU:Arena_Sport_1
-http://universeiptv.com:8000/live/Lemuel/Lemuel/584.m3u8
-#EXTINF:-1,EX-YU:Arena_Sport_2
-http://universeiptv.com:8000/live/Lemuel/Lemuel/583.m3u8
-#EXTINF:-1,EX-YU:Arena_Sport_3
-http://universeiptv.com:8000/live/Lemuel/Lemuel/582.m3u8
-#EXTINF:-1,EX-YU:Arena_Sport_4
-http://universeiptv.com:8000/live/Lemuel/Lemuel/581.m3u8
-#EXTINF:-1,EX-YU:Arena_Sport_5
-http://universeiptv.com:8000/live/Lemuel/Lemuel/580.m3u8
-
-
-#EXTINF:-1,BT Sport 1 HD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6649.m3u8
-#EXTINF:-1,BT Sport 1 UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6646.m3u8
-#EXTINF:-1,BT Sport 2 FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/66753.m3u8
-#EXTINF:-1,BT Sport 2 UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/66532.m3u8
-#EXTINF:-1,BT Sport 3 FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6647.m3u8
-#EXTINF:-1,BT Sport 3 UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6644.m3u8
-#EXTINF:-1,BT Sport ESPN HD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/15738.m3u8
-#EXTINF:-1,BT Sport ESPN UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6643.m3u8
-#EXTINF:-1,Bein Sports FHD ES
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/52052.m3u8
-#EXTINF:-1,Canal Sport FHD FR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/8569.m3u8
-#EXTINF:-1,Canal Sport1 FHD PL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7300.m3u8
-#EXTINF:-1,Canal Sport2 FHD PL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7299.m3u8
-#EXTINF:-1,DAZN 1 Bar FHD DE VIP
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/661090.m3u8
-#EXTINF:-1,DAZN 1 HD DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/625243.m3u8
-#EXTINF:-1,DAZN 2 Bar FHD DE VIP
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/661089.m3u8
-#EXTINF:-1,DAZN 2 HD DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/50775.m3u8
-#EXTINF:-1,DAZN Bar 1 HD DE VIP
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/661088.m3u8
-#EXTINF:-1,DAZN Bar 2 HD DE VIP
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/661087.m3u8
-#EXTINF:-1,EuroSport 1 GR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/12738.m3u8
-#EXTINF:-1,EuroSports 1 FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/657013.m3u8
-#EXTINF:-1,EuroSports 2 FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/657012.m3u8
-#EXTINF:-1,Eurosport 2 FHD DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9131.m3u8
-#EXTINF:-1,Fox Sports 1 FHD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6487.m3u8
-#EXTINF:-1,Fox Sports 1 FHD US
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/137256.m3u8
-#EXTINF:-1,Fox Sports 2 FHD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6486.m3u8
-#EXTINF:-1,Fox Sports 2 HD US
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/494259.m3u8
-#EXTINF:-1,Fox Sports 3 FHD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6485.m3u8
-#EXTINF:-1,Fox Sports 4 FHD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/64848.m3u8
-#EXTINF:-1,Fox Sports 4 HD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/514522.m3u8
-#EXTINF:-1,Fox Sports 5 FHD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/64338.m3u8
-#EXTINF:-1,Fox Sports 6 FHD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/131212.m3u8
-#EXTINF:-1,M. Deportes 1 FHD ES
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/16278.m3u8
-#EXTINF:-1,M. Deportes 2 FHD ES
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/16277.m3u8
-#EXTINF:-1,Movistar + Deportes 1 HD ES
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7240.m3u8
-#EXTINF:-1,Movistar + Deportes 2 ES
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7239.m3u8
-#EXTINF:-1,Movistar + Deportes 2 FHD ES
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7200.m3u8
-#EXTINF:-1,Movistar + Deportes ES
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7201.m3u8
-#EXTINF:-1,Polsat Sport Extra FHD PL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/625232.m3u8
-#EXTINF:-1,SPORTS | BEIN SPORTS 10
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5473.m3u8
-#EXTINF:-1,SPORTS | BEIN SPORTS 12
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/54715.m3u8
-#EXTINF:-1,Sky Sport 1 (Backup) HD DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/9125.m3u8
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/13564.m3u8
-#EXTINF:-1,Sky Sport 2 DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/61835.m3u8
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7362.m3u8
-#EXTINF:-1,Sky Sport 251 FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644199.m3u8
-#EXTINF:-1,Sky Sport 252 FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644198.m3u8
-#EXTINF:-1,Sky Sport 253 FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644197.m3u8
-#EXTINF:-1,Sky Sport 254 FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644196.m3u8
-#EXTINF:-1,Sky Sport 255 FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644195.m3u8
-#EXTINF:-1,Sky Sport 256 FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644194.m3u8
-#EXTINF:-1,Sky Sport 257 FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644193.m3u8
-#EXTINF:-1,Sky Sport 258 HD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644192.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/620245.m3u8
-#EXTINF:-1,Sky Sport Football FHD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/644212.m3u8
-#EXTINF:-1,Sky Sport Football HD IT
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/46129.m3u8
-#EXTINF:-1,Sky Sports Action FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7920.m3u8
-#EXTINF:-1,Sky Sports Action HD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7927.m3u8
-#EXTINF:-1,Sky Sports Arena FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/15710.m3u8
-#EXTINF:-1,Sky Sports Arena HD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7926.m3u8
-#EXTINF:-1,Sky Sports F1 FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6535.m3u8
-#EXTINF:-1,Sky Sports F1 HD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/15708.m3u8
-#EXTINF:-1,Sky Sports F1 SD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/659662.m3u8
-#EXTINF:-1,Sky Sports F1 UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/6536.m3u8
-#EXTINF:-1,Sky Sports Main Event FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/15703.m3u8
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7932.m3u8
-#EXTINF:-1,Sky Sports Mix FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/656984.m3u8
-#EXTINF:-1,Sky Sports Premier League FHD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7923.m3u8
-#EXTINF:-1,Sky Sports Premier League HD UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/7931.m3u8
-#EXTINF:-1,Sky Sports Premier League UK
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/15700.m3u8
-#EXTINF:-1,TSN 1 CA
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/17691.m3u8
-#EXTINF:-1,TSN 2 CA
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/632616.m3u8
-#EXTINF:-1,TSN 3 CA
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/17689.m3u8
-#EXTINF:-1,TSN 3 HD CA
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/37021.m3u8
-#EXTINF:-1,TSN 4 HD CA
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/37020.m3u8
-#EXTINF:-1,TSN 5 CA
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/632615.m3u8
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/53267.m3u8
-#EXTINF:-1,Ziggo Sport Select HD NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5113.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5112.m3u8
-#EXTINF:-1,beIN Sports 11 AR
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/8961.m3u8
-#EXTINF:-1,beIN Sports 11 HD ARB
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/15008.m3u8
-#EXTINF:-1,beIN Sports 12 HD ARB
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/15007.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://tv.iptvpanel.tv:8080/live/zabac/luw7ey6d7l/5472.m3u8
-
-
-#EXTINF:-1,???????????????????
-http://universeiptv.com:8000/imam/imam2019/99999
-#EXTINF:-1,BEIN SPORTS_10_HD
-http://universeiptv.com:8000/imam/imam2019/10
-#EXTINF:-1,BEIN SPORTS_11_HD
-http://universeiptv.com:8000/imam/imam2019/11
-#EXTINF:-1,BEIN SPORTS_12_HD
-http://universeiptv.com:8000/imam/imam2019/12
-#EXTINF:-1,CA:TSN_1
-http://universeiptv.com:8000/imam/imam2019/4791
-#EXTINF:-1,CA:TSN_2
-http://universeiptv.com:8000/imam/imam2019/4792
-#EXTINF:-1,CA:TSN_3
-http://universeiptv.com:8000/imam/imam2019/4793
-#EXTINF:-1,CA:TSN_4
-http://universeiptv.com:8000/imam/imam2019/4794
-#EXTINF:-1,CA:TSN_5
-http://universeiptv.com:8000/imam/imam2019/4795
-#EXTINF:-1,DE:DAZN_1
-http://universeiptv.com:8000/imam/imam2019/20016
-#EXTINF:-1,DE:DAZN_2
-http://universeiptv.com:8000/imam/imam2019/20017
-#EXTINF:-1,DE:Eurosport_1_HD
-http://universeiptv.com:8000/imam/imam2019/2081
-#EXTINF:-1,DE:Eurosport_2_HD
-http://universeiptv.com:8000/imam/imam2019/2174
-#EXTINF:-1,DE:Eurosport_2_Xtra_HD
-http://universeiptv.com:8000/imam/imam2019/5589
-#EXTINF:-1,ES:Bein SPORTs_HD
-http://universeiptv.com:8000/imam/imam2019/2584
-#EXTINF:-1,ES:Bein SPORTs_La_Liga
-http://universeiptv.com:8000/imam/imam2019/2586
-#EXTINF:-1,ES:Movistar_DEPORTES_2
-http://universeiptv.com:8000/imam/imam2019/2550
-#EXTINF:-1,ES:Movistar_DEPORTES
-http://universeiptv.com:8000/imam/imam2019/1018
-#EXTINF:-1,ES:TELEDEPORTE_HD
-http://universeiptv.com:8000/imam/imam2019/3564
-#EXTINF:-1,FR:CANAL SPORT_HD
-http://universeiptv.com:8000/imam/imam2019/853
-#EXTINF:-1,NL:Fox SPORTs_1
-http://universeiptv.com:8000/imam/imam2019/926
-#EXTINF:-1,NL:Fox SPORTs_2
-http://universeiptv.com:8000/imam/imam2019/762
-#EXTINF:-1,NL:Fox SPORTs_3
-http://universeiptv.com:8000/imam/imam2019/927
-#EXTINF:-1,NL:Fox SPORTs_4
-http://universeiptv.com:8000/imam/imam2019/928
-#EXTINF:-1,NL:Fox SPORTs_5
-http://universeiptv.com:8000/imam/imam2019/929
-#EXTINF:-1,NL:Fox SPORTs_6
-http://universeiptv.com:8000/imam/imam2019/9253
-#EXTINF:-1,PH:BEIN SPORTS_1_HD
-http://universeiptv.com:8000/imam/imam2019/31993
-#EXTINF:-1,PH:BEIN SPORTS_2_HD
-http://universeiptv.com:8000/imam/imam2019/31992
-#EXTINF:-1,PH:BEIN SPORTS_3_HD
-http://universeiptv.com:8000/imam/imam2019/31991
-#EXTINF:-1,UK:BT SPORT_1_(Backup1)
-http://universeiptv.com:8000/imam/imam2019/2629
-#EXTINF:-1,UK:BT SPORT_1_(Backup2)
-http://universeiptv.com:8000/imam/imam2019/2630
-#EXTINF:-1,UK:BT SPORT_1_(Backup3)
-http://universeiptv.com:8000/imam/imam2019/2709
-#EXTINF:-1,UK:BT SPORT_1_Full_HD
-http://universeiptv.com:8000/imam/imam2019/2720
-#EXTINF:-1,UK:BT SPORT_1
-http://universeiptv.com:8000/imam/imam2019/628
-#EXTINF:-1,UK:BT SPORT_2_(Backup1)
-http://universeiptv.com:8000/imam/imam2019/2627
-#EXTINF:-1,UK:BT SPORT_2_(Backup2)
-http://universeiptv.com:8000/imam/imam2019/2628
-#EXTINF:-1,UK:BT SPORT_2_(Backup3)
-http://universeiptv.com:8000/imam/imam2019/2710
-#EXTINF:-1,UK:BT SPORT_2_Full_HD
-http://universeiptv.com:8000/imam/imam2019/2721
-#EXTINF:-1,UK:BT SPORT_2
-http://universeiptv.com:8000/imam/imam2019/627
-#EXTINF:-1,UK:BT SPORT_3_(Backup1)
-http://universeiptv.com:8000/imam/imam2019/2626
-#EXTINF:-1,UK:BT SPORT_3_(Backup2)
-http://universeiptv.com:8000/imam/imam2019/2631
-#EXTINF:-1,UK:BT SPORT_3_(Backup3)
-http://universeiptv.com:8000/imam/imam2019/2711
-#EXTINF:-1,UK:BT SPORT_3_Full_HD
-http://universeiptv.com:8000/imam/imam2019/2722
-#EXTINF:-1,UK:BT SPORT_3
-http://universeiptv.com:8000/imam/imam2019/2588
-#EXTINF:-1,UK:BT SPORT_ESPN_(Backup1)
-http://universeiptv.com:8000/imam/imam2019/2712
-#EXTINF:-1,UK:BT SPORT_ESPN_Full_HD
-http://universeiptv.com:8000/imam/imam2019/2723
-#EXTINF:-1,UK:BT SPORT_ESPN
-http://universeiptv.com:8000/imam/imam2019/2583
-#EXTINF:-1,UK:Eurosport_2
-http://universeiptv.com:8000/imam/imam2019/4474
-#EXTINF:-1,UK:Eurosport
-http://universeiptv.com:8000/imam/imam2019/4475
-#EXTINF:-1,USA:Bein SPORTs_USA
-http://universeiptv.com:8000/imam/imam2019/3333
-#EXTINF:-1,USA:FOX SPORTs_2
-http://universeiptv.com:8000/imam/imam2019/2119
-#EXTINF:-1,USA:Fox SPORTs_1
-http://universeiptv.com:8000/imam/imam2019/2118
-#EXTINF:-1,USA:Fox SPORTs_SOUTHWEST
-http://universeiptv.com:8000/imam/imam2019/44595
-#EXTINF:-1,USA:TSN_1
-http://universeiptv.com:8000/imam/imam2019/2122
-#EXTINF:-1,USA:TSN_2
-http://universeiptv.com:8000/imam/imam2019/2123
-#EXTINF:-1,USA:TSN_3
-http://universeiptv.com:8000/imam/imam2019/2124
-#EXTINF:-1,USA:TSN_4
-http://universeiptv.com:8000/imam/imam2019/2125
-#EXTINF:-1,bein SPORTs_SD10
-http://universeiptv.com:8000/imam/imam2019/1012
-#EXTINF:-1,bein SPORTs_SD11
-http://universeiptv.com:8000/imam/imam2019/3028
-#EXTINF:-1,bein SPORTs_SD12
-http://universeiptv.com:8000/imam/imam2019/3029
+#EXTINF:0,BT SPORTS 1 HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/14391.m3u8
+#EXTINF:0,BT SPORTS 1
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13846.m3u8
+#EXTINF:0,BT SPORTS 2 HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/17508.m3u8
+#EXTINF:0,BT SPORTS 2
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13809.m3u8
+#EXTINF:0,BT SPORTS 3 HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/16934.m3u8
+#EXTINF:0,BT SPORTS 3
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13877.m3u8
+#EXTINF:0,BT SPORTS ESPN HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/15152.m3u8
+#EXTINF:0,BT SPORTS ESPN
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/16910.m3u8
+#EXTINF:0,EUROSPORT 1 HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13581.m3u8
+#EXTINF:0,EUROSPORT 2 HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/16928.m3u8
+#EXTINF:0,SKY SPORTS ACTION FHD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50189.m3u8
+#EXTINF:0,SKY SPORTS ACTION SD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50169.m3u8
+#EXTINF:0,SKY SPORTS ARENA FHD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50188.m3u8
+#EXTINF:0,SKY SPORTS ARENA HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50178.m3u8
+#EXTINF:0,SKY SPORTS ARENA SD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50168.m3u8
+#EXTINF:0,SKY SPORTS F1 FHD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50186.m3u8
+#EXTINF:0,SKY SPORTS F1 HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50176.m3u8
+#EXTINF:0,SKY SPORTS F1 SD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50166.m3u8
+#EXTINF:0,SKY SPORTS MAIN EVENT FHD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50183.m3u8
+#EXTINF:0,SKY SPORTS MAIN EVENT HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50173.m3u8
+#EXTINF:0,SKY SPORTS MAIN EVENT SD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50163.m3u8
+#EXTINF:0,SKY SPORTS MIX FHD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50182.m3u8
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE FHD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50180.m3u8
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50170.m3u8
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE SD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50160.m3u8
+#EXTINF:0,US: BEIN SPORTS (espa?ol) | HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101281.m3u8
+#EXTINF:0,US: BEIN SPORTS ? | HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101280.m3u8
+#EXTINF:0,US: FOX SPORTS 1 | HD*
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101297.m3u8
+#EXTINF:0,US: FOX SPORTS 1 | HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101298.m3u8
+#EXTINF:0,US: FOX SPORTS 2 | HD*
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101295.m3u8
+#EXTINF:0,US: FOX SPORTS 2 | HD
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101296.m3u8
+#EXTINF:0,beIN SPORTS 10
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91302.m3u8
+#EXTINF:0,beIN SPORTS 11 EN
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91301.m3u8
+#EXTINF:0,beIN SPORTS 12 EN
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91300.m3u8
+#EXTINF:0,beIN SPORTS 1
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91311.m3u8
+#EXTINF:0,beIN SPORTS 2
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91310.m3u8
+#EXTINF:0,beIN SPORTS 3
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91309.m3u8
+#EXTINF:0,beIN SPORTS 4
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91308.m3u8
+#EXTINF:0,beIN SPORTS 5
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91307.m3u8
+#EXTINF:0,beIN SPORTS 6
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91306.m3u8
+#EXTINF:0,beIN SPORTS 7
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91305.m3u8
+#EXTINF:0,beIN SPORTS 8
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91304.m3u8
+#EXTINF:0,beIN SPORTS 9
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91303.m3u8
+#EXTINF:0,beIN SPORTS NEWS
+http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91312.m3u8
