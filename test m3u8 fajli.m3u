@@ -1,90 +1,126 @@
 #EXTM3U
 
-#EXTINF:0,BT SPORTS 1 HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/14391.m3u8
-#EXTINF:0,BT SPORTS 1
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13846.m3u8
-#EXTINF:0,BT SPORTS 2 HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/17508.m3u8
-#EXTINF:0,BT SPORTS 2
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13809.m3u8
-#EXTINF:0,BT SPORTS 3 HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/16934.m3u8
-#EXTINF:0,BT SPORTS 3
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13877.m3u8
-#EXTINF:0,BT SPORTS ESPN HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/15152.m3u8
-#EXTINF:0,BT SPORTS ESPN
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/16910.m3u8
-#EXTINF:0,EUROSPORT 1 HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/13581.m3u8
-#EXTINF:0,EUROSPORT 2 HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/16928.m3u8
+#EXTINF:-1,RS: Arena Sport 1 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2504.m3u8
+#EXTINF:-1,RS: Arena Sport 3 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2500.m3u8
+#EXTINF:-1,RS: Arena Sport 4 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2498.m3u8
+#EXTINF:-1,RS: Arena Sport 5 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/13590.m3u8
+#EXTINF:-1,CRO: SPORT KLUB 1 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2494.m3u8
+#EXTINF:-1,CRO: SPORT KLUB 4 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/5345.m3u8
+#EXTINF:-1,CRO: M1 Film
+#EXTINF:-1,RS: SPORT KLUB 3 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/7733.m3u8
+#EXTINF:-1,RS: SPORT KLUB 4 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23610.m3u8
+#EXTINF:-1,RS: SPORT KLUB 5 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23609.m3u8
+#EXTINF:-1,RS: SPORT KLUB 6 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23608.m3u8
+#EXTINF:-1,CRO: Arena Sport 1 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2505.m3u8
+#EXTINF:-1,CRO: Arena Sport 2 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2503.m3u8
+#EXTINF:-1,CRO: Arena Sport 3 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2501.m3u8
+#EXTINF:-1,CRO: Arena Sport 4 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2499.m3u8
+#EXTINF:-1,CRO: Arena Sport 5 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2497.m3u8
+#EXTINF:-1,CRO: Arena Sport 6 HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/13586.m3u8
+#EXTINF:-1, M1
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23693.m3u8
+#EXTINF:-1,CRO: CINEMAX
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2490.m3u8
+#EXTINF:-1,CRO: CINEMAX 2
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2489.m3u8
+#EXTINF:-1,CRO: CINESTAR PREMIERE 2
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2487.m3u8
+#EXTINF:-1,CRO: CINESTAR TV Fantasy HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23677.m3u8
+#EXTINF:-1,CRO: Premium Film
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23676.m3u8
+#EXTINF:-1,CRO: Fox Crime
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23681.m3u8
+#EXTINF:-1,CRO: Fox Life
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23680.m3u8
+#EXTINF:-1,CRO: FOX MOVIES
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2483.m3u8
+#EXTINF:-1,CRO: HBO ADRIA HD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2491.m3u8
+#EXTINF:-1,CRO: HBO 2 FHD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23679.m3u8
+#EXTINF:-1,CRO: HBO 3 FHD
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/23678.m3u8
+#EXTINF:-1,CRO: Klasik TV
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/13600.m3u8
+#EXTINF:-1,RS: HBO Adria
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/7736.m3u8
+#EXTINF:-1,SRB: Pink Film
+http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/469.m3u8
+
+#EXTINF:-1,%%%%%%%%%%%%%
+http://univrse-ip.world:8000
+#EXTINF:-1,BEIN Sport_11_H265
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/5534.m3u8
+#EXTINF:-1,BEIN Sport_11_HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/3026.m3u8
+#EXTINF:-1,CA:TSN_1
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/4791.m3u8
+#EXTINF:-1,CA:TSN_2
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/4792.m3u8
+#EXTINF:-1,CA:TSN_3
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/4793.m3u8
+#EXTINF:-1,CA:TSN_4
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/4794.m3u8
+#EXTINF:-1,CA:TSN_5
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/4795.m3u8
+#EXTINF:-1,DE:DAZN_1
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/20016.m3u8
+#EXTINF:-1,DE:DAZN_2
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/20017.m3u8
+#EXTINF:-1,DE:Eurosport_1_HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2081.m3u8
+#EXTINF:-1,DE:Eurosport_2_HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2174.m3u8
+#EXTINF:-1,DE:Sky Sports_HD_1_(Backup1)
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2625.m3u8
+#EXTINF:-1,NL:Fox Sports_1
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/926.m3u8
+#EXTINF:-1,NL:Fox Sports_2
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/762.m3u8
+#EXTINF:-1,NL:Fox Sports_3
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/927.m3u8
+#EXTINF:-1,NL:Fox Sports_4
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/928.m3u8
+#EXTINF:-1,NL:Fox Sports_5
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/929.m3u8
+#EXTINF:-1,TR:Bein Sport_2
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/840.m3u8
+#EXTINF:-1,UK:BT Sport_1_Full_HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2720.m3u8
+#EXTINF:-1,UK:BT Sport_2_(Backup1)
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2627.m3u8
+#EXTINF:-1,USA:Fox Sports_1
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2118.m3u8
+#EXTINF:-1,bein Sports_SD11
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/3028.m3u8
+
+
+#EXTINF:0,?????????????
+http://ppvplug.net:8000
 #EXTINF:0,SKY SPORTS ACTION FHD
 http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50189.m3u8
-#EXTINF:0,SKY SPORTS ACTION SD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50169.m3u8
 #EXTINF:0,SKY SPORTS ARENA FHD
 http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50188.m3u8
-#EXTINF:0,SKY SPORTS ARENA HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50178.m3u8
-#EXTINF:0,SKY SPORTS ARENA SD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50168.m3u8
 #EXTINF:0,SKY SPORTS F1 FHD
 http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50186.m3u8
-#EXTINF:0,SKY SPORTS F1 HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50176.m3u8
-#EXTINF:0,SKY SPORTS F1 SD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50166.m3u8
 #EXTINF:0,SKY SPORTS MAIN EVENT FHD
 http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50183.m3u8
-#EXTINF:0,SKY SPORTS MAIN EVENT HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50173.m3u8
-#EXTINF:0,SKY SPORTS MAIN EVENT SD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50163.m3u8
-#EXTINF:0,SKY SPORTS MIX FHD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50182.m3u8
 #EXTINF:0,SKY SPORTS PREMIER LEAGUE FHD
 http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50180.m3u8
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50170.m3u8
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE SD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50160.m3u8
-#EXTINF:0,US: BEIN SPORTS (espa?ol) | HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101281.m3u8
-#EXTINF:0,US: BEIN SPORTS ? | HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101280.m3u8
-#EXTINF:0,US: FOX SPORTS 1 | HD*
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101297.m3u8
-#EXTINF:0,US: FOX SPORTS 1 | HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101298.m3u8
-#EXTINF:0,US: FOX SPORTS 2 | HD*
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101295.m3u8
-#EXTINF:0,US: FOX SPORTS 2 | HD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/101296.m3u8
-#EXTINF:0,beIN SPORTS 10
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91302.m3u8
-#EXTINF:0,beIN SPORTS 11 EN
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91301.m3u8
-#EXTINF:0,beIN SPORTS 12 EN
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91300.m3u8
-#EXTINF:0,beIN SPORTS 1
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91311.m3u8
-#EXTINF:0,beIN SPORTS 2
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91310.m3u8
-#EXTINF:0,beIN SPORTS 3
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91309.m3u8
-#EXTINF:0,beIN SPORTS 4
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91308.m3u8
-#EXTINF:0,beIN SPORTS 5
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91307.m3u8
-#EXTINF:0,beIN SPORTS 6
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91306.m3u8
-#EXTINF:0,beIN SPORTS 7
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91305.m3u8
-#EXTINF:0,beIN SPORTS 8
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91304.m3u8
-#EXTINF:0,beIN SPORTS 9
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91303.m3u8
-#EXTINF:0,beIN SPORTS NEWS
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/91312.m3u8
