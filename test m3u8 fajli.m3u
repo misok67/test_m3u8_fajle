@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1,BT Sports 2
+http://x12tv.co:80/live/barakat5000/barakat5000/7981.m3u8
+#EXTINF:-1,BT Sports 3
+http://x12tv.co:80/live/barakat5000/barakat5000/7979.m3u8
+
+
+
 #EXTINF:-1,RS: Arena Sport 1 HD
 http://client-proiptv.com:8080/live/s@mples-iptv/cTKO4P2BnG/2504.m3u8
 #EXTINF:-1,RS: Arena Sport 3 HD
