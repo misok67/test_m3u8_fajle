@@ -1,15 +1,264 @@
 #EXTM3U
 
 
-#EXTINF:-1,DE:DAZN_1
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/20016.m3u8
-#EXTINF:-1,DE:DAZN_2
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/20017.m3u8
-#EXTINF:-1,DE:Sky Sports_HD_1_(Backup1)
-http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/2625.m3u8
-#EXTINF:0,: BeIN Sports 2FHD
-http://iptv-janberyan.com:25461/live/44410144410014/44410144410014/7.ts
+#EXTINF:-1,EXYU: NOVA TV
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7909.m3u8
+#EXTINF:-1,EXYU: DOMA TV HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7910.m3u8
+#EXTINF:-1,EXYU: RTS 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7503.m3u8
+#EXTINF:-1,EXYU: RTL 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7340.m3u8
+#EXTINF:-1,EXYU: RTL 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7505.m3u8
+#EXTINF:-1,EXYU: RTL CRIME
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7508.m3u8
+#EXTINF:-1,EXYU: RTS 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7504.m3u8
+#EXTINF:-1,EXYU: CINESTAR TV HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7498.m3u8
+#EXTINF:-1,EXYU: CINESTAR ACTION
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7500.m3u8
+#EXTINF:-1,EXYU: CineStar Premiere 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7375.m3u8
+#EXTINF:-1,EXYU: CINESTAR PREMIERE 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7499.m3u8
+#EXTINF:-1,EXYU: CINEMAX 1 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7501.m3u8
+#EXTINF:-1,EXYU: Cinemax 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7378.m3u8
+#EXTINF:-1,EXYU: Cinemax 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7377.m3u8
+#EXTINF:-1,EXYU: TV1000 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7495.m3u8
+#EXTINF:-1,EXYU: ARENA SPORT 1 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7335.m3u8
+#EXTINF:-1,EXYU: Arena Sport 2 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7334.m3u8
+#EXTINF:-1,EXYU: Arena Sport 3 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7333.m3u8
+#EXTINF:-1,EXYU: Arena Sport 4 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7332.m3u8
+#EXTINF:-1,EXYU:Arena Sport 5
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/8165.m3u8
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 1 HD (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/8209.m3u8
+#EXTINF:-1,EXYU:VIP:ARENA SPORT 2 HD (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/8210.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7338.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7337.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 3 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7336.m3u8
+#EXTINF:-1,EXYU: SPORT TV 1 HD (SLO)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7911.m3u8
+#EXTINF:-1,EXYU: SPORT TV 2 HD (SLO)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7912.m3u8
+#EXTINF:-1,EXYU: SPORT TV 3 HD (SLO)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7913.m3u8
+#EXTINF:-1,HR:Sport Klub 1 HD HR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17567.m3u8
+#EXTINF:-1,HR:Sport Klub 2 HD HR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17566.m3u8
+#EXTINF:-1,HR:Sport Klub 3 HD HR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17565.m3u8
+#EXTINF:-1,HR:Sport Klub 4 HR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17564.m3u8
+#EXTINF:-1,HR:Sport Klub 5 HR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17563.m3u8
+#EXTINF:-1,HR:Sport Klub 6 HR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17562.m3u8
+#EXTINF:-1,HR:ARENA SPORT 1 HD (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17573.m3u8
+#EXTINF:-1,HR:ARENA SPORT 2 HD (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17572.m3u8
+#EXTINF:-1,HR:ARENA SPORT 3 HD (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17571.m3u8
+#EXTINF:-1,HR:ARENA SPORT 4 HD (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17570.m3u8
+#EXTINF:-1,HR:ARENA SPORT 5 HD (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17569.m3u8
+#EXTINF:-1,HR:ARENA SPORT 6 (HR)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/17568.m3u8
 
+#EXTINF:-1,(AR) BEIN SPORTS 10 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/3684.m3u8
+#EXTINF:-1,(AR) BEIN SPORTS 11 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/3685.m3u8
+#EXTINF:-1,(AR) BEIN SPORTS 12 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/3686.m3u8
+#EXTINF:-1,CA | TSN 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/9444.m3u8
+#EXTINF:-1,CA | TSN 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/22782.m3u8
+#EXTINF:-1,CA | TSN 3
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/22783.m3u8
+#EXTINF:-1,CA | TSN 4
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/32756.m3u8
+#EXTINF:-1,CA | TSN 5
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/32742.m3u8
+#EXTINF:-1,DAZN 1 Bar FHD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/22499.m3u8
+#EXTINF:-1,DAZN 1 HD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/35588.m3u8
+#EXTINF:-1,DAZN 2 Bar FHD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/22500.m3u8
+#EXTINF:-1,DAZN 2 HD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/35589.m3u8
+#EXTINF:-1,ES: BeIN Sports HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4263.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4201.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 2 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4200.m3u8
+#EXTINF:-1,ES: Teledeporte HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4162.m3u8
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/23708.m3u8
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/23706.m3u8
+#EXTINF:-1,IT: Sky Sport Football HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/23704.m3u8
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/23707.m3u8
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/23703.m3u8
+#EXTINF:-1,NL: Fox Sports 6 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4331.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4326.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/1138.m3u8
+#EXTINF:-1,NL:FOX SPORTS 1 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/264.m3u8
+#EXTINF:-1,NL:FOX SPORTS 2 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/265.m3u8
+#EXTINF:-1,NL:FOX SPORTS 3 HD EREDIVISIE
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/266.m3u8
+#EXTINF:-1,NL:FOX SPORTS 4 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/267.m3u8
+#EXTINF:-1,NL:FOX SPORTS 5 HD EREDIVISIE HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/268.m3u8
+#EXTINF:-1,Sky Sport 1 FHD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/3697.m3u8
+#EXTINF:-1,Sky Sport 1 HD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7176.m3u8
+#EXTINF:-1,Sky Sport 2 FHD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/1027.m3u8
+#EXTINF:-1,Sky Sport 2 HD (DE)
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/7177.m3u8
+#EXTINF:-1,UK:BT SPORT 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4758.m3u8
+#EXTINF:-1,UK:BT SPORT 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4759.m3u8
+#EXTINF:-1,UK:BT SPORT 3
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/4760.m3u8
+#EXTINF:-1,UK:BT SPORT ESPN HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/1512.m3u8
+#EXTINF:-1,UK:SKY SPORTS ACTION HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/1018.m3u8
+#EXTINF:-1,UK:SKY SPORTS ARENA HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/1016.m3u8
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/1020.m3u8
+#EXTINF:-1,UK:SKY SPORTS GOLF HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/1019.m3u8
+#EXTINF:-1,UK:Sky Sport Main Event HD
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/22754.m3u8
+#EXTINF:-1,UK:Sky Sports Premier League
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/22755.m3u8
+#EXTINF:-1,USA | BEIN SPORT
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/32705.m3u8
+#EXTINF:-1,USA | ELEVEN SPORTS
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/32781.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/9476.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/9475.m3u8
+#EXTINF:-1,beIN SPORTS 1 FHD FR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/38816.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD FR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/38817.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD FR
+http://iptv.iptivihd.com:8000/live/b6EMHaaZ0G/CA2DrtGvi2/38818.m3u8
+
+#EXTINF:-1,??????
+http://188.72.4.230:8000
+#EXTINF:-1,Bein Sport HD11 EN
+http://188.72.4.230:8000/mytv/My1p@9090/114
+#EXTINF:-1,Bein Sport HD12 EN
+http://188.72.4.230:8000/mytv/My1p@9090/113
+#EXTINF:-1,Bein Sport HD13
+http://188.72.4.230:8000/mytv/My1p@9090/112
+#EXTINF:-1,Bein Sport HD
+http://188.72.4.230:8000/mytv/My1p@9090/126
+#EXTINF:-1,Bein Sport News HD
+http://188.72.4.230:8000/mytv/My1p@9090/125
+#EXTINF:-1,Bein Sports HD10
+http://188.72.4.230:8000/mytv/My1p@9090/115
+#EXTINF:-1,Bein Sports HD1
+http://188.72.4.230:8000/mytv/My1p@9090/124
+#EXTINF:-1,Bein Sports HD2
+http://188.72.4.230:8000/mytv/My1p@9090/123
+#EXTINF:-1,Bein Sports HD3
+http://188.72.4.230:8000/mytv/My1p@9090/122
+#EXTINF:-1,Bein Sports HD4
+http://188.72.4.230:8000/mytv/My1p@9090/121
+#EXTINF:-1,Bein Sports HD5
+http://188.72.4.230:8000/mytv/My1p@9090/120
+#EXTINF:-1,Bein Sports HD6
+http://188.72.4.230:8000/mytv/My1p@9090/119
+#EXTINF:-1,Bein Sports HD7
+http://188.72.4.230:8000/mytv/My1p@9090/118
+#EXTINF:-1,Bein Sports HD8
+http://188.72.4.230:8000/mytv/My1p@9090/117
+#EXTINF:-1,Bein Sports HD9
+http://188.72.4.230:8000/mytv/My1p@9090/116
+#EXTINF:-1,Uk- Sky BT Sport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/200
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/199
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/198
+#EXTINF:-1,Uk- Sky BT Sports Extra 1
+http://188.72.4.230:8000/mytv/My1p@9090/197
+#EXTINF:-1,Uk- Sky BT Sports Extra 2
+http://188.72.4.230:8000/mytv/My1p@9090/196
+#EXTINF:-1,Uk- Sky Eurosport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/195
+#EXTINF:-1,Uk- Sky Eurosport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/194
+#EXTINF:-1,Uk- Sky Sport Football
+http://188.72.4.230:8000/mytv/My1p@9090/192
+#EXTINF:-1,Uk- Sky Sports Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/191
+#EXTINF:-1,Uk- Sky Sports Main Event HD
+http://188.72.4.230:8000/mytv/My1p@9090/193
+#EXTINF:-1,AR| BEIN SPORTS12 HD EN
+http://line.dynoconnect.me:8000/linda3/LINDA3/25646
+#EXTINF:-1,AR| BEIN SPORTS13 HD
+http://line.dynoconnect.me:8000/linda3/LINDA3/25645
+#EXTINF:-1,DE| EUROSPORT 2 HD
+http://line.dynoconnect.me:8000/linda3/LINDA3/12511
+#EXTINF:-1,DE| EUROSPORT 2 XTRA FHD 4K
+http://line.dynoconnect.me:8000/linda3/LINDA3/12416
+#EXTINF:-1,DE| SKY SPORT 1 HD
+http://line.dynoconnect.me:8000/linda3/LINDA3/12510
+#EXTINF:-1,DE| SKY SPORT 2 FHD 4K
+http://line.dynoconnect.me:8000/linda3/LINDA3/12412
+#EXTINF:-1,DE| SKY SPORT 2 HD
+http://line.dynoconnect.me:8000/linda3/LINDA3/12509
+#EXTINF:-1,DE| SKY SPORT BUNDESLIGA 1 FHD 4K
+http://line.dynoconnect.me:8000/linda3/LINDA3/12411
+#EXTINF:-1,ES| MOVIESTAR DEPORTE 1 HD
+http://line.dynoconnect.me:8000/linda3/LINDA3/7464
+#EXTINF:-1,ES| MULTIDEPORTE
+http://line.dynoconnect.me:8000/linda3/LINDA3/54140
+#EXTINF:-1,ES| TELEDEPORTE
+http://line.dynoconnect.me:8000/linda3/LINDA3/32503
+#EXTINF:-1,?????? ts
+http://twobrotherss.tk:8000
 #EXTINF:-1,SPORT KLUB 1  HD (SR)
 http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5642.ts
 #EXTINF:-1,SPORT KLUB 1 (SLO)
