@@ -1,5 +1,192 @@
 #EXTM3U
 
+#EXTINF:-1,SPORT KLUB 1 HR HD
+http://s4.10gbpstv.info:80/live?channelId=118&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 1 HR
+http://s4.10gbpstv.info:80/live?channelId=858&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 1 SR FHD
+http://s3.10gbpstv.info:80/live?channelId=209&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 1 SR HD
+http://s3.10gbpstv.info:80/live?channelId=656&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 2 HR HD
+http://s1.10gbpstv.info:80/live?channelId=119&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 2 HR
+http://s2.10gbpstv.info:80/live?channelId=859&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 2 SR FHD
+http://s2.10gbpstv.info:80/live?channelId=1032&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 2 SR HD
+http://s2.10gbpstv.info:80/live?channelId=657&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 3 HR HD
+http://s4.10gbpstv.info:80/live?channelId=120&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 3 HR
+http://s4.10gbpstv.info:80/live?channelId=860&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 3 SR FHD
+http://s4.10gbpstv.info:80/live?channelId=1033&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 3 SR HD
+http://s1.10gbpstv.info:80/live?channelId=658&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 4 SR
+http://s4.10gbpstv.info:80/live?channelId=875&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 5 SR
+http://s4.10gbpstv.info:80/live?channelId=876&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB 6 SR
+http://s4.10gbpstv.info:80/live?channelId=877&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB HD
+http://s2.10gbpstv.info:80/live?channelId=865&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SPORT KLUB HR HD
+http://s1.10gbpstv.info:80/live?channelId=18&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 1 HR HD
+http://s4.10gbpstv.info:80/live?channelId=84&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 1 SR HD
+http://s1.10gbpstv.info:80/live?channelId=808&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 1 SR
+http://s1.10gbpstv.info:80/live?channelId=121&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 2 HR HD
+http://s1.10gbpstv.info:80/live?channelId=85&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 2 SR HD
+http://s3.10gbpstv.info:80/live?channelId=809&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 2 SR
+http://s4.10gbpstv.info:80/live?channelId=122&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 3 HR HD
+http://s1.10gbpstv.info:80/live?channelId=86&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 3 SR HD
+http://s3.10gbpstv.info:80/live?channelId=810&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 3 SR
+http://s2.10gbpstv.info:80/live?channelId=234&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 4 HR HD
+http://s3.10gbpstv.info:80/live?channelId=87&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 4 SR HD
+http://s4.10gbpstv.info:80/live?channelId=811&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 4 SR
+http://s3.10gbpstv.info:80/live?channelId=235&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 5 HR HD
+http://s2.10gbpstv.info:80/live?channelId=88&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 5 SR HD
+http://s4.10gbpstv.info:80/live?channelId=807&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARENA SPORT 6 HR HD
+http://s1.10gbpstv.info:80/live?channelId=730&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,HBO HD
+http://s1.10gbpstv.info:80/live?channelId=396&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,HBO 2 HD
+http://s4.10gbpstv.info:80/live?channelId=100&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,HBO 3 HD
+http://s3.10gbpstv.info:80/live?channelId=101&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,KINO TV HD
+http://s4.10gbpstv.info:80/live?channelId=8&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,CINEMAX 1 HD
+http://s1.10gbpstv.info:80/live?channelId=91&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,CINEMAX 2 HD
+http://s2.10gbpstv.info:80/live?channelId=92&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,CINESTAR ACTION
+http://s3.10gbpstv.info:80/live?channelId=82&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,CINESTAR FANTASY
+http://s2.10gbpstv.info:80/live?channelId=239&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://s1.10gbpstv.info:80/live?channelId=93&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://s3.10gbpstv.info:80/live?channelId=94&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,FOX MOVIES HD
+http://s2.10gbpstv.info:80/live?channelId=815&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,FOX MOVIES
+http://s4.10gbpstv.info:80/live?channelId=3&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,KLASIK TV
+http://s1.10gbpstv.info:80/live?channelId=159&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,PINK FILM
+http://s1.10gbpstv.info:80/live?channelId=116&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SLO: CINESTAR PREMIERE 1 HD
+http://s3.10gbpstv.info:80/live?channelId=569&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SLO: CINESTAR PREMIERE 2 HD
+http://s3.10gbpstv.info:80/live?channelId=570&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SLO: FOX MOVIES HD
+http://s3.10gbpstv.info:80/live?channelId=577&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SLO: HBO 2
+http://s3.10gbpstv.info:80/live?channelId=572&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SLO: HBO 3
+http://s3.10gbpstv.info:80/live?channelId=573&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SLO: HBO
+http://s3.10gbpstv.info:80/live?channelId=571&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,SLO: TV 1000
+http://s3.10gbpstv.info:80/live?channelId=578&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,TV 1000
+http://s1.10gbpstv.info:80/live?channelId=79&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,NOVA FULL HD
+http://s1.10gbpstv.info:80/live?channelId=1068&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,NOVA HD
+http://s3.10gbpstv.info:80/live?channelId=47&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,DOMA TV
+http://s1.10gbpstv.info:80/live?channelId=867&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,RTL 2
+http://s4.10gbpstv.info:80/live?channelId=106&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,RTL CRIME
+http://s3.10gbpstv.info:80/live?channelId=107&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,RTL TV
+http://s2.10gbpstv.info:80/live?channelId=105&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,RTS 1 HQ
+http://s3.10gbpstv.info:80/live?channelId=857&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,RTS 1
+http://s2.10gbpstv.info:80/live?channelId=367&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,RTS 2
+http://s1.10gbpstv.info:80/live?channelId=162&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,RTS 3
+http://s4.10gbpstv.info:80/live?channelId=368&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://s2.10gbpstv.info:80/live?channelId=958&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
+http://s2.10gbpstv.info:80/live?channelId=864&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,DE: EUROSPORT 2
+http://s1.10gbpstv.info:80/live?channelId=959&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://s1.10gbpstv.info:80/live?channelId=37&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://s2.10gbpstv.info:80/live?channelId=173&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://s3.10gbpstv.info:80/live?channelId=174&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,DE: SKY SPORT 3 HD (Match day)
+http://s2.10gbpstv.info:80/live?channelId=1024&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://s4.10gbpstv.info:80/live?channelId=770&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://s4.10gbpstv.info:80/live?channelId=771&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://s4.10gbpstv.info:80/live?channelId=202&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,NL: FOX SPORT 1
+http://s2.10gbpstv.info:80/live?channelId=819&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,UK: BT SPORT 1
+http://s4.10gbpstv.info:80/live?channelId=13&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,UK: BT SPORT 2
+http://s4.10gbpstv.info:80/live?channelId=14&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,UK: BT SPORT 3
+http://s4.10gbpstv.info:80/live?channelId=15&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,UK: SKY SPORTS MIX HD
+http://s4.10gbpstv.info:80/live?channelId=12&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARA: BEIN SPORT 1
+http://s3.10gbpstv.info:80/live?channelId=138&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARA: BEIN SPORT 2
+http://s3.10gbpstv.info:80/live?channelId=139&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,ARA: BEIN SPORT 3
+http://s3.10gbpstv.info:80/live?channelId=140&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+
+#EXTINF:-1,??????  //// *****
+http://main001.mine.nu:
+#EXTINF:-1,Sport Klub 1
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/222
+#EXTINF:-1,Sport Klub 2
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/221
+#EXTINF:-1,Sport Klub 3
+http://main001.mine.nu:25461/IqIwAO7mhy/V5YvwJb4Rr/220
+#EXTINF:-1,EX-YU: Sport Klub 1 HD
+http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/9375.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1 SD
+http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/9372.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2 HD
+http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/9374.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2 SD
+http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/9371.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3 HD
+http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/9373.m3u8
+
+#EXTINF:-1,??????
+http://ictv.io:80
 #EXTINF:-1,DAZN 1 HD DE
 http://ictv.io:80/live/BhJI6um4Am/GyuElnV2zj/46758.m3u8
 #EXTINF:-1,DAZN 2 HD DE
@@ -76,143 +263,4 @@ http://portal.iptvkeyfi.net:8000/live/M0dfTChPy5/T1oDU0dmnE/26492.m3u8
 http://portal.iptvkeyfi.net:8000/live/M0dfTChPy5/T1oDU0dmnE/26493.m3u8
 
 
-#EXTINF:0,?????????????
-http://ppvplug.net:8000
-#EXTINF:0,SKY SPORTS ACTION FHD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50189.m3u8
-#EXTINF:0,SKY SPORTS ARENA FHD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50188.m3u8
-#EXTINF:0,SKY SPORTS F1 FHD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50186.m3u8
-#EXTINF:0,SKY SPORTS MAIN EVENT FHD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50183.m3u8
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE FHD
-http://ppvplug.net:8000/live/6Uc00IyQ4T/HjkqJkAusn/50180.m3u8
 
-
-#EXTINF:-1,SKY SPORTS ARENA FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50188.m3u8
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50186.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50185.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50183.m3u8
-#EXTINF:-1,SKY SPORTS NEWS FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50181.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50180.m3u8
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/79691.m3u8
-
-#EXTINF:-1,?????????
-http://twobrotherss.tk:8000
-#EXTINF:-1,DAZN Bar 1 HD DE
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/13742.ts
-#EXTINF:-1,DAZN Bar 2 HD DE
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/13743.ts
-#EXTINF:-1,EUROSPORT 1 HD (DE)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/13475.ts
-#EXTINF:-1,EUROSPORT 1 HD (UK)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/6128.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5853.ts
-#EXTINF:-1,EUROSPORT 2 HD (DE)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/13476.ts
-#EXTINF:-1,EUROSPORT 2 HD (UK)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/6118.ts
-#EXTINF:-1,FOX SPORTS 1 HD (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5822.ts
-#EXTINF:-1,FOX SPORTS 1 HD (US)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/10839.ts
-#EXTINF:-1,FOX SPORTS 2 HD (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5823.ts
-#EXTINF:-1,FOX SPORTS 2 HD (US)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/10840.ts
-#EXTINF:-1,FOX SPORTS 3 HD (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5824.ts
-#EXTINF:-1,FOX SPORTS 4 HD (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/5833.ts
-#EXTINF:-1,FOX SPORTS 5 (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/6983.ts
-#EXTINF:-1,FOX SPORTS 6 (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/7870.ts
-#EXTINF:-1,ZIGGO SPORT SELECT 1 HD (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/6109.ts
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD (NL)
-http://twobrotherss.tk:8000/live/YKgV8qgB5B/NQXrgom6XL/6108.ts
-
-#EXTINF:-1,??????
-http://188.72.4.230:8000
-#EXTINF:-1,Bein Sport HD11 EN
-http://188.72.4.230:8000/mytv/My1p@9090/114
-#EXTINF:-1,Bein Sport HD12 EN
-http://188.72.4.230:8000/mytv/My1p@9090/113
-#EXTINF:-1,Bein Sport HD13
-http://188.72.4.230:8000/mytv/My1p@9090/112
-#EXTINF:-1,Bein Sport HD
-http://188.72.4.230:8000/mytv/My1p@9090/126
-#EXTINF:-1,Bein Sport News HD
-http://188.72.4.230:8000/mytv/My1p@9090/125
-#EXTINF:-1,Bein Sports HD10
-http://188.72.4.230:8000/mytv/My1p@9090/115
-#EXTINF:-1,Bein Sports HD1
-http://188.72.4.230:8000/mytv/My1p@9090/124
-#EXTINF:-1,Bein Sports HD2
-http://188.72.4.230:8000/mytv/My1p@9090/123
-#EXTINF:-1,Bein Sports HD3
-http://188.72.4.230:8000/mytv/My1p@9090/122
-#EXTINF:-1,Bein Sports HD4
-http://188.72.4.230:8000/mytv/My1p@9090/121
-#EXTINF:-1,Bein Sports HD5
-http://188.72.4.230:8000/mytv/My1p@9090/120
-#EXTINF:-1,Bein Sports HD6
-http://188.72.4.230:8000/mytv/My1p@9090/119
-#EXTINF:-1,Bein Sports HD7
-http://188.72.4.230:8000/mytv/My1p@9090/118
-#EXTINF:-1,Bein Sports HD8
-http://188.72.4.230:8000/mytv/My1p@9090/117
-#EXTINF:-1,Bein Sports HD9
-http://188.72.4.230:8000/mytv/My1p@9090/116
-#EXTINF:-1,Uk- Sky BT Sport 1 HD
-http://188.72.4.230:8000/mytv/My1p@9090/200
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://188.72.4.230:8000/mytv/My1p@9090/199
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://188.72.4.230:8000/mytv/My1p@9090/198
-#EXTINF:-1,Uk- Sky BT Sports Extra 1
-http://188.72.4.230:8000/mytv/My1p@9090/197
-#EXTINF:-1,Uk- Sky BT Sports Extra 2
-http://188.72.4.230:8000/mytv/My1p@9090/196
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://188.72.4.230:8000/mytv/My1p@9090/195
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://188.72.4.230:8000/mytv/My1p@9090/194
-#EXTINF:-1,Uk- Sky Sport Football
-http://188.72.4.230:8000/mytv/My1p@9090/192
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://188.72.4.230:8000/mytv/My1p@9090/191
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://188.72.4.230:8000/mytv/My1p@9090/193
-#EXTINF:-1,AR| BEIN SPORTS12 HD EN
-http://line.dynoconnect.me:8000/linda3/LINDA3/25646
-#EXTINF:-1,AR| BEIN SPORTS13 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/25645
-#EXTINF:-1,DE| EUROSPORT 2 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/12511
-#EXTINF:-1,DE| EUROSPORT 2 XTRA FHD 4K
-http://line.dynoconnect.me:8000/linda3/LINDA3/12416
-#EXTINF:-1,DE| SKY SPORT 1 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/12510
-#EXTINF:-1,DE| SKY SPORT 2 FHD 4K
-http://line.dynoconnect.me:8000/linda3/LINDA3/12412
-#EXTINF:-1,DE| SKY SPORT 2 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/12509
-#EXTINF:-1,DE| SKY SPORT BUNDESLIGA 1 FHD 4K
-http://line.dynoconnect.me:8000/linda3/LINDA3/12411
-#EXTINF:-1,ES| MOVIESTAR DEPORTE 1 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7464
-#EXTINF:-1,ES| MULTIDEPORTE
-http://line.dynoconnect.me:8000/linda3/LINDA3/54140
-#EXTINF:-1,ES| TELEDEPORTE
-http://line.dynoconnect.me:8000/linda3/LINDA3/32503
