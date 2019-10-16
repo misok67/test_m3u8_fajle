@@ -1,136 +1,156 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 (HD) (BALKAN)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6715.m3u8
-#EXTINF:-1,Sport Klub 2 (HD) (BALKAN)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6714.m3u8
-#EXTINF:-1,Sport Klub 3 (HD) (BALKAN)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6713.m3u8
-#EXTINF:-1,Sport Klub 4 (BALKAN)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6712.m3u8
-#EXTINF:-1,SPORT KLUB 5 (BALKAN)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6719.m3u8
-#EXTINF:-1,SPORT KLUB 6
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77563.m3u8
-#EXTINF:-1,PLANET SPORT 1
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77557.m3u8
-#EXTINF:-1,PLANET SPORT 2
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77556.m3u8
-#EXTINF:-1,SPORT KLUB 1 VIP
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77561.m3u8
-#EXTINF:-1,SPORT KLUB 2 VIP
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77560.m3u8
-#EXTINF:-1,SPORT KLUB 3 VIP
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77559.m3u8
-#EXTINF:-1,ARENA SPORTS 1 HD (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/40958.m3u8
-#EXTINF:-1,ARENA SPORTS 2 HD (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/40957.m3u8
-#EXTINF:-1,ARENA SPORTS 3 HD (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/40956.m3u8
-#EXTINF:-1,ARENA SPORTS 4 HD (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/40955.m3u8
-#EXTINF:-1,ARENA SPORTS 5 HD (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/40954.m3u8
-#EXTINF:-1,HBO HD (MOVIE)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6818.m3u8
-#EXTINF:-1,HBO 2 HD (MOVIE)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6817.m3u8
-#EXTINF:-1,HBO 3 HD (MOVIE)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6816.m3u8
-#EXTINF:-1,HBO ADRIA
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77548.m3u8
-#EXTINF:-1,HBO COMEDY
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77547.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2494.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2493.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2492.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5345.m3u8
+#EXTINF:-1,SPORT KLUB 5 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5344.m3u8
+#EXTINF:-1,SPORT KLUB 6 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5343.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7735.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7734.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7733.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/23610.m3u8
+#EXTINF:-1,SPORT KLUB 5 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/23609.m3u8
+#EXTINF:-1,SPORT KLUB 6 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/23608.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2505.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2503.m3u8
+#EXTINF:-1,Arena Sport 3 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2501.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2499.m3u8
+#EXTINF:-1,Arena Sport 5 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2497.m3u8
+#EXTINF:-1,Arena Sport 6 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/13586.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2504.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2502.m3u8
+#EXTINF:-1,Arena Sport 3 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2500.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2498.m3u8
+#EXTINF:-1,Arena Sport 5 HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/13590.m3u8
+#EXTINF:-1,HBO ADRIA HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2491.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/23679.m3u8
+#EXTINF:-1,HBO 3 FHD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/23678.m3u8
+#EXTINF:-1,HBO Adria
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7736.m3u8
+#EXTINF:-1,HBO 2 HD MK
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16295.m3u8
+#EXTINF:-1,HBO 3 HD MK
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/16294.m3u8
+#EXTINF:-1,CINEMAX 2
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2489.m3u8
+#EXTINF:-1,CINEMAX
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2490.m3u8
 #EXTINF:-1,CINESTAR PREMIERE 1
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6787.m3u8
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2488.m3u8
 #EXTINF:-1,CINESTAR PREMIERE 2
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6788.m3u8
-#EXTINF:-1,CINEMAX 1 (BALKAN)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6785.m3u8
-#EXTINF:-1,CINEMAX 2 (BALKAN)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6786.m3u8
-#EXTINF:-1,KINO TV
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77536.m3u8
-#EXTINF:-1,CINESTAR TV
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6789.m3u8
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2487.m3u8
 #EXTINF:-1,CINESTAR TV ACTION
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6790.m3u8
-#EXTINF:-1,FILM KLUB
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77552.m3u8
-#EXTINF:-1,FILM KLUB EXTRA
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77551.m3u8
-#EXTINF:-1,FILMBOX EXTRA
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6184.m3u8
-#EXTINF:-1,FILM BOX PLUS
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77550.m3u8
-#EXTINF:-1,M1 FILM
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/77549.m3u8
-#EXTINF:-1,DOMA TV (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6121.m3u8
-#EXTINF:-1,RTL (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6120.m3u8
-#EXTINF:-1,RTL 2 (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6119.m3u8
-#EXTINF:-1,RTL CRIME (HR)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6118.m3u8
-#EXTINF:-1,Pink Film (RS)
-http://ok2.se:8000/live/xpqwo2LEXr/bFDjkFw7Rr/6219.m3u8
-
-#EXTINF:-1,??????  ********
-http://tv.nova-iptv.com
-#EXTINF:-1,HBO 1 HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/419.ts
-#EXTINF:-1,HBO 2 HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/418.ts
-#EXTINF:-1,HBO 3 HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/417.ts
-#EXTINF:-1,Cinemax 1 HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/435.ts
-#EXTINF:-1,Cinemax 2 HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/434.ts
-#EXTINF:-1,CineStar Premiere 1
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6543.ts
-#EXTINF:-1,CineStar Premiere 2
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6542.ts
-#EXTINF:-1,CineStar Premiere 1 HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/431.ts
-#EXTINF:-1,CineStar Premiere 2 HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/430.ts
-#EXTINF:-1,CineStar TV
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/429.ts
-#EXTINF:-1,Cinemania
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/428.ts
-#EXTINF:-1,CineStar Fantasy
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/432.ts
-#EXTINF:-1,Cinestar Action
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/433.ts
-#EXTINF:-1,FOX
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/423.ts
-#EXTINF:-1,FOX Crime
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/422.ts
-#EXTINF:-1,FOX Life
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/421.ts
-#EXTINF:-1,FOX Movies
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/420.ts
-#EXTINF:-1,FOX HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6305.ts
-#EXTINF:-1,FOX LIFE HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6307.ts
-#EXTINF:-1,FOX CRIME HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6306.ts
-#EXTINF:-1,FOX MOVIES HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6308.ts
-#EXTINF:-1,SUPER STAR TV
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6270.ts
-#EXTINF:-1,STAR TV
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/6748.ts
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2485.m3u8
+#EXTINF:-1,CINESTAR TV Fantasy HD
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/23677.m3u8
+#EXTINF:-1,CINESTAR TV
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2486.m3u8
+#EXTINF:-1,FOX MOVIES
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2483.m3u8
+#EXTINF:-1,Klasik TV
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/13600.m3u8
+#EXTINF:-1,RTL 2
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2479.m3u8
+#EXTINF:-1,RTL CRIME
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2478.m3u8
+#EXTINF:-1,RTL
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2480.m3u8
+#EXTINF:-1,Doma TV
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/13595.m3u8
 #EXTINF:-1,TV 1000
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/408.ts
-#EXTINF:-1,Film Box Plus
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/5510.ts
-#EXTINF:-1,Film Box Extra HD
-http://tv.nova-iptv.com:25461/live/XGXAnVd6Xa/3WSQudr45z/424.ts
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/13597.m3u8
+#EXTINF:-1,RTS 1
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1037.m3u8
+#EXTINF:-1,RTS 2
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/1038.m3u8
+#EXTINF:-1,RTS 3
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7025.m3u8
+#EXTINF:-1,Pink Film
+http://client-proiptv.com:8080/live/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/469.m3u8
+
+#EXTINF:-1,????????????? ///////////////
+http://195.154.26.166:8000
+#EXTINF:-1,SPORT KLUB 1 HD
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/49676.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/49675.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/49674.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/49673.m3u8
+#EXTINF:-1,SPORT KLUB 5 HD
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/49672.m3u8
+#EXTINF:-1,SPORT KLUB 6 HD
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/49671.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15703.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15702.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15701.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15700.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15699.m3u8
+#EXTINF:-1,HBO 1
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15724.m3u8
+#EXTINF:-1,HBO 2
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15726.m3u8
+#EXTINF:-1,HBO 3
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15725.m3u8
+#EXTINF:-1,CINEMAX
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15715.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15718.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15717.m3u8
+#EXTINF:-1,PINK FILM
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15764.m3u8
+#EXTINF:-1,FOX MOVIES
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15782.m3u8
+#EXTINF:-1,HRT 1
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15734.m3u8
+#EXTINF:-1,HRT 2
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15737.m3u8
+#EXTINF:-1,HRT 3
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15736.m3u8
+#EXTINF:-1,NOVA TV
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15739.m3u8
+#EXTINF:-1,DOMA TV
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15720.m3u8
+#EXTINF:-1,RTL
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15778.m3u8
+#EXTINF:-1,RTS 1
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15688.m3u8
+#EXTINF:-1,RTS 2
+http://195.154.26.166:8000/live/OyqFnMDC2H/JFCfX3pMEw/15687.m3u8
 
 
 #EXTINF:-1,AR| BEIN SPORTS10 HD FULL HD
