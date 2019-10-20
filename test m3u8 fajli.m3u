@@ -50,8 +50,6 @@ http://nitro.ltd:25461/live/Edward/Edward/1320.m3u8
 http://nitro.ltd:25461/live/Edward/Edward/2088.m3u8
 #EXTINF:-1,UK: Eurosport 2 HD
 http://nitro.ltd:25461/live/Edward/Edward/2087.m3u8
-#EXTINF:-1,UK: Eurosport 4k
-http://nitro.ltd:25461/live/Edward/Edward/41411.m3u8
 #EXTINF:-1,UK: SKY SPORTS Action HD
 http://nitro.ltd:25461/live/Edward/Edward/1367.m3u8
 #EXTINF:-1,UK: SKY SPORTS F1 HD
@@ -64,8 +62,6 @@ http://nitro.ltd:25461/live/Edward/Edward/25176.m3u8
 http://nitro.ltd:25461/live/Edward/Edward/25175.m3u8
 #EXTINF:-1,UK: Sky Sports Arena HD
 http://nitro.ltd:25461/live/Edward/Edward/7949.m3u8
-#EXTINF:-1,UK: Sky Sports Golf FHD
-http://nitro.ltd:25461/live/Edward/Edward/25171.m3u8
 #EXTINF:-1,UK: Sky Sports Main Event FHD
 http://nitro.ltd:25461/live/Edward/Edward/25170.m3u8
 #EXTINF:-1,UK: Sky Sports Mix FHD
@@ -84,126 +80,80 @@ http://nitro.ltd:25461/live/Edward/Edward/22985.m3u8
 http://nitro.ltd:25461/live/Edward/Edward/15178.m3u8
 #EXTINF:-1,US: Bein Sports 2
 http://nitro.ltd:25461/live/Edward/Edward/15177.m3u8
-#EXTINF:-1,DE: DAZN 1 Bar FHD
-http://nitro.ltd:25461/live/Edward/Edward/40584.m3u8
-#EXTINF:-1,DE: DAZN 1 HD
-http://nitro.ltd:25461/live/Edward/Edward/40583.m3u8
 #EXTINF:-1,DE: DAZN 2 BAR FHD
 http://nitro.ltd:25461/live/Edward/Edward/40582.m3u8
-#EXTINF:-1,DE: DAZN 2 HD
-http://nitro.ltd:25461/live/Edward/Edward/40581.m3u8
-#EXTINF:-1,DE: DAZN BAR 1 HD
-http://nitro.ltd:25461/live/Edward/Edward/40580.m3u8
-#EXTINF:-1,DE: DAZN BAR 2 HD
-http://nitro.ltd:25461/live/Edward/Edward/40579.m3u8
 #EXTINF:-1,DE: EUROSPORT 1 HD
 http://nitro.ltd:25461/live/Edward/Edward/40544.m3u8
 #EXTINF:-1,DE: EUROSPORT 2 FHD
 http://nitro.ltd:25461/live/Edward/Edward/40543.m3u8
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://nitro.ltd:25461/live/Edward/Edward/25177.m3u8
-#EXTINF:-1,DE: Sky EUROSPORT 1 HD
-http://nitro.ltd:25461/live/Edward/Edward/40395.m3u8
-#EXTINF:-1,DE: Sky Sport 1 FHD
-http://nitro.ltd:25461/live/Edward/Edward/40366.m3u8
-#EXTINF:-1,DE: Sky Sport 2 FHD
-http://nitro.ltd:25461/live/Edward/Edward/40361.m3u8
-#EXTINF:-1,AR: beIN Sports 10 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32590.m3u8
-#EXTINF:-1,AR: beIN Sports 10 HD
-http://nitro.ltd:25461/live/Edward/Edward/32580.m3u8
-#EXTINF:-1,AR: beIN Sports 12 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32589.m3u8
-#EXTINF:-1,AR: beIN Sports 12 HD
-http://nitro.ltd:25461/live/Edward/Edward/32579.m3u8
-#EXTINF:-1,AR: beIN Sports 13 HD
-http://nitro.ltd:25461/live/Edward/Edward/32578.m3u8
-#EXTINF:-1,AR: beIN Sports 2 HD
-http://nitro.ltd:25461/live/Edward/Edward/32588.m3u8
-#EXTINF:-1,AR: beIN Sports 3 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32598.m3u8
-#EXTINF:-1,AR: beIN Sports 3 HD
-http://nitro.ltd:25461/live/Edward/Edward/32587.m3u8
-#EXTINF:-1,AR: beIN Sports 4 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32597.m3u8
-#EXTINF:-1,AR: beIN Sports 4 HD
-http://nitro.ltd:25461/live/Edward/Edward/32586.m3u8
-#EXTINF:-1,AR: beIN Sports 5 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32596.m3u8
-#EXTINF:-1,AR: beIN Sports 5 HD
-http://nitro.ltd:25461/live/Edward/Edward/32585.m3u8
-#EXTINF:-1,AR: beIN Sports 6 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32595.m3u8
-#EXTINF:-1,AR: beIN Sports 6 HD
-http://nitro.ltd:25461/live/Edward/Edward/32584.m3u8
-#EXTINF:-1,AR: beIN Sports 7 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32594.m3u8
-#EXTINF:-1,AR: beIN Sports 7 HD
-http://nitro.ltd:25461/live/Edward/Edward/32583.m3u8
-#EXTINF:-1,AR: beIN Sports 8 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32593.m3u8
-#EXTINF:-1,AR: beIN Sports 8 HD
-http://nitro.ltd:25461/live/Edward/Edward/32582.m3u8
-#EXTINF:-1,AR: beIN Sports 9 FHD
-http://nitro.ltd:25461/live/Edward/Edward/32592.m3u8
-#EXTINF:-1,AR: beIN Sports 9 HD
-http://nitro.ltd:25461/live/Edward/Edward/32581.m3u8
-#EXTINF:-1,CA: TSN HD 1
-http://nitro.ltd:25461/live/Edward/Edward/1279.m3u8
-#EXTINF:-1,CA: TSN HD 2
-http://nitro.ltd:25461/live/Edward/Edward/1280.m3u8
-#EXTINF:-1,CA: TSN HD 3
-http://nitro.ltd:25461/live/Edward/Edward/1281.m3u8
-#EXTINF:-1,CA: TSN HD 4
-http://nitro.ltd:25461/live/Edward/Edward/1282.m3u8
-#EXTINF:-1,CA: TSN HD 5
-http://nitro.ltd:25461/live/Edward/Edward/1283.m3u8
 #EXTINF:-1,ES: Bein Sports La Liga FHD
 http://nitro.ltd:25461/live/Edward/Edward/3624.m3u8
 #EXTINF:-1,ES: Movistar  Deportes 1 FHD
 http://nitro.ltd:25461/live/Edward/Edward/39971.m3u8
-#EXTINF:-1,ES: Movistar Deportes 1 FHD
-http://nitro.ltd:25461/live/Edward/Edward/3347.m3u8
-#EXTINF:-1,ES: Movistar Deportes 1
-http://nitro.ltd:25461/live/Edward/Edward/39963.m3u8
 #EXTINF:-1,ES: Movistar Deportes 2 FHD
 http://nitro.ltd:25461/live/Edward/Edward/3346.m3u8
 #EXTINF:-1,ES: TELEDEPORTE
 http://nitro.ltd:25461/live/Edward/Edward/3301.m3u8
 #EXTINF:-1,ES: beIN SPORTS LaLiga
 http://nitro.ltd:25461/live/Edward/Edward/40021.m3u8
-#EXTINF:-1,FR: Bein Sport 1 FHD
-http://nitro.ltd:25461/live/Edward/Edward/3633.m3u8
-#EXTINF:-1,FR: Bein Sports 2 FHD
-http://nitro.ltd:25461/live/Edward/Edward/3632.m3u8
-#EXTINF:-1,FR: Bein Sports 3 FHD
-http://nitro.ltd:25461/live/Edward/Edward/3631.m3u8
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://nitro.ltd:25461/live/Edward/Edward/37350.m3u8
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://nitro.ltd:25461/live/Edward/Edward/37349.m3u8
-#EXTINF:-1,IT: Sky Sport Football HD
-http://nitro.ltd:25461/live/Edward/Edward/37343.m3u8
-#EXTINF:-1,NL: FOX SPORT 1 HD
-http://nitro.ltd:25461/live/Edward/Edward/36254.m3u8
-#EXTINF:-1,NL: FOX SPORT 2 HD
-http://nitro.ltd:25461/live/Edward/Edward/36253.m3u8
-#EXTINF:-1,NL: FOX SPORT 3 HD
-http://nitro.ltd:25461/live/Edward/Edward/36252.m3u8
-#EXTINF:-1,NL: FOX SPORT 4 HD
-http://nitro.ltd:25461/live/Edward/Edward/36251.m3u8
-#EXTINF:-1,NL: FOX SPORT 5 HD
-http://nitro.ltd:25461/live/Edward/Edward/36250.m3u8
-#EXTINF:-1,NL: FOX SPORT 6 HD
-http://nitro.ltd:25461/live/Edward/Edward/36249.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select FHD
-http://nitro.ltd:25461/live/Edward/Edward/36162.m3u8
-#EXTINF:-1,NL: Ziggo Sport VOETBAL HD
-http://nitro.ltd:25461/live/Edward/Edward/36161.m3u8
-#EXTINF:-1,TR: Bein Sports HD 1 FHD
-http://nitro.ltd:25461/live/Edward/Edward/23109.m3u8
-#EXTINF:-1,TR: Bein Sports HD 2 FHD (French)
-http://nitro.ltd:25461/live/Edward/Edward/23108.m3u8
+
+#EXTINF:-1,|NL| /////// *******
+http://iptv4.premium-stv.com:8000
+#EXTINF:-1,|NL| Ziggo.Sport.Voetbal
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.m3u8
+#EXTINF:-1,|NL| Ziggo.Sport.Select.HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/743.m3u8
+#EXTINF:-1,|NL| Ziggo.Sport.Golf
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/744.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Voetbal HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/364.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Voetbal
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/369.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/363.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Racing HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/362.m3u8
+#EXTINF:-1,|NL| Ziggo Sport HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/361.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Golf HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/360.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT GOLF
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/359.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 2 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/371.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 1 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/370.m3u8
+#EXTINF:-1,|NL| Motor Sport
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/841.m3u8
+#EXTINF:-1,|NL| FOX.Spo.m3u8.EDL.3 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/779.m3u8
+#EXTINF:-1,|NL| FOX.Spo.m3u8.EDL.1.HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/780.m3u8
+#EXTINF:-1,|NL| FOX SPO.m3u8 EDL 3 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/358.m3u8
+#EXTINF:-1,|NL| FOX SPO.m3u8 EDL 1 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/357.m3u8
+#EXTINF:-1,|NL| FOX SPO.m3u8 6HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/368.m3u8
+#EXTINF:-1,|NL| Fox Sport 6 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/356.m3u8
+#EXTINF:-1,|NL| Fox Sport 5 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/355.m3u8
+#EXTINF:-1,|NL| FOX SPORT 5 EREDIVISIE HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/367.m3u8
+#EXTINF:-1,|NL| Fox Sport 4 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/354.m3u8
+#EXTINF:-1,|NL| Fox Sport 3 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/353.m3u8
+#EXTINF:-1,|NL| FOX SPORT 3 EREDIVISIE HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/365.m3u8
+#EXTINF:-1,|NL| Fox Sport 2 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/352.m3u8
+#EXTINF:-1,|NL| Fox Sport 1 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/351.m3u8
+#EXTINF:-1,|NL| FOX  SPORT 4HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/366.m3u8
+
 
 #EXTINF:-1,////?????  ********
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/7731.m3u8
@@ -212,45 +162,82 @@ http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/7731.m3u8
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/7731.m3u8
 #EXTINF:-1,FR:Bein Sport 2 HD
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/70.m3u8
-#EXTINF:-1 tvg-name="FR:Bein Sport 3 HD" tvg-logo="
-http://logo.ndasat.com/iptv/images/37013_113.png" group-title="{BOUQUET_NAME}",FR:Bein Sport 3 HD
+#EXTINF:-1,FR:Bein Sport 3 HD
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/71.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX4" tvg-logo="
-http://logo.ndasat.com/iptv/images/57944_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX4
+#EXTINF:-1,FR:BEIN SPORT MAX4
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/978.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX5" tvg-logo="
-http://logo.ndasat.com/iptv/images/42861_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX5
+#EXTINF:-1,FR:BEIN SPORT MAX5
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/979.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX6" tvg-logo="
-http://logo.ndasat.com/iptv/images/49607_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX6
+#EXTINF:-,FR:BEIN SPORT MAX6
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/980.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX7" tvg-logo="
-http://logo.ndasat.com/iptv/images/39770_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX7
+#EXTINF:-1,FR:BEIN SPORT MAX7
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/981.m3u8
-#EXTINF:-1 tvg-name="FR:BEIN SPORT MAX8" tvg-logo="
-http://logo.ndasat.com/iptv/images/73757_bmmn.png" group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX8
+#EXTINF:-1,FR:BEIN SPORT MAX8
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/982.m3u8
-#EXTINF:-1 tvg-name="FR:CANAL+  SPORT" tvg-logo="" group-title="{BOUQUET_NAME}",FR:CANAL+  SPORT
+#EXTINF:-1,FR:CANAL+  SPORT
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/5190.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 1" tvg-logo="
-http://logo.ndasat.com/iptv/images/26403_sfr1.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 1
+#EXTINF:-1,FR:RMC Sport 1
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/1554.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 2" tvg-logo="
-http://logo.ndasat.com/iptv/images/52324_sfr2.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 2
+#EXTINF:-1,FR:RMC Sport 2
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/1555.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 3" tvg-logo="
-http://logo.ndasat.com/iptv/images/65878_sfr3.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 3
+#EXTINF:-1,FR:RMC Sport 3
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/1556.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 4" tvg-logo="
-http://logo.ndasat.com/iptv/images/62380_sfr5.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 4
+#EXTINF:-1,FR:RMC Sport 4
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/1612.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live5" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live5
+#EXTINF:-1,FR:RMC Sport Live5
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/6349.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live6" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live6
+#EXTINF:-1,FR:RMC Sport Live6
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/6350.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live7" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live7
+#EXTINF:-1,FR:RMC Sport Live7
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/6351.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live8" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live8
+#EXTINF:-1,FR:RMC Sport Live8
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/6352.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport Live9" tvg-logo="" group-title="{BOUQUET_NAME}",FR:RMC Sport Live9
+#EXTINF:-1,FR:RMC Sport Live9
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/6353.m3u8
+
+#EXTINF:-1,?????? ******
+http://190.2.132.7:8080
+#EXTINF:-1,BEIN SPORTS1 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/55.m3u8
+#EXTINF:-1,BEIN SPORTS2 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/41.m3u8
+#EXTINF:-1,BEIN SPORTS3 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/39.m3u8
+#EXTINF:-1,BEIN SPORTS4 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/37.m3u8
+#EXTINF:-1,BEIN SPORTS5 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/35.m3u8
+#EXTINF:-1,BEIN SPORTS6 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/33.m3u8
+#EXTINF:-1,BEIN SPORTS7 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/31.m3u8
+#EXTINF:-1,BEIN SPORTS8 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/29.m3u8
+#EXTINF:-1,BEIN SPORTS9 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/27.m3u8
+#EXTINF:-1,BEIN SPORTS10 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/53.m3u8
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/51.m3u8
+#EXTINF:-1,BEIN SPORTS 12 HD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/49.m3u8
+
+
+#EXTINF:-1,??????? ///////
+http://provider-tv.net:8000/
+#EXTINF:-1,RO: DIGI SPORT 1 FHD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/496.m3u8
+#EXTINF:-1,RO: DIGI SPORT 2 FHD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/497.m3u8
+#EXTINF:-1,RO: DIGI SPORT 3 FHD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/498.m3u8
+#EXTINF:-1,RO: DIGI SPORT 4 FHD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/499.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 1 FHD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/502.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 2 HD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/401.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 3 FHD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/503.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 4 HD
+http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/403.m3u8
