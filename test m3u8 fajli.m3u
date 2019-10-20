@@ -156,8 +156,7 @@ http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/366.m3u8
 
 
 #EXTINF:-1,////?????  ********
-http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/7731.m3u8
-
+http://iptv.atlasiptv.net:88
 #EXTINF:-1,FR:Bein Sport 1 HD
 http://iptv.atlasiptv.net:88/live/franceunivers/wJHPzr6T5g/7731.m3u8
 #EXTINF:-1,FR:Bein Sport 2 HD
@@ -224,7 +223,7 @@ http://190.2.132.7:8080/live/8901428527/anxnudwz/49.m3u8
 
 
 #EXTINF:-1,??????? ///////
-http://provider-tv.net:8000/
+http://provider-tv.net:8000
 #EXTINF:-1,RO: DIGI SPORT 1 FHD
 http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/496.m3u8
 #EXTINF:-1,RO: DIGI SPORT 2 FHD
