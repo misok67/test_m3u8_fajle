@@ -1,69 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,Sr- Cinestar Action
-http://linux-app.tv:6204/live/adnan123/adnan123/21257.m3u8
-#EXTINF:-1,Sr- Cinestar TV
-http://linux-app.tv:6204/live/adnan123/adnan123/21256.m3u8
-#EXTINF:-1,Sr- HBO 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21253.m3u8
-#EXTINF:-1,Sr- HBO 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21252.m3u8
-#EXTINF:-1,Sr- HBO 3 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21251.m3u8
-#EXTINF:-1,Sr- Pink Film
-http://linux-app.tv:6204/live/adnan123/adnan123/14097.m3u8
-#EXTINF:-1,Yu- Cinemax 1
-http://linux-app.tv:6204/live/adnan123/adnan123/21246.m3u8
-#EXTINF:-1,Yu- Cinemax 2
-http://linux-app.tv:6204/live/adnan123/adnan123/21245.m3u8
-#EXTINF:-1,Yu- Cinestar Premiere 1
-http://linux-app.tv:6204/live/adnan123/adnan123/21244.m3u8
-#EXTINF:-1,Yu- Cinestar Premiere 2
-http://linux-app.tv:6204/live/adnan123/adnan123/21243.m3u8
-#EXTINF:-1,Yu- FOX MOVIES
-http://linux-app.tv:6204/live/adnan123/adnan123/21411.m3u8
-#EXTINF:-1,Yu- HBO Adria
-http://linux-app.tv:6204/live/adnan123/adnan123/21239.m3u8
-#EXTINF:-1,Yu- HBO Comedy
-http://linux-app.tv:6204/live/adnan123/adnan123/21238.m3u8
-#EXTINF:-1,Hr- RTL 2
-http://linux-app.tv:6204/live/adnan123/adnan123/21424.m3u8
-#EXTINF:-1,Hr- RTL Crime HR
-http://linux-app.tv:6204/live/adnan123/adnan123/21423.m3u8
-#EXTINF:-1,Hr- RTL
-http://linux-app.tv:6204/live/adnan123/adnan123/21425.m3u8
-#EXTINF:-1,Yu- RTS 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21269.m3u8
-#EXTINF:-1,Yu- RTS 1
-http://linux-app.tv:6204/live/adnan123/adnan123/21397.m3u8
-#EXTINF:-1,Yu- RTS 2
-http://linux-app.tv:6204/live/adnan123/adnan123/21268.m3u8
-#EXTINF:-1,Yu- RTS 3
-http://linux-app.tv:6204/live/adnan123/adnan123/21396.m3u8
-#EXTINF:-1,Sr- Sport Klub 4
-http://linux-app.tv:6204/live/adnan123/adnan123/28328.m3u8
-#EXTINF:-1,Sr- Sport Klub 5
-http://linux-app.tv:6204/live/adnan123/adnan123/21230.m3u8
-#EXTINF:-1,Sr- Sport Klub 6
-http://linux-app.tv:6204/live/adnan123/adnan123/21229.m3u8
-#EXTINF:-1,Sr- Sport Klub HD 1
-http://linux-app.tv:6204/live/adnan123/adnan123/28329.m3u8
-#EXTINF:-1,Sr- Sport Klub HD 2
-http://linux-app.tv:6204/live/adnan123/adnan123/28330.m3u8
-#EXTINF:-1,Sr- Sport Klub HD 3
-http://linux-app.tv:6204/live/adnan123/adnan123/28331.m3u8
-#EXTINF:-1,Sr- TV1000
-http://linux-app.tv:6204/live/adnan123/adnan123/21248.m3u8
-#EXTINF:-1,Yu- Arena Sport 1 HR HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21225.m3u8
-#EXTINF:-1,Yu- Arena Sport 2 HR HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21224.m3u8
-#EXTINF:-1,Yu- Arena Sport 3 HR HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21223.m3u8
-#EXTINF:-1,Yu- Arena Sport 4 HR HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21222.m3u8
-#EXTINF:-1,Yu- Arena Sport 5 HR HD
-http://linux-app.tv:6204/live/adnan123/adnan123/21221.m3u8
+#EXTINF:-1,AJMO DINAMO
+http://linux-app.tv:6204
+#EXTINF:-1,UK: BT SPORT ESPN
+http://nitro.ltd:25461/live/james/james/3396.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FULL HD
+http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9501.m3u8
+#EXTINF:-1,|NL| Ziggo.Sport.Voetbal
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.m3u8
+#EXTINF:-1,|FR| RMC Sport 2 HD
+http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9217.m3u8
+
 
 #EXTINF:-1,***************----------**********
 http://linux-app.tv:6204
@@ -164,132 +111,6 @@ http://nitro.ltd:25461/live/james/james/3301.m3u8
 #EXTINF:-1,ES: beIN SPORTS LaLiga
 http://nitro.ltd:25461/live/james/james/40021.m3u8
 
-#EXTINF:-1,************** ------------- **********
-http://linux-app.tv:6204
-#EXTINF:-1,De- DAZN Bar 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28357.m3u8
-#EXTINF:-1,De- DAZN Bar 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28358.m3u8
-#EXTINF:-1,De- EUROSPORT 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/27689.m3u8
-#EXTINF:-1,De- EUROSPORT 2 HD XTRA
-http://linux-app.tv:6204/live/adnan123/adnan123/27687.m3u8
-#EXTINF:-1,De- EUROSPORT 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/27688.m3u8
-#EXTINF:-1,De- Sky Sport 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28324.m3u8
-#EXTINF:-1,De- Sky Sport 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28325.m3u8
-#EXTINF:-1,De- Sky Sport Bundesliga 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28323.m3u8
-#EXTINF:-1,Es- BEIN SPORTS
-http://linux-app.tv:6204/live/adnan123/adnan123/10012.m3u8
-#EXTINF:-1,Es- TELEDEPORTE
-http://linux-app.tv:6204/live/adnan123/adnan123/9955.m3u8
-#EXTINF:-1,Fr- BEIN SPORT 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28371.m3u8
-#EXTINF:-1,Fr- BEIN SPORT 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28372.m3u8
-#EXTINF:-1,Fr- BEIN SPORT 3 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28373.m3u8
-#EXTINF:-1,It- Sky Sport 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/9425.m3u8
-#EXTINF:-1,It- Sky Sport 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/9424.m3u8
-#EXTINF:-1,It- Sky Sport 3 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/9422.m3u8
-#EXTINF:-1,NL- FOX SPORTS 1 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21355.m3u8
-#EXTINF:-1,NL- FOX SPORTS 2 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21354.m3u8
-#EXTINF:-1,NL- FOX SPORTS 3 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21353.m3u8
-#EXTINF:-1,NL- FOX SPORTS 4 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21352.m3u8
-#EXTINF:-1,NL- FOX SPORTS 5 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21351.m3u8
-#EXTINF:-1,NL- FOX SPORTS 6 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21350.m3u8
-#EXTINF:-1,NL- FOX Sports 1 HD Backup2
-http://linux-app.tv:6204/live/adnan123/adnan123/13549.m3u8
-#EXTINF:-1,NL- FOX Sports 2 HD Backup2
-http://linux-app.tv:6204/live/adnan123/adnan123/13548.m3u8
-#EXTINF:-1,NL- FOX Sports 3 HD Backup2
-http://linux-app.tv:6204/live/adnan123/adnan123/13547.m3u8
-#EXTINF:-1,NL- FOX Sports 4 HD Backup2
-http://linux-app.tv:6204/live/adnan123/adnan123/13546.m3u8
-#EXTINF:-1,NL- FOX Sports 5 HD Backup2
-http://linux-app.tv:6204/live/adnan123/adnan123/13545.m3u8
-#EXTINF:-1,NL- FOX Sports 6 HD Backup2
-http://linux-app.tv:6204/live/adnan123/adnan123/13544.m3u8
-#EXTINF:-1,NL- Ziggo SPORT SELECT 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21287.m3u8
-#EXTINF:-1,NL- Ziggo SPORT VOETBAL 4K
-http://linux-app.tv:6204/live/adnan123/adnan123/21286.m3u8
-#EXTINF:-1,NL- Ziggo Sport Select HD Backup
-http://linux-app.tv:6204/live/adnan123/adnan123/11193.m3u8
-#EXTINF:-1,NL- Ziggo Sport Select
-http://linux-app.tv:6204/live/adnan123/adnan123/17488.m3u8
-#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
-http://linux-app.tv:6204/live/adnan123/adnan123/11192.m3u8
-#EXTINF:-1,NL- Ziggo Sport Voetbal
-http://linux-app.tv:6204/live/adnan123/adnan123/17487.m3u8
-#EXTINF:-1,Tr- Bein Sport 1 HD 1080 Backup
-http://linux-app.tv:6204/live/adnan123/adnan123/15633.m3u8
-#EXTINF:-1,Tr- Bein Sport 2 HD 1080 Backup
-http://linux-app.tv:6204/live/adnan123/adnan123/15632.m3u8
-#EXTINF:-1,UK- Sky Sports Arena HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28334.m3u8
-#EXTINF:-1,US- BeIN Sports
-http://linux-app.tv:6204/live/adnan123/adnan123/20610.m3u8
-#EXTINF:-1,US- Fox Sports 1
-http://linux-app.tv:6204/live/adnan123/adnan123/20568.m3u8
-#EXTINF:-1,US- Fox Sports 2
-http://linux-app.tv:6204/live/adnan123/adnan123/20567.m3u8
-#EXTINF:-1,Uk- Sky BT Sport 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28335.m3u8
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28337.m3u8
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28333.m3u8
-#EXTINF:-1,Uk- Sky BT Sports Extra 1
-http://linux-app.tv:6204/live/adnan123/adnan123/28336.m3u8
-#EXTINF:-1,Uk- Sky BT Sports Extra 2
-http://linux-app.tv:6204/live/adnan123/adnan123/28338.m3u8
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28347.m3u8
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28348.m3u8
-#EXTINF:-1,Uk- Sky Sport Football
-http://linux-app.tv:6204/live/adnan123/adnan123/28339.m3u8
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28342.m3u8
-#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
-http://linux-app.tv:6204/live/adnan123/adnan123/28332.m3u8
-#EXTINF:-1,Uk- Sky Sports F1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28345.m3u8
-#EXTINF:-1,Uk- Sky Sports Golf HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28343.m3u8
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28340.m3u8
-#EXTINF:-1,Uk- Sky Sports MixHD
-http://linux-app.tv:6204/live/adnan123/adnan123/28346.m3u8
-#EXTINF:-1,Uk- Sky Sports Premier League HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28344.m3u8
-#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
-http://linux-app.tv:6204/live/adnan123/adnan123/28351.m3u8
-#EXTINF:-1,Us- Fox Deportes
-http://linux-app.tv:6204/live/adnan123/adnan123/20637.m3u8
-#EXTINF:-1,Us- TSN 1 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/20627.m3u8
-#EXTINF:-1,Us- TSN 2 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/20626.m3u8
-#EXTINF:-1,Us- TSN 3 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/20625.m3u8
-#EXTINF:-1,Us- TSN 4 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/20624.m3u8
-#EXTINF:-1,Us- TSN 5 HD
-http://linux-app.tv:6204/live/adnan123/adnan123/20623.m3u8
 
 
 #EXTINF:-1,|++++++++++++++ /************
