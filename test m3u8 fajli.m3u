@@ -4,13 +4,12 @@
 http://linux-app.tv:6204
 #EXTINF:-1,UK: BT SPORT ESPN
 http://nitro.ltd:25461/live/james/james/3396.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 FULL HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9501.m3u8
 #EXTINF:-1,|NL| Ziggo.Sport.Voetbal
 http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.m3u8
-#EXTINF:-1,|FR| RMC Sport 2 HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9217.m3u8
-
+#EXTINF:-1,|FR| RMC Sport 3 HD
+http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9216.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FULL HD
+http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9500.m3u8
 
 #EXTINF:-1,***************----------**********
 http://linux-app.tv:6204
