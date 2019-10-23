@@ -292,3 +292,129 @@ http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/401.m3u8
 http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/503.m3u8
 #EXTINF:-1,RO: TELEKOM SPORT 4 HD
 http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/403.m3u8
+
+
+#EXTINF:-1,????????????????????? ///////////// ***************
+http://tvbezgranica.org:8000
+#EXTINF:-1,Sport Klub 1 HD
+http://tvbezgranica.org:8000/live/konj/budala/69376.m3u8
+#EXTINF:-1,Sport Klub 1 HR backup
+http://tvbezgranica.org:8000/live/konj/budala/70224.m3u8
+#EXTINF:-1,Sport Klub 1 HR
+http://tvbezgranica.org:8000/live/konj/budala/254.m3u8
+#EXTINF:-1,Sport Klub 1
+http://tvbezgranica.org:8000/live/konj/budala/251.m3u8
+#EXTINF:-1,Sport Klub 2 HR
+http://tvbezgranica.org:8000/live/konj/budala/253.m3u8
+#EXTINF:-1,Sport Klub 2
+http://tvbezgranica.org:8000/live/konj/budala/250.m3u8
+#EXTINF:-1,Sport Klub 3 HR
+http://tvbezgranica.org:8000/live/konj/budala/252.m3u8
+#EXTINF:-1,Sport Klub 3
+http://tvbezgranica.org:8000/live/konj/budala/249.m3u8
+#EXTINF:-1,Sport Klub 4 HR
+http://tvbezgranica.org:8000/live/konj/budala/4560.m3u8
+#EXTINF:-1,Sport Klub 4
+http://tvbezgranica.org:8000/live/konj/budala/248.m3u8
+#EXTINF:-1,Sport Klub 5 HR
+http://tvbezgranica.org:8000/live/konj/budala/4561.m3u8
+#EXTINF:-1,Sport Klub 5
+http://tvbezgranica.org:8000/live/konj/budala/247.m3u8
+#EXTINF:-1,Sport Klub 6
+http://tvbezgranica.org:8000/live/konj/budala/16704.m3u8
+#EXTINF:-1,Sport Klub HD
+http://tvbezgranica.org:8000/live/konj/budala/255.m3u8
+#EXTINF:-1,Arena Sport 1 HR backup
+http://tvbezgranica.org:8000/live/konj/budala/70646.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://tvbezgranica.org:8000/live/konj/budala/266.m3u8
+#EXTINF:-1,Arena Sport 1 backup
+http://tvbezgranica.org:8000/live/konj/budala/20066.m3u8
+#EXTINF:-1,Arena Sport 1
+http://tvbezgranica.org:8000/live/konj/budala/265.m3u8
+#EXTINF:-1,Arena Sport 2 HR backup
+http://tvbezgranica.org:8000/live/konj/budala/70647.m3u8
+#EXTINF:-1,Arena Sport 2 HR
+http://tvbezgranica.org:8000/live/konj/budala/264.m3u8
+#EXTINF:-1,Arena Sport 2 backup
+http://tvbezgranica.org:8000/live/konj/budala/20065.m3u8
+#EXTINF:-1,Arena Sport 2
+http://tvbezgranica.org:8000/live/konj/budala/263.m3u8
+#EXTINF:-1,Arena Sport 3 HR backup
+http://tvbezgranica.org:8000/live/konj/budala/70648.m3u8
+#EXTINF:-1,Arena Sport 3 HR
+http://tvbezgranica.org:8000/live/konj/budala/262.m3u8
+#EXTINF:-1,Arena Sport 3 backup
+http://tvbezgranica.org:8000/live/konj/budala/20064.m3u8
+#EXTINF:-1,Arena Sport 3
+http://tvbezgranica.org:8000/live/konj/budala/261.m3u8
+#EXTINF:-1,Arena Sport 4 HR backup
+http://tvbezgranica.org:8000/live/konj/budala/70649.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://tvbezgranica.org:8000/live/konj/budala/260.m3u8
+#EXTINF:-1,Arena Sport 4 backup
+http://tvbezgranica.org:8000/live/konj/budala/20063.m3u8
+#EXTINF:-1,Arena Sport 4
+http://tvbezgranica.org:8000/live/konj/budala/259.m3u8
+#EXTINF:-1,Arena Sport 5 HR backup
+http://tvbezgranica.org:8000/live/konj/budala/70650.m3u8
+#EXTINF:-1,Arena Sport 5 HR
+http://tvbezgranica.org:8000/live/konj/budala/258.m3u8
+#EXTINF:-1,Arena Sport 5 backup
+http://tvbezgranica.org:8000/live/konj/budala/20062.m3u8
+#EXTINF:-1,Arena Sport 5
+http://tvbezgranica.org:8000/live/konj/budala/257.m3u8
+#EXTINF:-1,Arena Sport 6 HR backup
+http://tvbezgranica.org:8000/live/konj/budala/70651.m3u8
+#EXTINF:-1,Arena Sport 6 HR
+http://tvbezgranica.org:8000/live/konj/budala/8771.m3u8
+#EXTINF:-1,HBO 2
+http://tvbezgranica.org:8000/live/konj/budala/336.m3u8
+#EXTINF:-1,HBO 3
+http://tvbezgranica.org:8000/live/konj/budala/335.m3u8
+#EXTINF:-1,HBO
+http://tvbezgranica.org:8000/live/konj/budala/337.m3u8
+#EXTINF:-1,Cinemax 1
+http://tvbezgranica.org:8000/live/konj/budala/343.m3u8
+#EXTINF:-1,Cinemax 2
+http://tvbezgranica.org:8000/live/konj/budala/342.m3u8
+#EXTINF:-1,Cinestar Action
+http://tvbezgranica.org:8000/live/konj/budala/338.m3u8
+#EXTINF:-1,Cinestar Fantasy
+http://tvbezgranica.org:8000/live/konj/budala/4617.m3u8
+#EXTINF:-1,Cinestar Premiere 1 MK
+http://tvbezgranica.org:8000/live/konj/budala/69070.m3u8
+#EXTINF:-1,Cinestar Premiere 1
+http://tvbezgranica.org:8000/live/konj/budala/341.m3u8
+#EXTINF:-1,Cinestar Premiere 2 MK
+http://tvbezgranica.org:8000/live/konj/budala/69069.m3u8
+#EXTINF:-1,Cinestar Premiere 2
+http://tvbezgranica.org:8000/live/konj/budala/340.m3u8
+#EXTINF:-1,Cinestar TV
+http://tvbezgranica.org:8000/live/konj/budala/339.m3u8
+#EXTINF:-1,Fox Movies
+http://tvbezgranica.org:8000/live/konj/budala/381.m3u8
+#EXTINF:-1,Klasik TV
+http://tvbezgranica.org:8000/live/konj/budala/330.m3u8
+#EXTINF:-1,Pink Film
+http://tvbezgranica.org:8000/live/konj/budala/399.m3u8
+#EXTINF:-1,RTL 2
+http://tvbezgranica.org:8000/live/konj/budala/3973.m3u8
+#EXTINF:-1,RTL Crime
+http://tvbezgranica.org:8000/live/konj/budala/135.m3u8
+#EXTINF:-1,Doma TV HD
+http://tvbezgranica.org:8000/live/konj/budala/20073.m3u8
+#EXTINF:-1,RTS1
+http://tvbezgranica.org:8000/live/konj/budala/163.m3u8
+#EXTINF:-1,.RTS 2
+http://tvbezgranica.org:8000/live/konj/budala/162.m3u8
+#EXTINF:-1,.RTS 3
+http://tvbezgranica.org:8000/live/konj/budala/161.m3u8
+#EXTINF:-1,SLO: FOX Movies
+http://tvbezgranica.org:8000/live/konj/budala/19904.m3u8
+#EXTINF:-1,SLO: HBO 1
+http://tvbezgranica.org:8000/live/konj/budala/19903.m3u8
+#EXTINF:-1,SLO: HBO 2
+http://tvbezgranica.org:8000/live/konj/budala/19902.m3u8
+#EXTINF:-1,SLO: HBO 3
+http://tvbezgranica.org:8000/live/konj/budala/19901.m3u8
