@@ -1,420 +1,256 @@
 #EXTM3U
 
 
-#EXTINF:-1,HR: Sport Klub 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3036.m3u8
-#EXTINF:-1,HR: Sport Klub 2
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3037.m3u8
-#EXTINF:-1,HR: Sport Klub 3
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3038.m3u8
-#EXTINF:-1,RS: Sport Klub 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/120816.m3u8
-#EXTINF:-1,RS: Sport Klub 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/175714.m3u8
-#EXTINF:-1,RS: Sport Klub 3 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/175715.m3u8
-#EXTINF:-1,RS: RTS 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2961.m3u8
-#EXTINF:-1,RS: RTS 2
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2962.m3u8
-#EXTINF:-1,RS: RTS 3
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2963.m3u8
-#EXTINF:-1,RS: Arena Sport 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2986.m3u8
-#EXTINF:-1,RS: Arena Sport 2
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2987.m3u8
-#EXTINF:-1,RS: Arena Sport 3
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2988.m3u8
-#EXTINF:-1,RS: Arena Sport 4
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2989.m3u8
-#EXTINF:-1,RS: Arena Sport 5
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2990.m3u8
-#EXTINF:-1,HR: ARENA SPORT 1 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/898.m3u8
-#EXTINF:-1,HR: ARENA SPORT 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/899.m3u8
-#EXTINF:-1,HR: ARENA SPORT 3 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/900.m3u8
-#EXTINF:-1,HR: ARENA SPORT 4 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/901.m3u8
-#EXTINF:-1,HR: ARENA SPORT 5 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/902.m3u8
-#EXTINF:-1,HR: ARENA SPORT 6 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/175710.m3u8
-#EXTINF:-1,HR: HBO Adria
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3040.m3u8
-#EXTINF:-1,RS: HBO HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/176074.m3u8
-#EXTINF:-1,RS: HBO 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/176075.m3u8
-#EXTINF:-1,HR: HBO 3 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/176572.m3u8
-#EXTINF:-1,RS: Cinemax 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2995.m3u8
-#EXTINF:-1,RS: Cinemax 2
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2996.m3u8
-#EXTINF:-1,RS: Cinestar TV Action
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2999.m3u8
-#EXTINF:-1,RS: Cinestar TV Premiere 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/2997.m3u8
-#EXTINF:-1,RS: Fox Movies
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/176071.m3u8
-#EXTINF:-1,RS: Pink Film
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3005.m3u8
-#EXTINF:-1,HR: Klasik TV
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3042.m3u8
-#EXTINF:-1,RS: Tv1000
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/176068.m3u8
-#EXTINF:-1,HR: RTL 2
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3024.m3u8
-#EXTINF:-1,HR: RTL Crime
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/176049.m3u8
-#EXTINF:-1,HR: RTL
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3023.m3u8
-#EXTINF:-1,HR: Nova TV
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3022.m3u8
-#EXTINF:-1,HR: Doma TV
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3021.m3u8
-
-
-#EXTINF:-1,|++++++++++++++ /************
-http://vpro.webvps.de:25443
-#EXTINF:-1,|FR| CANAL  SPORT FHD BKPh
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51166.m3u8
-#EXTINF:-1,|FR| BEINSPORT 1 FR FULL HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9589.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 1 FHD BKP
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51102.m3u8
-#EXTINF:-1,|FR| BEINSPORT 2 FR FULL HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9588.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 2 FHD BKP
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51101.m3u8
-#EXTINF:-1,|FR| BEINSPORT 3 FR FULL HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9587.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51100.m3u8
-#EXTINF:-1,|FR| RMC Sport 1 Full HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9502.m3u8
-#EXTINF:-1,|FR| RMC Sport 2 HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9217.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 FULL HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9501.m3u8
-#EXTINF:-1,|FR| RMC Sport 3 HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9216.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 FULL HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9500.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 FULL HD
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9499.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40480.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 6
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40479.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 7
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40478.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 8
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40477.m3u8
-#EXTINF:-1,|FR| INFOSPORT HD.
-http://vpro.webvps.de:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9265.m3u8
-
-#EXTINF:-1,+++++++++++++++++++++ '''''''''''''''''''' *********************
-http://93.158.238.10:8000
-#EXTINF:-1,DE: Dazn Bar 1 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/184952.m3u8
-#EXTINF:-1,DE: Dazn Bar 1 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/161313.m3u8
-#EXTINF:-1,DE: Dazn Bar 2 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/184953.m3u8
-#EXTINF:-1,DE: Dazn Bar 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/161314.m3u8
-#EXTINF:-1,DE: Eurosport 1 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/173729.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/30049.m3u8
-#EXTINF:-1,DE: Eurosport 2 Xtra FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/133919.m3u8
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD 1080P
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/29997.m3u8
-#EXTINF:-1,DE: Sky Sport 1 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/132798.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD 1080P
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/30036.m3u8
-#EXTINF:-1,DE: Sky Sport 2 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/132797.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/30039.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 EREDIVISIE HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/474.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 INTERNATIONAL
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/475.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/480.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 INTERNATIONAL
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/510.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 EREDIVISIE HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/485.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 INTERNATIONAL
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/511.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3218.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/3219.m3u8
-#EXTINF:-1,SKY-IT: SKY SPORT 1 FHD (Canale 251)
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/134116.m3u8
-#EXTINF:-1,SKY-IT: SKY SPORT 2 FHD (Canale 252)
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169387.m3u8
-#EXTINF:-1,SKY-IT: SKY SPORT 24 HD +
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/184234.m3u8
-#EXTINF:-1,SKY-IT: SKY SPORT 3 FHD (Canale 253)
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169388.m3u8
-#EXTINF:-1,SKY-IT: SKY SPORT FOOTBALL HD +
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/131349.m3u8
-#EXTINF:-1,SKY-IT: Sky Sport 251 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169390.m3u8
-#EXTINF:-1,SKY-IT: Sky Sport 252 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169391.m3u8
-#EXTINF:-1,SKY-IT: Sky Sport 253 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169392.m3u8
-#EXTINF:-1,SKY-IT: Sky Sport 254 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169393.m3u8
-#EXTINF:-1,SKY-IT: Sky Sport 255 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169394.m3u8
-#EXTINF:-1,SKY-IT: Sky Sport 256 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/169395.m3u8
-#EXTINF:-1,UK: BT Sport ESPN FHD 50fps
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187531.m3u8
-#EXTINF:-1,UK: BT Sports 1 FHD 50fps
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187534.m3u8
-#EXTINF:-1,UK: BT Sports 1 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/179086.m3u8
-#EXTINF:-1,UK: BT Sports 2 FHD 50fps
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187533.m3u8
-#EXTINF:-1,UK: BT Sports 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/179087.m3u8
-#EXTINF:-1,UK: BT Sports 2 SD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/1298.m3u8
-#EXTINF:-1,UK: BT Sports 3 FHD 50fps
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187532.m3u8
-#EXTINF:-1,UK: BT Sports 3 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/179088.m3u8
-#EXTINF:-1,UK: BT Sports 3 SD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/123269.m3u8
-#EXTINF:-1,UK: Eurosport 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/14975.m3u8
-#EXTINF:-1,UK: Eurosport 2
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/14976.m3u8
-#EXTINF:-1,UK: Sky Sports Action FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/14982.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/14981.m3u8
-#EXTINF:-1,UK: Sky Sports Arena FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/174630.m3u8
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/179526.m3u8
-#EXTINF:-1,UK: Sky Sports F1 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/14977.m3u8
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/1313.m3u8
-#EXTINF:-1,UK: Sky Sports Main Events FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/14986.m3u8
-#EXTINF:-1,UK: Sky Sports Main Events HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/1308.m3u8
-#EXTINF:-1,UK: Sky Sports Mix FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/204170.m3u8
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/204171.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/14979.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/1312.m3u8
-#EXTINF:-1,EPL: beIN SPORTS HD 1 TH
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187613.m3u8
-#EXTINF:-1,EPL: beIN SPORTS HD 2 TH
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187612.m3u8
-#EXTINF:-1,EPL: beIN SPORTS HD 3 TH
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187611.m3u8
-#EXTINF:-1,EPL: beIN SPORTS HD 4 TH
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/187610.m3u8
-#EXTINF:-1,ES: M. Deportes 1 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/211187.m3u8
-#EXTINF:-1,ES: M. Deportes 2 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/211188.m3u8
-#EXTINF:-1,ES: Movistar Deportes 1
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/174639.m3u8
-#EXTINF:-1,ES: TELEDEPORTE FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/211126.m3u8
-#EXTINF:-1,ES: Teledeporte HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/178734.m3u8
-#EXTINF:-1,US: Fox Sport 1 HD (FS1)
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/130890.m3u8
-#EXTINF:-1,US: Fox Sport 2 HD (FS2)
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/130889.m3u8
-#EXTINF:-1,CA: TSN 1 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/197399.m3u8
-#EXTINF:-1,CA: TSN 2 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/197406.m3u8
-#EXTINF:-1,CA: TSN 3 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/197404.m3u8
-#EXTINF:-1,CA: TSN 4 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/197402.m3u8
-#EXTINF:-1,CA: TSN 5 FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/197401.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 10 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/751.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 11 HD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/752.m3u8
-#EXTINF:-1,CA: beIN Sports FHD
-http://93.158.238.10:8000/live/Xm2Kp2Oi9u/fgh3K2GhvP/197470.m3u8
-
-#EXTINF:-1,|NL| /////// *******
-http://iptv4.premium-stv.com:8000
-#EXTINF:-1,|NL| Ziggo.Sport.Voetbal
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.m3u8
-#EXTINF:-1,|NL| Ziggo.Sport.Select.HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/743.m3u8
-#EXTINF:-1,|NL| Ziggo.Sport.Golf
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/744.m3u8
-
-#EXTINF:-1,////?????  ********
-http://iptv.atlasiptv.net:88
-#EXTINF:-1,RO: DIGI SPORT 1 FHD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/496.m3u8
-#EXTINF:-1,RO: DIGI SPORT 2 FHD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/497.m3u8
-#EXTINF:-1,RO: DIGI SPORT 3 FHD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/498.m3u8
-#EXTINF:-1,RO: DIGI SPORT 4 FHD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/499.m3u8
-#EXTINF:-1,RO: TELEKOM SPORT 1 FHD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/502.m3u8
-#EXTINF:-1,RO: TELEKOM SPORT 2 HD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/401.m3u8
-#EXTINF:-1,RO: TELEKOM SPORT 3 FHD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/503.m3u8
-#EXTINF:-1,RO: TELEKOM SPORT 4 HD
-http://provider-tv.net:8000/live/Doros_Adrian/wF76hVfP/403.m3u8
-
-
-#EXTINF:-1,????????????????????? ///////////// ***************
-http://tvbezgranica.org:8000
 #EXTINF:-1,Sport Klub 1 HD
-http://tvbezgranica.org:8000/live/konj/budala/69376.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69376.m3u8
 #EXTINF:-1,Sport Klub 1 HR backup
-http://tvbezgranica.org:8000/live/konj/budala/70224.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70224.m3u8
 #EXTINF:-1,Sport Klub 1 HR
-http://tvbezgranica.org:8000/live/konj/budala/254.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/254.m3u8
 #EXTINF:-1,Sport Klub 1
-http://tvbezgranica.org:8000/live/konj/budala/251.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/251.m3u8
 #EXTINF:-1,Sport Klub 2 HR
-http://tvbezgranica.org:8000/live/konj/budala/253.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/253.m3u8
 #EXTINF:-1,Sport Klub 2
-http://tvbezgranica.org:8000/live/konj/budala/250.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/250.m3u8
 #EXTINF:-1,Sport Klub 3 HR
-http://tvbezgranica.org:8000/live/konj/budala/252.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/252.m3u8
 #EXTINF:-1,Sport Klub 3
-http://tvbezgranica.org:8000/live/konj/budala/249.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/249.m3u8
 #EXTINF:-1,Sport Klub 4 HR
-http://tvbezgranica.org:8000/live/konj/budala/4560.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/4560.m3u8
 #EXTINF:-1,Sport Klub 4
-http://tvbezgranica.org:8000/live/konj/budala/248.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/248.m3u8
 #EXTINF:-1,Sport Klub 5 HR
-http://tvbezgranica.org:8000/live/konj/budala/4561.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/4561.m3u8
 #EXTINF:-1,Sport Klub 5
-http://tvbezgranica.org:8000/live/konj/budala/247.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/247.m3u8
 #EXTINF:-1,Sport Klub 6
-http://tvbezgranica.org:8000/live/konj/budala/16704.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/16704.m3u8
 #EXTINF:-1,Sport Klub HD
-http://tvbezgranica.org:8000/live/konj/budala/255.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/255.m3u8
 #EXTINF:-1,Arena Sport 1 HR backup
-http://tvbezgranica.org:8000/live/konj/budala/70646.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70646.m3u8
 #EXTINF:-1,Arena Sport 1 HR
-http://tvbezgranica.org:8000/live/konj/budala/266.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/266.m3u8
 #EXTINF:-1,Arena Sport 1 backup
-http://tvbezgranica.org:8000/live/konj/budala/20066.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20066.m3u8
 #EXTINF:-1,Arena Sport 1
-http://tvbezgranica.org:8000/live/konj/budala/265.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/265.m3u8
 #EXTINF:-1,Arena Sport 2 HR backup
-http://tvbezgranica.org:8000/live/konj/budala/70647.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70647.m3u8
 #EXTINF:-1,Arena Sport 2 HR
-http://tvbezgranica.org:8000/live/konj/budala/264.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/264.m3u8
 #EXTINF:-1,Arena Sport 2 backup
-http://tvbezgranica.org:8000/live/konj/budala/20065.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20065.m3u8
 #EXTINF:-1,Arena Sport 2
-http://tvbezgranica.org:8000/live/konj/budala/263.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/263.m3u8
 #EXTINF:-1,Arena Sport 3 HR backup
-http://tvbezgranica.org:8000/live/konj/budala/70648.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70648.m3u8
 #EXTINF:-1,Arena Sport 3 HR
-http://tvbezgranica.org:8000/live/konj/budala/262.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/262.m3u8
 #EXTINF:-1,Arena Sport 3 backup
-http://tvbezgranica.org:8000/live/konj/budala/20064.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20064.m3u8
 #EXTINF:-1,Arena Sport 3
-http://tvbezgranica.org:8000/live/konj/budala/261.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/261.m3u8
 #EXTINF:-1,Arena Sport 4 HR backup
-http://tvbezgranica.org:8000/live/konj/budala/70649.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70649.m3u8
 #EXTINF:-1,Arena Sport 4 HR
-http://tvbezgranica.org:8000/live/konj/budala/260.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/260.m3u8
 #EXTINF:-1,Arena Sport 4 backup
-http://tvbezgranica.org:8000/live/konj/budala/20063.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20063.m3u8
 #EXTINF:-1,Arena Sport 4
-http://tvbezgranica.org:8000/live/konj/budala/259.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/259.m3u8
 #EXTINF:-1,Arena Sport 5 HR backup
-http://tvbezgranica.org:8000/live/konj/budala/70650.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70650.m3u8
 #EXTINF:-1,Arena Sport 5 HR
-http://tvbezgranica.org:8000/live/konj/budala/258.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/258.m3u8
 #EXTINF:-1,Arena Sport 5 backup
-http://tvbezgranica.org:8000/live/konj/budala/20062.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20062.m3u8
 #EXTINF:-1,Arena Sport 5
-http://tvbezgranica.org:8000/live/konj/budala/257.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/257.m3u8
 #EXTINF:-1,Arena Sport 6 HR backup
-http://tvbezgranica.org:8000/live/konj/budala/70651.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70651.m3u8
 #EXTINF:-1,Arena Sport 6 HR
-http://tvbezgranica.org:8000/live/konj/budala/8771.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/8771.m3u8
 #EXTINF:-1,HBO 2
-http://tvbezgranica.org:8000/live/konj/budala/336.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/336.m3u8
 #EXTINF:-1,HBO 3
-http://tvbezgranica.org:8000/live/konj/budala/335.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/335.m3u8
 #EXTINF:-1,HBO
-http://tvbezgranica.org:8000/live/konj/budala/337.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/337.m3u8
 #EXTINF:-1,Cinemax 1
-http://tvbezgranica.org:8000/live/konj/budala/343.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/343.m3u8
 #EXTINF:-1,Cinemax 2
-http://tvbezgranica.org:8000/live/konj/budala/342.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/342.m3u8
 #EXTINF:-1,Cinestar Action
-http://tvbezgranica.org:8000/live/konj/budala/338.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/338.m3u8
 #EXTINF:-1,Cinestar Fantasy
-http://tvbezgranica.org:8000/live/konj/budala/4617.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/4617.m3u8
 #EXTINF:-1,Cinestar Premiere 1 MK
-http://tvbezgranica.org:8000/live/konj/budala/69070.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69070.m3u8
 #EXTINF:-1,Cinestar Premiere 1
-http://tvbezgranica.org:8000/live/konj/budala/341.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/341.m3u8
 #EXTINF:-1,Cinestar Premiere 2 MK
-http://tvbezgranica.org:8000/live/konj/budala/69069.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69069.m3u8
 #EXTINF:-1,Cinestar Premiere 2
-http://tvbezgranica.org:8000/live/konj/budala/340.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/340.m3u8
 #EXTINF:-1,Cinestar TV
-http://tvbezgranica.org:8000/live/konj/budala/339.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/339.m3u8
 #EXTINF:-1,Fox Movies
-http://tvbezgranica.org:8000/live/konj/budala/381.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/381.m3u8
 #EXTINF:-1,Klasik TV
-http://tvbezgranica.org:8000/live/konj/budala/330.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/330.m3u8
 #EXTINF:-1,Pink Film
-http://tvbezgranica.org:8000/live/konj/budala/399.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/399.m3u8
 #EXTINF:-1,RTL 2
-http://tvbezgranica.org:8000/live/konj/budala/3973.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/3973.m3u8
 #EXTINF:-1,RTL Crime
-http://tvbezgranica.org:8000/live/konj/budala/135.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/135.m3u8
 #EXTINF:-1,Doma TV HD
-http://tvbezgranica.org:8000/live/konj/budala/20073.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20073.m3u8
 #EXTINF:-1,RTS1
-http://tvbezgranica.org:8000/live/konj/budala/163.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/163.m3u8
 #EXTINF:-1,.RTS 2
-http://tvbezgranica.org:8000/live/konj/budala/162.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/162.m3u8
 #EXTINF:-1,.RTS 3
-http://tvbezgranica.org:8000/live/konj/budala/161.m3u8
-#EXTINF:-1,SLO: FOX Movies
-http://tvbezgranica.org:8000/live/konj/budala/19904.m3u8
-#EXTINF:-1,SLO: HBO 1
-http://tvbezgranica.org:8000/live/konj/budala/19903.m3u8
-#EXTINF:-1,SLO: HBO 2
-http://tvbezgranica.org:8000/live/konj/budala/19902.m3u8
-#EXTINF:-1,SLO: HBO 3
-http://tvbezgranica.org:8000/live/konj/budala/19901.m3u8
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/161.m3u8
+
+#EXTINF:0,***********  SSSPPPOOORT  **********
+http://iptv1.premium-stv.com:8000
+#EXTINF:-1,DE: DAZN 1 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/30854.ts
+#EXTINF:-1,DE: DAZN 2 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/30855.m3u8
+#EXTINF:-1,DE: Eurosport 1
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/6662.m3u8
+#EXTINF:-1,DE: Eurosport 2
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/6663.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/235.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/237.m3u8
+#EXTINF:-1,DE: Sky Sport 1 SD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69366.m3u8
+#EXTINF:-1,DE: Sky Sport 2
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/236.m3u8
+#EXTINF:-1,NL: Fox Sport 1
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68890.m3u8
+#EXTINF:-1,NL: Fox Sport 2
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68891.m3u8
+#EXTINF:-1,NL: Fox Sport 3
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68892.m3u8
+#EXTINF:-1,NL: Fox Sport 4
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68893.m3u8
+#EXTINF:-1,NL: Fox Sport 5
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68894.m3u8
+#EXTINF:-1,NL: Fox Sport 6
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68895.m3u8
+#EXTINF:-1,NL: Fox Spo.m3u8 1 HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72595.m3u8
+#EXTINF:-1,NL: Fox Spo.m3u8 2 HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72596.m3u8
+#EXTINF:-1,NL: Fox Spo.m3u8 3 HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72597.m3u8
+#EXTINF:-1,NL: Fox Spo.m3u8 4 HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72598.m3u8
+#EXTINF:-1,NL: Fox Spo.m3u8 5 HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72599.m3u8
+#EXTINF:-1,NL: Fox Spo.m3u8 6 HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72600.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72604.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72609.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68900.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD*
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72605.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72610.m3u8
+#EXTINF:-1,TR: beIN Spo.m3u8 1 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/71853.m3u8
+#EXTINF:-1,TR: beIN Spo.m3u8 2 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/71854.m3u8
+#EXTINF:-1,UK: BT Sport 1
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70656.m3u8
+#EXTINF:-1,UK: BT Sport 2
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70659.m3u8
+#EXTINF:-1,UK: BT Sport 3
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70661.m3u8
+#EXTINF:-1,UK: Sky Spo.m3u8 Mix HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70665.m3u8
+#EXTINF:-1,Bein Sport 1 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/311.m3u8
+#EXTINF:-1,Bein Sport 2 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/310.m3u8
+#EXTINF:-1,Bein Sport 3 HD
+http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/309.m3u8
+#EXTINF:0,|FR| RMC SPORTS 1 FULL HD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/1.ts
+#EXTINF:0,|FR| RMC SPORT 1 HD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/6.ts
+#EXTINF:0,|FR| RMC SPORTS 2 FULLHD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/2.ts
+#EXTINF:0,|FR| RMC SPORT 2 HD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/7.ts
+#EXTINF:0,|FR| RMC SPORTS 3 FULLHD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/3.ts
+#EXTINF:0,|FR| RMC SPORT 3 HD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/8.ts
+#EXTINF:0,|FR| RMC SPORT 4 FHD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS4/aiPsW9T1C4/4.ts
+#EXTINF:0,|FR| RMC SPORTS 5 FULLHD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS5/W8HNZy0vrs/5.ts
+#EXTINF:0,|FR| RMC SPORT LIVE 6 FHD
+http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/16.ts
+#EXTINF:0,|FR| RMC SPORT LIVE 7 FHD
+http://iptv1.premium-stv.com:8000/live/ALLRMCSPORTS/7r6m82SRUl/17.ts
+#EXTINF:0,|FR| CANAL+ SPORT FULLHD
+http://iptv1.premium-stv.com:8000/live/CANALAPLUS/laC5eURPY8/27.ts
+#EXTINF:0,|FR| beINSPORTS 1 FULLHD
+http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/33.ts
+#EXTINF:0,|FR| beINSPORTS 2 FULLHD
+http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.ts
+#EXTINF:0,|FR| beINSPORTS 3 FULLHD
+http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts
+#EXTINF:0,|FR| INFOSPORT FHD
+http://iptvpro.vision-new.org:8789/Uxm5p0AhMm/zvjHhpZsjA/245
+#EXTINF:0,|AR| beINSPORTS HD 11
+http://iptvpro.vision-new.org:8789/Uxm5p0AhMm/zvjHhpZsjA/4371
+#EXTINF:0,|AR| beINSPORTS HD 12
+http://iptvpro.vision-new.org:8789/Uxm5p0AhMm/zvjHhpZsjA/4370
+#EXTINF:0,|AR| BEINSPORTS 1 FULLHD
+http://163.172.89.127:8888/live/BEIN1/GQEZOG45EAZR63/25.ts
+#EXTINF:0,|AR| BEINSPORTS 2 FULLHD
+http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/26.ts
+#EXTINF:0,|AR| BEINSPORTS 3 FULLHD
+http://163.172.89.127:8888/live/BEIN3/0jWkR45MqZ/27.ts
+#EXTINF:0,|AR| BEINSPORTS 4 FULLHD
+http://163.172.89.127:8888/live/BEIN4/SSMDSHFKod/28.ts
+#EXTINF:0,|AR| BEINSPORTS 5 FULLHD
+http://163.172.89.127:8888/live/BEIN5/Awq87aGnqS/29.ts
+#EXTINF:0,|AR| BEINSPORTS 6 FULLHD
+http://163.172.89.127:8888/live/BEIN6/ZffOncRDKK/32.ts
+#EXTINF:0,|AR| BEINSPORTS 7 FULLHD
+http://163.172.89.127:8888/live/BEIN7/uVXyuCtM1h/33.ts
+#EXTINF:0,|AR| BEINSPORTS 8 FULLHD
+http://163.172.89.127:8888/live/BEIN8/XkI3AtcEjT/34.ts
+#EXTINF:0,|AR| BEINSPORTS 9 FULLHD
+http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/30.ts
+#EXTINF:0,|AR| BEINSPORTS 10 FULLHD
+http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/31.ts
+
+
+#EXTINF:0,|NL| Ziggo.Sport.Voetbal_Website : en.tousecurity.com
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.ts
+#EXTINF:0,|NL| Ziggo.Sport.Select.HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/743.ts
+#EXTINF:0,|NL| Ziggo.Sport.Golf
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/744.ts
+#EXTINF:0,|NL| FOX.Sports.EDL.3 HD
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/779.ts
+#EXTINF:0,|NL| FOX.Sports.EDL.1.HD_Website : en.tousecurity.com
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/780.ts
+#EXTINF:0,|NL| FOX.Channel
+http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/781.ts
