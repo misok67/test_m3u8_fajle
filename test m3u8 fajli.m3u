@@ -1,191 +1,192 @@
 #EXTM3U
 
-
-#EXTINF:-1,Sport Klub 1 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69376.m3u8
-#EXTINF:-1,Sport Klub 1 HR backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70224.m3u8
-#EXTINF:-1,Sport Klub 1 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/254.m3u8
-#EXTINF:-1,Sport Klub 1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/251.m3u8
-#EXTINF:-1,Sport Klub 2 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/253.m3u8
-#EXTINF:-1,Sport Klub 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/250.m3u8
-#EXTINF:-1,Sport Klub 3 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/252.m3u8
-#EXTINF:-1,Sport Klub 3
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/249.m3u8
-#EXTINF:-1,Sport Klub 4 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/4560.m3u8
-#EXTINF:-1,Sport Klub 4
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/248.m3u8
-#EXTINF:-1,Sport Klub 5 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/4561.m3u8
-#EXTINF:-1,Sport Klub 5
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/247.m3u8
-#EXTINF:-1,Sport Klub 6
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/16704.m3u8
-#EXTINF:-1,Sport Klub HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/255.m3u8
-#EXTINF:-1,Arena Sport 1 HR backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70646.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/266.m3u8
-#EXTINF:-1,Arena Sport 1 backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20066.m3u8
+#EXTINF:-1,SPORT KLUB 1 HR
+http://dunav007.hopto.org:8000/live/adnan/adnan/189.m3u8
+#EXTINF:-1,SPORT KLUB 1 SR
+http://dunav007.hopto.org:8000/live/adnan/adnan/195.m3u8
+#EXTINF:-1,SPORT KLUB 2 HR
+http://dunav007.hopto.org:8000/live/adnan/adnan/190.m3u8
+#EXTINF:-1,SPORT KLUB 2 SR
+http://dunav007.hopto.org:8000/live/adnan/adnan/196.m3u8
+#EXTINF:-1,SPORT KLUB 3 HR
+http://dunav007.hopto.org:8000/live/adnan/adnan/191.m3u8
+#EXTINF:-1,SPORT KLUB 3 SR
+http://dunav007.hopto.org:8000/live/adnan/adnan/197.m3u8
+#EXTINF:-1,SPORT KLUB 4
+http://dunav007.hopto.org:8000/live/adnan/adnan/192.m3u8
+#EXTINF:-1,SPORT KLUB 5
+http://dunav007.hopto.org:8000/live/adnan/adnan/193.m3u8
+#EXTINF:-1,SPORT KLUB 6
+http://dunav007.hopto.org:8000/live/adnan/adnan/194.m3u8
+#EXTINF:-1,SPORT KLUB HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/188.m3u8
+#EXTINF:-1,Arena Sport 1 Srb
+http://dunav007.hopto.org:8000/live/adnan/adnan/203.m3u8
+#EXTINF:-1,Arena Sport 2 Srb
+http://dunav007.hopto.org:8000/live/adnan/adnan/204.m3u8
+#EXTINF:-1,Arena Sport 3 Srb
+http://dunav007.hopto.org:8000/live/adnan/adnan/205.m3u8
+#EXTINF:-1,Arena Sport 4 Srb
+http://dunav007.hopto.org:8000/live/adnan/adnan/206.m3u8
+#EXTINF:-1,Arena Sport 5 Srb
+http://dunav007.hopto.org:8000/live/adnan/adnan/207.m3u8
+#EXTINF:-1,Arena Sports 1 HD Croatia
+http://dunav007.hopto.org:8000/live/adnan/adnan/198.m3u8
+#EXTINF:-1,Arena Sports 2 HD Croatia
+http://dunav007.hopto.org:8000/live/adnan/adnan/199.m3u8
+#EXTINF:-1,Arena Sports 3 HD Croatia
+http://dunav007.hopto.org:8000/live/adnan/adnan/200.m3u8
+#EXTINF:-1,Arena Sports 4 HD Croatia
+http://dunav007.hopto.org:8000/live/adnan/adnan/201.m3u8
+#EXTINF:-1,Arena Sports 5 HD Croatia
+http://dunav007.hopto.org:8000/live/adnan/adnan/202.m3u8
+#EXTINF:-1,Arena Sports 6 HD Croatia
+http://dunav007.hopto.org:8000/live/adnan/adnan/1092.m3u8
 #EXTINF:-1,Arena Sport 1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/265.m3u8
-#EXTINF:-1,Arena Sport 2 HR backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70647.m3u8
-#EXTINF:-1,Arena Sport 2 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/264.m3u8
-#EXTINF:-1,Arena Sport 2 backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20065.m3u8
-#EXTINF:-1,Arena Sport 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/263.m3u8
-#EXTINF:-1,Arena Sport 3 HR backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70648.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/262.m3u8
-#EXTINF:-1,Arena Sport 3 backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20064.m3u8
+http://dunav007.hopto.org:8000/live/adnan/adnan/2002.m3u8
 #EXTINF:-1,Arena Sport 3
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/261.m3u8
-#EXTINF:-1,Arena Sport 4 HR backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70649.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/260.m3u8
-#EXTINF:-1,Arena Sport 4 backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20063.m3u8
-#EXTINF:-1,Arena Sport 4
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/259.m3u8
-#EXTINF:-1,Arena Sport 5 HR backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70650.m3u8
-#EXTINF:-1,Arena Sport 5 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/258.m3u8
-#EXTINF:-1,Arena Sport 5 backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20062.m3u8
-#EXTINF:-1,Arena Sport 5
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/257.m3u8
-#EXTINF:-1,Arena Sport 6 HR backup
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70651.m3u8
-#EXTINF:-1,Arena Sport 6 HR
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/8771.m3u8
-#EXTINF:-1,HBO 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/336.m3u8
-#EXTINF:-1,HBO 3
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/335.m3u8
-#EXTINF:-1,HBO
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/337.m3u8
-#EXTINF:-1,Cinemax 1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/343.m3u8
-#EXTINF:-1,Cinemax 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/342.m3u8
-#EXTINF:-1,Cinestar Action
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/338.m3u8
+http://dunav007.hopto.org:8000/live/adnan/adnan/2001.m3u8
+#EXTINF:-1,PINK FILM
+http://dunav007.hopto.org:8000/live/adnan/adnan/171.m3u8
+#EXTINF:-1,HBO HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/87.m3u8
+#EXTINF:-1,HBO 2 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/88.m3u8
+#EXTINF:-1,HBO 3 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/89.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/91.m3u8
+#EXTINF:-1,CINEMAX HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/90.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://dunav007.hopto.org:8000/live/adnan/adnan/95.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 1
+http://dunav007.hopto.org:8000/live/adnan/adnan/92.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 2
+http://dunav007.hopto.org:8000/live/adnan/adnan/93.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 (SL)
+http://dunav007.hopto.org:8000/live/adnan/adnan/1408.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 (SL)
+http://dunav007.hopto.org:8000/live/adnan/adnan/1409.m3u8
+#EXTINF:-1,CINESTAR TV
+http://dunav007.hopto.org:8000/live/adnan/adnan/94.m3u8
 #EXTINF:-1,Cinestar Fantasy
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/4617.m3u8
-#EXTINF:-1,Cinestar Premiere 1 MK
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69070.m3u8
-#EXTINF:-1,Cinestar Premiere 1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/341.m3u8
-#EXTINF:-1,Cinestar Premiere 2 MK
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69069.m3u8
-#EXTINF:-1,Cinestar Premiere 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/340.m3u8
-#EXTINF:-1,Cinestar TV
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/339.m3u8
-#EXTINF:-1,Fox Movies
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/381.m3u8
-#EXTINF:-1,Klasik TV
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/330.m3u8
-#EXTINF:-1,Pink Film
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/399.m3u8
-#EXTINF:-1,RTL 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/3973.m3u8
-#EXTINF:-1,RTL Crime
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/135.m3u8
-#EXTINF:-1,Doma TV HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/20073.m3u8
-#EXTINF:-1,RTS1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/163.m3u8
-#EXTINF:-1,.RTS 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/162.m3u8
-#EXTINF:-1,.RTS 3
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/161.m3u8
+http://dunav007.hopto.org:8000/live/adnan/adnan/96.m3u8
+#EXTINF:-1,FOX MOVIES
+http://dunav007.hopto.org:8000/live/adnan/adnan/97.m3u8
+#EXTINF:-1,KLASIK TV
+http://dunav007.hopto.org:8000/live/adnan/adnan/108.m3u8
+#EXTINF:-1,Nova TV
+http://dunav007.hopto.org:8000/live/adnan/adnan/47.m3u8
+#EXTINF:-1,Doma TV
+http://dunav007.hopto.org:8000/live/adnan/adnan/49.m3u8
+#EXTINF:-1,RTS 1
+http://dunav007.hopto.org:8000/live/adnan/adnan/65.m3u8
+#EXTINF:-1,RTS 2
+http://dunav007.hopto.org:8000/live/adnan/adnan/66.m3u8
+#EXTINF:-1,RTS 3
+http://dunav007.hopto.org:8000/live/adnan/adnan/67.m3u8
+#EXTINF:-1,Rtl Kockica
+http://dunav007.hopto.org:8000/live/adnan/adnan/156.m3u8
+#EXTINF:-1,TV 1000
+http://dunav007.hopto.org:8000/live/adnan/adnan/107.m3u8
+#EXTINF:-1,FOX MOVIES (SL)
+http://dunav007.hopto.org:8000/live/adnan/adnan/1417.m3u8
+#EXTINF:-1,HBO 1 HD (SL)
+http://dunav007.hopto.org:8000/live/adnan/adnan/1400.m3u8
+#EXTINF:-1,HBO 2 HD (SL)
+http://dunav007.hopto.org:8000/live/adnan/adnan/1401.m3u8
+#EXTINF:-1,HBO 3 HD (SL)
+http://dunav007.hopto.org:8000/live/adnan/adnan/1402.m3u8
+#EXTINF:-1,HBO HD LOCAL
+http://dunav007.hopto.org:8000/live/adnan/adnan/1916.m3u8
+#EXTINF:-1,RTL CRIME
+http://dunav007.hopto.org:8000/live/adnan/adnan/53.m3u8
+#EXTINF:-1,RTL
+http://dunav007.hopto.org:8000/live/adnan/adnan/50.m3u8
+#EXTINF:-1,TV 1000 (SL)
+http://dunav007.hopto.org:8000/live/adnan/adnan/1426.m3u8
 
 #EXTINF:0,***********  SSSPPPOOORT  **********
 http://iptv1.premium-stv.com:8000
-#EXTINF:-1,DE: DAZN 1 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/30854.ts
-#EXTINF:-1,DE: DAZN 2 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/30855.m3u8
-#EXTINF:-1,DE: Eurosport 1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/6662.m3u8
-#EXTINF:-1,DE: Eurosport 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/6663.m3u8
+#EXTINF:-1,DE: DAZN 1 Bar HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/218.m3u8
+#EXTINF:-1,DE: DAZN 2 Bar HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/219.m3u8
+#EXTINF:-1,DE: Eurosport 1 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/239.m3u8
+#EXTINF:-1,DE: Eurosport 2 HD Xtra
+http://dunav007.hopto.org:8000/live/adnan/adnan/241.m3u8
 #EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/235.m3u8
+http://dunav007.hopto.org:8000/live/adnan/adnan/225.m3u8
 #EXTINF:-1,DE: Sky Sport 1 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/237.m3u8
-#EXTINF:-1,DE: Sky Sport 1 SD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/69366.m3u8
-#EXTINF:-1,DE: Sky Sport 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/236.m3u8
-#EXTINF:-1,NL: Fox Sport 1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68890.m3u8
-#EXTINF:-1,NL: Fox Sport 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68891.m3u8
-#EXTINF:-1,NL: Fox Sport 3
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68892.m3u8
-#EXTINF:-1,NL: Fox Sport 4
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68893.m3u8
-#EXTINF:-1,NL: Fox Sport 5
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68894.m3u8
-#EXTINF:-1,NL: Fox Sport 6
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68895.m3u8
-#EXTINF:-1,NL: Fox Spo.m3u8 1 HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72595.m3u8
-#EXTINF:-1,NL: Fox Spo.m3u8 2 HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72596.m3u8
-#EXTINF:-1,NL: Fox Spo.m3u8 3 HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72597.m3u8
-#EXTINF:-1,NL: Fox Spo.m3u8 4 HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72598.m3u8
-#EXTINF:-1,NL: Fox Spo.m3u8 5 HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72599.m3u8
-#EXTINF:-1,NL: Fox Spo.m3u8 6 HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72600.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72604.m3u8
+http://dunav007.hopto.org:8000/live/adnan/adnan/220.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/221.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/269.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/270.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/271.m3u8
+#EXTINF:-1,FR: BeIN Sports 1 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/272.m3u8
+#EXTINF:-1,FR: BeIN Sports 2 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/273.m3u8
+#EXTINF:-1,FR: BeIN Sports 3 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/274.m3u8
+#EXTINF:-1,NL: FOX Sports 3
+http://dunav007.hopto.org:8000/live/adnan/adnan/284.m3u8
+#EXTINF:-1,NL: FOX Sports 4
+http://dunav007.hopto.org:8000/live/adnan/adnan/285.m3u8
+#EXTINF:-1,NL: FOX Sports 5
+http://dunav007.hopto.org:8000/live/adnan/adnan/286.m3u8
+#EXTINF:-1,NL: FOX Sports 6
+http://dunav007.hopto.org:8000/live/adnan/adnan/287.m3u8
+#EXTINF:-1,NL: Fox Sports 1
+http://dunav007.hopto.org:8000/live/adnan/adnan/282.m3u8
+#EXTINF:-1,NL: Fox Sports 2
+http://dunav007.hopto.org:8000/live/adnan/adnan/283.m3u8
 #EXTINF:-1,NL: Ziggo Sport Select HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72609.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/68900.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal HD*
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72605.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/72610.m3u8
-#EXTINF:-1,TR: beIN Spo.m3u8 1 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/71853.m3u8
-#EXTINF:-1,TR: beIN Spo.m3u8 2 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/71854.m3u8
-#EXTINF:-1,UK: BT Sport 1
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70656.m3u8
-#EXTINF:-1,UK: BT Sport 2
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70659.m3u8
-#EXTINF:-1,UK: BT Sport 3
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70661.m3u8
-#EXTINF:-1,UK: Sky Spo.m3u8 Mix HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/70665.m3u8
-#EXTINF:-1,Bein Sport 1 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/311.m3u8
-#EXTINF:-1,Bein Sport 2 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/310.m3u8
-#EXTINF:-1,Bein Sport 3 HD
-http://tvbezgranica.org:8000/live/cjObZOmKZg/Jcz5GEb41v/309.m3u8
+http://dunav007.hopto.org:8000/live/adnan/adnan/291.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://dunav007.hopto.org:8000/live/adnan/adnan/288.m3u8
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/1594.m3u8
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/1595.m3u8
+#EXTINF:-1,UK413: BT Sport 1 FHD (main)
+http://dunav007.hopto.org:8000/live/adnan/adnan/2171.m3u8
+#EXTINF:-1,UK414: BT Sport 2 FHD (main)
+http://dunav007.hopto.org:8000/live/adnan/adnan/2172.m3u8
+#EXTINF:-1,UK417: BT Sport 3 FHD (main)
+http://dunav007.hopto.org:8000/live/adnan/adnan/2173.m3u8
+#EXTINF:-1,UK423: BT Sport Espn FHD (main)
+http://dunav007.hopto.org:8000/live/adnan/adnan/2174.m3u8
+#EXTINF:-1,UK: BT SPORT 1
+http://dunav007.hopto.org:8000/live/adnan/adnan/246.m3u8
+#EXTINF:-1,UK: BT SPORT 2
+http://dunav007.hopto.org:8000/live/adnan/adnan/247.m3u8
+#EXTINF:-1,UK: BT SPORT 3
+http://dunav007.hopto.org:8000/live/adnan/adnan/248.m3u8
+#EXTINF:-1,UK: BT Sports ESPN HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/258.m3u8
+#EXTINF:-1,UK: Sky Sports Action HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/254.m3u8
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/253.m3u8
+#EXTINF:-1,UK: Sky Sports Mix
+http://dunav007.hopto.org:8000/live/adnan/adnan/251.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://dunav007.hopto.org:8000/live/adnan/adnan/252.m3u8
+#EXTINF:-1,UK121: Sky Sports MIX
+http://dunav007.hopto.org:8000/live/adnan/adnan/2228.m3u8
+#EXTINF:-1,UK401: Sky Sports Main Event
+http://dunav007.hopto.org:8000/live/adnan/adnan/2220.m3u8
+#EXTINF:-1,UK402: Sky Sports Premier League
+http://dunav007.hopto.org:8000/live/adnan/adnan/2221.m3u8
+#EXTINF:-1,UK408: Sky Sports Arena
+http://dunav007.hopto.org:8000/live/adnan/adnan/2226.m3u8
 #EXTINF:0,|FR| RMC SPORTS 1 FULL HD
 http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/1.ts
 #EXTINF:0,|FR| RMC SPORT 1 HD
@@ -240,7 +241,6 @@ http://163.172.89.127:8888/live/BEIN8/XkI3AtcEjT/34.ts
 http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/30.ts
 #EXTINF:0,|AR| BEINSPORTS 10 FULLHD
 http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/31.ts
-
 
 #EXTINF:0,|NL| Ziggo.Sport.Voetbal_Website : en.tousecurity.com
 http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.ts
