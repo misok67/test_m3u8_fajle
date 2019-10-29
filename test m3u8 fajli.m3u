@@ -1,192 +1,82 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT KLUB 1 HR
-http://dunav007.hopto.org:8000/live/adnan/adnan/189.m3u8
-#EXTINF:-1,SPORT KLUB 1 SR
-http://dunav007.hopto.org:8000/live/adnan/adnan/195.m3u8
-#EXTINF:-1,SPORT KLUB 2 HR
-http://dunav007.hopto.org:8000/live/adnan/adnan/190.m3u8
-#EXTINF:-1,SPORT KLUB 2 SR
-http://dunav007.hopto.org:8000/live/adnan/adnan/196.m3u8
-#EXTINF:-1,SPORT KLUB 3 HR
-http://dunav007.hopto.org:8000/live/adnan/adnan/191.m3u8
-#EXTINF:-1,SPORT KLUB 3 SR
-http://dunav007.hopto.org:8000/live/adnan/adnan/197.m3u8
-#EXTINF:-1,SPORT KLUB 4
-http://dunav007.hopto.org:8000/live/adnan/adnan/192.m3u8
-#EXTINF:-1,SPORT KLUB 5
-http://dunav007.hopto.org:8000/live/adnan/adnan/193.m3u8
-#EXTINF:-1,SPORT KLUB 6
-http://dunav007.hopto.org:8000/live/adnan/adnan/194.m3u8
-#EXTINF:-1,SPORT KLUB HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/188.m3u8
-#EXTINF:-1,Arena Sport 1 Srb
-http://dunav007.hopto.org:8000/live/adnan/adnan/203.m3u8
-#EXTINF:-1,Arena Sport 2 Srb
-http://dunav007.hopto.org:8000/live/adnan/adnan/204.m3u8
-#EXTINF:-1,Arena Sport 3 Srb
-http://dunav007.hopto.org:8000/live/adnan/adnan/205.m3u8
-#EXTINF:-1,Arena Sport 4 Srb
-http://dunav007.hopto.org:8000/live/adnan/adnan/206.m3u8
-#EXTINF:-1,Arena Sport 5 Srb
-http://dunav007.hopto.org:8000/live/adnan/adnan/207.m3u8
-#EXTINF:-1,Arena Sports 1 HD Croatia
-http://dunav007.hopto.org:8000/live/adnan/adnan/198.m3u8
-#EXTINF:-1,Arena Sports 2 HD Croatia
-http://dunav007.hopto.org:8000/live/adnan/adnan/199.m3u8
-#EXTINF:-1,Arena Sports 3 HD Croatia
-http://dunav007.hopto.org:8000/live/adnan/adnan/200.m3u8
-#EXTINF:-1,Arena Sports 4 HD Croatia
-http://dunav007.hopto.org:8000/live/adnan/adnan/201.m3u8
-#EXTINF:-1,Arena Sports 5 HD Croatia
-http://dunav007.hopto.org:8000/live/adnan/adnan/202.m3u8
-#EXTINF:-1,Arena Sports 6 HD Croatia
-http://dunav007.hopto.org:8000/live/adnan/adnan/1092.m3u8
-#EXTINF:-1,Arena Sport 1
-http://dunav007.hopto.org:8000/live/adnan/adnan/2002.m3u8
-#EXTINF:-1,Arena Sport 3
-http://dunav007.hopto.org:8000/live/adnan/adnan/2001.m3u8
-#EXTINF:-1,PINK FILM
-http://dunav007.hopto.org:8000/live/adnan/adnan/171.m3u8
-#EXTINF:-1,HBO HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/87.m3u8
-#EXTINF:-1,HBO 2 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/88.m3u8
-#EXTINF:-1,HBO 3 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/89.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/91.m3u8
-#EXTINF:-1,CINEMAX HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/90.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://dunav007.hopto.org:8000/live/adnan/adnan/95.m3u8
-#EXTINF:-1,CINESTAR TV PREMIERE 1
-http://dunav007.hopto.org:8000/live/adnan/adnan/92.m3u8
-#EXTINF:-1,CINESTAR TV PREMIERE 2
-http://dunav007.hopto.org:8000/live/adnan/adnan/93.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1 (SL)
-http://dunav007.hopto.org:8000/live/adnan/adnan/1408.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2 (SL)
-http://dunav007.hopto.org:8000/live/adnan/adnan/1409.m3u8
-#EXTINF:-1,CINESTAR TV
-http://dunav007.hopto.org:8000/live/adnan/adnan/94.m3u8
-#EXTINF:-1,Cinestar Fantasy
-http://dunav007.hopto.org:8000/live/adnan/adnan/96.m3u8
-#EXTINF:-1,FOX MOVIES
-http://dunav007.hopto.org:8000/live/adnan/adnan/97.m3u8
-#EXTINF:-1,KLASIK TV
-http://dunav007.hopto.org:8000/live/adnan/adnan/108.m3u8
-#EXTINF:-1,Nova TV
-http://dunav007.hopto.org:8000/live/adnan/adnan/47.m3u8
-#EXTINF:-1,Doma TV
-http://dunav007.hopto.org:8000/live/adnan/adnan/49.m3u8
-#EXTINF:-1,RTS 1
-http://dunav007.hopto.org:8000/live/adnan/adnan/65.m3u8
-#EXTINF:-1,RTS 2
-http://dunav007.hopto.org:8000/live/adnan/adnan/66.m3u8
-#EXTINF:-1,RTS 3
-http://dunav007.hopto.org:8000/live/adnan/adnan/67.m3u8
-#EXTINF:-1,Rtl Kockica
-http://dunav007.hopto.org:8000/live/adnan/adnan/156.m3u8
-#EXTINF:-1,TV 1000
-http://dunav007.hopto.org:8000/live/adnan/adnan/107.m3u8
-#EXTINF:-1,FOX MOVIES (SL)
-http://dunav007.hopto.org:8000/live/adnan/adnan/1417.m3u8
-#EXTINF:-1,HBO 1 HD (SL)
-http://dunav007.hopto.org:8000/live/adnan/adnan/1400.m3u8
-#EXTINF:-1,HBO 2 HD (SL)
-http://dunav007.hopto.org:8000/live/adnan/adnan/1401.m3u8
-#EXTINF:-1,HBO 3 HD (SL)
-http://dunav007.hopto.org:8000/live/adnan/adnan/1402.m3u8
-#EXTINF:-1,HBO HD LOCAL
-http://dunav007.hopto.org:8000/live/adnan/adnan/1916.m3u8
-#EXTINF:-1,RTL CRIME
-http://dunav007.hopto.org:8000/live/adnan/adnan/53.m3u8
-#EXTINF:-1,RTL
-http://dunav007.hopto.org:8000/live/adnan/adnan/50.m3u8
-#EXTINF:-1,TV 1000 (SL)
-http://dunav007.hopto.org:8000/live/adnan/adnan/1426.m3u8
+#EXTINF:-1,EX YU: CINEMAX 1
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3551.m3u8
+#EXTINF:-1,EX YU: CINEMAX-2
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3550.m3u8
+#EXTINF:-1,EX YU: HBO 2
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3545.m3u8
+#EXTINF:-1,EX YU: HBO 3
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/4011.m3u8
+#EXTINF:-1,EX YU: HBO Adria
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3544.m3u8
+#EXTINF:-1,EX-YU: CINESTAR FANTASY
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/32090.m3u8
+#EXTINF:-1,EX-YU: Cinestar Action
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3555.m3u8
+#EXTINF:-1,EX-YU: Cinestar Premiere 1
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3534.m3u8
+#EXTINF:-1,SLO: FOX MOVIES HD
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/6827.m3u8
+#EXTINF:-1,SLO: HBO 2
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/6829.m3u8
+#EXTINF:-1,SLO: HBO 3
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/6816.m3u8
+#EXTINF:-1,SLO: HBO
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/6828.m3u8
+#EXTINF:-1,EX-YU: Fox Movies
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3517.m3u8
+#EXTINF:-1,EX-YU: KLASIK TV
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3589.m3u8
+#EXTINF:-1,EX-YU: Pink Film
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3566.m3u8
+#EXTINF:-1,EX YU: RTL 2
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3558.m3u8
+#EXTINF:-1,EX YU: RTL
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3559.m3u8
+#EXTINF:-1,Ex-Yu: Arena Sport 1 HR FHD
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/18209.m3u8
+#EXTINF:-1,Ex-Yu: Arena Sport 2 HR FHD
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/18208.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 3 HR FHD (Ex-Yu)
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/18206.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 4 HR FHD (Ex-Yu)
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/18205.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 5 FHD Croatia
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/18204.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 5 HR FHD (Ex-Yu)
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/18203.m3u8
+#EXTINF:-1,EX-YU: Arena sport 2 HD
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/401.m3u8
+#EXTINF:-1,EX-YU: RTS 1 (local)
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3599.m3u8
+#EXTINF:-1,EX-YU: RTS 2 (local)
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3598.m3u8
+#EXTINF:-1,EX-YU: RTS 3
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3597.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1 FHD HR
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/26932.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3605.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2 FHD HR
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/26933.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3604.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3 FHD HR
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/26934.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/3603.m3u8
+#EXTINF:-1,Ex-Yu: RTL Crime
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/8864.m3u8
+#EXTINF:-1,Ex-Yu: Sport Klub HD 1 Srb
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/26625.m3u8
+#EXTINF:-1,Ex-Yu: Sport Klub HD 2 Srb
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/26626.m3u8
+#EXTINF:-1,Ex-Yu: Sport Klub HD 3 Srb
+http://premium-iptv.link:7899/live/Dimitri/Dimitri/26627.m3u8
 
 #EXTINF:0,***********  SSSPPPOOORT  **********
 http://iptv1.premium-stv.com:8000
-#EXTINF:-1,DE: DAZN 1 Bar HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/218.m3u8
-#EXTINF:-1,DE: DAZN 2 Bar HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/219.m3u8
-#EXTINF:-1,DE: Eurosport 1 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/239.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD Xtra
-http://dunav007.hopto.org:8000/live/adnan/adnan/241.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/225.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/220.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/221.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/269.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/270.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/271.m3u8
-#EXTINF:-1,FR: BeIN Sports 1 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/272.m3u8
-#EXTINF:-1,FR: BeIN Sports 2 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/273.m3u8
-#EXTINF:-1,FR: BeIN Sports 3 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/274.m3u8
-#EXTINF:-1,NL: FOX Sports 3
-http://dunav007.hopto.org:8000/live/adnan/adnan/284.m3u8
-#EXTINF:-1,NL: FOX Sports 4
-http://dunav007.hopto.org:8000/live/adnan/adnan/285.m3u8
-#EXTINF:-1,NL: FOX Sports 5
-http://dunav007.hopto.org:8000/live/adnan/adnan/286.m3u8
-#EXTINF:-1,NL: FOX Sports 6
-http://dunav007.hopto.org:8000/live/adnan/adnan/287.m3u8
-#EXTINF:-1,NL: Fox Sports 1
-http://dunav007.hopto.org:8000/live/adnan/adnan/282.m3u8
-#EXTINF:-1,NL: Fox Sports 2
-http://dunav007.hopto.org:8000/live/adnan/adnan/283.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/291.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://dunav007.hopto.org:8000/live/adnan/adnan/288.m3u8
-#EXTINF:-1,TR: beIN SPORTS 1 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/1594.m3u8
-#EXTINF:-1,TR: beIN SPORTS 2 HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/1595.m3u8
-#EXTINF:-1,UK413: BT Sport 1 FHD (main)
-http://dunav007.hopto.org:8000/live/adnan/adnan/2171.m3u8
-#EXTINF:-1,UK414: BT Sport 2 FHD (main)
-http://dunav007.hopto.org:8000/live/adnan/adnan/2172.m3u8
-#EXTINF:-1,UK417: BT Sport 3 FHD (main)
-http://dunav007.hopto.org:8000/live/adnan/adnan/2173.m3u8
-#EXTINF:-1,UK423: BT Sport Espn FHD (main)
-http://dunav007.hopto.org:8000/live/adnan/adnan/2174.m3u8
-#EXTINF:-1,UK: BT SPORT 1
-http://dunav007.hopto.org:8000/live/adnan/adnan/246.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-http://dunav007.hopto.org:8000/live/adnan/adnan/247.m3u8
-#EXTINF:-1,UK: BT SPORT 3
-http://dunav007.hopto.org:8000/live/adnan/adnan/248.m3u8
-#EXTINF:-1,UK: BT Sports ESPN HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/258.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/254.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/253.m3u8
-#EXTINF:-1,UK: Sky Sports Mix
-http://dunav007.hopto.org:8000/live/adnan/adnan/251.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://dunav007.hopto.org:8000/live/adnan/adnan/252.m3u8
-#EXTINF:-1,UK121: Sky Sports MIX
-http://dunav007.hopto.org:8000/live/adnan/adnan/2228.m3u8
-#EXTINF:-1,UK401: Sky Sports Main Event
-http://dunav007.hopto.org:8000/live/adnan/adnan/2220.m3u8
-#EXTINF:-1,UK402: Sky Sports Premier League
-http://dunav007.hopto.org:8000/live/adnan/adnan/2221.m3u8
-#EXTINF:-1,UK408: Sky Sports Arena
-http://dunav007.hopto.org:8000/live/adnan/adnan/2226.m3u8
 #EXTINF:0,|FR| RMC SPORTS 1 FULL HD
 http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/1.ts
 #EXTINF:0,|FR| RMC SPORT 1 HD
@@ -217,187 +107,12 @@ http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.ts
 http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts
 #EXTINF:0,|FR| INFOSPORT FHD
 http://iptvpro.vision-new.org:8789/Uxm5p0AhMm/zvjHhpZsjA/245
-#EXTINF:0,|AR| beINSPORTS HD 11
-http://iptvpro.vision-new.org:8789/Uxm5p0AhMm/zvjHhpZsjA/4371
-#EXTINF:0,|AR| beINSPORTS HD 12
-http://iptvpro.vision-new.org:8789/Uxm5p0AhMm/zvjHhpZsjA/4370
-#EXTINF:0,|AR| BEINSPORTS 1 FULLHD
-http://163.172.89.127:8888/live/BEIN1/GQEZOG45EAZR63/25.ts
-#EXTINF:0,|AR| BEINSPORTS 2 FULLHD
-http://163.172.89.127:8888/live/BEIN2/x8ZD4RdhNm/26.ts
-#EXTINF:0,|AR| BEINSPORTS 3 FULLHD
-http://163.172.89.127:8888/live/BEIN3/0jWkR45MqZ/27.ts
-#EXTINF:0,|AR| BEINSPORTS 4 FULLHD
-http://163.172.89.127:8888/live/BEIN4/SSMDSHFKod/28.ts
-#EXTINF:0,|AR| BEINSPORTS 5 FULLHD
-http://163.172.89.127:8888/live/BEIN5/Awq87aGnqS/29.ts
-#EXTINF:0,|AR| BEINSPORTS 6 FULLHD
-http://163.172.89.127:8888/live/BEIN6/ZffOncRDKK/32.ts
-#EXTINF:0,|AR| BEINSPORTS 7 FULLHD
-http://163.172.89.127:8888/live/BEIN7/uVXyuCtM1h/33.ts
-#EXTINF:0,|AR| BEINSPORTS 8 FULLHD
-http://163.172.89.127:8888/live/BEIN8/XkI3AtcEjT/34.ts
-#EXTINF:0,|AR| BEINSPORTS 9 FULLHD
-http://163.172.89.127:8888/live/BEIN9/N9YjKdd0MY/30.ts
-#EXTINF:0,|AR| BEINSPORTS 10 FULLHD
-http://163.172.89.127:8888/live/BEIN10/Q5HdLOn0fc/31.ts
 
 #EXTINF:0,|NL| Ziggo.Sport.Voetbal_Website : en.tousecurity.com
 http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.ts
 #EXTINF:0,|NL| Ziggo.Sport.Select.HD
 http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/743.ts
-#EXTINF:0,|NL| Ziggo.Sport.Golf
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/744.ts
 #EXTINF:0,|NL| FOX.Sports.EDL.3 HD
 http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/779.ts
 #EXTINF:0,|NL| FOX.Sports.EDL.1.HD_Website : en.tousecurity.com
 http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/780.ts
-#EXTINF:0,|NL| FOX.Channel
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/781.ts
-
-#EXTINF:-1,AR - Bein Sports 10
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/93217.m3u8
-#EXTINF:-1,AR - Bein Sports 11 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/93220.m3u8
-#EXTINF:-1,AR - Bein Sports 11
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/93219.m3u8
-#EXTINF:-1,AR - Bein Sports 12 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/93222.m3u8
-#EXTINF:-1,AR - Bein Sports 12
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/93221.m3u8
-#EXTINF:-1,FR - Bein Sports 1 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92209.m3u8
-#EXTINF:-1,FR - Bein Sports 1
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92210.m3u8
-#EXTINF:-1,FR - Bein Sports 2 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92207.m3u8
-#EXTINF:-1,FR - Bein Sports 2
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92208.m3u8
-#EXTINF:-1,FR - Bein Sports 3 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92205.m3u8
-#EXTINF:-1,FR - Bein Sports 3
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92206.m3u8
-#EXTINF:-1,MT - BT SPORTS 1 FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56928.m3u8
-#EXTINF:-1,MT - BT SPORTS 2 FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56927.m3u8
-#EXTINF:-1,MT - BT SPORTS 3 FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56926.m3u8
-#EXTINF:-1,MT - DAZN SERIE-A 1 (DVB-S) UHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/81972.m3u8
-#EXTINF:-1,MT - DAZN SERIE-A 2 (DVB-S) UHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/81971.m3u8
-#EXTINF:-1,MT - EUROSPORTS 1 FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56915.m3u8
-#EXTINF:-1,MT - EUROSPORTS 2 FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56914.m3u8
-#EXTINF:-1,MT - SKY SPORTS ACTION FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56925.m3u8
-#EXTINF:-1,MT - SKY SPORTS ARENA FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56924.m3u8
-#EXTINF:-1,MT - SKY SPORTS F1 FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56922.m3u8
-#EXTINF:-1,MT - SKY SPORTS MAIN EVENT FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56919.m3u8
-#EXTINF:-1,MT - SKY SPORTS MIX FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56930.m3u8
-#EXTINF:-1,MT - SKY SPORTS PREMIER LEAGUE FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/56918.m3u8
-#EXTINF:-1,NL - Fox Sports 1 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92495.m3u8
-#EXTINF:-1,NL - Fox Sports 1
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92496.m3u8
-#EXTINF:-1,NL - Fox Sports 2 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92493.m3u8
-#EXTINF:-1,NL - Fox Sports 2
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92494.m3u8
-#EXTINF:-1,NL - Fox Sports 3 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92491.m3u8
-#EXTINF:-1,NL - Fox Sports 3
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92492.m3u8
-#EXTINF:-1,NL - Fox Sports 4 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92489.m3u8
-#EXTINF:-1,NL - Fox Sports 4
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92490.m3u8
-#EXTINF:-1,NL - Fox Sports 5 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92487.m3u8
-#EXTINF:-1,NL - Fox Sports 5
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92488.m3u8
-#EXTINF:-1,NL - Fox Sports 6 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92485.m3u8
-#EXTINF:-1,NL - Fox Sports 6
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92486.m3u8
-#EXTINF:-1,NL - ZIGGO Sport Select
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92500.m3u8
-#EXTINF:-1,NL - ZIGGO Sport VOETBAL
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92499.m3u8
-#EXTINF:-1,TH - Fox Sports 1
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/93001.m3u8
-#EXTINF:-1,TH - Fox Sports 2
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/93002.m3u8
-#EXTINF:-1,TSN HD 1
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91112.m3u8
-#EXTINF:-1,TSN HD 2
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91113.m3u8
-#EXTINF:-1,TSN HD 3
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91114.m3u8
-#EXTINF:-1,TSN HD 4
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91115.m3u8
-#EXTINF:-1,TSN HD 5
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91116.m3u8
-#EXTINF:-1,UK - BT Sports 1 HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91170.m3u8
-#EXTINF:-1,UK - BT Sports 1
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91171.m3u8
-#EXTINF:-1,UK - BT Sports 2 HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91172.m3u8
-#EXTINF:-1,UK - BT Sports 2
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91173.m3u8
-#EXTINF:-1,UK - BT Sports 3 HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91174.m3u8
-#EXTINF:-1,UK - BT Sports 3
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91175.m3u8
-#EXTINF:-1,UK - BT Sports ESPN HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91176.m3u8
-#EXTINF:-1,MT - PREMIER SPORTS FHD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly.m3u8
-#EXTINF:-1,UK - EuroSport 1 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91148.m3u8
-#EXTINF:-1,UK - EuroSport 2 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91150.m3u8
-#EXTINF:-1,UK - Sky Sports Action HD (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91140.m3u8
-#EXTINF:-1,UK - Sky Sports Action HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91139.m3u8
-#EXTINF:-1,UK - Sky Sports Arena HD (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91138.m3u8
-#EXTINF:-1,UK - Sky Sports Arena HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91137.m3u8
-#EXTINF:-1,UK - Sky Sports F1 (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91128.m3u8
-#EXTINF:-1,UK - Sky Sports F1 HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91127.m3u8
-#EXTINF:-1,UK - Sky Sports Main Event HD (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91124.m3u8
-#EXTINF:-1,UK - Sky Sports Main Event HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91123.m3u8
-#EXTINF:-1,UK - Sky Sports Mix (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91122.m3u8
-#EXTINF:-1,UK - Sky Sports Mix HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91121.m3u8
-#EXTINF:-1,UK - Sky Sports Premier League HD (B)
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91132.m3u8
-#EXTINF:-1,UK - Sky Sports Premier League HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91131.m3u8
-#EXTINF:-1,US - Fox Sports 1
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92984.m3u8
-#EXTINF:-1,US - Fox Sports 2
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/92985.m3u8
-#EXTINF:-1,USA - BEIN SPORTS HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91576.m3u8
-#EXTINF:-1,USA - ESPNDeportes HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91369.m3u8
-#EXTINF:-1,USA - FOX SPORTS 1 HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91594.m3u8
-#EXTINF:-1,USA - FOX SPORTS 2 HD
-http://ginclubmalta.com:25461/live/wQDMxFJf00/GKYly8FNUo/91595.m3u8
