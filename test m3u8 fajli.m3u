@@ -52,6 +52,77 @@ http://premium-iptv.link:7899/live/norberto/123456/8864.m3u8
 http://premium-iptv.link:7899/live/norberto/123456/3558.m3u8
 #EXTINF:-1,RTL
 http://premium-iptv.link:7899/live/norberto/123456/3559.m3u8
+#EXTINF:-1,SPORT EX YU: SPORT KLUB 1
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87308.m3u8
+#EXTINF:-1,SPORT EX YU: SPORT KLUB 2
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87307.m3u8
+#EXTINF:-1,SPORT EX YU: SPORT KLUB 3
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87306.m3u8
+#EXTINF:-1,SPORT EX-YU: SPORT KLUB 5
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87305.m3u8
+#EXTINF:-1,SPORT EX-YU: SPORT KLUB 6
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87304.m3u8
+#EXTINF:-1,SPORT EX-YU: ARENA SPORT 1 (SR)
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87298.m3u8
+#EXTINF:-1,SPORT EX-YU: ARENA SPORT 2 (SR)
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87297.m3u8
+#EXTINF:-1,SPORT EX-YU: ARENA SPORT 3 (SR)
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87296.m3u8
+#EXTINF:-1,SPORT EX-YU: ARENA SPORT 4 (SR)
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87295.m3u8
+#EXTINF:-1,SPORT EX-YU: ARENA SPORT 5 (SR)
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87294.m3u8
+#EXTINF:-1,SPORT EX-YU: Arena Sport 1 HR
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87303.m3u8
+#EXTINF:-1,SPORT EX-YU: Arena Sport 2 HR
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87302.m3u8
+#EXTINF:-1,SPORT EX-YU: Arena Sport 3 HR
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87301.m3u8
+#EXTINF:-1,SPORT EX-YU: Arena Sport 4 HR
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87300.m3u8
+#EXTINF:-1,SPORT EX-YU: Arena Sport 5 HR
+http://proxy.ayservices.xyz:80/live/barbara/barbara/87299.m3u8
+#EXTINF:-1,EX-YU: Cinemax HD
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44825.m3u8
+#EXTINF:-1,EX-YU: Cinestar Action
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44824.m3u8
+#EXTINF:-1,EX-YU: Cinestar Fantasy HD
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44823.m3u8
+#EXTINF:-1,EX-YU: Cinestar Premier 2
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44822.m3u8
+#EXTINF:-1,EX-YU: Cinestar Premiere 1
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44821.m3u8
+#EXTINF:-1,EX-YU: Doma TV
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44843.m3u8
+#EXTINF:-1,EX-YU: Fox Movies
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44884.m3u8
+#EXTINF:-1,EX-YU: HBO 2 SLO
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44807.m3u8
+#EXTINF:-1,EX-YU: HBO 3
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44853.m3u8
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44886.m3u8
+#EXTINF:-1,EX-YU: HBO Comedy
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44806.m3u8
+#EXTINF:-1,Ex-Yu: HBO HD
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44855.m3u8
+#EXTINF:-1,Ex-Yu: HBO HD 2
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44854.m3u8
+#EXTINF:-1,EX-YU: KLASIK TV
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44796.m3u8
+#EXTINF:-1,EX-YU: Nova HR
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44841.m3u8
+#EXTINF:-1,EX-YU: Pink Film
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44898.m3u8
+#EXTINF:-1,EX-YU: RTS 1
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44839.m3u8
+#EXTINF:-1,EX-YU: RTS 2
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44838.m3u8
+#EXTINF:-1,EX-YU: TV 1000
+http://proxy.ayservices.xyz:80/live/barbara/barbara/44894.m3u8
+#EXTINF:-1,EX-YU*: HBO 2
+http://proxy.ayservices.xyz:80/live/barbara/barbara/52162.m3u8
+
 
 #EXTINF:-1,VIP |UK  | BT Sport 2 HD 1080p
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31001.m3u8
