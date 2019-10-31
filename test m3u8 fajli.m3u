@@ -1,111 +1,222 @@
 #EXTM3U
 
-#EXTINF:-1,CineStar Premiere 1 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1468.m3u8
-#EXTINF:-1,CineStar Premiere 1 MK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/28072.m3u8
-#EXTINF:-1,CineStar Premiere 2 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1469.m3u8
-#EXTINF:-1,CineStar TV Action HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/3180.m3u8
-#EXTINF:-1,CineStar TV Fantasy HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/24331.m3u8
-#EXTINF:-1,CineStar TV RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13794.m3u8
-#EXTINF:-1,Cinemax 2 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/2023.m3u8
-#EXTINF:-1,Cinemax HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/2022.m3u8
-#EXTINF:-1,Doma TV HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1446.m3u8
-#EXTINF:-1,FOX Movies HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1451.m3u8
-#EXTINF:-1,HBO 2 HD MK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/28079.m3u8
-#EXTINF:-1,HBO 2 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17920.m3u8
-#EXTINF:-1,HBO 2 RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1453.m3u8
-#EXTINF:-1,HBO 3 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17918.m3u8
-#EXTINF:-1,HBO 3 MK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/28077.m3u8
-#EXTINF:-1,HBO HD MK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/28078.m3u8
-#EXTINF:-1,HBO HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1452.m3u8
-#EXTINF:-1,Kino TV HD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/27548.m3u8
-#EXTINF:-1,RTL 2 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/3166.m3u8
-#EXTINF:-1,RTL Crime HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13815.m3u8
-#EXTINF:-1,TV 1000 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/11275.m3u8
-#EXTINF:-1,RTS 1 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/2026.m3u8
-#EXTINF:-1,RTS 1 RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1463.m3u8
-#EXTINF:-1,RTS 2 RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1464.m3u8
-#EXTINF:-1,RTS 2 SN
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/21628.m3u8
-#EXTINF:-1,RTS 3 RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13816.m3u8
-#EXTINF:-1,Sport Klub 1 FHD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17256.m3u8
-#EXTINF:-1,Sport Klub 1 HD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17252.m3u8
-#EXTINF:-1,Sport Klub 1 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1440.m3u8
-#EXTINF:-1,Sport Klub 1 RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13832.m3u8
-#EXTINF:-1,Sport Klub 1 SI
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/16823.m3u8
-#EXTINF:-1,Sport Klub 2 FHD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17254.m3u8
-#EXTINF:-1,Sport Klub 2 FHD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17257.m3u8
-#EXTINF:-1,Sport Klub 2 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13833.m3u8
-#EXTINF:-1,Sport Klub 2 RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1441.m3u8
-#EXTINF:-1,Sport Klub 2 SI
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/16821.m3u8
-#EXTINF:-1,Sport Klub 3 FHD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17917.m3u8
-#EXTINF:-1,Sport Klub 3 FHD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17258.m3u8
-#EXTINF:-1,Sport Klub 3 HD RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1442.m3u8
-#EXTINF:-1,Sport Klub 3 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13834.m3u8
-#EXTINF:-1,Sport Klub 3 SI
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/16822.m3u8
-#EXTINF:-1,Sport Klub 4 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17249.m3u8
-#EXTINF:-1,Sport Klub 4 RS
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13829.m3u8
-#EXTINF:-1,Arena Sport 1 FHD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/19004.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1436.m3u8
-#EXTINF:-1,Arena Sport 2 FHD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17914.m3u8
-#EXTINF:-1,Arena Sport 2 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1437.m3u8
-#EXTINF:-1,Arena Sport 3 FHD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17916.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1438.m3u8
-#EXTINF:-1,Arena Sport 4 FHD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17915.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1439.m3u8
-#EXTINF:-1,Arena Sport 5 HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13827.m3u8
-#EXTINF:-1,Arena Sport 6 HD HR
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/13828.m3u8
+#EXTINF:-1,CINEMAX 1
+http://premium-iptv.link:7899/live/norberto/123456/3551.m3u8
+#EXTINF:-1,CINEMAX-2
+http://premium-iptv.link:7899/live/norberto/123456/3550.m3u8
+#EXTINF:-1,HBO Adria
+http://premium-iptv.link:7899/live/norberto/123456/3544.m3u8
+#EXTINF:-1,HBO 2
+http://premium-iptv.link:7899/live/norberto/123456/3545.m3u8
+#EXTINF:-1,HBO 3
+http://premium-iptv.link:7899/live/norberto/123456/4011.m3u8
+#EXTINF:-1,Cinestar Action
+http://premium-iptv.link:7899/live/norberto/123456/3555.m3u8
+#EXTINF:-1,Cinestar Premiere 1
+http://premium-iptv.link:7899/live/norberto/123456/3534.m3u8
+#EXTINF:-1,Fox Movies
+http://premium-iptv.link:7899/live/norberto/123456/3517.m3u8
+#EXTINF:-1,KLASIK TV
+http://premium-iptv.link:7899/live/norberto/123456/3589.m3u8
+#EXTINF:-1,Pink Film
+http://premium-iptv.link:7899/live/norberto/123456/3566.m3u8
+#EXTINF:-1,RTS 1 (local)
+http://premium-iptv.link:7899/live/norberto/123456/3599.m3u8
+#EXTINF:-1,RTS 2 (local)
+http://premium-iptv.link:7899/live/norberto/123456/3598.m3u8
+#EXTINF:-1,RTS 3
+http://premium-iptv.link:7899/live/norberto/123456/3597.m3u8
+#EXTINF:-1,Sport Klub 1
+http://premium-iptv.link:7899/live/norberto/123456/3605.m3u8
+#EXTINF:-1,Sport Klub 2
+http://premium-iptv.link:7899/live/norberto/123456/3604.m3u8
+#EXTINF:-1,Sport Klub 3
+http://premium-iptv.link:7899/live/norberto/123456/3603.m3u8
+#EXTINF:-1,Arena Sport 1 HR FHD
+http://premium-iptv.link:7899/live/norberto/123456/18209.m3u8
+#EXTINF:-1,Arena Sport 2 HR FHD
+http://premium-iptv.link:7899/live/norberto/123456/18208.m3u8
+#EXTINF:-1,Arena Sport 3 FHD Serbian
+http://premium-iptv.link:7899/live/norberto/123456/18207.m3u8
+#EXTINF:-1,Arena Sport 3 HR FHD (Ex-Yu)
+http://premium-iptv.link:7899/live/norberto/123456/18206.m3u8
+#EXTINF:-1,Arena Sport 4 HR FHD (Ex-Yu)
+http://premium-iptv.link:7899/live/norberto/123456/18205.m3u8
+#EXTINF:-1,Arena Sport 5 FHD Croatia
+http://premium-iptv.link:7899/live/norberto/123456/18204.m3u8
+#EXTINF:-1,Arena Sport 5 HR FHD (Ex-Yu)
+http://premium-iptv.link:7899/live/norberto/123456/18203.m3u8
+#EXTINF:-1,RTL Crime
+http://premium-iptv.link:7899/live/norberto/123456/8864.m3u8
+#EXTINF:-1,RTL 2
+http://premium-iptv.link:7899/live/norberto/123456/3558.m3u8
+#EXTINF:-1,RTL
+http://premium-iptv.link:7899/live/norberto/123456/3559.m3u8
+
+#EXTINF:-1,VIP |UK  | BT Sport 2 HD 1080p
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31001.m3u8
+#EXTINF:-1,VIP |UK  | BT Sport 3 HD 1080p
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31000.m3u8
+#EXTINF:-1,VIP |UK  | Sky Sports F1 HD 1080p
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30994.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 11 HD (english)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9153.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 12 HD (english)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9154.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 13 HD (english)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9155.m3u8
+#EXTINF:-1,|DE*.*| DAZN Bar 1
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49220.m3u8
+#EXTINF:-1,|DE*.*| DAZN Bar 2
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49219.m3u8
+#EXTINF:-1,|DE*.*| Eurosport 1 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49205.m3u8
+#EXTINF:-1,|DE*.*| Eurosport 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49204.m3u8
+#EXTINF:-1,|DE*.*| Eurosport 2 xtra HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49203.m3u8
+#EXTINF:-1,|DE*.*| Sky BUNDESLIGA 10 HD ( During Games only )
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49124.m3u8
+#EXTINF:-1,|DE*.*| Sky Bundesliga 1 FullHD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49133.m3u8
+#EXTINF:-1,|DE*.*| Sky Sport 1 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49142.m3u8
+#EXTINF:-1,|DE*.*| Sky Sport 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49141.m3u8
+#EXTINF:-1,|FR|  BEIN SPORT 3 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9341.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD BKP
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51102.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 FHD BKP
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51101.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51100.m3u8
+#EXTINF:-1,|FR| CANAL SPORT FHD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9326.m3u8
+#EXTINF:-1,|FR| CANAL SPORT HD BKP
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15191.m3u8
+#EXTINF:-1,|NL| Eurosport 1 FHD 1080
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20483.m3u8
+#EXTINF:-1,|NL| Eurosport 1
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20484.m3u8
+#EXTINF:-1,|NL| Eurosport 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20482.m3u8
+#EXTINF:-1,|NL| FOX Sports 1 FHD 1080
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20479.m3u8
+#EXTINF:-1,|NL| FOX Sports 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20477.m3u8
+#EXTINF:-1,|NL| FOX Sports 3 HD ( 1080P )
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20475.m3u8
+#EXTINF:-1,|NL| Fox Sports 1
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20480.m3u8
+#EXTINF:-1,|NL| Fox Sports 2
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20478.m3u8
+#EXTINF:-1,|NL| Fox Sports 3
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20476.m3u8
+#EXTINF:-1,|NL| Fox Sports 4 HD ( 1080P )
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20473.m3u8
+#EXTINF:-1,|NL| Fox Sports 4
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20474.m3u8
+#EXTINF:-1,|NL| Fox Sports 5 HD ( 1080P )
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20471.m3u8
+#EXTINF:-1,|NL| Fox Sports 5
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20472.m3u8
+#EXTINF:-1,|NL| Fox Sports 6
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20470.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Select FHD 1080
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20450.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Select HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20490.m3u8
+#EXTINF:-1,|SPAIN| MOVISTAR  DEPORTES 1 FHD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51347.m3u8
+#EXTINF:-1,|SPAIN| MOVISTAR  DEPORTES 2 FHD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51345.m3u8
+#EXTINF:-1,|SPAIN| MOVISTAR  DEPORTES 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51344.m3u8
+#EXTINF:-1,|SPAIN| MOVISTAR  DEPORTES HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51346.m3u8
+#EXTINF:-1,|SPAIN| TELEDEPORTE HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51340.m3u8
+#EXTINF:-1,|UK  | BT Sport 1 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30904.m3u8
+#EXTINF:-1,|UK  | BT Sport 1 backup
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30871.m3u8
+#EXTINF:-1,|UK  | BT Sport 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30905.m3u8
+#EXTINF:-1,|UK  | BT Sport 3 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31027.m3u8
+#EXTINF:-1,|UK  | BT Sport 3 SD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31036.m3u8
+#EXTINF:-1,|UK  | BT Sport ESPN
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30906.m3u8
+#EXTINF:-1,|UK  | BT Sports 2 SD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31044.m3u8
+#EXTINF:-1,|UK  | EUROSPORT 1 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30890.m3u8
+#EXTINF:-1,|UK  | EUROSPORT 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30891.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS ACTION HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30941.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS ACTION
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31086.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS GOLF HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30942.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS MAIN EVENT HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30945.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS MAIN EVENT
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31084.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS PREMIER LEAGUE HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30943.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS PREMIER LEAGUE
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31088.m3u8
+#EXTINF:-1,|UK  | Sky Sport 1 SD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30966.m3u8
+#EXTINF:-1,|UK  | Sky Sport Football HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30862.m3u8
+#EXTINF:-1,|UK  | Sky Sports Mix
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31025.m3u8
+#EXTINF:-1,|USA  | Bein Sports USA HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31827.m3u8
+#EXTINF:-1,|USA  | CA | TSN 2
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31814.m3u8
+#EXTINF:-1,|USA  | CA | TSN 4 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31816.m3u8
+#EXTINF:-1,|USA  | CA | TSN 5*
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31817.m3u8
+#EXTINF:-1,|USA  | Fox Sports 1 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31766.m3u8
+#EXTINF:-1,|USA  | Fox Sports 2 HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31767.m3u8
+#EXTINF:-1,|USA  | TSN 1
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31813.m3u8
+#EXTINF:-1,|USA  | TSN 3*
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31815.m3u8
+#EXTINF:-1,|VIP | DE: Eurosport 2 HD (1080P)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/22004.m3u8
+#EXTINF:-1,|VIP | DE: Sky Sport 1 HD (1080P)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21991.m3u8
+#EXTINF:-1,|VIP | DE: Sky Sport 10 HD (1080P)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21990.m3u8
+#EXTINF:-1,|VIP | DE: Sky Sport 11 HD (1080P)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21989.m3u8
+#EXTINF:-1,|VIP | DE: Sky Sport 2 HD (1080P)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21988.m3u8
+#EXTINF:-1,|VIP | DE: Sky Sport 3 HD (1080P)
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21987.m3u8
+#EXTINF:-1,|VIP | UK: BT Sport 2 HD 1080p
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21938.m3u8
+#EXTINF:-1,|VIP | UK: BT Sport 3 HD 1080p
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21937.m3u8
+#EXTINF:-1,|VIP | UK: Sky Sports F1 HD 1080p
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/21925.m3u8
+#EXTINF:-1,|newCA| TSN  3HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/50017.m3u8
+#EXTINF:-1,|newCA| TSN 1HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/50016.m3u8
+#EXTINF:-1,|newCA| TSN 4HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/50015.m3u8
+#EXTINF:-1,|newCA| TSN 5HD
+http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/50014.m3u8
 
 #EXTINF:0,***********  SSSPPPOOORT  **********
 http://iptv1.premium-stv.com:8000
@@ -140,223 +251,73 @@ http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts
 #EXTINF:0,|FR| INFOSPORT FHD
 http://iptvpro.vision-new.org:8789/Uxm5p0AhMm/zvjHhpZsjA/245
 
-#EXTINF:-1,AR: Bein sport 11 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/18063
-#EXTINF:-1,AR: Bein sport 12 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/18062
-#EXTINF:-1,AR: beIN Sport 11 HD VIP SPORTS
-http://premium-iptv.link:7899/Dimitri/Dimitri/47261
-#EXTINF:-1,AR: beIN Sport 12 HD VIP SPORTS
-http://premium-iptv.link:7899/Dimitri/Dimitri/47260
-#EXTINF:-1,CA: TSN HD 1
-http://premium-iptv.link:7899/Dimitri/Dimitri/9372
-#EXTINF:-1,CA: TSN HD 2
-http://premium-iptv.link:7899/Dimitri/Dimitri/9373
-#EXTINF:-1,CA: TSN HD 3
-http://premium-iptv.link:7899/Dimitri/Dimitri/9374
-#EXTINF:-1,CA: TSN HD 4
-http://premium-iptv.link:7899/Dimitri/Dimitri/9375
-#EXTINF:-1,CA: TSN HD 5
-http://premium-iptv.link:7899/Dimitri/Dimitri/9376
-#EXTINF:-1,DE: BUNDESLIGA 1 (2K)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49790
-#EXTINF:-1,DE: DAZN 1 BAR (2K)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49791
-#EXTINF:-1,DE: DAZN 1 BAR HD+
-http://premium-iptv.link:7899/Dimitri/Dimitri/49795
-#EXTINF:-1,DE: DAZN 2 BAR HD (2K)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49792
-#EXTINF:-1,DE: DAZN 2 BAR HD+
-http://premium-iptv.link:7899/Dimitri/Dimitri/49796
-#EXTINF:-1,DE: EUROSPORT 1 (2K)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49793
-#EXTINF:-1,DE: EUROSPORT 2 (2K)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49794
-#EXTINF:-1,DE: SKY SPORT 1 (2K)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49788
-#EXTINF:-1,DE: SKY SPORT 1 (HD)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49802
-#EXTINF:-1,DE: SKY SPORT 2 (2K)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49789
-#EXTINF:-1,DE: SKY SPORT 2 (HD)
-http://premium-iptv.link:7899/Dimitri/Dimitri/49803
-#EXTINF:-1,ES: MOVISTAR DEPORTE FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/46003
-#EXTINF:-1,ES: MOVISTAR DEPORTES*
-http://premium-iptv.link:7899/Dimitri/Dimitri/45982
-#EXTINF:-1,ES: MOVISTAR DEPORTE
-http://premium-iptv.link:7899/Dimitri/Dimitri/45991
-#EXTINF:-1,ES: Movistar  Deportes 2 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/17131
-#EXTINF:-1,ES: Movistar Deportes 1 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/17135
-#EXTINF:-1,NL: FOX Sports 1 FHD 1080
-http://premium-iptv.link:7899/Dimitri/Dimitri/5644
-#EXTINF:-1,NL: Fox Sports 2 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/46600
-#EXTINF:-1,NL: Fox Sports 3 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/46599
-#EXTINF:-1,NL: Fox Sports 3
-http://premium-iptv.link:7899/Dimitri/Dimitri/155
-#EXTINF:-1,NL: Fox Sports 4 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/46598
-#EXTINF:-1,NL: Fox Sports 5 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/46597
-#EXTINF:-1,NL: Ziggo Sport Select FHD 1080
-http://premium-iptv.link:7899/Dimitri/Dimitri/5452
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/3892
-#EXTINF:-1,NL: Ziggo Sport Voetbal FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/46595
-#EXTINF:-1,TR: Bein sports 1 HD (Backup)
-http://premium-iptv.link:7899/Dimitri/Dimitri/19304
-#EXTINF:-1,TR: Bein sports 2 HD (Backup)
-http://premium-iptv.link:7899/Dimitri/Dimitri/19303
-#EXTINF:-1,UK: BT Sport 1 HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/8
-#EXTINF:-1,UK: BT Sport 1 backup
-http://premium-iptv.link:7899/Dimitri/Dimitri/8950
-#EXTINF:-1,UK: BT Sport 2 HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/6
-#EXTINF:-1,UK: BT Sport 3 HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/5547
-#EXTINF:-1,UK: BT Sport 3 SD
-http://premium-iptv.link:7899/Dimitri/Dimitri/4954
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/17202
-#EXTINF:-1,UK: BT Sports 1 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/8620
-#EXTINF:-1,UK: BT Sports 2 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/8619
-#EXTINF:-1,UK: BT Sports 2 SD
-http://premium-iptv.link:7899/Dimitri/Dimitri/2464
-#EXTINF:-1,UK: BT Sports 3 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/8618
-#EXTINF:-1,UK: SKY SPORTS ACTION HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/22
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://premium-iptv.link:7899/Dimitri/Dimitri/2461
-#EXTINF:-1,UK: SKY SPORTS ARENA FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/9437
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/8612
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/26
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://premium-iptv.link:7899/Dimitri/Dimitri/2463
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/8616
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/18
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://premium-iptv.link:7899/Dimitri/Dimitri/2459
-#EXTINF:-1,UK: Sky Sport 1 SD
-http://premium-iptv.link:7899/Dimitri/Dimitri/1922
-#EXTINF:-1,UK: Sky Sport Football HD
-http://premium-iptv.link:7899/Dimitri/Dimitri/10164
-#EXTINF:-1,UK: Sky Sports F1 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/14901
-#EXTINF:-1,UK: Sky Sports Mix
-http://premium-iptv.link:7899/Dimitri/Dimitri/5496
-#EXTINF:-1,US: Fox Sports 1 FHD
-http://premium-iptv.link:7899/Dimitri/Dimitri/46819
-#EXTINF:-1,US: Fox Sports 2 HD 1080P
-http://premium-iptv.link:7899/Dimitri/Dimitri/8573
+#EXTINF:-1,|CA| TSN  3HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
+#EXTINF:-1,|CA| TSN 1HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/372
+#EXTINF:-1,|CA| TSN 4HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/371
+#EXTINF:-1,|CA| TSN 5HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/370
+#EXTINF:-1,|IT| DAZN Info
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/154
+#EXTINF:-1,|IT| EUROSPORT 2 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/173
+#EXTINF:-1,|IT| SKY SPORT 24 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/294
+#EXTINF:-1,|IT| SKY SPORT 251 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/292
+#EXTINF:-1,|IT| SKY SPORT 252 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/290
+#EXTINF:-1,|IT| SKY SPORT 253 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/288
+#EXTINF:-1,|IT| SKY SPORT 254 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/319
+#EXTINF:-1,|IT| SKY SPORT 255 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/317
+#EXTINF:-1,|IT| SKY SPORT 256 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/316
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/307
+#EXTINF:-1,|UK| BT SPORT 1 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro2/2307507416/5
+#EXTINF:-1,|UK| BT SPORT 2 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro2/2307507416/9
+#EXTINF:-1,|UK| BT SPORT 3 FHD
+http://iptv6.premium-stv.com:25461/sourceukpro2/2307507416/10
+#EXTINF:-1,|UK| EUROSPORT 2 HD
+http://iptv6.premium-stv.com:25461/sourceukpro2/2307507416/32
+#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
+http://iptv6.premium-stv.com:25461/sourceukpro2/2307507416/17
+#EXTINF:-1,|UK| Sky Sports Premier League
+http://iptv6.premium-stv.com:25461/sourceukpro2/2307507416/25
 
-#EXTINF:-1,***** clinetportal
-http://clientportal.link:80
-#EXTINF:-1,BT Sport 1 FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14657.m3u8
-#EXTINF:-1,BT Sport 1 HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1991.m3u8
-#EXTINF:-1,BT Sport 2 FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14658.m3u8
-#EXTINF:-1,BT Sport 2 HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1992.m3u8
-#EXTINF:-1,BT Sport 3 FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14659.m3u8
-#EXTINF:-1,BT Sport 3 HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14903.m3u8
-#EXTINF:-1,BT Sport 3 UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1965.m3u8
-#EXTINF:-1,BT Sport ESPN HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/1980.m3u8
-#EXTINF:-1,BT Sport ESPN UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/2673.m3u8
-#EXTINF:-1,DAZN 1 FHD DE
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/23280.m3u8
-#EXTINF:-1,DAZN 1 HD IT
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/23357.m3u8
-#EXTINF:-1,DAZN 2 FHD DE
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/23281.m3u8
-#EXTINF:-1,DAZN 2 HD IT
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/23358.m3u8
-#EXTINF:-1,FOX Sports 1 FHD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/4169.m3u8
-#EXTINF:-1,FOX Sports 2 FHD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/12530.m3u8
-#EXTINF:-1,FOX Sports 3 FHD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17218.m3u8
-#EXTINF:-1,FOX Sports 4 FHD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17219.m3u8
-#EXTINF:-1,FOX Sports 5 FHD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17220.m3u8
-#EXTINF:-1,FOX Sports 6 FHD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17221.m3u8
-#EXTINF:-1,Movistar Deportes 1 ES
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/5465.m3u8
-#EXTINF:-1,Sky Bundesliga 1 DE
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14550.m3u8
-#EXTINF:-1,Sky Sport 1 DE
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14559.m3u8
-#EXTINF:-1,Sky Sport 2 DE
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14560.m3u8
-#EXTINF:-1,Sky Sport Football HD IT
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/17371.m3u8
-#EXTINF:-1,Sky Sports Action FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14653.m3u8
-#EXTINF:-1,Sky Sports Action UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14747.m3u8
-#EXTINF:-1,Sky Sports Arena FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/16969.m3u8
-#EXTINF:-1,Sky Sports Arena HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/16968.m3u8
-#EXTINF:-1,Sky Sports F1 FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14656.m3u8
-#EXTINF:-1,Sky Sports F1 HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/3603.m3u8
-#EXTINF:-1,Sky Sports Main Event FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14651.m3u8
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/5600.m3u8
-#EXTINF:-1,Sky Sports Mix HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14902.m3u8
-#EXTINF:-1,Sky Sports Mix UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14926.m3u8
-#EXTINF:-1,Sky Sports Premier League FHD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/14655.m3u8
-#EXTINF:-1,Sky Sports Premier League HD UK
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/4458.m3u8
-#EXTINF:-1,TSN 1 HD CA
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/9032.m3u8
-#EXTINF:-1,TSN 2 HD CA
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/9033.m3u8
-#EXTINF:-1,TSN 3 HD CA
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/9034.m3u8
-#EXTINF:-1,TSN 4 HD CA
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/9035.m3u8
-#EXTINF:-1,TSN 5 HD CA
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/9036.m3u8
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/12523.m3u8
-#EXTINF:-1,Ziggo Sport Select NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/4166.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal HD NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/15803.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/4167.m3u8
-#EXTINF:-1,beIN SPORTS 11 HD ARB
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/15000.m3u8
-#EXTINF:-1,beIN SPORTS 12 HD ARB
-http://clientportal.link:80/live/3qEke05hiq/tgI9p19PGl/15001.m3u8
-.m3u8
+
+#EXTINF:-1,|USA| ESPN Deportes
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/389.ts
+#EXTINF:-1,|USA| FOX DEPORTES
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/384.ts
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/382.ts
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/383.ts
+#EXTINF:-1,|USA|ATT Sportsnet SW
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1378.ts
+#EXTINF:-1,|USA|Bein Sports  FHD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1479.ts
+#EXTINF:-1,|USA|Bein Sports HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1380.ts
+#EXTINF:-1,|USA|ESPN Deportes
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1375.ts
+#EXTINF:-1,|USA|Fox Deportes
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1422.ts
+#EXTINF:-1,|USA|Fox Sports 1 FHD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1469.ts
+#EXTINF:-1,|USA|Fox Sports 1 HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1365.ts
+#EXTINF:-1,|USA|Fox Sports 2 HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1366.ts
+#EXTINF:-1,|USA|Fox Sports Ohio HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1373.ts
+#EXTINF:-1,|USA|SPORTSNET N.Y HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1396.ts
