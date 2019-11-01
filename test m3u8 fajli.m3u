@@ -97,15 +97,15 @@ http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/807.m3u8
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/806.m3u8
 #EXTINF:-1,Doma TV HD (HR)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/805.m3u8
-#EXTINF:-1,.m3u8 1 (RS)
+#EXTINF:-1,RTS1.m3u8 1 (RS)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7967.m3u8
-#EXTINF:-1,.m3u8 1 HD (RS)
+#EXTINF:-1,RTS1.m3u8 1 HD (RS)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7685.m3u8
-#EXTINF:-1,.m3u8 2 (RS)
+#EXTINF:-1,RTS2.m3u8 2 (RS)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/834.m3u8
-#EXTINF:-1,.m3u8 2 HD (RS)
+#EXTINF:-1,.RTS3m3u8 2 HD (RS)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/7686.m3u8
-#EXTINF:-1,.m3u8 3 (RS)
+#EXTINF:-1,RTS.m3u8 3 (RS)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1451.m3u8
 #EXTINF:-1,Sport Klub 1 HD (HR)
 http://balkanskispijun.xyz:12974/live/233777a6f94349a/c7a79695f1c8b58/1042.m3u8
