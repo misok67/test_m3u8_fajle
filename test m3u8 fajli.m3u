@@ -1,5 +1,74 @@
 #EXTM3U
-
+#EXTINF:-1, HBO
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/86.m3u8
+#EXTINF:-1, HBO2
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/87.m3u8
+#EXTINF:-1, HBO3
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/88.m3u8
+#EXTINF:-1, Cinestar Premiere 1
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/84.m3u8
+#EXTINF:-1, CineStar Fantasy
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/83.m3u8
+#EXTINF:-1, Cinestar Action & Thriller
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/82.m3u8
+#EXTINF:-1, Cinemax HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/90.m3u8
+#EXTINF:-1, Cinemax 2 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/91.m3u8
+#EXTINF:-1, Fox Movies
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/57.m3u8
+#EXTINF:-1, FilmBox Extra HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/93.m3u8
+#EXTINF:-1, Cinestar TV
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/47.m3u8
+#EXTINF:-1, Klasik TV
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/59.m3u8
+EXTINF:-1, .m3u82
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/32.m3u8
+#EXTINF:-1, .m3u81
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/31.m3u8
+#EXTINF:-1, RTL2
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/21.m3u8
+#EXTINF:-1, NOVA TV
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/19.m3u8
+#EXTINF:-1, Nova TV (HD)
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/210.m3u8
+#EXTINF:-1, Sport Klub 3 RS HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/107.m3u8
+#EXTINF:-1, Sport Klub 3 HD Hr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/110.m3u8
+#EXTINF:-1, Sport Klub 2 RS HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/106.m3u8
+#EXTINF:-1, Sport Klub 2 HD Hr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/109.m3u8
+#EXTINF:-1, Sport Klub 1 RS HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/105.m3u8
+#EXTINF:-1, Sport Klub 1 HD Hr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/108.m3u8
+#EXTINF:-1, Arena Sport 6 HR FHD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/99.m3u8
+#EXTINF:-1, Arena Sport 5 HR HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/98.m3u8
+#EXTINF:-1, Arena Sport 5 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/104.m3u8
+#EXTINF:-1, Arena Sport 4 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/103.m3u8
+#EXTINF:-1, Arena Sport 4 HD Hr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/97.m3u8
+#EXTINF:-1, Arena Sport 3 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/102.m3u8
+#EXTINF:-1, Arena Sport 3 HD Hr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/96.m3u8
+#EXTINF:-1, Arena Sport 2 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/101.m3u8
+#EXTINF:-1, Arena Sport 2 HD Hr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/95.m3u8
+#EXTINF:-1, Arena Sport 1 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/100.m3u8
+#EXTINF:-1, PLANET SPORT 2 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/158.m3u8
+#EXTINF:-1, PLANET SPORT 1 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/157.m3u8
 #EXTINF:-1,HBO ADRIA
 http://proxy.ayservices.xyz:80/live/barbara/barbara/44886.m3u8
 #EXTINF:-1,HBO HD 2
