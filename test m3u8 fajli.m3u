@@ -34,6 +34,54 @@ http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/3.ts
 http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/8.ts
 #EXTINF:-1,|FR| RMC SPORT 4 FHD
 http://iptv1.premium-stv.com:8000/live/RMCSPORTS4/aiPsW9T1C4/4.ts
+#EXTINF:-1, UK  | BT Sport 1 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30904.m3u8
+#EXTINF:-1, UK  | BT Sport 1 backup
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30871.m3u8
+#EXTINF:-1, UK  | BT Sport 2 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30905.m3u8
+#EXTINF:-1, UK  | BT Sport 3 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31027.m3u8
+#EXTINF:-1, UK  | BT Sport 3 SD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31036.m3u8
+#EXTINF:-1, UK  | BT Sport ESPN
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30906.m3u8
+#EXTINF:-1, UK  | BT Sport Europe HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30907.m3u8
+#EXTINF:-1, UK  | BT Sport Mosaic 2
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31043.m3u8
+#EXTINF:-1, UK  | BT Sport Mosaic
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31042.m3u8
+#EXTINF:-1, UK  | BT Sports 2 SD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31044.m3u8
+#EXTINF:-1, AR| BEIN SPORTS 11 HD (english)
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9153.m3u8
+#EXTINF:-1, AR| BEIN SPORTS 12 HD (english)
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9154.m3u8
+#EXTINF:-1, AR| BEIN SPORTS 13 HD (english)
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9155.m3u8
+#EXTINF:-1, DE*.*| DAZN Bar 1
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49220.m3u8
+#EXTINF:-1, DE*.*| DAZN Bar 2
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49219.m3u8
+#EXTINF:-1, DE*.*| Sky Sport 1 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49142.m3u8
+#EXTINF:-1, DE*.*| Sky Sport 2 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49141.m3u8
+#EXTINF:-1, NL| FOX Sports 1 FHD 1080
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20479.m3u8
+#EXTINF:-1, NL| Fox Sports 5 HD ( 1080P )
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20471.m3u8
+#EXTINF:-1, NL| Fox Sports 6
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20470.m3u8
+#EXTINF:-1, NL| Ziggo Sport Select FHD 1080
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20450.m3u8
+#EXTINF:-1, NL| Ziggo Sport Select HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20490.m3u8
+#EXTINF:-1, NL|: Ziggo Sport Select HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/48831.m3u8
+#EXTINF:-1, NL|: Ziggo Sport Voetbal
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/48832.m3u8
 
 #EXTINF:-1, HBO
 http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/86.m3u8
