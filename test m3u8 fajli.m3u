@@ -1,4 +1,40 @@
 #EXTM3U
+
+#EXTINF:-1, Arena Sport 1 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/100.m3u8
+#EXTINF:-1, Arena Sport 2 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/101.m3u8
+#EXTINF:-1, Arena Sport 3 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/102.m3u8
+#EXTINF:-1, Arena Sport 4 HD Sr
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/103.m3u8
+#EXTINF:-1, PLANET SPORT 1 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/157.m3u8
+#EXTINF:-1, PLANET SPORT 2 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/158.m3u8
+#EXTINF:-1,PLANET SPORT 4 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/160.m3u8
+#EXTINF:-1,PLANET SPORT 3 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/159.m3u8
+#EXTINF:-1, DE: DAZN Bar 1
+http://proxy.ayservices.xyz:80/live/barbara/barbara/551.m3u8
+#EXTINF:-1, DE: DAZN Bar 2
+http://proxy.ayservices.xyz:80/live/barbara/barbara/45939.m3u8
+#EXTINF:-1, DE: Sky Sport 1 HD
+http://proxy.ayservices.xyz:80/live/barbara/barbara/43530.m3u8
+#EXTINF:-1, DE: Sky Sport 2 HD
+http://proxy.ayservices.xyz:80/live/barbara/barbara/43529.m3u8
+#EXTINF:-1,|FR| RMC SPORTS 2 FULLHD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/2.ts
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/7.ts
+#EXTINF:-1,|FR| RMC SPORTS 3 FULLHD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/3.ts
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/8.ts
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+http://iptv1.premium-stv.com:8000/live/RMCSPORTS4/aiPsW9T1C4/4.ts
+
 #EXTINF:-1, HBO
 http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/86.m3u8
 #EXTINF:-1, HBO2
@@ -69,74 +105,6 @@ http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/100.m3u8
 http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/158.m3u8
 #EXTINF:-1, PLANET SPORT 1 HD
 http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/157.m3u8
-#EXTINF:-1,HBO ADRIA
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44886.m3u8
-#EXTINF:-1,HBO HD 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44854.m3u8
-#EXTINF:-1,HBO HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44855.m3u8
-#EXTINF:-1,HBO Comedy
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44806.m3u8
-#EXTINF:-1,Cinemax HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44825.m3u8
-#EXTINF:-1,Cinestar Action
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44824.m3u8
-#EXTINF:-1,Cinestar Fantasy HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44823.m3u8
-#EXTINF:-1,Cinestar Premiere 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44821.m3u8
-#EXTINF:-1,Fox Movies
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44884.m3u8
-#EXTINF:-1,KLASIK TV
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44796.m3u8
-#EXTINF:-1,Pink Film
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44898.m3u8
-#EXTINF:-1,TV 1000
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44894.m3u8
-#EXTINF:-1,Nova HR
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44841.m3u8
-#EXTINF:-1,Doma TV
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44843.m3u8
-#EXTINF:-1,RTL 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44851.m3u8
-#EXTINF:-1,RTL CRIME
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44850.m3u8
-#EXTINF:-1,RTL
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44852.m3u8
-#EXTINF:-1,RTS 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44839.m3u8
-#EXTINF:-1,RTS 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44838.m3u8
-#EXTINF:-1,SPORT KLUB 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44890.m3u8
-#EXTINF:-1,SPORT KLUB 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44889.m3u8
-#EXTINF:-1,SPORT KLUB 3
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44888.m3u8
-#EXTINF:-1,SPORT KLUB 5
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44747.m3u8
-#EXTINF:-1,SPORT KLUB 6
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44746.m3u8
-#EXTINF:-1,ARENA SPORT 1 (SR)
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44874.m3u8
-#EXTINF:-1,ARENA SPORT 2 (SR)
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44872.m3u8
-#EXTINF:-1,ARENA SPORT 3 (SR)
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44870.m3u8
-#EXTINF:-1,ARENA SPORT 4 (SR)
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44868.m3u8
-#EXTINF:-1,ARENA SPORT 5 (SR)
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44866.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44875.m3u8
-#EXTINF:-1,Arena Sport 2 HR
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44873.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44871.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44869.m3u8
-#EXTINF:-1,Arena Sport 5 HR
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44867.m3u8
 
 #EXTINF:0,***********  SSSPPPOOORT  **********
 http://iptv1.premium-stv.com:8000
