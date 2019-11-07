@@ -1,88 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Arena Sport 1 HD Sr
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/100.m3u8
-#EXTINF:-1, Arena Sport 2 HD Sr
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/101.m3u8
-#EXTINF:-1, Arena Sport 3 HD Sr
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/102.m3u8
-#EXTINF:-1, Arena Sport 4 HD Sr
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/103.m3u8
-#EXTINF:-1, PLANET SPORT 1 HD
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/157.m3u8
-#EXTINF:-1, PLANET SPORT 2 HD
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/158.m3u8
-#EXTINF:-1,PLANET SPORT 4 HD
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/160.m3u8
-#EXTINF:-1,PLANET SPORT 3 HD
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/159.m3u8
-#EXTINF:-1, DE: DAZN Bar 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/551.m3u8
-#EXTINF:-1, DE: DAZN Bar 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45939.m3u8
-#EXTINF:-1, DE: Sky Sport 1 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43530.m3u8
-#EXTINF:-1, DE: Sky Sport 2 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43529.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 2 FULLHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/2.ts
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/7.ts
-#EXTINF:-1,|FR| RMC SPORTS 3 FULLHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/3.ts
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/8.ts
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS4/aiPsW9T1C4/4.ts
-#EXTINF:-1, UK  | BT Sport 1 HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30904.m3u8
-#EXTINF:-1, UK  | BT Sport 1 backup
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30871.m3u8
-#EXTINF:-1, UK  | BT Sport 2 HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30905.m3u8
-#EXTINF:-1, UK  | BT Sport 3 HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31027.m3u8
-#EXTINF:-1, UK  | BT Sport 3 SD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31036.m3u8
-#EXTINF:-1, UK  | BT Sport ESPN
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30906.m3u8
-#EXTINF:-1, UK  | BT Sport Europe HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30907.m3u8
-#EXTINF:-1, UK  | BT Sport Mosaic 2
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31043.m3u8
-#EXTINF:-1, UK  | BT Sport Mosaic
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31042.m3u8
-#EXTINF:-1, UK  | BT Sports 2 SD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31044.m3u8
-#EXTINF:-1, AR| BEIN SPORTS 11 HD (english)
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9153.m3u8
-#EXTINF:-1, AR| BEIN SPORTS 12 HD (english)
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9154.m3u8
-#EXTINF:-1, AR| BEIN SPORTS 13 HD (english)
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9155.m3u8
-#EXTINF:-1, DE*.*| DAZN Bar 1
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49220.m3u8
-#EXTINF:-1, DE*.*| DAZN Bar 2
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49219.m3u8
-#EXTINF:-1, DE*.*| Sky Sport 1 HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49142.m3u8
-#EXTINF:-1, DE*.*| Sky Sport 2 HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49141.m3u8
-#EXTINF:-1, NL| FOX Sports 1 FHD 1080
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20479.m3u8
-#EXTINF:-1, NL| Fox Sports 5 HD ( 1080P )
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20471.m3u8
-#EXTINF:-1, NL| Fox Sports 6
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20470.m3u8
-#EXTINF:-1, NL| Ziggo Sport Select FHD 1080
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20450.m3u8
-#EXTINF:-1, NL| Ziggo Sport Select HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/20490.m3u8
-#EXTINF:-1, NL|: Ziggo Sport Select HD
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/48831.m3u8
-#EXTINF:-1, NL|: Ziggo Sport Voetbal
-http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/48832.m3u8
-
 #EXTINF:-1, HBO
 http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/86.m3u8
 #EXTINF:-1, HBO2
@@ -156,6 +73,33 @@ http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/157.m3u8
 
 #EXTINF:0,***********  SSSPPPOOORT  **********
 http://iptv1.premium-stv.com:8000
+#EXTINF:-1, UK  | BT Sport 1 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30904.m3u8
+#EXTINF:-1, UK  | BT Sport 1 backup
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30871.m3u8
+#EXTINF:-1, UK  | BT Sport 2 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30905.m3u8
+#EXTINF:-1, UK  | BT Sport 3 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31027.m3u8
+#EXTINF:-1, UK  | BT Sport 3 SD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/31036.m3u8
+#EXTINF:-1, UK  | BT Sport ESPN
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/30906.m3u8
+#EXTINF:-1, AR| BEIN SPORTS 11 HD (english)
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9153.m3u8
+#EXTINF:-1, AR| BEIN SPORTS 12 HD (english)
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9154.m3u8
+#EXTINF:-1, AR| BEIN SPORTS 13 HD (english)
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/9155.m3u8
+#EXTINF:-1, DE*.*| DAZN Bar 1
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49220.m3u8
+#EXTINF:-1, DE*.*| DAZN Bar 2
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49219.m3u8
+#EXTINF:-1, DE*.*| Sky Sport 1 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49142.m3u8
+#EXTINF:-1, DE*.*| Sky Sport 2 HD
+http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49141.m3u8
+
 #EXTINF:-1, DAZN 1 Full HD
 http://proxy.ayservices.xyz:80/live/barbara/barbara/41336.m3u8
 #EXTINF:-1, DAZN 1 HD
@@ -172,8 +116,6 @@ http://proxy.ayservices.xyz:80/live/barbara/barbara/43530.m3u8
 http://proxy.ayservices.xyz:80/live/barbara/barbara/43529.m3u8
 #EXTINF:-1, ES: Bein Sports España FullHD
 http://proxy.ayservices.xyz:80/live/barbara/barbara/43944.m3u8
-#EXTINF:-1, ES: Movistar DEPORTES 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43988.m3u8
 #EXTINF:-1, ES: Movistar Deportes 1
 http://proxy.ayservices.xyz:80/live/barbara/barbara/43987.m3u8
 #EXTINF:-1, NL: FOX SPORTS 3
@@ -184,36 +126,16 @@ http://proxy.ayservices.xyz:80/live/barbara/barbara/45350.m3u8
 http://proxy.ayservices.xyz:80/live/barbara/barbara/45349.m3u8
 #EXTINF:-1, NL: FOX SPORTS 6
 http://proxy.ayservices.xyz:80/live/barbara/barbara/45348.m3u8
-#EXTINF:-1, NL: FOX Sports 2 HD int
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45352.m3u8
-#EXTINF:-1, NL: FOX Sports EDL 1 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45353.m3u8
-#EXTINF:-1, NL: FOX Sports EDL 3
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45351.m3u8
-#EXTINF:-1, NL: Ziggo Sport Select HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/50048.m3u8
 #EXTINF:-1, NL: Ziggo Sport Voetbal
 http://proxy.ayservices.xyz:80/live/barbara/barbara/50052.m3u8
 #EXTINF:-1, SPORT DE: DAZN Bar 1
 http://proxy.ayservices.xyz:80/live/barbara/barbara/87414.m3u8
 #EXTINF:-1, SPORT DE: DAZN Bar 2
 http://proxy.ayservices.xyz:80/live/barbara/barbara/87413.m3u8
-#EXTINF:-1, SPORT DE: Sky BUNDESLIGA 10 HD ( During Games only )
-http://proxy.ayservices.xyz:80/live/barbara/barbara/87403.m3u8
 #EXTINF:-1, SPORT DE: Sky Bundesliga 1 HD
 http://proxy.ayservices.xyz:80/live/barbara/barbara/87412.m3u8
 #EXTINF:-1, Sky Sport Football Full HD
 http://proxy.ayservices.xyz:80/live/barbara/barbara/106.m3u8
-#EXTINF:-1, UK_BT Sport ESPN
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44127.m3u8
-#EXTINF:-1, UK_EUROSPORT_1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44093.m3u8
-#EXTINF:-1, UK_EUROSPORT_2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44092.m3u8
-#EXTINF:-1, USA: BEIN Sports HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44288.m3u8
-#EXTINF:-1, USA: ESPN Deportes HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44235.m3u8
 #EXTINF:-1, USA: FOX Sports 1 HD
 http://proxy.ayservices.xyz:80/live/barbara/barbara/44301.m3u8
 #EXTINF:-1, USA: FOX Sports 2 HD
@@ -228,77 +150,6 @@ http://proxy.ayservices.xyz:80/live/barbara/barbara/44306.m3u8
 http://proxy.ayservices.xyz:80/live/barbara/barbara/44305.m3u8
 #EXTINF:-1, USA: TSN HD 5
 http://proxy.ayservices.xyz:80/live/barbara/barbara/44304.m3u8
-
-#EXTINF:-1, CA| TSN  3HD
-http://siptv-online.com:8789/live/19865/19865/40795.m3u8
-#EXTINF:-1, CA| TSN 1HD
-http://siptv-online.com:8789/live/19865/19865/40796.m3u8
-#EXTINF:-1, CA| TSN 4HD
-http://siptv-online.com:8789/live/19865/19865/40797.m3u8
-#EXTINF:-1, CA| TSN 5HD
-http://siptv-online.com:8789/live/19865/19865/40798.m3u8
-#EXTINF:-1, DE| SKY BUNDESLIGA 1HD
-http://siptv-online.com:8789/live/19865/19865/23696.m3u8
-#EXTINF:-1, DE| SKY SPORT 1HD
-http://siptv-online.com:8789/live/19865/19865/23705.m3u8
-#EXTINF:-1, DE|SKY SPORT 2
-http://siptv-online.com:8789/live/19865/19865/23702.m3u8
-#EXTINF:-1, ES| M DEPORTES 1 HD
-http://siptv-online.com:8789/live/19865/19865/14065.m3u8
-#EXTINF:-1, ES| M DEPORTES 2 HD
-http://siptv-online.com:8789/live/19865/19865/14062.m3u8
-#EXTINF:-1, IT| DAZN Info
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/154
-#EXTINF:-1, IT| DAZN Sport 0
-http://siptv-online.com:8789/live/19865/19865/29588.m3u8
-#EXTINF:-1, IT| DAZN Sport 1
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/151
-#EXTINF:-1, IT| DAZN Sport 2
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/145
-#EXTINF:-1, NL| FOX SPORTS EDL 1 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/357.ts
-#EXTINF:-1, NL| FOX SPORTS EDL 3 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/358.ts
-#EXTINF:-1, NL| Fox Sport 1 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/351.ts
-#EXTINF:-1, NL| Fox Sport 2 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/352.ts
-#EXTINF:-1, NL| Fox Sport 3 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/353.ts
-#EXTINF:-1, NL| Fox Sport 4 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/354.ts
-#EXTINF:-1, NL| Fox Sport 5 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/355.ts
-#EXTINF:-1, NL| Fox Sport 6 HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/368.ts
-#EXTINF:-1, NL| ZIGGO SPORT SELECT HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/743.ts
-#EXTINF:-1, NL| ZIGGO SPORT VOETBAL
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/742.ts
-#EXTINF:-1, NL| Ziggo Sport Voetbal HD
-http://iptv4.premium-stv.com:8000/live/sourcenederlandpro2/78yMD3GHxY/364.ts
-#EXTINF:-1, UK| BT SPORT 1 FHD
-http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/67.ts
-#EXTINF:-1, UK| BT SPORT 2 FHD
-http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/66.ts
-#EXTINF:-1, UK| BT SPORT 3 FHD
-http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/65.ts
-#EXTINF:-1, UK| EUROSPORT UK
-http://siptv-online.com:8789/live/19865/19865/23444.m3u8
-#EXTINF:-1, UK| EUROSPORT2
-http://iptv4.premium-stv.com:8000/live/sourceesppro2/B8YHWPh2j8/26.ts
-#EXTINF:-1, UK| SKY SPORT FOOTBALL HD
-http://siptv-online.com:8789/live/19865/19865/23453.m3u8
-#EXTINF:-1, USA| ESPN Deportes
-http://siptv-online.com:8789/live/19865/19865/24102.m3u8
-#EXTINF:-1, USA| FOX DEPORTES
-http://siptv-online.com:8789/live/19865/19865/24094.m3u8
-#EXTINF:-1, USA| FOX SPORT 1HD
-http://siptv-online.com:8789/live/19865/19865/24107.m3u8
-#EXTINF:-1, USA| FOX SPORT 2HD
-http://siptv-online.com:8789/live/19865/19865/24106.m3u8
-
-
 #EXTINF:-1,|FR| RMC SPORT 1 HD
 http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/6.ts
 #EXTINF:-1,|FR| RMC SPORTS 2 FULLHD
@@ -319,32 +170,8 @@ http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/33.ts
 http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.ts
 #EXTINF:-1,|FR| beINSPORTS 3 FULLHD
 http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts
-#EXTINF:-1,VIP |UK  | BT Sport 2 HD 1080p
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31001.m3u8
-#EXTINF:-1,VIP |UK  | BT Sport 3 HD 1080p
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31000.m3u8
-#EXTINF:-1,VIP |UK  | Sky Sports F1 HD 1080p
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30994.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 11 HD (english)
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9153.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 12 HD (english)
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9154.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 13 HD (english)
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9155.m3u8
 #EXTINF:-1,|DE*.*| DAZN Bar 1
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49220.m3u8
-#EXTINF:-1,|DE*.*| DAZN Bar 2
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49219.m3u8
-#EXTINF:-1,|DE*.*| Eurosport 1 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49205.m3u8
-#EXTINF:-1,|DE*.*| Eurosport 2 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49204.m3u8
-#EXTINF:-1,|DE*.*| Eurosport 2 xtra HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49203.m3u8
-#EXTINF:-1,|DE*.*| Sky BUNDESLIGA 10 HD ( During Games only )
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49124.m3u8
-#EXTINF:-1,|DE*.*| Sky Bundesliga 1 FullHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49133.m3u8
 #EXTINF:-1,|DE*.*| Sky Sport 1 HD
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49142.m3u8
 #EXTINF:-1,|DE*.*| Sky Sport 2 HD
@@ -361,24 +188,9 @@ http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51100.m3u8
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9326.m3u8
 #EXTINF:-1,|FR| CANAL SPORT HD BKP
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15191.m3u8
-#EXTINF:-1,|NL| Fox Sports 1
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20480.m3u8
-#EXTINF:-1,|NL| Fox Sports 2
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20478.m3u8
-#EXTINF:-1,|NL| Fox Sports 3
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20476.m3u8
-#EXTINF:-1,|NL| Fox Sports 4
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20474.m3u8
-#EXTINF:-1,|NL| Fox Sports 5
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20472.m3u8
-#EXTINF:-1,|NL| Fox Sports 6
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20470.m3u8
-#EXTINF:-1,|NL| Ziggo Sport Select HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/20490.m3u8
+
 #EXTINF:-1,|UK  | BT Sport 1 HD
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30904.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 FHD
-http://iptv6.premium-stv.com:25461/sourceukpro2/2307507416/9
 #EXTINF:-1,|UK  | BT Sport 3 SD
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/31036.m3u8
 #EXTINF:-1,|UK  | EUROSPORT 1 HD
@@ -395,24 +207,6 @@ http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51347.m3u8
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51345.m3u8
 #EXTINF:-1,|SPAIN| MOVISTAR  DEPORTES HD
 http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51346.m3u8
-#EXTINF:-1,|SPAIN| TELEDEPORTE HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51340.m3u8
-#EXTINF:-1,|IT| SKY SPORT 24 HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/294
-#EXTINF:-1,|IT| SKY SPORT 251 HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/292
-#EXTINF:-1,|IT| SKY SPORT 252 HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/290
-#EXTINF:-1,|IT| SKY SPORT 253 HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/288
-#EXTINF:-1,|IT| SKY SPORT 254 HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/319
-#EXTINF:-1,|IT| SKY SPORT 255 HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/317
-#EXTINF:-1,|IT| SKY SPORT 256 HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/316
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
-http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/307
 #EXTINF:-1,|CA| TSN  3HD
 http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
 #EXTINF:-1,|CA| TSN 1HD
@@ -423,8 +217,6 @@ http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/371
 http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/22.m3u8
 #EXTINF:0,BEINSPORTS 11 HD
 http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.m3u8
-#EXTINF:0,BEINSPORTS 11 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/35.m3u8
 #EXTINF:0,BEINSPORTS 12 HD
 http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/23.m3u8
 #EXTINF:0,BEINSPORTS 12 FULLHD
@@ -456,6 +248,4 @@ http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/39.ts
 http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/38.ts
 #EXTINF:-1,AR:BEINSPORTS10-SD
 http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/46.ts
-#EXTINF:-1,|AR| BEINSPORTS MAX  Channel_7
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
 
