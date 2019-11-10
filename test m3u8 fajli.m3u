@@ -109,56 +109,116 @@ http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49142.m3u8
 #EXTINF:-1, DE*.*| Sky Sport 2 HD
 http://fpro.webvps.de:25443/live/1sogDvwX8N/fu7xcdA8zi/49141.m3u8
 
-#EXTINF:-1, DAZN 1 Full HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/41336.m3u8
-#EXTINF:-1, DAZN 1 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/41337.m3u8
-#EXTINF:-1, DE: DAZN Bar 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/551.m3u8
-#EXTINF:-1, DE: DAZN Bar 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45939.m3u8
-#EXTINF:-1, DE: Sky Bundesliga 1 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43521.m3u8
-#EXTINF:-1, DE: Sky Sport 1 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43530.m3u8
-#EXTINF:-1, DE: Sky Sport 2 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43529.m3u8
-#EXTINF:-1, ES: Bein Sports España FullHD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43944.m3u8
-#EXTINF:-1, ES: Movistar Deportes 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/43987.m3u8
-#EXTINF:-1, NL: FOX SPORTS 3
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45307.m3u8
-#EXTINF:-1, NL: FOX SPORTS 4
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45350.m3u8
-#EXTINF:-1, NL: FOX SPORTS 5
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45349.m3u8
-#EXTINF:-1, NL: FOX SPORTS 6
-http://proxy.ayservices.xyz:80/live/barbara/barbara/45348.m3u8
-#EXTINF:-1, NL: Ziggo Sport Voetbal
-http://proxy.ayservices.xyz:80/live/barbara/barbara/50052.m3u8
-#EXTINF:-1, SPORT DE: DAZN Bar 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/87414.m3u8
-#EXTINF:-1, SPORT DE: DAZN Bar 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/87413.m3u8
-#EXTINF:-1, SPORT DE: Sky Bundesliga 1 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/87412.m3u8
-#EXTINF:-1, Sky Sport Football Full HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/106.m3u8
-#EXTINF:-1, USA: FOX Sports 1 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44301.m3u8
-#EXTINF:-1, USA: FOX Sports 2 HD
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44302.m3u8
-#EXTINF:-1, USA: TSN HD 1
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44308.m3u8
-#EXTINF:-1, USA: TSN HD 2
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44307.m3u8
-#EXTINF:-1, USA: TSN HD 3
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44306.m3u8
-#EXTINF:-1, USA: TSN HD 4
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44305.m3u8
-#EXTINF:-1, USA: TSN HD 5
-http://proxy.ayservices.xyz:80/live/barbara/barbara/44304.m3u8
+#EXTINF:-1,|UK  | BT Sport 1 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30904.m3u8
+#EXTINF:-1,|UK  | BT Sport 1 backup
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30871.m3u8
+#EXTINF:-1,|UK  | BT Sport 2 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30905.m3u8
+#EXTINF:-1,|UK  | BT Sport 3 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31027.m3u8
+#EXTINF:-1,|UK  | BT Sport 3 SD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31036.m3u8
+#EXTINF:-1,|UK  | BT Sport ESPN
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30906.m3u8
+#EXTINF:-1,|UK  | BT Sport Europe HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30907.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS ACTION HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30941.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS ACTION
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31086.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS GOLF HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30942.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS MAIN EVENT HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30945.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS MAIN EVENT
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31084.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS PREMIER LEAGUE HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30943.m3u8
+#EXTINF:-1,|UK  | SKY SPORTS PREMIER LEAGUE
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31088.m3u8
+#EXTINF:-1,|UK  | Sky Sport 1 SD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30966.m3u8
+#EXTINF:-1,|UK  | Sky Sport Football HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30862.m3u8
+#EXTINF:-1,|UK  | Sky Sports Mix
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31025.m3u8
+#EXTINF:-1,|USA  | Fox Sports 1 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31766.m3u8
+#EXTINF:-1,|USA  | Fox Sports 2 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31767.m3u8
+#EXTINF:-1,VIP DE: Sky Sport 1 HD (1080P)
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/59288.m3u8
+#EXTINF:-1,VIP DE: Sky Sport 2 HD (1080P)
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/59291.m3u8
+#EXTINF:-1,VIP UK: BT Sport 2 HD 1080p
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/59302.m3u8
+#EXTINF:-1,VIP UK: BT Sport 3 HD 1080p
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/59303.m3u8
+#EXTINF:-1,VIP UK: Sky Sports F1 HD 1080p
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/59308.m3u8
+#EXTINF:-1,VIP |UK  | BT Sport 2 HD 1080p
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31001.m3u8
+#EXTINF:-1,VIP |UK  | BT Sport 3 HD 1080p
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/31000.m3u8
+#EXTINF:-1,VIP |UK  | Sky Sports F1 HD 1080p
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/30994.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 11 HD (english)
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/9153.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 12 HD (english)
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/9154.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 13 HD (english)
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/9155.m3u8
+#EXTINF:-1,|DE*.*| DAZN Bar 1
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49220.m3u8
+#EXTINF:-1,|DE*.*| DAZN Bar 2
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49219.m3u8
+#EXTINF:-1,|DE*.*| Eurosport 1 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49205.m3u8
+#EXTINF:-1,|DE*.*| Eurosport 2 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49204.m3u8
+#EXTINF:-1,|DE*.*| Sky BUNDESLIGA 10 HD ( During Games only )
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49124.m3u8
+#EXTINF:-1,|DE*.*| Sky Bundesliga 1 FullHD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49133.m3u8
+#EXTINF:-1,|DE*.*| Sky Sport 1 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49142.m3u8
+#EXTINF:-1,|DE*.*| Sky Sport 2 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/49141.m3u8
+#EXTINF:-1,|FR HEVC| BEIN SPORTS 1 FHD H.265
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/51199.m3u8
+#EXTINF:-1,|FR HEVC| BEIN SPORTS 2 FHD H.265
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/51198.m3u8
+#EXTINF:-1,|FR HEVC| BEIN SPORTS 3 FHD H.265
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/51197.m3u8
+#EXTINF:-1,|NL| FOX Sports 1 FHD 1080
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20479.m3u8
+#EXTINF:-1,|NL| FOX Sports 2 HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20477.m3u8
+#EXTINF:-1,|NL| FOX Sports 3 HD ( 1080P )
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20475.m3u8
+#EXTINF:-1,|NL| Fox Sports 1
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20480.m3u8
+#EXTINF:-1,|NL| Fox Sports 2
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20478.m3u8
+#EXTINF:-1,|NL| Fox Sports 3
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20476.m3u8
+#EXTINF:-1,|NL| Fox Sports 4 HD ( 1080P )
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20473.m3u8
+#EXTINF:-1,|NL| Fox Sports 4
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20474.m3u8
+#EXTINF:-1,|NL| Fox Sports 5 HD ( 1080P )
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20471.m3u8
+#EXTINF:-1,|NL| Fox Sports 5
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20472.m3u8
+#EXTINF:-1,|NL| Fox Sports 6
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20470.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Select FHD 1080
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20450.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Select HD
+http://nvip.one-iptv.com:25443/live/VP0dw5KlQQlX/TpbDTMYN4l/20490.m3u8
+
+
 #EXTINF:-1,|FR| RMC SPORT 1 HD
 http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/6.ts
 #EXTINF:-1,|FR| RMC SPORTS 2 FULLHD
