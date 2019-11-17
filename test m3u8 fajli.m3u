@@ -1,7 +1,26 @@
 #EXTM3U
 
-#EXTINF:0,***********  SSSPPPOOORT  **********
-http://iptv1.premium-stv.com:8000
+#EXTINF:-1,Sport Klub 1
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/sportklub.m3u8
+#EXTINF:-1,Sport Klub 2
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/sportklub2.m3u8
+#EXTINF:-1,Sport Klub 3
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/sportklub3.m3u8
+#EXTINF:-1,Sport Klub 4
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/sportklub4.m3u8
+
+#EXTINF:-1,Arena Sport 1
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/arena1.m3u8
+#EXTINF:-1,Arena Sport 2
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/arena2.m3u8
+#EXTINF:-1,Arena Sport 3
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/arena3.m3u8
+#EXTINF:-1,Arena Sport 4
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/arena4.m3u8
+#EXTINF:-1,Arena Sport 5
+http://cdn.videosofsport1.live/hls/uvyiHiNSPjQtH75qtRnvhA/1574026089/arena5.m3u8
+
+
 
 #EXTINF:-1,CAN: TSN Sport 1
 http://client-best2019.club:8080/live/junior/junior/3046.m3u8
