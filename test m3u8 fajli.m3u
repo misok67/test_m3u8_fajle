@@ -73,27 +73,6 @@ http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/306.m3u8
 #EXTINF:-1,RTS 3
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13303.m3u8
 
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS1/tXiJODIWac/6.ts
-#EXTINF:-1,|FR| RMC SPORTS 2 FULLHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/2.ts
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS2/beMuiUtm4X/7.ts
-#EXTINF:-1,|FR| RMC SPORTS 3 FULLHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/3.ts
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS3/w4TMK45atU/8.ts
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-http://iptv1.premium-stv.com:8000/live/RMCSPORTS4/aiPsW9T1C4/4.ts
-#EXTINF:-1,|FR| CANAL+ SPORT FULLHD
-http://iptv1.premium-stv.com:8000/live/CANALAPLUS/laC5eURPY8/27.ts
-#EXTINF:-1,|FR| beINSPORTS 1 FULLHD
-http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/33.ts
-#EXTINF:-1,|FR| beINSPORTS 2 FULLHD
-http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.ts
-#EXTINF:-1,|FR| beINSPORTS 3 FULLHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts
-
 #EXTINF:-1,|CA| TSN  3HD
 http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
 #EXTINF:-1,|CA| TSN 1HD
@@ -143,12 +122,8 @@ http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/18274.m3u8
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/18321.m3u8
 #EXTINF:-1,UK VIP: SKY SPORTS PREMIER LEAGUE HD
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/41489.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 10 FHD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/29341.m3u8
 #EXTINF:-1,AR: BEIN SPORTS 10 HD HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/33921.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 10 HD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/570.m3u8
 #EXTINF:-1,AR: BEIN SPORTS 11 FHD
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/29340.m3u8
 #EXTINF:-1,AR: BEIN SPORTS 12 FHD
@@ -181,34 +156,20 @@ http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/26142.m3u8
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/17490.m3u8
 #EXTINF:-1,DE: DAZN SPORT 2 HD
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/17489.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13273.m3u8
 #EXTINF:-1,NL: FOX SPORTS 1 HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40895.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13274.m3u8
 #EXTINF:-1,NL: FOX SPORTS 2 HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40894.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13275.m3u8
 #EXTINF:-1,NL: FOX SPORTS 3 HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40893.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13276.m3u8
 #EXTINF:-1,NL: FOX SPORTS 4 HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40892.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13277.m3u8
 #EXTINF:-1,NL: FOX SPORTS 5 HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40891.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 HD
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13278.m3u8
 #EXTINF:-1,NL: FOX SPORTS 6 HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40890.m3u8
 #EXTINF:-1,NL: ZIGGO SPORT SELECT HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40901.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/10939.m3u8
 #EXTINF:-1,NL: ZIGGO SPORT VOETBAL HEVC
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40900.m3u8
 #EXTINF:-1,NL: Ziggo Sport Select HD
@@ -223,14 +184,6 @@ http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/1192.m3u8
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/12562.m3u8
 #EXTINF:-1,SP: M. DEPORTES 2
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/12499.m3u8
-#EXTINF:-1,SP: MULTIDEPORTES 1
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/19986.m3u8
-#EXTINF:-1,SP: MULTIDEPORTES 2
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/19985.m3u8
-#EXTINF:-1,SP: MULTIDEPORTES 3
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/19984.m3u8
-#EXTINF:-1,SP: MULTIDEPORTES 4
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/19983.m3u8
 #EXTINF:-1,UK VIP: Sky Sports Mix
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/41486.m3u8
 #EXTINF:-1,UK: BT Sport 1 HD
@@ -270,88 +223,31 @@ http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13658.m3u8
 #EXTINF:-1,USA: FOX Sports 2 HD
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13659.m3u8
 
-***
-#EXTINF:-1,DE: DAZN 1 BAR HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20809.m3u8
-#EXTINF:-1,DE: DAZN 2 BAR HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20810.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 HD XTRA 
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20808.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20807.m3u8
-#EXTINF:-1,DE: EUROSPORT U1 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20806.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20834.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20836.m3u8
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20814.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21115.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20638.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21116.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20618.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21117.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20639.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21118.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21119.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21120.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21122.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20659.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21121.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/20660.m3u8
-#EXTINF:-1,SPO: BEIN SPORTS 10 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22436.m3u8
-#EXTINF:-1,SPO: BEIN SPORTS 11 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22437.m3u8
-#EXTINF:-1,SPO: BEIN SPORTS 12 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22438.m3u8
-#EXTINF:-1,SPO: BEIN SPORTS 13 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22439.m3u8
-#EXTINF:-1,SPO: BEIN SPORTS 2 UHD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22428.m3u8
-#EXTINF:-1,UK: BRITISH EUROSPORT 1
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21901.m3u8
-#EXTINF:-1,UK: BRITISH EUROSPORT 2
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21902.m3u8
-#EXTINF:-1,UK: BT SPORT 1
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21897.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21898.m3u8
-#EXTINF:-1,UK: BT SPORT 3
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21900.m3u8
-#EXTINF:-1,UK: BT SPORT EUROPE 
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21899.m3u8
-#EXTINF:-1,UK: SKY SPORTS ACTION 
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21891.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT 
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21889.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE 
-http://www.bozhd.eu:8000/live/lokman3/3lokman/21893.m3u8
-#EXTINF:-1,USA: BEIN SPORTS HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22948.m3u8
-#EXTINF:-1,USA: ESPN DEPORTES HD
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22999.m3u8
-#EXTINF:-1,USA: TSN HD 1
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22933.m3u8
-#EXTINF:-1,USA: TSN HD 2
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22934.m3u8
-#EXTINF:-1,USA: TSN HD 3
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22935.m3u8
-#EXTINF:-1,USA: TSN HD 4
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22936.m3u8
-#EXTINF:-1,USA: TSN HD 5
-http://www.bozhd.eu:8000/live/lokman3/3lokman/22937.m3u8
+#EXTINF:0,https://flylinks.net,|DE| DAZN 1 Bar HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2674.m3u8
+#EXTINF:0,https://flylinks.net,|DE| DAZN 2 Bar HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2675.m3u8
+#EXTINF:0,https://flylinks.net,|DE| Eurosport 1 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2686.m3u8
+#EXTINF:0,https://flylinks.net,|DE| Eurosport 2 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2687.m3u8
+#EXTINF:0,https://flylinks.net,|DE| Sky Bundesliga 1
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2752.m3u8
+#EXTINF:0,https://flylinks.net,|DE| Sky Sport 1 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2772.m3u8
+#EXTINF:0,https://flylinks.net,|DE| Sky Sport 2 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2773.m3u8
+#EXTINF:-1,|NL| Fox Sport 1 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/994.m3u8
+#EXTINF:-1,|NL| Fox Sport 2 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/993.m3u8
+#EXTINF:-1,|NL| Fox Sport 3 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
+#EXTINF:-1,|NL| Fox Sport 4 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/991.m3u8
+#EXTINF:-1,|NL| Fox Sport 5 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
+#EXTINF:-1,|NL| Fox Sport 6 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/1263.m3u8
