@@ -1,49 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,AR: beIN Sport 11 FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/68116.m3u8
-#EXTINF:-1,BT SPORTS 1 HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/49871.m3u8
-#EXTINF:-1,BT SPORTS 2 FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/49868.m3u8
-#EXTINF:-1,BT SPORTS 2 HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/49867.m3u8
-#EXTINF:-1,BT SPORTS 3 FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/49864.m3u8
-#EXTINF:-1,BT SPORTS 3HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/49863.m3u8
-#EXTINF:-1,BT SPORTS ESPN FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/49875.m3u8
-#EXTINF:-1,BT SPORTS ESPN HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/49876.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT SELECT
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/933.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/1263.m3u8
-#EXTINF:-1,FR: RMC Sport 1 HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/1559.m3u8
-#EXTINF:-1,FR: RMC Sport 2 HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/1761.m3u8
-#EXTINF:-1,FR: RMC Sport 3 HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/1812.m3u8
-#EXTINF:-1,FR: RMC Sport 4 HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4914.m3u8
-#EXTINF:-1,RMC SPORT LIVE 1-HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6062.m3u8
-#EXTINF:-1,RMC SPORT LIVE 2-HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6061.m3u8
-#EXTINF:-1,RMC SPORT LIVE 3-HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6060.m3u8
-#EXTINF:-1,RMC SPORT LIVE 4-HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6059.m3u8
-#EXTINF:-1,AR ||  Bein Sports 12 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/6331.m3u8
-#EXTINF:-1,AR || Bein Sports 11 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/6342.m3u8
-#EXTINF:-1,DE| Dazn 1 BAR
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/25273.m3u8
-#EXTINF:-1,DE| Dazn 2 HD BAR
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/25274.m3u8
 #EXTINF:-1,ARENA SPORT 1
 http://super1.ideaiptv.com:25461/live/mousanew/2342343/3471.m3u8
 #EXTINF:-1,ARENA SPORT 2
@@ -54,58 +10,30 @@ http://super1.ideaiptv.com:25461/live/mousanew/2342343/3473.m3u8
 http://super1.ideaiptv.com:25461/live/mousanew/2342343/3474.m3u8
 #EXTINF:-1,ARENA SPORT 5
 http://super1.ideaiptv.com:25461/live/mousanew/2342343/3475.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select FHD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21479.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21476.m3u8
-#EXTINF:0,|DE| DAZN 1 Bar HD
-http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2674.m3u8
-#EXTINF:0,|DE| DAZN 2 Bar HD
-http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2675.m3u8
-#EXTINF:0,|DE| Sky Sport 1 HD
-http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2772.m3u8
-#EXTINF:-1,beIN France1 HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3175.m3u8
-#EXTINF:-1,beIN France2 HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/480.m3u8
-#EXTINF:-1,beIN France3 HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/478.m3u8
-#EXTINF:-1,FR: Canal+ Sport
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/389.m3u8
-#EXTINF:-1,|CA| TSN  3HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
-#EXTINF:-1,|CA| TSN 1HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/372
-#EXTINF:-1,|CA| TSN 4HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/371
-#EXTINF:-1,SKY SPORTS ACTION FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/9648.m3u8
-#EXTINF:-1,SKY SPORTS ACTION HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/8147.m3u8
-#EXTINF:-1,SKY SPORTS ARENA FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/9646.m3u8
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/8149.m3u8
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/9643.m3u8
-#EXTINF:-1,SKY SPORTS F1 HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/8025.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/8042.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/8043.m3u8
-#EXTINF:-1,SKY SPORTS MIX FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/9635.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/8040.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/8039.m3u8
-#EXTINF:-1,UK: EUROSPORT 1 HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/7995.m3u8
-#EXTINF:-1,UK: EUROSPORT 2 HD
-http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/7993.m3u8
-
-
+#EXTINF:-1,DE| BUNDESLIGA 1 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/25264.m3u8
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/21482.m3u8
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/21483.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/21484.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/21485.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/21486.m3u8
+#EXTINF:-1,NL: Fox Sports 6 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/21487.m3u8
+#EXTINF:-1,US: Bein Sports USA
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/3309.m3u8
+#EXTINF:-1,US: Fox Sports 1 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/1388.m3u8
+#EXTINF:-1,US: TSN 1 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/3297.m3u8
+#EXTINF:-1,US: TSN 2 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/3298.m3u8
+#EXTINF:-1,US: TSN 3 HD
+http://super1.ideaiptv.com:25461/live/mousanew/2342343/3299.m3u8
 #EXTINF:0,|DE| DAZN 1 Bar HD
 http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2674.m3u8
 #EXTINF:0,|DE| DAZN 2 Bar HD
@@ -135,31 +63,16 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
 #EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/1263.m3u8
 
-#EXTINF:-1,US: Bein Sports USA
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3309.m3u8
-#EXTINF:-1,US: Fox Sports 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/1388.m3u8
-#EXTINF:-1,US: TSN 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3297.m3u8
-#EXTINF:-1,US: TSN 2 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3298.m3u8
-#EXTINF:-1,US: TSN 3 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3299.m3u8
 #EXTINF:-1,US: TSN 4 HD
 http://super1.ideaiptv.com:25461/live/mousanew/2342343/3300.m3u8
 #EXTINF:-1,US: TSN 5 HD
 http://super1.ideaiptv.com:25461/live/mousanew/2342343/3301.m3u8
-#EXTINF:-1,DE| BUNDESLIGA 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/25264.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21482.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21483.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21484.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21485.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21486.m3u8
-#EXTINF:-1,NL: Fox Sports 6 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21487.m3u8
+
+#EXTINF:-1,|CA| TSN  3HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
+#EXTINF:-1,|CA| TSN 1HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/372
+#EXTINF:-1,|CA| TSN 4HD
+http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/371
+
+
