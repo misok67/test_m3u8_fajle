@@ -98,6 +98,10 @@ http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52470.m3u8
 #EXTINF:-1,TV 1000
 http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6437.m3u8
 
+#EXTINF:-1,|UK| PREMIER SPORTS FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3086.m3u8
+#EXTINF:-1,|UK| PREMIER SPORTS 2 FHD
+http://iptv6.premium-stv.com2:5461/live/sourceukpro1/6256905511/3087.m3u8
 #EXTINF:-1,|UK| BT SPORT 1 HD
 http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3256.m3u8
 #EXTINF:-1,|UK| BT SPORT 2 HD
