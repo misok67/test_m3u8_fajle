@@ -1,39 +1,128 @@
 #EXTM3U
+#EXTINF:-1,SPORT KLUB 1  HD (SR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52476.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52485.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52483.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD (SR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52474.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52481.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD (SR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52472.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52479.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52510.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52508.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52506.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52504.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52502.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD (SR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52490.m3u8
+#EXTINF:-1,HBO HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6447.m3u8
+#EXTINF:-1,HBO (MK)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52289.m3u8
+#EXTINF:-1,HBO 1 HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6605.m3u8
+#EXTINF:-1,HBO 2 (MK)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52288.m3u8
+#EXTINF:-1,HBO 2 HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6446.m3u8
+#EXTINF:-1,HBO 3 (MK)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52287.m3u8
+#EXTINF:-1,HBO 3 HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6445.m3u8
+#EXTINF:-1,CINEMAX 1
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6440.m3u8
+#EXTINF:-1,CINEMAX 2
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6439.m3u8
+#EXTINF:-1,CINESTAR ACTION TV
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6443.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/18883.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6450.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6442.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6441.m3u8
+#EXTINF:-1,CINESTAR TV
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/18884.m3u8
+#EXTINF:-1,CINESTAR TV
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6444.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6432.m3u8
+#EXTINF:-1,HRT 1 HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/36645.m3u8
+#EXTINF:-1,HRT 1
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6385.m3u8
+#EXTINF:-1,HRT 2 HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6384.m3u8
+#EXTINF:-1,HRT 2
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/36648.m3u8
+#EXTINF:-1,HRT 3 HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/36646.m3u8
+#EXTINF:-1,HRT 3
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6383.m3u8
+#EXTINF:-1, RTL 2 HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/31300.m3u8
+#EXTINF:-1, RTL CRIME HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/31309.m3u8
+#EXTINF:-1, RTL2
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/31313.m3u8
+#EXTINF:-1, RTL
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/31314.m3u8
+#EXTINF:-1,NOVA TV HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/7509.m3u8
+#EXTINF:-1,DOMA TV HD
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/7510.m3u8
+#EXTINF:-1,KLASIK TV
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6438.m3u8
+#EXTINF:-1,PINK FILM
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6418.m3u8
+#EXTINF:-1,RTS 1
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6405.m3u8
+#EXTINF:-1,RTS 2
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6404.m3u8
+#EXTINF:-1,RTS 3
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6403.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD (SR)
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/52470.m3u8
+#EXTINF:-1,TV 1000
+http://185.164.35.35:80/live/wVOuhqKjS3/VTDiUVUmih/6437.m3u8
 
-#EXTINF:-1,ARENA SPORT 1
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3471.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3472.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3473.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3474.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3475.m3u8
-#EXTINF:-1,DE| BUNDESLIGA 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/25264.m3u8
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21482.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21483.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21484.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21485.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21486.m3u8
-#EXTINF:-1,NL: Fox Sports 6 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/21487.m3u8
-#EXTINF:-1,US: Bein Sports USA
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3309.m3u8
-#EXTINF:-1,US: Fox Sports 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/1388.m3u8
-#EXTINF:-1,US: TSN 1 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3297.m3u8
-#EXTINF:-1,US: TSN 2 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3298.m3u8
-#EXTINF:-1,US: TSN 3 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3299.m3u8
+#EXTINF:-1,|UK| BT SPORT 1 HD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3256.m3u8
+#EXTINF:-1,|UK| BT SPORT 2 HD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3258.m3u8
+#EXTINF:-1,|UK| BT SPORT 3 HD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3260.m3u8
+#EXTINF:-1,|UK| BT SPORT / ESPN HD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3255.m3u8
+#EXTINF:-1,|UK| EUROSPORTS 1 FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3051.m3u8
+#EXTINF:-1,|UK| EUROSPORTS 2 FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3052.m3u8
+#EXTINF:-1,|UK| SKY SPORTS ACTION FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3113.m3u8
+#EXTINF:-1,|UK| SKY SPORTS ARENA FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3114.m3u8
+#EXTINF:-1,|UK| SKY SPORTS F1 FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3116.m3u8
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3119.m3u8
+#EXTINF:-1,|UK| SKY SPORTS MIX FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3111.m3u8
+#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3120.m3u8
+
 #EXTINF:0,|DE| DAZN 1 Bar HD
 http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2674.m3u8
 #EXTINF:0,|DE| DAZN 2 Bar HD
@@ -62,11 +151,6 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
 #EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/1263.m3u8
-
-#EXTINF:-1,US: TSN 4 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3300.m3u8
-#EXTINF:-1,US: TSN 5 HD
-http://super1.ideaiptv.com:25461/live/mousanew/2342343/3301.m3u8
 
 #EXTINF:-1,|CA| TSN  3HD
 http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
