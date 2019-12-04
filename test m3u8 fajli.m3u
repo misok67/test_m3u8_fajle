@@ -1,67 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14683.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14684.m3u8
-#EXTINF:-1,FR: RMC SPORT 4 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14681.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14682.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 FHD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14860.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 FHD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14859.m3u8
-#EXTINF:-1,FR: BEIN SPORT 3 FHD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14858.m3u8
-#EXTINF:-1,FR: BEIN SPO.m3u8 1 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14777.m3u8
-#EXTINF:-1,FR: BEIN SPO.m3u8 2 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14776.m3u8
-#EXTINF:-1,FR: BEIN SPO.m3u8 3 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/14775.m3u8
-#EXTINF:-1,NL: FOX Spo.m3u8 3 HD Eredivisie
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16127.m3u8
-#EXTINF:-1,NL: FOX Spo.m3u8 4 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16126.m3u8
-#EXTINF:-1,NL: FOX Spo.m3u8 5 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16125.m3u8
-#EXTINF:-1,NL: FOX Spo.m3u8 6 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16124.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT Voetbal HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16081.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16082.m3u8
-#EXTINF:-1,UK: BT Sport 1
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16052.m3u8
-#EXTINF:-1,UK: BT Sport 2
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16051.m3u8
-#EXTINF:-1,UK: BT Sport 3
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16050.m3u8
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16049.m3u8
-#EXTINF:-1,UK: BT Spo.m3u8 1 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16046.m3u8
-#EXTINF:-1,UK: BT Spo.m3u8 2 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16045.m3u8
-#EXTINF:-1,UK: BT Spo.m3u8 3 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16044.m3u8
-#EXTINF:-1,UK: EuroSport 1 HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16015.m3u8
-#EXTINF:-1,UK: EuroSport 2
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/16014.m3u8
-#EXTINF:-1,UK: Sky Sport Football HD
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/15943.m3u8
-#EXTINF:-1,US: Espn Deportes
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/15231.m3u8
-#EXTINF:-1,US: FOX Deportes
-http://hitman.dyndns.tv:8080/live/baris/tvohne17857846/15214.m3u8
-
-
-#EXTINF:-1,|UK| PREMIER SPORTS FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3086.m3u8
-#EXTINF:-1,|UK| PREMIER SPORTS 2 FHD
-http://iptv6.premium-stv.com2:5461/live/sourceukpro1/6256905511/3087.m3u8
 #EXTINF:-1,|UK| BT SPORT 1 HD
 http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3256.m3u8
 #EXTINF:-1,|UK| BT SPORT 2 HD
@@ -86,6 +24,10 @@ http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3119.m3u8
 http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3111.m3u8
 #EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE FHD
 http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3120.m3u8
+#EXTINF:-1,|UK| PREMIER SPORTS FHD
+http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3086.m3u8
+#EXTINF:-1,|UK| PREMIER SPORTS 2 FHD
+http://iptv6.premium-stv.com2:5461/live/sourceukpro1/6256905511/3087.ts
 
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
@@ -104,5 +46,32 @@ http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
 http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/372
 #EXTINF:-1,|CA| TSN 4HD
 http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/371
+
+#EXTINF:-1 ,DE - Eurosport 2 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/719
+#EXTINF:-1 ,DE - SKY SPORT 1
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/761
+#EXTINF:-1 ,DE - Sky Sport 2 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/764
+#EXTINF:-1 ,ELEVEN SPORTS 1
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1091
+#EXTINF:-1 ,ELEVEN SPORTS 2 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1089
+#EXTINF:-1 ,ELEVEN SPORTS 2
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1092
+#EXTINF:-1 ,ELEVEN SPORTS 3 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1090
+#EXTINF:-1 ,ELEVEN SPORTS 3
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1093
+#EXTINF:-1 ,FR - BEIN SPORTS 1 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/436
+#EXTINF:-1 ,FR - BEIN SPORTS 3
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/437
+#EXTINF:-1 ,FR - Bein Sports 2 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/491
+#EXTINF:-1 ,SP - MOVISTAR DEPORTES 1 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/198
+#EXTINF:-1 ,SP - MOVISTAR DEPORTES 2 HD
+http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/196
 
 
