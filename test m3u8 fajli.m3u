@@ -1,4 +1,65 @@
 #EXTM3U
+#EXTINF:-1,Sport Klub 1 HD Hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/108.m3u8
+#EXTINF:-1,Sport Klub 1 RS HD
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/105.m3u8
+#EXTINF:-1,Sport Klub 2 HD Hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/109.m3u8
+#EXTINF:-1,Sport Klub 2 RS HD
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/106.m3u8
+#EXTINF:-1,Sport Klub 3 HD Hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/110.m3u8
+#EXTINF:-1,Sport Klub 3 RS HD
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/107.m3u8
+#EXTINF:-1,Sport Klub 4 RS HD
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/696.m3u8
+#EXTINF:-1,Sport Klub 4 hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/111.m3u8
+#EXTINF:-1,Arena Sport 1 HD Hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/94.m3u8
+#EXTINF:-1,Arena Sport 2 HD Hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/95.m3u8
+#EXTINF:-1,Arena Sport 3 HD Hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/96.m3u8
+#EXTINF:-1,Arena Sport 4 HD Hr
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/97.m3u8
+#EXTINF:-1,Arena Sport 5 HR HD
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/98.m3u8
+#EXTINF:-1,Arena Sport 6 HR FHD
+http://tv.fast-iptv.info:12974/live/Km1PMc1FlW/C0y0nzISMd/99.m3u8
+#EXTINF:0,Sport 1 HD.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3169.m3u8
+#EXTINF:0,Sport 2 HD.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3167.m3u8
+#EXTINF:0,Sport 3 HD.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3163.m3u8
+#EXTINF:0,Arena Sport 1 HR.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/63.m3u8
+#EXTINF:0,Arena Sport 2 HR.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/67.m3u8
+#EXTINF:0,Arena Sport 3 HR.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/62.m3u8
+#EXTINF:0,Arena Sport 4 HR.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/61.m3u8
+#EXTINF:0,Arena Sport 5 HR.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/647.m3u8
+#EXTINF:0,Arena sport 6 HR.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3483.m3u8
+#EXTINF:0,FOX Sports 3 Eredivisie 2.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/2992.m3u8
+#EXTINF:0,FOX Sport 4.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3438.m3u8
+#EXTINF:0,FOX Sports 5 Eredivisie.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3437.m3u8
+#EXTINF:0,Fox Sports 6.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3436.m3u8
+#EXTINF:0,Ziggo Sport Select Hd.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/2998.m3u8
+#EXTINF:0,Ziggo Sport Voetbal HD.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3166.m3u8
+#EXTINF:0,Ziggo Sport HD.m3u8
+http://vtpi.ydns.eu:80/live/EjhoaqRFP1/QLZ0a4qiJT/3469.m3u8
+
 #EXTINF:0,Bein11-hevc
 http://s.igiptv.com:8000/Hisham/hisham123/47779
 #EXTINF:0,Bein12-hevc
