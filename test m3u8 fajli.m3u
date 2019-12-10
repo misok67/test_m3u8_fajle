@@ -1,4 +1,35 @@
 #EXTM3U
+
+#EXTINF:-1,(DE) DAZN Bar 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/37069.m3u8
+#EXTINF:-1,(DE) DAZN Bar 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/37070.m3u8
+#EXTINF:-1,(DE) Sky Sport 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/28546.m3u8
+#EXTINF:-1,(DE) Sky Sport 1 HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/182.m3u8
+#EXTINF:-1,(NL) Ziggo Sport Select 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9683.m3u8
+#EXTINF:-1,(NL) Ziggo Sport Voetbal 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9681.m3u8
+#EXTINF:-1,(QA) beIN Sports 11 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/1968.m3u8
+#EXTINF:-1,(QA) beIN Sports 12 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/1969.m3u8
+#EXTINF:-1,(UK) BT Sport 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/11484.m3u8
+#EXTINF:-1,(UK) BT Sport 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/11485.m3u8
+#EXTINF:-1,(UK) BT Sport 3 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/11486.m3u8
+#EXTINF:-1,(UK) BT Sport ESPN 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/316.m3u8
+#EXTINF:-1,(FR) RMC Sport 1 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/19333
+#EXTINF:-1,(FR) RMC Sport 2 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/19332
+#EXTINF:-1,(FR) RMC Sport 3 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/31693
 #EXTINF:-1,(ExYu) Sportklub 1 HD+.m3u8
 http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/237.m3u8
 #EXTINF:-1,(ExYu) Sportklub 2 HD+.m3u8
