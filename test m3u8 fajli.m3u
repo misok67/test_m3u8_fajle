@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1,Sportklub 1 HD+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/237.m3u8
+#EXTINF:-1,Sportklub 2 HD+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/238.m3u8
+#EXTINF:-1,SportKlub 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/1982.m3u8
+
 #EXTINF:-1,Sport Klub 1
 http://gmcllc.de:25461/live/mngall/Meda16Okt/28.m3u8
 #EXTINF:-1,Sport Klub 2
@@ -8,112 +15,25 @@ http://gmcllc.de:25461/live/mngall/Meda16Okt/29.m3u8
 http://gmcllc.de:25461/live/mngall/Meda16Okt/30.m3u8
 #EXTINF:-1,Sport Klub 4
 http://gmcllc.de:25461/live/mngall/Meda16Okt/31.m3u8
+#EXTINF:-1,Arena Sport 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/404.m3u8
+#EXTINF:-1,Arena Sport 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/218.m3u8
+#EXTINF:-1,Arena Sport 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/405.m3u8
+#EXTINF:-1,Arena Sport 4 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/406.m3u8
+#EXTINF:-1,Arena Sport 5 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/787.m3u8
 
-#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67179.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67180.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67181.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67182.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67183.m3u8
-#EXTINF:-1, (STV) SKY DAZN BAR FHD
-http://the.herolegend.tv:25461/live/prova/prova/30873.m3u8
-#EXTINF:-1, (STV) SKY DAZN BAR HD
-http://the.herolegend.tv:25461/live/prova/prova/30872.m3u8
-#EXTINF:-1,(AR) BeIN Sport 11 HD
-http://the.herolegend.tv:25461/live/prova/prova/66008.m3u8
-#EXTINF:-1,(AR) BeIN Sport 12 HD
-http://the.herolegend.tv:25461/live/prova/prova/66009.m3u8
-#EXTINF:-1,(AR) BeIN Sport 13 HD
-http://the.herolegend.tv:25461/live/prova/prova/66010.m3u8
-#EXTINF:-1,DAZN 1 (STV) HD
-http://the.herolegend.tv:25461/live/prova/prova/29941.m3u8
-#EXTINF:-1,DAZN 2 (STV) HD
-http://the.herolegend.tv:25461/live/prova/prova/29942.m3u8
-#EXTINF:-1,DE: DAZN Bar 1
-http://the.herolegend.tv:25461/live/prova/prova/64857.m3u8
-#EXTINF:-1,DE: DAZN Bar 2
-http://the.herolegend.tv:25461/live/prova/prova/64858.m3u8
-#EXTINF:-1,DE: Eurosport 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/64875.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD
-http://the.herolegend.tv:25461/live/prova/prova/64876.m3u8
-#EXTINF:-1,DE: Eurosport 2 xtra HD
-http://the.herolegend.tv:25461/live/prova/prova/64877.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/64952.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/64943.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://the.herolegend.tv:25461/live/prova/prova/64944.m3u8
-#EXTINF:-1,ES: Bein Sports Espa?a HD
-http://the.herolegend.tv:25461/live/prova/prova/65199.m3u8
-#EXTINF:-1,FR: BeIN SPORTS 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/67316.m3u8
-#EXTINF:-1,FR: BeIN SPORTS 2 HD
-http://the.herolegend.tv:25461/live/prova/prova/67317.m3u8
-#EXTINF:-1,FR: BeIN SPORTS 3 HD
-http://the.herolegend.tv:25461/live/prova/prova/67318.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67819.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67818.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67817.m3u8
-#EXTINF:-1,NL: FOX Sports 3 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67820.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://the.herolegend.tv:25461/live/prova/prova/67811.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://the.herolegend.tv:25461/live/prova/prova/67814.m3u8
-#EXTINF:-1,PL: CANAL SPORT 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/67831.m3u8
-#EXTINF:-1,Sky Sport 24 FHD
-http://the.herolegend.tv:25461/live/prova/prova/49532.m3u8
-#EXTINF:-1,Sky Sport Football FHD
-http://the.herolegend.tv:25461/live/prova/prova/369.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://the.herolegend.tv:25461/live/prova/prova/49536.m3u8
-#EXTINF:-1,UK: BT Sport 1 FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68398.m3u8
-#EXTINF:-1,UK: BT Sport 2 FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68399.m3u8
-#EXTINF:-1,UK: BT Sport 3 FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68400.m3u8
-#EXTINF:-1,UK: BT Sport ESPN
-http://the.herolegend.tv:25461/live/prova/prova/68411.m3u8
-#EXTINF:-1,UK: EUROSPORT 1
-http://the.herolegend.tv:25461/live/prova/prova/68446.m3u8
-#EXTINF:-1,UK: EUROSPORT 2
-http://the.herolegend.tv:25461/live/prova/prova/68447.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://the.herolegend.tv:25461/live/prova/prova/68408.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://the.herolegend.tv:25461/live/prova/prova/68406.m3u8
-#EXTINF:-1,UK: Sky Sports Arena FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68474.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://the.herolegend.tv:25461/live/prova/prova/68404.m3u8
-#EXTINF:-1,UK: Univision Deportes
-http://the.herolegend.tv:25461/live/prova/prova/68512.m3u8
-#EXTINF:-1,USA: BEIN Sports HD
-http://the.herolegend.tv:25461/live/prova/prova/68540.m3u8
-#EXTINF:-1,USA: ESPN Deportes HD
-http://the.herolegend.tv:25461/live/prova/prova/68590.m3u8
-#EXTINF:-1,USA: TSN HD 1
-http://the.herolegend.tv:25461/live/prova/prova/68525.m3u8
-#EXTINF:-1,USA: TSN HD 2
-http://the.herolegend.tv:25461/live/prova/prova/68526.m3u8
-#EXTINF:-1,[H] SKY DAZN BAR 2 FULL HD
-http://the.herolegend.tv:25461/live/prova/prova/49580.m3u8
-#EXTINF:-1,[H] SKY DAZN BAR FULL HD
-http://the.herolegend.tv:25461/live/prova/prova/49578.m3u8
-#EXTINF:-1,[H] SKY DAZN BAR HD
-http://the.herolegend.tv:25461/live/prova/prova/49577.m3u8
-
+#EXTINF:-1,Arena Sport 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/534.m3u8
+#EXTINF:-1,Arena Sport 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/535.m3u8
+#EXTINF:-1,Arena Sport 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/536.m3u8
+#EXTINF:-1,Arena Sport 4 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/537.m3u8
 
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
@@ -126,7 +46,67 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
 #EXTINF:0,|NL| Ziggo Sport Select HD
 http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
 
-
+#EXTINF:-1,(DE) DAZN Bar 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/37069.m3u8
+#EXTINF:-1,(DE) DAZN Bar 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/37070.m3u8
+#EXTINF:-1,(DE) Eurosport 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/15927.m3u8
+#EXTINF:-1,(DE) Eurosport 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/15928.m3u8
+#EXTINF:-1,(DE) Sky Bundesliga 1 HD+ (Backup 1)
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/27389.m3u8
+#EXTINF:-1,(DE) Sky Sport 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/28546.m3u8
+#EXTINF:-1,(DE) Sky Sport 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/15943.m3u8
+#EXTINF:-1,(IT) Dazn 1 HD+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/38186.m3u8
+#EXTINF:-1,(IT) Dazn 2 HD+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/38187.m3u8
+#EXTINF:-1,(NL) FOX Sports 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/9708.m3u8
+#EXTINF:-1,(NL) FOX Sports 4 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/9758.m3u8
+#EXTINF:-1,(NL) FOX Sports 5 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/9709.m3u8
+#EXTINF:-1,(NL) FOX Sports 6 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/9710.m3u8
+#EXTINF:-1,(NL) Ziggo Sport Select 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/9683.m3u8
+#EXTINF:-1,(NL) Ziggo Sport Voetbal 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/9681.m3u8
+#EXTINF:-1,(QA) beIN Sports 11 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/1968.m3u8
+#EXTINF:-1,(QA) beIN Sports 12 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/1969.m3u8
+#EXTINF:-1,(UK) BT Sport 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/11484.m3u8
+#EXTINF:-1,(UK) BT Sport 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/11485.m3u8
+#EXTINF:-1,(UK) BT Sport 3 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/11486.m3u8
+#EXTINF:-1,(UK) BT Sport ESPN 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/316.m3u8
+#EXTINF:-1,(UK) Sky Sports Action 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/11400.m3u8
+#EXTINF:-1,(UK) Sky Sports Arena 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/28035.m3u8
+#EXTINF:-1,(UK) Sky Sports Main Event 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/7641.m3u8
+#EXTINF:-1,(UK) Sky Sports Mix 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/22456.m3u8
+#EXTINF:-1,(UK) Sky Sports Premier League 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/213.m3u8
+#EXTINF:-1,(US) Bein Sports 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/18240.m3u8
+#EXTINF:-1,(US) Fox Sport 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/18206.m3u8
+#EXTINF:-1,(US) Fox Sport 2 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/18205.m3u8
+#EXTINF:-1,(US) TSN 1 4K+
+http://jb.worldip.nl:1339/live/eTy6hZZRpX/x5D3IvDe4s/18139.m3u8
+.m3u8
 #EXTINF:0,DE: Sky Sport 1 HD
 http://exnovo.li:3388/live/fran/fran/91629.m3u8
 #EXTINF:0,DE: Sky Sport 2 HD
