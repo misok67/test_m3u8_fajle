@@ -1,45 +1,120 @@
 #EXTM3U
 
+#EXTINF:-1,Sport Klub 1
+http://gmcllc.de:25461/live/mngall/Meda16Okt/28.m3u8
+#EXTINF:-1,Sport Klub 2
+http://gmcllc.de:25461/live/mngall/Meda16Okt/29.m3u8
+#EXTINF:-1,Sport Klub 3
+http://gmcllc.de:25461/live/mngall/Meda16Okt/30.m3u8
+#EXTINF:-1,Sport Klub 4
+http://gmcllc.de:25461/live/mngall/Meda16Okt/31.m3u8
 
-#EXTINF:-1,BT SPORTS 1 FHD
-http://beastiptv.tv:25461/live/malcolm/malcolm/4063.m3u8
-#EXTINF:-1,BT SPORTS 1 FHD 50Fps
-http://beastiptv.tv:25461/live/malcolm/malcolm/4062.m3u8
-#EXTINF:-1,BT SPORTS 2 FHD
-http://beastiptv.tv:25461/live/malcolm/malcolm/4065.m3u8
-#EXTINF:-1,BT SPORTS 2 FHD 50Fps
-http://beastiptv.tv:25461/live/malcolm/malcolm/4064.m3u8
-#EXTINF:-1,BT SPORTS 3 FHD
-http://beastiptv.tv:25461/live/malcolm/malcolm/4067.m3u8
-#EXTINF:-1,BT SPORTS 3 FHD 50Fps
-http://beastiptv.tv:25461/live/malcolm/malcolm/4066.m3u8#EXTM3U
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+http://the.herolegend.tv:25461/live/prova/prova/67179.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
+http://the.herolegend.tv:25461/live/prova/prova/67180.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+http://the.herolegend.tv:25461/live/prova/prova/67181.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
+http://the.herolegend.tv:25461/live/prova/prova/67182.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
+http://the.herolegend.tv:25461/live/prova/prova/67183.m3u8
+#EXTINF:-1, (STV) SKY DAZN BAR FHD
+http://the.herolegend.tv:25461/live/prova/prova/30873.m3u8
+#EXTINF:-1, (STV) SKY DAZN BAR HD
+http://the.herolegend.tv:25461/live/prova/prova/30872.m3u8
+#EXTINF:-1,(AR) BeIN Sport 11 HD
+http://the.herolegend.tv:25461/live/prova/prova/66008.m3u8
+#EXTINF:-1,(AR) BeIN Sport 12 HD
+http://the.herolegend.tv:25461/live/prova/prova/66009.m3u8
+#EXTINF:-1,(AR) BeIN Sport 13 HD
+http://the.herolegend.tv:25461/live/prova/prova/66010.m3u8
+#EXTINF:-1,DAZN 1 (STV) HD
+http://the.herolegend.tv:25461/live/prova/prova/29941.m3u8
+#EXTINF:-1,DAZN 2 (STV) HD
+http://the.herolegend.tv:25461/live/prova/prova/29942.m3u8
+#EXTINF:-1,DE: DAZN Bar 1
+http://the.herolegend.tv:25461/live/prova/prova/64857.m3u8
+#EXTINF:-1,DE: DAZN Bar 2
+http://the.herolegend.tv:25461/live/prova/prova/64858.m3u8
+#EXTINF:-1,DE: Eurosport 1 HD
+http://the.herolegend.tv:25461/live/prova/prova/64875.m3u8
+#EXTINF:-1,DE: Eurosport 2 HD
+http://the.herolegend.tv:25461/live/prova/prova/64876.m3u8
+#EXTINF:-1,DE: Eurosport 2 xtra HD
+http://the.herolegend.tv:25461/live/prova/prova/64877.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://the.herolegend.tv:25461/live/prova/prova/64952.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://the.herolegend.tv:25461/live/prova/prova/64943.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://the.herolegend.tv:25461/live/prova/prova/64944.m3u8
+#EXTINF:-1,ES: Bein Sports Espa?a HD
+http://the.herolegend.tv:25461/live/prova/prova/65199.m3u8
+#EXTINF:-1,FR: BeIN SPORTS 1 HD
+http://the.herolegend.tv:25461/live/prova/prova/67316.m3u8
+#EXTINF:-1,FR: BeIN SPORTS 2 HD
+http://the.herolegend.tv:25461/live/prova/prova/67317.m3u8
+#EXTINF:-1,FR: BeIN SPORTS 3 HD
+http://the.herolegend.tv:25461/live/prova/prova/67318.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 FHD
+http://the.herolegend.tv:25461/live/prova/prova/67819.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 FHD
+http://the.herolegend.tv:25461/live/prova/prova/67818.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 FHD
+http://the.herolegend.tv:25461/live/prova/prova/67817.m3u8
+#EXTINF:-1,NL: FOX Sports 3 FHD
+http://the.herolegend.tv:25461/live/prova/prova/67820.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://the.herolegend.tv:25461/live/prova/prova/67811.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://the.herolegend.tv:25461/live/prova/prova/67814.m3u8
+#EXTINF:-1,PL: CANAL SPORT 1 HD
+http://the.herolegend.tv:25461/live/prova/prova/67831.m3u8
+#EXTINF:-1,Sky Sport 24 FHD
+http://the.herolegend.tv:25461/live/prova/prova/49532.m3u8
+#EXTINF:-1,Sky Sport Football FHD
+http://the.herolegend.tv:25461/live/prova/prova/369.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://the.herolegend.tv:25461/live/prova/prova/49536.m3u8
+#EXTINF:-1,UK: BT Sport 1 FullHD
+http://the.herolegend.tv:25461/live/prova/prova/68398.m3u8
+#EXTINF:-1,UK: BT Sport 2 FullHD
+http://the.herolegend.tv:25461/live/prova/prova/68399.m3u8
+#EXTINF:-1,UK: BT Sport 3 FullHD
+http://the.herolegend.tv:25461/live/prova/prova/68400.m3u8
+#EXTINF:-1,UK: BT Sport ESPN
+http://the.herolegend.tv:25461/live/prova/prova/68411.m3u8
+#EXTINF:-1,UK: EUROSPORT 1
+http://the.herolegend.tv:25461/live/prova/prova/68446.m3u8
+#EXTINF:-1,UK: EUROSPORT 2
+http://the.herolegend.tv:25461/live/prova/prova/68447.m3u8
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://the.herolegend.tv:25461/live/prova/prova/68408.m3u8
+#EXTINF:-1,UK: Sky Sports Action HD
+http://the.herolegend.tv:25461/live/prova/prova/68406.m3u8
+#EXTINF:-1,UK: Sky Sports Arena FullHD
+http://the.herolegend.tv:25461/live/prova/prova/68474.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://the.herolegend.tv:25461/live/prova/prova/68404.m3u8
+#EXTINF:-1,UK: Univision Deportes
+http://the.herolegend.tv:25461/live/prova/prova/68512.m3u8
+#EXTINF:-1,USA: BEIN Sports HD
+http://the.herolegend.tv:25461/live/prova/prova/68540.m3u8
+#EXTINF:-1,USA: ESPN Deportes HD
+http://the.herolegend.tv:25461/live/prova/prova/68590.m3u8
+#EXTINF:-1,USA: TSN HD 1
+http://the.herolegend.tv:25461/live/prova/prova/68525.m3u8
+#EXTINF:-1,USA: TSN HD 2
+http://the.herolegend.tv:25461/live/prova/prova/68526.m3u8
+#EXTINF:-1,[H] SKY DAZN BAR 2 FULL HD
+http://the.herolegend.tv:25461/live/prova/prova/49580.m3u8
+#EXTINF:-1,[H] SKY DAZN BAR FULL HD
+http://the.herolegend.tv:25461/live/prova/prova/49578.m3u8
+#EXTINF:-1,[H] SKY DAZN BAR HD
+http://the.herolegend.tv:25461/live/prova/prova/49577.m3u8
 
-#EXTINF:-1,BT SPORTS ESPN FHD
-http://beastiptv.tv:25461/live/malcolm/malcolm/4069.m3u8 
-#EXTINF:-1,BEIN SPORTS 11 | UHD EN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/329.m3u8
-#EXTINF:-1,BEIN SPORTS 12 | UHD EN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/330.m3u8
-#EXTINF:-1,|DE| DAZN 1 BAR HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/847.m3u8
-#EXTINF:-1,|DE| DAZN 2 BAR HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/848.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/844.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/843.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/846.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/845.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2371.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2372.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 3
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2373.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS ESPN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2370.m3u8
+
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
 #EXTINF:-1,|NL| Fox Sport 4 HD
@@ -50,47 +125,37 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
 #EXTINF:0,|NL| Ziggo Sport Select HD
 http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/430.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/429.m3u8
 
 
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/859.m3u8
-#EXTINF:-1,|DE| EUROSPORT 2 HD XTRA
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/860.m3u8
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/861.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/849.m3u8
-
-#EXTINF:-1,|UK|FHD| BT SPORTS 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2397.m3u8
-#EXTINF:-1,|UK|FHD| BT SPORTS 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2398.m3u8
-#EXTINF:-1,|UK|FHD| BT SPORTS 3
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2399.m3u8
-#EXTINF:-1,|UK|FHD| BT SPORTS ESPN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2396.m3u8
-#EXTINF:-1,|UK|FHD| EUROSPORTS 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2400.m3u8
-#EXTINF:-1,|UK|FHD| EUROSPORTS 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2401.m3u8
-#EXTINF:-1,|UK|FHD| SKY SPORTS ACTION
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2386.m3u8
-#EXTINF:-1,|UK|FHD| SKY SPORTS ARENA
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2392.m3u8
-#EXTINF:-1,|UK|FHD| SKY SPORTS PREMIER LEAGUE
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2388.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS ACTION
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2362.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS ARENA
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2366.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS PREMIER LEAGUE
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2365.m3u8
-#EXTINF:-1,|CA| TSN 1HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/372
-#EXTINF:-1,|CA| TSN 4HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/371
-
+#EXTINF:0,DE: Sky Sport 1 HD
+http://exnovo.li:3388/live/fran/fran/91629.m3u8
+#EXTINF:0,DE: Sky Sport 2 HD
+http://exnovo.li:3388/live/fran/fran/91632.m3u8
+#EXTINF:0,ES M DEPORTES 1 HD
+http://exnovo.li:3388/live/fran/fran/92123.m3u8
+#EXTINF:0,ES M DEPORTES 2 HD
+http://exnovo.li:3388/live/fran/fran/92124.m3u8
+#EXTINF:0,UK: BT Sport 1 HD
+http://exnovo.li:3388/live/fran/fran/91714.m3u8
+#EXTINF:0,UK: BT Sport 2 HD
+http://exnovo.li:3388/live/fran/fran/91715.m3u8
+#EXTINF:0,UK: BT Sport 3 HD
+http://exnovo.li:3388/live/fran/fran/91716.m3u8
+#EXTINF:0,UK: BT Sport ESPN HD
+http://exnovo.li:3388/live/fran/fran/91717.m3u8
+#EXTINF:-1,RTSH Sport HD
+http://gmcllc.de:25461/live/mngall/Meda16Okt/32.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://gmcllc.de:25461/live/mngall/Meda16Okt/74.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://gmcllc.de:25461/live/mngall/Meda16Okt/75.m3u8
+#EXTINF:-1,BT Sport 3
+http://gmcllc.de:25461/live/mngall/Meda16Okt/76.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://gmcllc.de:25461/live/mngall/Meda16Okt/88.m3u8
+#EXTINF:-1,Fox Sport
+http://gmcllc.de:25461/live/mngall/Meda16Okt/4.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal
+http://gmcllc.de:25461/live/mngall/Meda16Okt/67.m3u8
+#EXTINF:-1,beIN SPORTS1 HD
+http://gmcllc.de:25461/live/mngall/Meda16Okt/34.m3u8
