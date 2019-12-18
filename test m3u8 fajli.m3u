@@ -2,13 +2,9 @@
 
 
 #EXTINF:-1,Sport Klub 1
-http://gmcllc.de:25461/live/mngall/Meda16Okt/28.m3u8
-#EXTINF:-1,Sport Klub 2
-http://gmcllc.de:25461/live/mngall/Meda16Okt/29.m3u8
-#EXTINF:-1,Sport Klub 3
-http://gmcllc.de:25461/live/mngall/Meda16Okt/30.m3u8
-#EXTINF:-1,Sport Klub 4
-http://gmcllc.de:25461/live/mngall/Meda16Okt/31.m3u8
+http://cdn.videosofsport1.live/hls/u9Eru-Iz6377s_Xssy_2Qg/1576697939/sportklub.m3u8
+#EXTINF:-1, ARENA 3
+http://cdn.videosofsport1.live/hls/WOYJSA4YunITYlpBWhml7g/1576698240/arena3.m3u8
 
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
@@ -21,58 +17,3 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
 #EXTINF:0,|NL| Ziggo Sport Select HD
 http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
 
-#EXTINF:-1,BT Sport 1 HD
-http://gmcllc.de:25461/live/mngall/Meda16Okt/74.m3u8
-#EXTINF:-1,BT Sport 2 HD
-http://gmcllc.de:25461/live/mngall/Meda16Okt/75.m3u8
-#EXTINF:-1,BT Sport 3
-http://gmcllc.de:25461/live/mngall/Meda16Okt/76.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://gmcllc.de:25461/live/mngall/Meda16Okt/88.m3u8
-#EXTINF:-1,Fox Sport
-http://gmcllc.de:25461/live/mngall/Meda16Okt/4.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal
-http://gmcllc.de:25461/live/mngall/Meda16Okt/67.m3u8
-#EXTINF:-1,beIN SPORTS1 HD
-http://gmcllc.de:25461/live/mngall/Meda16Okt/34.m3u8
-
-#EXTINF:-1,BT SPO.m3u8 1 FHD 50Fps
-http://209.222.97.118:25461/live/Shauna12/shauna12/4062.m3u8
-#EXTINF:-1,BT SPO.m3u8 1 FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4063.m3u8
-#EXTINF:-1,BT SPO.m3u8 2 FHD 50Fps
-http://209.222.97.118:25461/live/Shauna12/shauna12/4064.m3u8
-#EXTINF:-1,BT SPO.m3u8 2 FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4065.m3u8
-#EXTINF:-1,BT SPO.m3u8 3 FHD 50Fps
-http://209.222.97.118:25461/live/Shauna12/shauna12/4066.m3u8
-#EXTINF:-1,BT SPO.m3u8 3 FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4067.m3u8
-#EXTINF:-1,BT SPO.m3u8 ESPN FHD 50Fps
-http://209.222.97.118:25461/live/Shauna12/shauna12/4068.m3u8
-#EXTINF:-1,BT SPO.m3u8 ESPN FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4069.m3u8
-#EXTINF:-1,SKY SPO.m3u8 ACTION FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4084.m3u8
-#EXTINF:-1,SKY SPO.m3u8 ARENA FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4085.m3u8
-#EXTINF:-1,SKY SPO.m3u8 MAIN EVENT FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4078.m3u8
-#EXTINF:-1,SKY SPO.m3u8 PREMIER LEAGUE FHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/4079.m3u8
-#EXTINF:-1,SPO.m3u8 CA:.TSN1
-http://209.222.97.118:25461/live/Shauna12/shauna12/2731.m3u8
-#EXTINF:-1,SPO.m3u8 US: BEIN SPO.m3u8 EN ESPANOL
-http://209.222.97.118:25461/live/Shauna12/shauna12/1568.m3u8
-#EXTINF:-1,SPO.m3u8 US: BEIN SPO.m3u8
-http://209.222.97.118:25461/live/Shauna12/shauna12/1569.m3u8
-#EXTINF:-1,SPO.m3u8 US: FOX SPO.m3u8 1 |+|
-http://209.222.97.118:25461/live/Shauna12/shauna12/1529.m3u8
-#EXTINF:-1,SPO.m3u8 US: FOX SPO.m3u8 2
-http://209.222.97.118:25461/live/Shauna12/shauna12/1528.m3u8
-#EXTINF:-1,UK: EUROSPORT 1 | UHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/7416.m3u8
-#EXTINF:-1,UK: EUROSPORT 2 | UHD
-http://209.222.97.118:25461/live/Shauna12/shauna12/7417.m3u8
-#EXTINF:-1,US: ESPN DEPORTES
-http://209.222.97.118:25461/live/Shauna12/shauna12/1543.m3u8
