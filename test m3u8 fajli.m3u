@@ -1,11 +1,11 @@
 #EXTM3U
 
-
-#EXTINF:-1,DE:DAZN-1-Bar-HD
+#EXTINF:0,ES | BEIN LALIGA
+http://tvlife.me:25461/live/matteo/matteo123/1214.m3u8
+#EXTINF:0,|NL| Ziggo Sport Select HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
+#EXTINF:0,DE:DAZN-1-Bar-HD
 http://tv2iptv.com:8000/live/Majid/majid123/25652.m3u8
-#EXTINF:-1,beIN Sports 12HD
-http://tv2iptv.com:8000/live/Majid/majid123/1034.m3u8
-
 
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
@@ -15,8 +15,7 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/991.m3u8
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
 #EXTINF:-1,|NL| Fox Sport 6 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
-#EXTINF:0,|NL| Ziggo Sport Select HD
-http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
+
 
 #EXTINF:-1,BT SPORTS 1 FHD 50Fps
 http://209.222.97.118:25461/live/Pantera22/pantera22/4062.m3u8
