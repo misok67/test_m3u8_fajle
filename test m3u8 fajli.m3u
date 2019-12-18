@@ -6,6 +6,10 @@ http://tvlife.me:25461/live/matteo/matteo123/1214.m3u8
 http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
 #EXTINF:0,DE:DAZN-1-Bar-HD
 http://tv2iptv.com:8000/live/Majid/majid123/25652.m3u8
+#EXTINF:0,ES | BEIN LALIGA__
+http://89.187.185.168:80/live/cgVE0ajPs/SsMm61o89f/1650.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 12 HD EN
+http://185.233.185.248:25443/live/corine/123456/9154.m3u8
 
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
