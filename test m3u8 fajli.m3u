@@ -1,40 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 HD
-http://carlo.kim:2015/live/didem1/16082018/1194.m3u8
-#EXTINF:-1,Sport Klub 2 HD
-http://carlo.kim:2015/live/didem1/16082018/1193.m3u8
-#EXTINF:-1,Sport Klub 3 HD
-http://carlo.kim:2015/live/didem1/16082018/1192.m3u8
-#EXTINF:-1,ARENA SPORT 1 HD
-http://carlo.kim:2015/live/didem1/16082018/498.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD
-http://carlo.kim:2015/live/didem1/16082018/497.m3u8
-#EXTINF:-1,ARENA SPORT 3 HD
-http://carlo.kim:2015/live/didem1/16082018/496.m3u8
-#EXTINF:-1,ARENA SPORT 4 HD
-http://carlo.kim:2015/live/didem1/16082018/495.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD
-http://carlo.kim:2015/live/didem1/16082018/461.m3u8
-#EXTINF:-1,Fox Movies HD
-http://carlo.kim:2015/live/didem1/16082018/1189.m3u8
-#EXTINF:-1,Pink Film
-http://carlo.kim:2015/live/didem1/16082018/1225.m3u8
-#EXTINF:-1,Rts 2
-http://carlo.kim:2015/live/didem1/16082018/1181.m3u8
-#EXTINF:-1,Rts 3
-http://carlo.kim:2015/live/didem1/16082018/1182.m3u8
-#EXTINF:-1,Arena Sport 2
-http://carlo.kim:2015/live/didem1/16082018/5826.m3u8
-#EXTINF:-1,Arena Sport 3
-http://carlo.kim:2015/live/didem1/16082018/5827.m3u8
-#EXTINF:-1,Arena Sport 4
-http://carlo.kim:2015/live/didem1/16082018/5828.m3u8
-#EXTINF:-1,Arena Sport 5
-http://carlo.kim:2015/live/didem1/16082018/5829.m3u8
-#EXTINF:-1,Arena Sport1
-http://carlo.kim:2015/live/didem1/16082018/5825.m3u8
-
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
 #EXTINF:-1,|NL| Fox Sport 4 HD
@@ -65,109 +30,17 @@ http://209.222.97.118:25461/live/Dave123/dave123/4078.m3u8
 #EXTINF:-1,SKY SPORT PREMIER LEAGUE FHD
 http://209.222.97.118:25461/live/Dave123/dave123/4079.m3u8
 
-#EXTINF:-1,DE:DAZN-1-Bar-HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/25652.m3u8
-#EXTINF:-1,DE:DAZN-2-Bar-HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/25653.m3u8
-#EXTINF:-1,DE:Eurosport-1-HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/25755.m3u8
-#EXTINF:-1,DE:Eurosport-2-HD-Xtra
-http://tv2iptv.com:8000/live/Dylan/Dylan123/25770.m3u8
-#EXTINF:-1,IT: DAZN 1 HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/53529.m3u8
-#EXTINF:-1,IT: DAZN 2 HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/53528.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/20034.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/20035.m3u8
-#EXTINF:-1,UK: BT Sport 3 HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/20036.m3u8
-#EXTINF:-1,UK:Eurosport_1_HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/20081.m3u8
-#EXTINF:-1,UK:Eurosport_2_HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/20082.m3u8
-#EXTINF:-1,USA : BEIN SPORTS HD 2
-http://tv2iptv.com:8000/live/Dylan/Dylan123/37647.m3u8
-#EXTINF:-1,USA : BEIN SPORTS HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/37648.m3u8
-#EXTINF:-1,USA : BEIN SPORTS MAX HD 1
-http://tv2iptv.com:8000/live/Dylan/Dylan123/37636.m3u8
-#EXTINF:-1,USA : FOX DEPORTES HD
-http://tv2iptv.com:8000/live/Dylan/Dylan123/37605.m3u8
-#EXTINF:-1,CA : TSN HD 1
-http://tv2iptv.com:8000/live/Dylan/Dylan123/37787.m3u8
-
-#EXTINF:-1,DE: DAZN 1 Bar HD
-http://carlo.kim:2015/live/didem1/16082018/233.m3u8
-#EXTINF:-1,DE: DAZN 2 Bar HD
-http://carlo.kim:2015/live/didem1/16082018/234.m3u8
-#EXTINF:-1,DE: Eurosport 1 HD
-http://carlo.kim:2015/live/didem1/16082018/242.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD Xtra
-http://carlo.kim:2015/live/didem1/16082018/244.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://carlo.kim:2015/live/didem1/16082018/279.m3u8
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD+
-http://carlo.kim:2015/live/didem1/16082018/1894.m3u8
-#EXTINF:-1,FR| BEIN SPORTS 1 HD
-http://carlo.kim:2015/live/didem1/16082018/2983.m3u8
-#EXTINF:-1,FR| BEIN SPORTS 2 HD
-http://carlo.kim:2015/live/didem1/16082018/2984.m3u8
-#EXTINF:-1,FR| BEIN SPORTS 3 HD
-http://carlo.kim:2015/live/didem1/16082018/2985.m3u8
-#EXTINF:-1,FR| EUROSPORT 2 HD
-http://carlo.kim:2015/live/didem1/16082018/3011.m3u8
-#EXTINF:-1,NL | FOX Sports 2 HD
-http://carlo.kim:2015/live/didem1/16082018/1020.m3u8
-#EXTINF:-1,NL | FOX Sports EDL 1 HD
-http://carlo.kim:2015/live/didem1/16082018/1019.m3u8
-#EXTINF:-1,NL | FOX Sports EDL 3 HD
-http://carlo.kim:2015/live/didem1/16082018/1021.m3u8
-#EXTINF:-1,NL | Ziggo Sport Select HD
-http://carlo.kim:2015/live/didem1/16082018/1025.m3u8
-#EXTINF:-1,NL | Ziggo Sport Voetbal
-http://carlo.kim:2015/live/didem1/16082018/1024.m3u8
-#EXTINF:-1,UK |  BT SPORTS 1
-http://carlo.kim:2015/live/didem1/16082018/1877.m3u8
-#EXTINF:-1,UK |  BT SPORTS 2
-http://carlo.kim:2015/live/didem1/16082018/1876.m3u8
-#EXTINF:-1,UK |  BT SPORTS 3
-http://carlo.kim:2015/live/didem1/16082018/1875.m3u8
-#EXTINF:-1,UK |  BT SPORTS ESPN
-http://carlo.kim:2015/live/didem1/16082018/1874.m3u8
-#EXTINF:-1,UK |  EUROSPORTS 1
-http://carlo.kim:2015/live/didem1/16082018/1862.m3u8
-#EXTINF:-1,UK |  EUROSPORTS 2
-http://carlo.kim:2015/live/didem1/16082018/1861.m3u8
-#EXTINF:-1,UK |  SKY SPORTS ACTION
-http://carlo.kim:2015/live/didem1/16082018/1826.m3u8
-#EXTINF:-1,UK |  SKY SPORTS MAIN EVENT
-http://carlo.kim:2015/live/didem1/16082018/1832.m3u8
-#EXTINF:-1,UK |  SKY SPORTS PREMIER LEAGUE
-http://carlo.kim:2015/live/didem1/16082018/1829.m3u8
-
-#EXTINF:-1,beIN_Sports_11_FHD
-http://20062016.com:8000/live/hassan1234/hassan1234/19841.m3u8
-#EXTINF:-1,beIN_Sports_12_FHD
-http://20062016.com:8000/live/hassan1234/hassan1234/19842.m3u8
-
-#EXTINF:0,DAZN sport 1 Full HD
-http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/44660.ts
-#EXTINF:0,DAZN sport 2 Full HD
-http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31422.ts
-#EXTINF:0,DAZN sport 2 HD
-http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/31260.ts
-#EXTINF:0,Dazn1 Sat HD
-http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53808.ts
-#EXTINF:0,Dazn1 Sat SD
-http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/53809.ts
-#EXTINF:0,Sky Sport 1 FULL HD
-http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10765.ts
-#EXTINF:0,Sky Sport 24 FULL HD
-http://desertonvulcan.ddns.net:8000/live/Zopi/CeccZ4BX/10767.ts
-
-
-
-
-
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536191.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536190.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536189.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527097.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536174.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536173.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536172.m3u8
