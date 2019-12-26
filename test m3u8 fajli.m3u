@@ -1,5 +1,27 @@
 #EXTM3U
 
+
+#EXTINF:-1,EXYU | SPORT KLUB 1 HD HR
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16126.m3u8
+#EXTINF:-1,EXYU | SPORT KLUB 2 HD HR
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16127.m3u8
+#EXTINF:-1,EXYU | SPORT KLUB  1 HD SR
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16136.m3u8
+#EXTINF:-1,EXYU | SPORT KLUB 2 HD SR
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16137.m3u8
+#EXTINF:-1,EXYU | SPORT KLUB 3 HD SR
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16138.m3u8
+#EXTINF:-1,EXYU | ARENA SPORT 1 HD (HR)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16109.m3u8
+#EXTINF:-1,EXYU | ARENA SPORT 2 HD (HR)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16110.m3u8
+#EXTINF:-1,EXYU | ARENA SPORT 3 HD (HR)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16111.m3u8
+#EXTINF:-1,EXYU | ARENA SPORT 4 HD (HR)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16112.m3u8
+#EXTINF:-1,EXYU | ARENA SPORT 5 HD (HR)
+http://z.iptvsubscription.org:80/live/mohanad/mohanad/16113.m3u8
+
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
 #EXTINF:-1,|NL| Fox Sport 4 HD
