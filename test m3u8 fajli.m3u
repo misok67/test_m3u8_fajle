@@ -1,27 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1,EXYU | SPORT KLUB 1 HD HR
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16126.m3u8
-#EXTINF:-1,EXYU | SPORT KLUB 2 HD HR
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16127.m3u8
-#EXTINF:-1,EXYU | SPORT KLUB  1 HD SR
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16136.m3u8
-#EXTINF:-1,EXYU | SPORT KLUB 2 HD SR
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16137.m3u8
-#EXTINF:-1,EXYU | SPORT KLUB 3 HD SR
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16138.m3u8
-#EXTINF:-1,EXYU | ARENA SPORT 1 HD (HR)
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16109.m3u8
-#EXTINF:-1,EXYU | ARENA SPORT 2 HD (HR)
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16110.m3u8
-#EXTINF:-1,EXYU | ARENA SPORT 3 HD (HR)
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16111.m3u8
-#EXTINF:-1,EXYU | ARENA SPORT 4 HD (HR)
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16112.m3u8
-#EXTINF:-1,EXYU | ARENA SPORT 5 HD (HR)
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/16113.m3u8
-
+#EXTINF:0,|NL| Ziggo Sport Select HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
 #EXTINF:-1,|NL| Fox Sport 3 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
 #EXTINF:-1,|NL| Fox Sport 4 HD
@@ -30,33 +11,6 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/991.m3u8
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
 #EXTINF:-1,|NL| Fox Sport 6 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
-#EXTINF:0,|NL| Ziggo Sport Select HD
-http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
-
-#EXTINF:0,AR SPORTS | beIN Sports 11 FHD (ENG) VIP AR
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/47206.m3u8
-#EXTINF:0,AR SPORTS | beIN Sports 12 FHD (ENG) VIP AR
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/47207.m3u8
-#EXTINF:0,DE | DAZN SPORT 1
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17308.m3u8
-#EXTINF:0,DE | DAZN SPORT 2
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17309.m3u8
-#EXTINF:0,DE | EUROSPORT 1
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17305.m3u8
-#EXTINF:0,DE | EUROSPORT 2 XTRA
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17307.m3u8
-#EXTINF:0,DE | EUROSPORT 2
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17306.m3u8
-#EXTINF:0,DE | SKY SPORT 1
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17310.m3u8
-#EXTINF:0,DE | SKY SPORT 2
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17311.m3u8
-#EXTINF:0,DE | SKY SPORT BUNDESLIGA 1 FHD
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/17313.m3u8
-#EXTINF:0,NL | ZIGGO SPORT SELECT 4K+
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/1299.m3u8
-#EXTINF:0,NL | ZIGGO SPORT VOETBAL 4K+
-http://z.iptvsubscription.org:80/live/mohanad/mohanad/1300.m3u8
 
 #EXTINF:-1,BT SPORTS 1 FHD
 http://209.222.97.118:25461/live/Dave123/dave123/4063.m3u8
@@ -96,10 +50,8 @@ http://tv.sigma-iptv.com:7000/live/45905/13543107/575536172.m3u8
 http://tv.sigma-iptv.com:7000/live/45905/13543107/5538.m3u8
 #EXTINF:0,beINSPORTS 12 HD
 http://tv.sigma-iptv.com:7000/live/45905/13543107/5537.m3u8
-#EXTINF:0,beINSPORTS 13 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5536.m3u8
 #EXTINF:0,|AR| beINSPORTS 1 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5531.m3u8
+http://tv.sigma-iptv.com:7000/45905/13543107/5531
 #EXTINF:0,|AR| beINSPORTS 2 FHD
 http://tv.sigma-iptv.com:7000/live/45905/13543107/5530.m3u8
 #EXTINF:0,|AR| beINSPORTS 3 FHD
