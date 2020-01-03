@@ -12,61 +12,83 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
 #EXTINF:-1,|NL| Fox Sport 6 HD
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
 
-#EXTINF:-1,BT SPORTS 1 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4063.m3u8
-#EXTINF:-1,BT SPORT 2 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4065.m3u8
-#EXTINF:-1,BT SPORT 3 FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4067.m3u8
-#EXTINF:-1,BT SPORT ESPN FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4069.m3u8
-#EXTINF:-1,SKY SPORT ACTION FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4084.m3u8
-#EXTINF:-1,SKY SPORT ARENA FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4085.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4080.m3u8
-#EXTINF:-1,SKY SPORT MAIN EVENT FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4078.m3u8
-#EXTINF:-1,SKY SPORT PREMIER LEAGUE FHD
-http://209.222.97.118:25461/live/Dave123/dave123/4079.m3u8
-
-#EXTINF:-1,|FR| RMC SPORT 1 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575536191.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575536190.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575536189.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575527097.m3u8
-#EXTINF:-1,|FR| BEINSPORTS 1 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575536174.m3u8
-#EXTINF:-1,|FR| BEINSPORTS 2 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575536173.m3u8
-#EXTINF:-1,|FR| BEINSPORTS 3 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/575536172.m3u8
-
-#EXTINF:0,beINSPORTS 11 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5538.m3u8
-#EXTINF:0,beINSPORTS 12 HD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5537.m3u8
-#EXTINF:0,|AR| beINSPORTS 1 FHD
-http://tv.sigma-iptv.com:7000/45905/13543107/5531
-#EXTINF:0,|AR| beINSPORTS 2 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5530.m3u8
-#EXTINF:0,|AR| beINSPORTS 3 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5529.m3u8
-#EXTINF:0,|AR| beINSPORTS 4 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5528.m3u8
-#EXTINF:0,|AR| beINSPORTS 5 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5527.m3u8
-#EXTINF:0,|AR| beINSPORTS 6 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5526.m3u8
-#EXTINF:0,|AR| beINSPORTS 7 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5525.m3u8
-#EXTINF:0,|AR| beINSPORTS 8 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5524.m3u8
-#EXTINF:0,|AR| beINSPORTS 9 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5523.m3u8
-#EXTINF:0,|AR| beINSPORTS 10 FHD
-http://tv.sigma-iptv.com:7000/live/45905/13543107/5522.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORT HD 11 EN
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15079.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORT HD 12 EN
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15080.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 10
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15078.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 1
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15069.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 2
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15070.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 3
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15071.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 4
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15072.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 5
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15073.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 6
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15074.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 7
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15075.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 8
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15076.m3u8
+#EXTINF:-1 ,|AR| BEIN SPORTS HD 9
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15077.m3u8
+#EXTINF:-1 ,|DE| DAZN 1
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16205.m3u8
+#EXTINF:-1 ,|DE| DAZN 2
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16206.m3u8
+#EXTINF:-1 ,|DE| EUROSPORT 1 DE
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16182.m3u8
+#EXTINF:-1 ,|DE| EUROSPORT 2 DE
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16183.m3u8
+#EXTINF:-1 ,|DE| SKY BUNDESLIGA 1
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16189.m3u8
+#EXTINF:-1 ,|DE| SKY SPORT 1
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16187.m3u8
+#EXTINF:-1 ,|DE| SKY SPORT 2
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16188.m3u8
+#EXTINF:-1 ,|FR| BEIN SPORT 1 HD
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6742.m3u8
+#EXTINF:-1 ,|FR| BEIN SPORT 2 HD
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6741.m3u8
+#EXTINF:-1 ,|FR| BEIN SPORT 3 HD
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/6740.m3u8
+#EXTINF:-1 ,|NL| FOX SPORT 3
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16091.m3u8
+#EXTINF:-1 ,|NL| FOX SPORT 4
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16092.m3u8
+#EXTINF:-1 ,|NL| FOX SPORT 5
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16093.m3u8
+#EXTINF:-1 ,|NL| FOX SPORT 6
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16094.m3u8
+#EXTINF:-1 ,|NL| ZIGGO SPORT SELECT
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16099.m3u8
+#EXTINF:-1 ,|UK| BT SPORT 1
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15816.m3u8
+#EXTINF:-1 ,|UK| BT SPORT 2
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15817.m3u8
+#EXTINF:-1 ,|UK| BT SPORT 3
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15818.m3u8
+#EXTINF:-1 ,|UK| BT SPORTS ESPN
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15815.m3u8
+#EXTINF:-1 ,|UK| SKY SPORT FOOTBALL
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15801.m3u8
+#EXTINF:-1 ,|UK| SKY SPORTS MAIN EVENT
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15803.m3u8
+#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15802.m3u8
+#EXTINF:-1,|UK| PREMIER SPORTS
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/15813.m3u8
+#EXTINF:-1 ,|US| BEIN SPORTS 2
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16410.m3u8
+#EXTINF:-1 ,|US| BEIN SPORTS
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16409.m3u8
+#EXTINF:-1 ,|US| FOX SPORTS 1
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16503.m3u8
+#EXTINF:-1 ,|US| FOX SPORTS 2
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16504.m3u8
+#EXTINF:-1 ,|US| TSN 1 HD
+http://welliptv.net:2507/live/walid_665395/3AGjjDnf/16390.m3u8
