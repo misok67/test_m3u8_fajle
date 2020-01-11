@@ -1,18 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:0,|NL| Ziggo Sport Select HD
-http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/933
-#EXTINF:-1,|NL| Fox Sport 3 HD
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
-#EXTINF:-1,|NL| Fox Sport 4 HD
-http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/991
-#EXTINF:-1,|NL| Fox Sport 5 HD
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
-#EXTINF:-1,|NL| Fox Sport 6 HD
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
-
-
 #EXTINF:-1 ,BEIN-SPORT-11-HD
 http://tv2iptv.com:8000/live/Faysal/faysal123/1033.m3u8
 #EXTINF:-1 ,BEIN-SPORT-12-HD
@@ -38,23 +25,48 @@ http://tv2iptv.com:8000/live/Faysal/faysal123/37.m3u8
 #EXTINF:-1 ,BEIN-SPORT-10-HD
 http://tv2iptv.com:8000/live/Faysal/faysal123/38.m3u8
 
-#EXTINF:-1,Bein Sports 1 FullHD
-http://beryantv.com:25461/live/02410251710104/02410251710104/794.m3u8
-#EXTINF:-1,Bein Sports 2 FullHD
-http://beryantv.com:25461/live/02410251710104/02410251710104/799.m3u8
-#EXTINF:-1,Bein Sports 3 FullHD
-http://beryantv.com:25461/live/02410251710104/02410251710104/804.m3u8
-#EXTINF:-1,Bein Sports 4 FullHD
-http://beryantv.com:25461/live/02410251710104/02410251710104/809.m3u8
-#EXTINF:-1,Bein Sports 5 FullHD
-http://beryantv.com:25461/live/02410251710104/02410251710104/814.m3u8
-#EXTINF:-1,Bein Sports 6 FullHD
-http://beryantv.com:25461/live/02410251710104/02410251710104/819.m3u8
-#EXTINF:-1,Bein Sports 7HD
-http://beryantv.com:25461/live/02410251710104/02410251710104/824.m3u8
-#EXTINF:-1,Bein Sports 8HD
-http://beryantv.com:25461/live/02410251710104/02410251710104/826.m3u8
-#EXTINF:-1,Bein Sports 9HD
-http://beryantv.com:25461/live/02410251710104/02410251710104/828.m3u8
-#EXTINF:-1,Bein Sports 10
-http://beryantv.com:25461/live/02410251710104/02410251710104/829.m3u8
+
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89214.m3u8
+#EXTINF:0,BT SPORTS 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89213.m3u8
+#EXTINF:0,BT SPORTS 3 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89212.m3u8
+#EXTINF:0,BT SPORTS EPSN
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89211.m3u8
+#EXTINF:0,SKY SPORTS ACTION | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98789.m3u8
+#EXTINF:0,SKY SPORTS ARENA | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98787.m3u8
+#EXTINF:0,SKY SPORTS MAIN EVENT | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98777.m3u8
+#EXTINF:0,SKY SPORTS MIX | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98857.m3u8
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98775.m3u8
+#EXTINF:0,PREMIER SPORTS 1 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98771.m3u8
+#EXTINF:0,PREMIER SPORTS 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98770.m3u8
+#EXTINF:0,DE: EUROSPORT 1 HD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100505.m3u8
+#EXTINF:0,DE: EUROSPORT 2 HD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100506.m3u8
+#EXTINF:0,DE: SKY SPORT 1 HD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100501.m3u8
+#EXTINF:0,DE: SKY SPORT BUNDESLIGA 1 HD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100503.m3u8
+#EXTINF:0,DE: Sky Sport 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100502.m3u8
+#EXTINF:0,FOX DEPORTES Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36267.m3u8
+#EXTINF:0,FOX SPORTS 1 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1367.m3u8
+#EXTINF:0,FOX SPORTS 2 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38483.m3u8
+#EXTINF:0,BEIN SPORTS ESP (US) Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/27685.m3u8
+#EXTINF:0,BEIN SPORTS USA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1501.m3u8
+#EXTINF:0,BT SPORTS 1 | VIP
+#EXTINF:0,TSN 1V
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1621.m3u8
