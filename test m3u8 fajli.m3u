@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:0,Directv Sports FHD (ARG)
-http://tvla.xyz:25461/live/sgjhd4556h/ATnVGK2N/134008.m3u8
-#EXTINF:-1 ,BEIN-SPORT-11-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/1033.m3u8
-#EXTINF:-1 ,BEIN-SPORT-12-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/1034.m3u8
-#EXTINF:-1 ,BEIN-SPORT-1-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/29.m3u8
-#EXTINF:-1 ,BEIN-SPORT-2-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/30.m3u8
-#EXTINF:-1 ,BEIN-SPORT-3-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/31.m3u8
-#EXTINF:-1 ,BEIN-SPORT-4-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/32.m3u8
-#EXTINF:-1 ,BEIN-SPORT-5-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/33.m3u8
-#EXTINF:-1 ,BEIN-SPORT-6-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/34.m3u8
-#EXTINF:-1 ,BEIN-SPORT-7-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/35.m3u8
-#EXTINF:-1 ,BEIN-SPORT-8-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/36.m3u8
-#EXTINF:-1 ,BEIN-SPORT-9-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/37.m3u8
-#EXTINF:-1 ,BEIN-SPORT-10-HD
-http://tv2iptv.com:8000/live/Faysal/faysal123/38.m3u8
+#EXTINF:-1,Bee N Sport 11
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89200.m3u8
+#EXTINF:-1,Bee n Sport 12
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89199.m3u8
+#EXTINF:-1,Bee n Sport 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89210.m3u8
+#EXTINF:-1,Bee n Sport 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89209.m3u8
+#EXTINF:-1,Bee N Sport 3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89208.m3u8
+#EXTINF:-1,Bee N Sport 4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89207.m3u8
+#EXTINF:-1,Bee n Sport 5
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89206.m3u8
+#EXTINF:-1,Bee n Sport 6
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89205.m3u8
+#EXTINF:-1,Bee n Sport 7
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89204.m3u8
+#EXTINF:-1,Bee N Sport 8
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89203.m3u8
+#EXTINF:-1,Bee N Sport 9
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89202.m3u8
+#EXTINF:-1,Bee N Sport 10
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89201.m3u8
+
+
 
 #EXTINF:-1,BT SPORTS 1 | VIP
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89214.m3u8
@@ -49,8 +49,12 @@ http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98775.m3u8
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98771.m3u8
 #EXTINF:0,PREMIER SPORTS 2 | VIP
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98770.m3u8
-#EXTINF:0,FOX DEPORTES Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36267.m3u8
+#EXTINF:-1,TENNIS CHANNEL Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31209.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31459.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31460.m3u8
 #EXTINF:0,FOX SPORTS 1 Local
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1367.m3u8
 #EXTINF:0,FOX SPORTS 2 Local
@@ -59,7 +63,6 @@ http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38483.m3u8
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/27685.m3u8
 #EXTINF:0,BEIN SPORTS USA Local
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1501.m3u8
-#EXTINF:0,BT SPORTS 1 | VIP
 #EXTINF:0,TSN 1V
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1621.m3u8
 #EXTINF:-1,FR: BEIN SPORTS 1 | HD
@@ -68,7 +71,30 @@ http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100101.m3u8
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100102.m3u8
 #EXTINF:-1,FR: BEIN SPORTS 3 | HD
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100103.m3u8
-
+#EXTINF:-1,ELEVEN SPORTS 1 (FR)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77967.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 (FR)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77966.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 (FR)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77965.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77961.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77960.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77959.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77958.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 (NL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77964.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 (NL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77963.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 (NL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77962.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77957.m3u8
+#EXTINF:0,Directv Sports FHD (ARG)
+http://tvla.xyz:25461/live/sgjhd4556h/ATnVGK2N/134008.m3u8
 #EXTINF:-1,NL: Fox Sports 3 HD**
 http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/15748.m3u8
 #EXTINF:-1,NL: Fox Sports 4 HD**
