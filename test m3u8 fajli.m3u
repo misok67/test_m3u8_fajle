@@ -1,10 +1,15 @@
 #EXTM3U
 
-
 #EXTINF:-1,EUROSPORT 1
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31459.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31460.m3u8
+#EXTINF:-1,DE: Eurosport 1 HD
+http://163.172.168.157:3456/live/andris/andris/1051.m3u8
+#EXTINF:-1,DE: Eurosport 2 HD
+http://163.172.168.157:3456/live/andris/andris/6632.m3u8
+#EXTINF:-1,DE: SKY EUROSPORT
+http://163.172.168.157:3456/live/andris/andris/1072.m3u8
 #EXTINF:-1,MOVISTAR DEPORTE 1 FULLHD
 http://servicioiptv.com:8000/live/german/123456/197.m3u8
 #EXTINF:-1,MOVISTAR DEPORTE 2
@@ -15,19 +20,24 @@ http://servicioiptv.com:8000/live/german/123456/200.m3u8
 http://servicioiptv.com:8000/live/german/123456/201.m3u8
 #EXTINF:-1,MOVISTAR DEPORTE 5
 http://servicioiptv.com:8000/live/german/123456/202.m3u8
-
+#EXTINF:-1,EUROSPORT HD ESP
+http://servicioiptv.com:8000/live/german/123456/205.m3u8
+#EXTINF:-1,EUROSPORT ESP
+http://servicioiptv.com:8000/live/german/123456/206.m3u8
+#EXTINF:-1,Eurosport  2 ESP
+http://servicioiptv.com:8000/live/german/123456/207.m3u8
+#EXTINF:0,ESPN 4K
+http://pdsrv.io:25461/live/sandra01/sandra01/33766.m3u8
+#EXTINF:0,ESPN 2 FHD (DUAL AUDIO)
+http://pdsrv.io:25461/live/sandra01/sandra01/11521.m3u8
+#EXTINF:0,ESPN 2 HD
+http://pdsrv.io:25461/live/sandra01/sandra01/6143.m3u8
 #EXTINF:-1,Bein Sports 7hd
 http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sports 8hd
 http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sports 9 HD
 http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,beIN Sport 7 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1486.m3u8
-#EXTINF:0,beIN Sport 8 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1485.m3u8
-#EXTINF:0,beIN Sport 9 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1484.m3u8
 #EXTINF:-1,TENNIS CHANNEL Local
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31209.m3u8
 #EXTINF:-1,Bee N Sport 11
@@ -90,30 +100,6 @@ http://89.187.181.171:826/live/armelb/zQxn5lB3zK/27685.m3u8
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1501.m3u8
 #EXTINF:0,TSN 1V
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1621.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 (FR)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77967.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 (FR)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77966.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 (FR)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77965.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77961.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77960.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77959.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77958.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 (NL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77964.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 (NL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77963.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 (NL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77962.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77957.m3u8
-#EXTINF:0,Directv Sports FHD (ARG)
-http://tvla.xyz:25461/live/sgjhd4556h/ATnVGK2N/134008.m3u8
 #EXTINF:0,|FR| RMC SPORT 1FHD
 http://185.23.213.162:8789/live/ania/ania/32713.m3u8
 #EXTINF:0,|FR| RMC SPORT 2FHD
@@ -126,3 +112,17 @@ http://185.23.213.162:8789/live/ania/ania/14160.m3u8
 http://185.23.213.162:8789/live/ania/ania/14159.m3u8
 #EXTINF:0,|FR| BEINSPORTS 3 F.HD
 http://185.23.213.162:8789/live/ania/ania/14158.m3u8
+#EXTINF:0,ELEVEN SPORTS 1 FHD
+http://pdsrv.io:25461/live/sandra01/sandra01/30762.m3u8
+#EXTINF:0,ELEVEN SPORTS 2 FHD 
+http://pdsrv.io:25461/live/sandra01/sandra01/30758.m3u8
+#EXTINF:0,ELEVEN SPORTS 3 HD
+http://pdsrv.io:25461/live/sandra01/sandra01/30755.m3u8
+#EXTINF:0,ELEVEN SPORTS 4 HD 
+http://pdsrv.io:25461/live/sandra01/sandra01/30753.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77961.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77960.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 (PL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77959.m3u8
