@@ -4,46 +4,27 @@
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31459.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31460.m3u8
-#EXTINF:-1,DE: Eurosport 1 HD
-http://163.172.168.157:3456/live/andris/andris/1051.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD
-http://163.172.168.157:3456/live/andris/andris/6632.m3u8
-#EXTINF:-1,DE: SKY EUROSPORT
-http://163.172.168.157:3456/live/andris/andris/1072.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 1 FULLHD
-http://servicioiptv.com:8000/live/german/123456/197.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 2
-http://servicioiptv.com:8000/live/german/123456/199.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 3
-http://servicioiptv.com:8000/live/german/123456/200.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 4
-http://servicioiptv.com:8000/live/german/123456/201.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 5
-http://servicioiptv.com:8000/live/german/123456/202.m3u8
-#EXTINF:-1,EUROSPORT HD ESP
-http://servicioiptv.com:8000/live/german/123456/205.m3u8
-#EXTINF:-1,EUROSPORT ESP
-http://servicioiptv.com:8000/live/german/123456/206.m3u8
-#EXTINF:-1,Eurosport  2 ESP
-http://servicioiptv.com:8000/live/german/123456/207.m3u8
-#EXTINF:0,ESPN 4K
-http://pdsrv.io:25461/live/sandra01/sandra01/33766.m3u8
-#EXTINF:0,ESPN 2 FHD (DUAL AUDIO)
-http://pdsrv.io:25461/live/sandra01/sandra01/11521.m3u8
-#EXTINF:0,ESPN 2 HD
-http://pdsrv.io:25461/live/sandra01/sandra01/6143.m3u8
+#EXTINF:-1,Bee n Sport 12
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89199.m3u8
 #EXTINF:-1,Bein Sports 7hd
 http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sports 8hd
 http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sports 9 HD
 http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,TSN 1V
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1621.m3u8
+#EXTINF:0,ESPN 4K
+http://pdsrv.io:25461/live/sandra01/sandra01/33766.m3u8
+#EXTINF:0,ESPN 2 FHD (DUAL AUDIO)
+http://pdsrv.io:25461/live/sandra01/sandra01/11521.m3u8
+#EXTINF:0,ESPN 2 HD
+http://pdsrv.io:25461/live/sandra01/sandra01/6143.m3u8
 #EXTINF:-1,TENNIS CHANNEL Local
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31209.m3u8
 #EXTINF:-1,Bee N Sport 11
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89200.m3u8
-#EXTINF:-1,Bee n Sport 12
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89199.m3u8
+
 #EXTINF:-1,Bee n Sport 7
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89204.m3u8
 #EXTINF:-1,Bee N Sport 8
@@ -120,12 +101,6 @@ http://pdsrv.io:25461/live/sandra01/sandra01/30758.m3u8
 http://pdsrv.io:25461/live/sandra01/sandra01/30755.m3u8
 #EXTINF:0,ELEVEN SPORTS 4 HD 
 http://pdsrv.io:25461/live/sandra01/sandra01/30753.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77961.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77960.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 (PL)
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77959.m3u8
 #EXTINF:0,NL: Ziggo Sports Select HD**
 http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/15740
 #EXTINF:0,NL: Ziggo Sports Voetbal HD**
