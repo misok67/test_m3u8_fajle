@@ -1,46 +1,11 @@
 #EXTM3U
-#EXTINF:-1,|UK| EUROSPORT 1 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30273.m3u8
-#EXTINF:-1,|UK| EUROSPORT 2 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30272.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/141.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/142.m3u8
-#EXTINF:-1,|IT| EUROSPORT 1 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/86867.m3u8
-#EXTINF:-1,|IT| EUROSPORT 2 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/2316.m3u8
-#EXTINF:-1,|NL| EUROSPORT 1 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/12644.m3u8
-#EXTINF:-1,|NL| EUROSPORT 2 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/12643.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 1 SR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/105035.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 2 SR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/105036.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 3 SR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/105037.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 4 SR
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/105039.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 1 HR
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/43096.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 2 HR
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/43092.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 3 HR
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/43093.m3u8
-#EXTINF:-1,|YU| SPORT KLUB 4 HR
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/105038.m3u8
-#EXTINF:-1,|YU| ARENA SPORT 1 HR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/19894.m3u8
-#EXTINF:-1,|YU| ARENA SPORT 2 HR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/19893.m3u8
-#EXTINF:-1,|YU| ARENA SPORT 3 HR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/19892.m3u8
-#EXTINF:-1,|YU| ARENA SPORT 4 HR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/19891.m3u8
-#EXTINF:-1,|YU| ARENA SPORT 5 HR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/19890.m3u8
+
+#EXTINF:0,US: Tsn 1
+http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/2023.m3u8
+#EXTINF:0,ESPN 4K
+http://pdsrv.io:25461/live/sandra01/sandra01/33766.m3u8
+#EXTINF:0,ESPN 2 HD
+http://pdsrv.io:25461/live/sandra01/sandra01/6143.m3u8
 #EXTINF:0,FR: BeinSport1 HD
 http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/217.m3u8
 #EXTINF:0,FR: BeinSport2 HD
@@ -67,84 +32,8 @@ http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/144.m3u8
 http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/145.m3u8
 #EXTINF:0,AR: BeinSport10 HD
 http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/146.m3u8
-#EXTINF:-1,|BEIN| BEIN SPORTS 11 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82987.m3u8
-#EXTINF:-1,|BEIN| BEIN SPORTS 12 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/82985.m3u8
-#EXTINF:-1,|CA| TSN 1 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30982.m3u8
-#EXTINF:-1,|DE| DAZN 1 BAR FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/16320.m3u8
-#EXTINF:-1,|DE| DAZN 1 BAR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/129661.m3u8
-#EXTINF:-1,|DE| DAZN 2 BAR FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/16319.m3u8
-#EXTINF:-1,|DE| DAZN 2 BAR HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/129662.m3u8
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/16364.m3u8
-#EXTINF:-1,|DE| EUROSPORT360 1 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/129667.m3u8
-#EXTINF:-1,|DE| EUROSPORT360 2 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/129668.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/16360.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/16358.m3u8
-#EXTINF:-1,|ES| M. DEPORTES 1 (ONLY EVENT)
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/124091.m3u8
-#EXTINF:-1,|ES| M. DEPORTES 2 (ONLY EVENT)
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/124092.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/133.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/146.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/135.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 3 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30801.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 4 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30800.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 5 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30799.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 6 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30798.m3u8
-#EXTINF:-1,|UK| PREMIER SPORTS 1 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30214.m3u8
-#EXTINF:-1,|UK| PREMIER SPORTS 2 FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/99705.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30334.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30332.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30330.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ACTION FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30170.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ARENA FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30176.m3u8
-#EXTINF:-1,|UK| SKY SPORTS FOOTBALL FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30163.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30158.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MIX FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30160.m3u8
-#EXTINF:-1,|UK| SKY SPORTS PL FHD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/30154.m3u8
-#EXTINF:-1,|US| BEIN SPORTS HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/28261.m3u8
-#EXTINF:-1,|US| ELEVEN SPORTS HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/104603.m3u8
-#EXTINF:-1,|US| ESPN DEPORTES HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/104584.m3u8
-#EXTINF:-1,|US| FOX DEPORTES HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/104671.m3u8
-#EXTINF:-1,|US| FOX SPORTS 1 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/28193.m3u8
-#EXTINF:-1,|US| FOX SPORTS 2 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/28192.m3u8
-#EXTINF:0,US: Tsn 1
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/2023.m3u8
+
+
 #EXTINF:0,NL: Fox Sports Eredivisie 3 
 http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/222.m3u8
 #EXTINF:0,NL: Fox Sports International 4 HD
@@ -161,52 +50,6 @@ http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/159.m3u8
 http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/160.m3u8
 #EXTINF:0,DE: Sky Bundesliga 1 HQ
 http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/158.m3u8
-
-#EXTINF:0,ESPN 4K
-http://pdsrv.io:25461/live/sandra01/sandra01/33766.m3u8
-#EXTINF:0,ESPN 2 FHD (DUAL AUDIO)
-http://pdsrv.io:25461/live/sandra01/sandra01/11521.m3u8
-#EXTINF:0,ESPN 2 HD
-http://pdsrv.io:25461/live/sandra01/sandra01/6143.m3u8
-#EXTINF:-1,TENNIS CHANNEL Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31209.m3u8
-#EXTINF:-1,Bee N Sport 11
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89200.m3u8
-
-#EXTINF:-1,Bee n Sport 7
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89204.m3u8
-#EXTINF:-1,Bee N Sport 8
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89203.m3u8
-#EXTINF:-1,Bee N Sport 9
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89202.m3u8
-#EXTINF:-1,Bee n Sport 1
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89210.m3u8
-#EXTINF:-1,Bee n Sport 2
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89209.m3u8
-#EXTINF:-1,Bee N Sport 3
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89208.m3u8
-#EXTINF:-1,Bee N Sport 4
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89207.m3u8
-#EXTINF:-1,Bee n Sport 5
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89206.m3u8
-#EXTINF:-1,Bee n Sport 6
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89205.m3u8
-#EXTINF:-1,Bee N Sport 10
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89201.m3u8
-
-
-#EXTINF:0,|FR| RMC SPORT 1FHD
-http://185.23.213.162:8789/live/ania/ania/32713.m3u8
-#EXTINF:0,|FR| RMC SPORT 2FHD
-http://185.23.213.162:8789/live/ania/ania/32714.m3u8
-#EXTINF:0,|FR| RMC SPORT 3FHD
-http://185.23.213.162:8789/live/ania/ania/32715.m3u8
-#EXTINF:0,|FR| BEINSPORTS 1 FHD
-http://185.23.213.162:8789/live/ania/ania/14160.m3u8
-#EXTINF:0,|FR| BEINSPORTS 2 F.HD
-http://185.23.213.162:8789/live/ania/ania/14159.m3u8
-#EXTINF:0,|FR| BEINSPORTS 3 F.HD
-http://185.23.213.162:8789/live/ania/ania/14158.m3u8
 #EXTINF:0,ELEVEN SPORTS 1 FHD
 http://pdsrv.io:25461/live/sandra01/sandra01/30762.m3u8
 #EXTINF:0,ELEVEN SPORTS 2 FHD 
