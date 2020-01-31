@@ -1,55 +1,112 @@
 #EXTM3U
 
-#EXTINF:0,US: Tsn 1
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/2023.m3u8
+#EXTINF:-1,(UK):EUROSPORT 1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2967.m3u8
+#EXTINF:-1,FR-EUROSPORT1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/507.m3u8
+#EXTINF:-1,SP-EUROSPORT1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2905.m3u8
+#EXTINF:-1,ARB-BeIN Sport 12
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/243.m3u8
 #EXTINF:0,ESPN 4K
 http://pdsrv.io:25461/live/sandra01/sandra01/33766.m3u8
+#EXTINF:0,EUROSPORT FULL HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/206.m3u8
+#EXTINF:0,EUROSPORT HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/205.m3u8
+#EXTINF:0,EUROSPORT
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/204.m3u8
+#EXTINF:0,AR VIP: Bein Sport 1 HD (Backup)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/566.m3u8
+#EXTINF:0,AR VIP: Bein Sport 11 HD (Backup)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/568.m3u8
+#EXTINF:0,AR VIP: Bein Sport 12 HD (Backup)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/569.m3u8
+#EXTINF:0,AR: beIN Sports 1 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1038.m3u8
+#EXTINF:0,AR: beIN Sports 10 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1037.m3u8
+#EXTINF:0,AR: beIN Sports 11 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1036.m3u8
+#EXTINF:0,AR: beIN Sports 12 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1035.m3u8
+#EXTINF:0,AR: beIN Sports 2 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1033.m3u8
+#EXTINF:0,AR: beIN Sports 3 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1032.m3u8
+#EXTINF:0,AR: beIN Sports 4 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1031.m3u8
+#EXTINF:0,AR: beIN Sports 5 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1030.m3u8
+#EXTINF:0,AR: beIN Sports 6 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1029.m3u8
+#EXTINF:0,AR: beIN Sports 7 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1028.m3u8
+#EXTINF:0,AR: beIN Sports 8 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1027.m3u8
+#EXTINF:0,AR: beIN Sports 9 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1026.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1541.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1542.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1543.m3u8
+
+#EXTINF:0,DAZN 1
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/296.m3u8
+#EXTINF:0,DAZN 2
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/297.m3u8
+#EXTINF:0,FR: BeIN SPORTS 1 HD (1080P)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3528.m3u8
+#EXTINF:0,FR: BeIN SPORTS 2 HD (1080P)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3529.m3u8
+#EXTINF:0,FR: BeIN SPORTS 3 HD (1080P)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3530.m3u8
+#EXTINF:0,MOVISTAR  DEPORTE
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/193.m3u8
+#EXTINF:0,MOVISTAR DEPORTE 1 FHD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/197.m3u8
+#EXTINF:0,MOVISTAR DEPORTE 2
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/199.m3u8
+#EXTINF:0,MULTIDEPORTE
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/196.m3u8
+#EXTINF:0,UK: BT Sport 1 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3040.m3u8
+#EXTINF:0,UK: BT Sport 1 backup
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3750.m3u8
+#EXTINF:0,UK: BT Sport 2 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3039.m3u8
+#EXTINF:0,UK: BT Sport 3 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/2916.m3u8
+#EXTINF:0,UK: BT Sport 3 SD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/2907.m3u8
+#EXTINF:0,UK: SKY SPORTS ACTION HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3003.m3u8
+#EXTINF:0,UK: SKY SPORTS MAIN EVENT HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/2999.m3u8
+#EXTINF:0,UK: SKY SPORTS PREMIER LEAGUE HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3001.m3u8
+#EXTINF:0,UK: Sky Sport 1 SD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/2978.m3u8
+#EXTINF:0,UK: Sky Sport Football HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3811.m3u8
+#EXTINF:0,UK: Sky Sports Mix
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/2918.m3u8
+#EXTINF:0,US: Fox Sports 1 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3116.m3u8
+#EXTINF:0,US: Fox Sports 2 HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3115.m3u8
+#EXTINF:0,US: Fox sport 1 backup
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/3819.m3u8
+#EXTINF:0,VIP DE: Sky Sport 1 HD (1080P)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1781.m3u8
+#EXTINF:0,VIP DE: Sky Sport 2 HD (1080P)
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/1784.m3u8
+
+
 #EXTINF:0,ESPN 2 HD
 http://pdsrv.io:25461/live/sandra01/sandra01/6143.m3u8
-#EXTINF:0,FR: BeinSport1 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/217.m3u8
-#EXTINF:0,FR: BeinSport2 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/218.m3u8
-#EXTINF:0,FR: BeinSport3 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/651.m3u8
-#EXTINF:0,AR: BeinSport1 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/137.m3u8
-#EXTINF:0,AR: BeinSport2 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/138.m3u8
-#EXTINF:0,AR: BeinSport3 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/139.m3u8
-#EXTINF:0,AR: BeinSport4 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/140.m3u8
-#EXTINF:0,AR: BeinSport5 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/141.m3u8
-#EXTINF:0,AR: BeinSport6 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/142.m3u8
-#EXTINF:0,AR: BeinSport7 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/143.m3u8
-#EXTINF:0,AR: BeinSport8 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/144.m3u8
-#EXTINF:0,AR: BeinSport9 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/145.m3u8
-#EXTINF:0,AR: BeinSport10 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/146.m3u8
-
-
-#EXTINF:0,NL: Fox Sports Eredivisie 3 
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/222.m3u8
-#EXTINF:0,NL: Fox Sports International 4 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/166.m3u8
-#EXTINF:0,NL: Fox Sports 5 Eredivisie
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/164.m3u8
-#EXTINF:0,US: Fox Sports 1 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/112.m3u8
-#EXTINF:0,US: Fox Sports 2 HD
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/113.m3u8
-#EXTINF:0,DE: Sky Sport 1 HQ
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/159.m3u8
-#EXTINF:0,DE: Sky Sport 2 HQ
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/160.m3u8
-#EXTINF:0,DE: Sky Bundesliga 1 HQ
-http://ip.open4.xyz:8000/live/VamcfdUl0j/irJvnkBEtl/158.m3u8
 #EXTINF:0,ELEVEN SPORTS 1 FHD
 http://pdsrv.io:25461/live/sandra01/sandra01/30762.m3u8
 #EXTINF:0,ELEVEN SPORTS 2 FHD 
