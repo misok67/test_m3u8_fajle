@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,*SS- BEIN Sports 12 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32087.m3u8
+#EXTINF:-1,*SS- Eurosport 1 HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32033.m3u8
 #EXTINF:-1,(UK):EUROSPORT 1 HD
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2967.m3u8
 #EXTINF:-1,FR-EUROSPORT1 HD
@@ -8,37 +12,33 @@ http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/507.m3u8
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2905.m3u8
 #EXTINF:-1,ARB-BeIN Sport 12
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/243.m3u8
-#EXTINF:0,ESPN 4K
-http://pdsrv.io:25461/live/sandra01/sandra01/33766.m3u8
 
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3479.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3478.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3483.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3482.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3480.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD (HR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3481.m3u8
+#EXTINF:-1,SPORT KLUB 1 (RS)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3521.m3u8
+#EXTINF:-1,SPORT KLUB 2 (RS)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/29.m3u8
+#EXTINF:-1,SPORT KLUB 3 (RS)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/30.m3u8
+#EXTINF:-1,SPORT KLUB 4 (RS)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3522.m3u8
+#EXTINF:-1,SPORT KLUB 5 (RS)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3523.m3u8
 #EXTINF:-1,ARB-BEIN-SPORT11
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/242.m3u8
 #EXTINF:-1,ARB-BeIN Sport 12
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/243.m3u8
-#EXTINF:-1,Sport Klub 1 HR FHD
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/5774.m3u8
-#EXTINF:-1,Sport Klub 1 HR
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1529.m3u8
-#EXTINF:-1,Sport Klub 2 HR FHD
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/5775.m3u8
-#EXTINF:-1,Sport Klub 2
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1525.m3u8
-#EXTINF:-1,Sport Klub 3 HR FHD
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/5776.m3u8
-#EXTINF:-1,Sport Klub 3
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1524.m3u8
-#EXTINF:-1,Sport Klub 4
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1523.m3u8
-#EXTINF:-1,Arena Sport 1 HR
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1520.m3u8
-#EXTINF:-1,Arena Sport 2 HR
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1519.m3u8
-#EXTINF:-1,Arena Sport 3 HR
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1518.m3u8
-#EXTINF:-1,Arena Sport 4 HR
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1517.m3u8
-#EXTINF:-1,Arena Sport 5 HR
-http://balkan-x.net:25461/live/t7GHgSyhge/Svhk2BoBRv/1516.m3u8
 #EXTINF:-1,ARB-BEIN-SPORT1
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/232.m3u8
 #EXTINF:-1,ARB-BEIN-SPORT2
@@ -73,6 +73,8 @@ http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/512.m3u8
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/514.m3u8
 #EXTINF:-1,FR-RMC SPORTS 2 HD
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/513.m3u8
+#EXTINF:-1,(UK):PREMIERE SPORT  1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2965-m3u8
 #EXTINF:-1,(UK):BT SPORT 1 HD
 http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2830.m3u8
 #EXTINF:-1,(UK):BT SPORT 2 HD
@@ -106,17 +108,3 @@ http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1898.m3u8
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3633.m3u8
 #EXTINF:-1,BE - PLAY SPORT 2 HD
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3634.m3u8
-#EXTINF:0,ESPN 2 HD
-http://pdsrv.io:25461/live/sandra01/sandra01/6143.m3u8
-#EXTINF:0,ELEVEN SPORTS 1 FHD
-http://pdsrv.io:25461/live/sandra01/sandra01/30762.m3u8
-#EXTINF:0,ELEVEN SPORTS 2 FHD 
-http://pdsrv.io:25461/live/sandra01/sandra01/30758.m3u8
-#EXTINF:0,ELEVEN SPORTS 3 HD
-http://pdsrv.io:25461/live/sandra01/sandra01/30755.m3u8
-#EXTINF:0,ELEVEN SPORTS 4 HD 
-http://pdsrv.io:25461/live/sandra01/sandra01/30753.m3u8
-#EXTINF:0,NL: Ziggo Sports Select HD**
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/15740
-#EXTINF:0,NL: Ziggo Sports Voetbal HD**
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/15741
