@@ -63,6 +63,15 @@ http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/804.m3u8
 #EXTINF:-1,lista2 Arena Sport 4
 http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/805.m3u8
 
+#EXTINF:-1,RMC SPORT 1 (FR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3546.m3u8
+#EXTINF:-1,RMC SPORT 2 (FR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3547.m3u8
+#EXTINF:-1,RMC SPORT 3 (FR)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3548.m3u8
+
+#EXTINF:-1,FOX SPORT 3 (NED)
+http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3529.m3u8
 #EXTINF:-1,FOX SPORT 4 (NED)
 http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3528.m3u8
 #EXTINF:-1,DAZN 1 (DE)
@@ -93,3 +102,16 @@ http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1898.m3u8
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3633.m3u8
 #EXTINF:-1,BE - PLAY SPORT 2 HD
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3634.m3u8
+
+#EXTINF:-1,https://flylinks.net, FR| RMC SPORT 1 FHD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/40
+#EXTINF:-1,https://flylinks.net, FR| RMC SPORT 2 FHD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/41
+#EXTINF:-1,https://flylinks.net, FR| RMC SPORT 3 FHD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/42
+#EXTINF:-1,https://flylinks.net, UK| BT SPORT 1 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/98
+#EXTINF:-1,https://flylinks.net, UK| BT SPORT 2 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/99
+#EXTINF:-1,https://flylinks.net, UK| BT SPORT 3 HD
+http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/100
