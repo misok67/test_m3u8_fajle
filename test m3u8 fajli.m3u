@@ -42,6 +42,90 @@ http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
 #EXTINF:-1 ,EX-YU:Arena_Sport_1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
 
+#EXTINF:-1 tvg-name="DE:Dazn1" tvg-logo="
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3044.m3u8
+#EXTINF:-1 tvg-name="DE:Dazn2" tvg-logo="
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3041.m3u8
+#EXTINF:-1 tvg-name="DE:Eurosport 2 Extra" tvg-logo="
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3437.m3u8
+#EXTINF:-1 tvg-name="DE:Eurosport1 DE" tvg-logo="
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/266.m3u8
+#EXTINF:-1 tvg-name="DE:Sky Sport 1 DE" tvg-logo="
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/52.m3u8
+#EXTINF:-1 tvg-name="DE:Sky Sport 2 DE" tvg-logo="
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/53.m3u8
+#EXTINF:-1 tvg-name="DE:Sky Sports News De" tvg-logo="
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/255.m3u8
+
+#EXTINF:-1 tvg-name="AR:Bein Sports11 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/82
+#EXTINF:-1 tvg-name="AR:Bein Sports12 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/83
+#EXTINF:-1 tvg-name="AR:Bein Sports 1 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 1 Hevc
+http://iptv.ndasat.com:88/222699473175063/222699473175063/5195
+#EXTINF:-1 tvg-name="AR:Bein Sports 1" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 1
+http://iptv.ndasat.com:88/222699473175063/222699473175063/5192
+#EXTINF:-1 tvg-name="AR:Bein Sports 2 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 2 Hevc
+http://iptv.ndasat.com:88/222699473175063/222699473175063/5196
+#EXTINF:-1 tvg-name="AR:Bein Sports 2" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 2
+http://iptv.ndasat.com:88/222699473175063/222699473175063/5193
+#EXTINF:-1 tvg-name="AR:Bein Sports 3 Hevc" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 3 Hevc
+http://iptv.ndasat.com:88/222699473175063/222699473175063/5197
+#EXTINF:-1 tvg-name="AR:Bein Sports 3" tvg-logo="" group-title="{BOUQUET_NAME}",AR:Bein Sports 3
+http://iptv.ndasat.com:88/222699473175063/222699473175063/5194
+#EXTINF:-1 tvg-name="AR:Bein Sports 4 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1602
+#EXTINF:-1 tvg-name="AR:Bein Sports 5 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1603
+#EXTINF:-1 tvg-name="AR:Bein Sports 6 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1604
+#EXTINF:-1 tvg-name="AR:Bein Sports 7 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1605
+#EXTINF:-1 tvg-name="AR:Bein Sports 8 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/79
+#EXTINF:-1 tvg-name="AR:Bein Sports 9 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/80
+#EXTINF:-1 tvg-name="AR:Bein Sports" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1223
+#EXTINF:-1 tvg-name="AR:Bein Sports10 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/81
+#EXTINF:-1 tvg-name="FR:Bein Sport 2 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/70
+#EXTINF:-1 tvg-name="FR:Bein Sport 3 HD" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/71
+#EXTINF:-1 tvg-name="NL:Fox Sports 4" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1557
+#EXTINF:-1 tvg-name="NL:Fox Sports 5" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1558
+#EXTINF:-1 tvg-name="NL:Fox Sports 6" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/2223
+#EXTINF:-1 tvg-name="UK:BT Sport 1" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/9
+#EXTINF:-1 tvg-name="UK:BT Sport 2" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/10
+#EXTINF:-1 tvg-name="UK:BT Sport 3" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/18
+#EXTINF:-1 tvg-name="UK:BT Sport Europe" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/644
+#EXTINF:-1 tvg-name="UK:British Eurosport 2" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/12
+#EXTINF:-1 tvg-name="UK:British Eurosport" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/11
+#EXTINF:-1 tvg-name="UK:Sky Sports Action" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/3
+#EXTINF:-1 tvg-name="UK:Sky Sports Main Event" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1
+#EXTINF:-1 tvg-name="UK:Sky Sports News" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/6
+#EXTINF:-1 tvg-name="UK:Sky Sports Premier league" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/5
+#EXTINF:-1 tvg-name="US: Fox Sports2" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1648
+#EXTINF:-1 tvg-name="US:Fox Sports1" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1615
+#EXTINF:-1 tvg-name="US:Tsn1" tvg-logo="
+http://iptv.ndasat.com:88/222699473175063/222699473175063/1653
+
 
 #EXTINF:-1,|BE| Voo Sport 1 FHD
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1896.ts
