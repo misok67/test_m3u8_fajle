@@ -1,107 +1,58 @@
 #EXTM3U
 
 
+#EXTINF:-1,EXYU -Sport Klub 1
+http://nbr1.co:8000/live/giancarlo/giancarlo/77394.m3u8
+#EXTINF:-1,EXYU -Sport Klub 2
+http://nbr1.co:8000/live/giancarlo/giancarlo/77395.m3u8
+#EXTINF:-1,EXYU -Sport Klub 3
+http://nbr1.co:8000/live/giancarlo/giancarlo/77396.m3u8
+#EXTINF:-1,EXYU -HR : Arena Sport 1  HR
+http://nbr1.co:8000/live/giancarlo/giancarlo/77404.m3u8
+#EXTINF:-1,EXYU -HR : Arena Sport 2  HR
+http://nbr1.co:8000/live/giancarlo/giancarlo/77405.m3u8
+#EXTINF:-1,EXYU -HR : Arena Sport 3  HR
+http://nbr1.co:8000/live/giancarlo/giancarlo/77406.m3u8
+#EXTINF:-1,EXYU -HR : Arena Sport 4  HR
+http://nbr1.co:8000/live/giancarlo/giancarlo/77407.m3u8
+#EXTINF:-1,EXYU -HR : Arena Sport 5  HR
+http://nbr1.co:8000/live/giancarlo/giancarlo/77408.m3u8
+#EXTINF:-1,EXYU -HR : Arena Sport 6  HR
+http://nbr1.co:8000/live/giancarlo/giancarlo/77409.m3u8
 
-#EXTINF:-1,BEINSPORTS HD 11 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3615.m3u8
-#EXTINF:-1,BEINSPORTS HD 12 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3616.m3u8
-#EXTINF:-1,BEINSPORTS HD 1 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3605.m3u8
-#EXTINF:-1,BEINSPORTS HD 2 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3606.m3u8
-#EXTINF:-1,BEINSPORTS HD 3 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3607.m3u8
-#EXTINF:-1,BEINSPORTS HD 4 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3608.m3u8
-#EXTINF:-1,BEINSPORTS HD 5 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3609.m3u8
-#EXTINF:-1,BEINSPORTS HD 6 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3610.m3u8
-#EXTINF:-1,BEIN SPORTS HD 7 (AR) 
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3611.m3u8
-#EXTINF:-1,BEINSPORTS HD 8 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3612.m3u8
-#EXTINF:-1,BEINSPORTS HD 9 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3613.m3u8
-#EXTINF:-1,BEINSPORTS HD 10 (AR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3614.m3u8
-
-#EXTINF:-1,SPORT KLUB 1 (RS)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/31.m3u8
-#EXTINF:-1,SPORT KLUB 2 (RS)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/29.m3u8
-#EXTINF:-1,SPORT KLUB 3 (RS)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/30.m3u8
-#EXTINF:-1,SPORT KLUB 4 (RS)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3522.m3u8
-
-#EXTINF:-1,ARENA SPORT 1 HD (HR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3479.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD (HR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3478.m3u8
-#EXTINF:-1,ARENA SPORT 3 HD (HR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3483.m3u8
-#EXTINF:-1,ARENA SPORT 4 HD (HR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3482.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD (HR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3480.m3u8
-#EXTINF:-1,ARENA SPORT 6 HD (HR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3481.m3u8
-#EXTINF:-1,lista2 SK 1 HD
-http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/47.m3u8
-#EXTINF:-1,lista2 SK 2 HD
-http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/33.m3u8
-#EXTINF:-1,lista2 SK 3 HD
-http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/34.m3u8
+#EXTINF:-1,lista2 Sport_Klub 1 HD
+http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/47.ts
+#EXTINF:-1,lista2 Sport_Klub 2 HD
+http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/33.ts
+#EXTINF:-1,lista2 Sport_Klub 3 HD
+http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/34.ts
 #EXTINF:-1,llista2 Arena Sport 1
-http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/802.m3u8
+http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/802.ts
 #EXTINF:-1,lista2 Arena Sport 2
-http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/803.m3u8
+http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/803.ts
 #EXTINF:-1,ista2 Arena Sport 3
-http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/804.m3u8
+http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/804.ts
 #EXTINF:-1,lista2 Arena Sport 4
-http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/805.m3u8
+http://senadi.mine.nu:8000/live/O5ckVk7U1C/K91jSvYCeA/805.ts
 
-#EXTINF:-1,RMC SPORT 1 (FR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3546.m3u8
-#EXTINF:-1,RMC SPORT 2 (FR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3547.m3u8
-#EXTINF:-1,RMC SPORT 3 (FR)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3548.m3u8
+#EXTINF:-1 ,EX-YU:Sport_Klub1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
+#EXTINF:-1 ,EX-YU:Arena_Sport_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
+#EXTINF:-1 ,EX-YU:Arena_Sport_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
 
-#EXTINF:-1,FOX SPORT 3 (NED)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3529.m3u8
-#EXTINF:-1,FOX SPORT 4 (NED)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3528.m3u8
-#EXTINF:-1,DAZN 1 (DE)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3566.m3u8
-#EXTINF:-1,DAZN 2 (DE)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3567.m3u8
-#EXTINF:-1,BT SPORT 1 (UK)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3550.m3u8
-#EXTINF:-1,BT SPORT 2 (UK)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3159.m3u8
-#EXTINF:-1,BT SPORT 3 (UK)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3158.m3u8
-#EXTINF:-1,ELEVEN SPORT 1 HD  (PT)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3574.m3u8
-#EXTINF:-1,ELEVEN SPORT 2 HD (PT)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3575.m3u8
-#EXTINF:-1,ELEVEN SPORT 3 HD (PT)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3576.m3u8
-#EXTINF:-1,ELEVEN SPORT 4 HD (PT)
-http://crvenikriz.com:8000/live/iptvhddm@gmail.com/ddd2q1247@hotmail.com/3577.m3u8
+
 #EXTINF:-1,|BE| Voo Sport 1 FHD
-http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1896.m3u8
+http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1896.ts
 #EXTINF:-1,|BE| Voo Sport 2
-http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1897.m3u8
+http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1897.ts
 #EXTINF:-1,|BE| Voo Sport World 1 FHD
-http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1898.m3u8
+http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1898.ts
 #EXTINF:-1,BE - PLAY SPORT 1 HD
-http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3633.m3u8
+http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3633.ts
 #EXTINF:-1,BE - PLAY SPORT 2 HD
-http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3634.m3u8
+http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3634.ts
 
 #EXTINF:-1,https://flylinks.net, FR| RMC SPORT 1 FHD
 http://iptv3.premium-stv.com:25461/8571361380SPO@RT@pro2@irr@/4538907326nsc@d@z@bljbzd@44t@/40
