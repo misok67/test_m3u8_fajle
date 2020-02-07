@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,Sport Klub 1
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28665.ts
+#EXTINF:-1,Sport Klub 2
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28666.ts
+#EXTINF:-1,Sport Klub 3
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28667.ts
+#EXTINF:-1,Sport Klub 4
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28668.ts
+#EXTINF:-1,Sport Klub 5
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28669.ts
+#EXTINF:-1,Arena Sport 1 *
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28670.ts
+#EXTINF:-1,Arena Sport 2 *
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28671.ts
+#EXTINF:-1,Arena Sport 3 *
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28672.ts
+#EXTINF:-1,Arena Sport 4 *
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28673.ts
+#EXTINF:-1,Arena Sport 5 *
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28674.ts
+#EXTINF:-1,Arena Sport 6 *
+http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28675.ts
 
 #EXTINF:-1 ,EX-YU:Sport_Klub1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
@@ -104,51 +126,51 @@ http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24107.m3u8
 #EXTINF:-1,|USA| FOX SPORT 2HD
 http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24106.m3u8
 
-#EXTINF:0, lista 2 - BT Sport 1 HD UK
+#EXTINF:-1, lista 2 - BT Sport 1 HD UK
 http://showflix.org:5890/live/1234567/12345/55670.m3u8
-#EXTINF:0, lista 2 - BT Sport 2 HD UK
+#EXTINF:-1, lista 2 - BT Sport 2 HD UK
 http://showflix.org:5890/live/1234567/12345/55672.m3u8
-#EXTINF:0, lista 2 - BT Sport 3 HD UK
+#EXTINF:-1, lista 2 - BT Sport 3 HD UK
 http://showflix.org:5890/live/1234567/12345/55674.m3u8
-#EXTINF:0, lista 2 - BT Sport ESPN HD UK
+#EXTINF:-1, lista 2 - BT Sport ESPN HD UK
 http://showflix.org:5890/live/1234567/12345/55676.m3u8
-#EXTINF:0, lista 2 - Sky Sports Action HD UK
+#EXTINF:-1, lista 2 - Sky Sports Action HD UK
 http://showflix.org:5890/live/1234567/12345/55861.m3u8
-#EXTINF:0, lista 2 - Sky Sports Arena HD UK
+#EXTINF:-1, lista 2 - Sky Sports Arena HD UK
 http://showflix.org:5890/live/1234567/12345/55863.m3u8
-#EXTINF:0, lista 2 - Sky Sports Football HD UK
+#EXTINF:-1, lista 2 - Sky Sports Football HD UK
 http://showflix.org:5890/live/1234567/12345/55869.m3u8
-#EXTINF:0, lista 2 - Sky Sports Main Event HD UK
+#EXTINF:-1, lista 2 - Sky Sports Main Event HD UK
 http://showflix.org:5890/live/1234567/12345/55873.m3u8
-#EXTINF:0, lista 2 - Sky Sports Mix HD UK
+#EXTINF:-1, lista 2 - Sky Sports Mix HD UK
 http://showflix.org:5890/live/1234567/12345/55875.m3u8
-#EXTINF:0, lista 2 - Sky Sports News HD UK
+#EXTINF:-1, lista 2 - Sky Sports News HD UK
 http://showflix.org:5890/live/1234567/12345/55876.m3u8
-#EXTINF:0, lista 2 - Sky Sports Premier League HD UK
+#EXTINF:-1, lista 2 - Sky Sports Premier League HD UK
 http://showflix.org:5890/live/1234567/12345/55877.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 1 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 1 FHD
 http://showflix.org:5890/live/1234567/12345/5.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 10 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 10 FHD
 http://showflix.org:5890/live/1234567/12345/14.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 11HD
+#EXTINF:-1, lista 2 - beIN SPORTS 11HD
 http://showflix.org:5890/live/1234567/12345/26.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 12HD
+#EXTINF:-1, lista 2 - beIN SPORTS 12HD
 http://showflix.org:5890/live/1234567/12345/27.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 2 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 2 FHD
 http://showflix.org:5890/live/1234567/12345/6.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 3 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 3 FHD
 http://showflix.org:5890/live/1234567/12345/7.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 4 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 4 FHD
 http://showflix.org:5890/live/1234567/12345/8.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 5 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 5 FHD
 http://showflix.org:5890/live/1234567/12345/9.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 6 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 6 FHD
 http://showflix.org:5890/live/1234567/12345/10.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 7 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 7 FHD
 http://showflix.org:5890/live/1234567/12345/11.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 8 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 8 FHD
 http://showflix.org:5890/live/1234567/12345/12.m3u8
-#EXTINF:0, lista 2 - beIN SPORTS 9 FHD
+#EXTINF:-1, lista 2 - beIN SPORTS 9 FHD
 http://showflix.org:5890/live/1234567/12345/13.m3u8
 
 #EXTINF:-1,|BE| Voo Sport 1 FHD
