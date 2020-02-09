@@ -1,6 +1,29 @@
 #EXTM3U
 
-
+#EXTINF:-1,BeinSport 11 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36295.m3u8
+#EXTINF:-1,BeinSport 12 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36294.m3u8
+#EXTINF:-1,beiN Sports 1  FULL HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/28750.m3u8
+#EXTINF:-1,beiN Sports 2 FULL HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/28751.m3u8
+#EXTINF:-1,beiN Sports 3 FULL HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/28743.m3u8
+#EXTINF:-1,BeinSport 4 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36302.m3u8
+#EXTINF:-1,BeinSport 5 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36301.m3u8
+#EXTINF:-1,BeinSport 6 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36300.m3u8
+#EXTINF:-1,BeinSport 7 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36299.m3u8
+#EXTINF:-1,BeinSport 8 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36298.m3u8
+#EXTINF:-1,BeinSport 9 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36297.m3u8
+#EXTINF:-1,BeinSport 10 FHD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/36296.m3u8
 #EXTINF:-1, |FR| RMC SPORT 1 FHD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/40.m3u8
 #EXTINF:-1, |FR| RMC SPORT 2 FHD.m3u8
