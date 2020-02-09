@@ -46,6 +46,31 @@ http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljb
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/99.m3u8
 #EXTINF:-1, |UK| BT SPORT 3 HD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/100.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/55705.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/55707.m3u8
+#EXTINF:-1,DE: DAZN 1 BAR HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/55708.m3u8
+#EXTINF:-1,DE: DAZN 2 BAR HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/55709.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/55710.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/56525.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/56526.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/56527.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/56528.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/56529.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/56530.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://www.sansat.net:25461/live/024041833534/NSEpmevNTKwNoSA/56531.m3u8
+
 
 #EXTINF:-1 ,EX-YU:Sport_Klub1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
@@ -78,4 +103,56 @@ http://iptv8.premium-stv.com:2052/live/pro1turc/bhXdd32sd1g/1458.m3u8
 http://iptv8.premium-stv.com:2052/live/pro1turc/bhXdd32sd1g/1457.m3u8
 #EXTINF:-1,|TR| BEINSPORT 4
 http://iptv8.premium-stv.com:2052/live/pro1turc/bhXdd32sd1g/1456.m3u8
+
+#EXTINF:-1 ,ESPN Sport
+http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
+#EXTINF:-1 ,FOX Sport -INDO-
+http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 ,FOX Sport 1 -INDO-
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 ,FOX Sport 2 -INDO-
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 ,FOX Sport 3 -INDO-
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 ,FOX Sport HD 1 -USA-
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,FOX Sport HD 2 -USA-
+http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 ,MNC Sport 1 -INDO-
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 ,MNC Sport 2 -INDO-
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 ,Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+
+#EXTINF:-1 ,bein1
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 ,bein2
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 ,bein3
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 ,BEIN SPORT 1 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 ,BEIN SPORT 2 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 ,BEIN SPORT 3 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 ,BEIN SPORT 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1 ,BEIN SPORT 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1 ,beIN Sports 1 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 ,beIN Sports 2 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 ,beIN Sports 3 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 ,beIN Sports 4 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 ,beIN Sports 5 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 ,beIN Sports 6 Arab
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+
 
