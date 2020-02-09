@@ -49,10 +49,14 @@ http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljb
 
 #EXTINF:-1 ,EX-YU:Sport_Klub1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
-#EXTINF:-1 ,EX-YU:Arena_Sport_2
+#EXTINF:0,EX-YU:Arena_Sport_2
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
+#EXTINF:0,EX-YU:Sport_Klub3
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1446
 #EXTINF:-1 ,EX-YU:Arena_Sport_1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
+#EXTINF:-1 ,EX-YU:Arena_Sport_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
 
 
 #EXTINF:-1,|BE| Voo Sport 1 FHD
@@ -65,4 +69,13 @@ http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1898.ts
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3633.ts
 #EXTINF:-1,BE - PLAY SPORT 2 HD
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3634.ts
+
+#EXTINF:-1,|TR| BEINSPORT 1
+http://iptv8.premium-stv.com:2052/live/pro1turc/bhXdd32sd1g/1459.m3u8
+#EXTINF:-1,|TR| BEINSPORT 2
+http://iptv8.premium-stv.com:2052/live/pro1turc/bhXdd32sd1g/1458.m3u8
+#EXTINF:-1,|TR| BEINSPORT 3
+http://iptv8.premium-stv.com:2052/live/pro1turc/bhXdd32sd1g/1457.m3u8
+#EXTINF:-1,|TR| BEINSPORT 4
+http://iptv8.premium-stv.com:2052/live/pro1turc/bhXdd32sd1g/1456.m3u8
 
