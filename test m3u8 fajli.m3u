@@ -1,26 +1,28 @@
 #EXTM3U
-#EXTINF:-1,Sport Klub 1
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28665.ts
-#EXTINF:-1,Sport Klub 2
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28666.ts
-#EXTINF:-1,Sport Klub 3
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28667.ts
-#EXTINF:-1,Sport Klub 4
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28668.ts
-#EXTINF:-1,Sport Klub 5
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28669.ts
-#EXTINF:-1,Arena Sport 1 *
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28670.ts
-#EXTINF:-1,Arena Sport 2 *
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28671.ts
-#EXTINF:-1,Arena Sport 3 *
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28672.ts
-#EXTINF:-1,Arena Sport 4 *
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28673.ts
-#EXTINF:-1,Arena Sport 5 *
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28674.ts
-#EXTINF:-1,Arena Sport 6 *
-http://vip.kralsmart.de:2086/live/albastream.fun/hweyw26540/28675.ts
+
+
+#EXTINF:-1, |FR| RMC SPORT 1 FHD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/40.m3u8
+#EXTINF:-1, |FR| RMC SPORT 2 FHD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/41.m3u8
+#EXTINF:-1, |FR| RMC SPORT 3 FHD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/42.m3u8
+#EXTINF:-1, |FR| CANAL+ SPORT FHD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/47.m3u8
+#EXTINF:-1, |FR|BEINSPORT 1 sd FR.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/79.m3u8
+#EXTINF:-1, |FR|BEINSPORT 2 sd FR.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/80.m3u8
+#EXTINF:-1, |FR|BEINSPORT 3 sd FR.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/81.m3u8
+#EXTINF:-1, |UK| BT SPORT / ESPN HD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/97.m3u8
+#EXTINF:-1, |UK| BT SPORT 1 HD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/98.m3u8
+#EXTINF:-1, |UK| BT SPORT 2 HD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/99.m3u8
+#EXTINF:-1, |UK| BT SPORT 3 HD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/100.m3u8
 
 #EXTINF:-1 ,EX-YU:Sport_Klub1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
@@ -29,149 +31,6 @@ http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
 #EXTINF:-1 ,EX-YU:Arena_Sport_1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
 
-#EXTINF:-1,|AR| BEIN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13611.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13610.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13609.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13608.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 5 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13607.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 6 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13606.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 7 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13605.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 8 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13604.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 9 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13603.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14134.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14133.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/46648.m3u8
-#EXTINF:-1,|CA| TSN 1HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/40796.m3u8
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23689.m3u8
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23688.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23705.m3u8
-#EXTINF:-1,|DE|SKY SPORT 2
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23702.m3u8
-#EXTINF:-1,|ES| DAZN FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/59089.m3u8
-#EXTINF:-1,|ES| M DEPORTES 1 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14067.m3u8
-#EXTINF:-1,|ES| M DEPORTES 2 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14063.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 1 (SD)
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39499.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 2(SD)
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39498.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 3 (SD)
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39497.m3u8
-#EXTINF:-1,|FR| CANAL SPORT |HEVC|
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47509.m3u8
-#EXTINF:-1,|IT| SKY SPORT ARENA FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23584.m3u8
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23585.m3u8
-#EXTINF:-1,|NL| Fox Sport 3 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/42494.m3u8
-#EXTINF:-1,|NL| Fox Sport 4 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/42495.m3u8
-#EXTINF:-1,|NL| Fox Sport 5 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/42496.m3u8
-#EXTINF:-1,|NL| Fox Sport 6 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/42497.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/42469.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/42470.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23452.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23451.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 FHD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23450.m3u8
-#EXTINF:-1,|UK| BT SPORT ESPN HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23449.m3u8
-#EXTINF:-1,|UK| EUROSPORT 1 hd
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23444.m3u8
-#EXTINF:-1,|UK| EUROSPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23443.m3u8
-#EXTINF:-1,|UK| SKY SPORT ACTION
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23455.m3u8
-#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23453.m3u8
-#EXTINF:-1,|UK| SKY SPORT NEWS HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23458.m3u8
-#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23457.m3u8
-#EXTINF:-1,|UK| SKY SPORTF1
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23445.m3u8
-#EXTINF:-1,|UK| Sky Sports Premier League
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/23442.m3u8
-#EXTINF:-1,|USA| ESPN Deportes
-http://51.159.21.231:2052/usapro2@source/799965@26641/1781.m3u8
-#EXTINF:-1,|USA| FOX DEPORTES
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24094.m3u8
-#EXTINF:-1,|USA| FOX SPORT 1HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24107.m3u8
-#EXTINF:-1,|USA| FOX SPORT 2HD
-http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24106.m3u8
-
-#EXTINF:-1, lista 2 - BT Sport 1 HD UK
-http://showflix.org:5890/live/1234567/12345/55670.m3u8
-#EXTINF:-1, lista 2 - BT Sport 2 HD UK
-http://showflix.org:5890/live/1234567/12345/55672.m3u8
-#EXTINF:-1, lista 2 - BT Sport 3 HD UK
-http://showflix.org:5890/live/1234567/12345/55674.m3u8
-#EXTINF:-1, lista 2 - BT Sport ESPN HD UK
-http://showflix.org:5890/live/1234567/12345/55676.m3u8
-#EXTINF:-1, lista 2 - Sky Sports Action HD UK
-http://showflix.org:5890/live/1234567/12345/55861.m3u8
-#EXTINF:-1, lista 2 - Sky Sports Arena HD UK
-http://showflix.org:5890/live/1234567/12345/55863.m3u8
-#EXTINF:-1, lista 2 - Sky Sports Football HD UK
-http://showflix.org:5890/live/1234567/12345/55869.m3u8
-#EXTINF:-1, lista 2 - Sky Sports Main Event HD UK
-http://showflix.org:5890/live/1234567/12345/55873.m3u8
-#EXTINF:-1, lista 2 - Sky Sports Mix HD UK
-http://showflix.org:5890/live/1234567/12345/55875.m3u8
-#EXTINF:-1, lista 2 - Sky Sports News HD UK
-http://showflix.org:5890/live/1234567/12345/55876.m3u8
-#EXTINF:-1, lista 2 - Sky Sports Premier League HD UK
-http://showflix.org:5890/live/1234567/12345/55877.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 1 FHD
-http://showflix.org:5890/live/1234567/12345/5.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 10 FHD
-http://showflix.org:5890/live/1234567/12345/14.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 11HD
-http://showflix.org:5890/live/1234567/12345/26.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 12HD
-http://showflix.org:5890/live/1234567/12345/27.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 2 FHD
-http://showflix.org:5890/live/1234567/12345/6.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 3 FHD
-http://showflix.org:5890/live/1234567/12345/7.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 4 FHD
-http://showflix.org:5890/live/1234567/12345/8.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 5 FHD
-http://showflix.org:5890/live/1234567/12345/9.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 6 FHD
-http://showflix.org:5890/live/1234567/12345/10.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 7 FHD
-http://showflix.org:5890/live/1234567/12345/11.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 8 FHD
-http://showflix.org:5890/live/1234567/12345/12.m3u8
-#EXTINF:-1, lista 2 - beIN SPORTS 9 FHD
-http://showflix.org:5890/live/1234567/12345/13.m3u8
 
 #EXTINF:-1,|BE| Voo Sport 1 FHD
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/1896.ts
