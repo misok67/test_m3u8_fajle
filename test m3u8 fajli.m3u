@@ -22,6 +22,55 @@ http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3633.ts
 #EXTINF:-1,BE - PLAY SPORT 2 HD
 http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3634.ts
 
+#EXTINF:0,Directv Sports FHD (ARG)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/134008.m3u8
+#EXTINF:0,Directv Sports 2 FHD (ARG)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1385820.m3u8
+#EXTINF:0,Fox Sports 1 HD (US)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311919.m3u8
+#EXTINF:0,Fox Sports 2 HD (US)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311918.m3u8
+#EXTINF:0,ESPN (US)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1328910.m3u8
+#EXTINF:0,ESPN 2 (US)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1328909.m3u8
+#EXTINF:0,BT Sport ESPN FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311942.m3u8
+#EXTINF:0,EuroSport 1 HD (ES)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/131150.m3u8
+#EXTINF:0,EuroSport 2 HD (ES)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/131149.m3u8
+#EXTINF:0,Fight Network HD (CA)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/131352.m3u8
+#EXTINF:0,NBA TV FHD (US)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/137293.m3u8
+#EXTINF:0,Tennis Channel HD (US)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1328902.m3u8
+#EXTINF:0,b31N Sports 11 HD (AR)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1312006.m3u8
+#EXTINF:0,b31N Sports 12 HD (AR)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1312005.m3u8
+#EXTINF:0,Sky Sports Action FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311931.m3u8
+#EXTINF:0,Sky Sports Arena FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311930.m3u8
+#EXTINF:0,Sky Sports Cricket FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311929.m3u8
+#EXTINF:0,Sky Sports F1 FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311928.m3u8
+#EXTINF:0,Sky Sports Football FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311927.m3u8
+#EXTINF:0,Sky Sports Golf FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311926.m3u8
+#EXTINF:0,Sky Sports Main Event FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311925.m3u8
+#EXTINF:0,Sky Sports Mix FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311924.m3u8
+#EXTINF:0,Sky Sports News FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311923.m3u8
+#EXTINF:0,Sky Sports Premier League FHD (UK)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311922.m3u8
+
 
 #EXTINF:0,Bee N Sport 11
 http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89200
