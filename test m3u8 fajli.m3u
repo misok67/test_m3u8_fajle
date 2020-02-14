@@ -140,6 +140,30 @@ http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311923.m3u8
 #EXTINF:0,Sky Sports Premier League FHD (UK)
 http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311922.m3u8
 
+#EXTINF:-1,SKY DAZN BAR 2 FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/154.m3u8
+#EXTINF:-1,SKY DAZN BAR FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/152.m3u8
+#EXTINF:-1,SKY EUROSPORT 1 FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/130.m3u8
+#EXTINF:-1,SKY EUROSPORT 1 HD
+http://live.safetv2.pro:23000/live/nora/nora/129.m3u8
+#EXTINF:-1,SKY EUROSPORT 2 FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/128.m3u8
+#EXTINF:-1,SKY EUROSPORT 2 HD
+http://live.safetv2.pro:23000/live/nora/nora/127.m3u8
+#EXTINF:-1,SKY SPORT ARENA FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/59.m3u8
+#EXTINF:-1,SKY SPORT FOOTBALL FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/52.m3u8
+#EXTINF:-1,SKY SPORT NBA FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/43.m3u8
+#EXTINF:-1,SKY SPORT SERIE A FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/40.m3u8
+#EXTINF:-1,SKY SPORT UNO FULL HD
+http://live.safetv2.pro:23000/live/nora/nora/37.m3u8
+
+
 
 
 
