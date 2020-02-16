@@ -11,75 +11,6 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1 ,Arena Sports 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:0,Bee N Sport 11
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89200.m3u8
-#EXTINF:0,Bee n Sport 12
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89199.m3u8
-#EXTINF:0,Bee n Sport 1
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89210.m3u8
-#EXTINF:0,Bee n Sport 2
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89209.m3u8
-#EXTINF:0,Bee N Sport 3
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89208.m3u8
-#EXTINF:0,Bee N Sport 4
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89207.m3u8
-#EXTINF:0,Bee n Sport 5
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89206.m3u8
-#EXTINF:0,Bee n Sport 6
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89205.m3u8
-#EXTINF:0,Bee n Sport 7
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89204.m3u8
-#EXTINF:0,Bee N Sport 8
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89203.m3u8
-#EXTINF:0,Bee N Sport 9
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89202.m3u8
-#EXTINF:0,Bee N Sport 10
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89201.m3u8
-#EXTINF:0,PREMIER SPORTS 1 | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98771.m3u8
-#EXTINF:0,PREMIER SPORTS 2 | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98770.m3u8
-#EXTINF:0,BEIN SPORTS ESP (US)
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/27685.m3u8
-#EXTINF:0,BEIN SPORTS LA LIGA
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/28014.m3u8
-#EXTINF:0,BEIN SPORTS USA
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1501.m3u8
-#EXTINF:0,BEIN SPORTS esp
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36412.m3u8
-#EXTINF:0,BT SPORTS 1 | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89214.m3u8
-#EXTINF:0,BT SPORTS 2 | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89213.m3u8
-#EXTINF:0,BT SPORTS 3 | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89212.m3u8
-#EXTINF:0,BT SPORTS EPSN
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/89211.m3u8
-#EXTINF:0,DE: SKEYE SPORTS BUNDESLIGA 1 | FHD
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/88860.m3u8
-#EXTINF:0,EUROSPORT 1
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/31459.m3u8
-#EXTINF:0,EUROSPORT 2
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/31460.m3u8
-#EXTINF:0,FOX DEPORTES
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/36267.m3u8
-#EXTINF:0,FOX SPORTS 1
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1367.m3u8
-#EXTINF:0,FOX SPORTS 2
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/38483.m3u8
-#EXTINF:0,SKY SPORTS ARENA | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98787.m3u8
-#EXTINF:0,SKY SPORTS MAIN EVENT | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98777.m3u8
-#EXTINF:0,SKY SPORTS MIX | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98857.m3u8
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE | VIP
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/98775.m3u8
-#EXTINF:0,TSN 1
-http://primestreams.tv:826/live/polarisx3/Qw76j61Bib/1621.m3u8
-
 #EXTINF:-1 ,EX-YU:Sport_Klub1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
 #EXTINF:0,EX-YU:Sport_Klub3
@@ -139,30 +70,6 @@ http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311924.m3u8
 http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311923.m3u8
 #EXTINF:0,Sky Sports Premier League FHD (UK)
 http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311922.m3u8
-
-#EXTINF:-1,SKY DAZN BAR 2 FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/154.m3u8
-#EXTINF:-1,SKY DAZN BAR FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/152.m3u8
-#EXTINF:-1,SKY EUROSPORT 1 FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/130.m3u8
-#EXTINF:-1,SKY EUROSPORT 1 HD
-http://live.safetv2.pro:23000/live/nora/nora/129.m3u8
-#EXTINF:-1,SKY EUROSPORT 2 FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/128.m3u8
-#EXTINF:-1,SKY EUROSPORT 2 HD
-http://live.safetv2.pro:23000/live/nora/nora/127.m3u8
-#EXTINF:-1,SKY SPORT ARENA FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/59.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/52.m3u8
-#EXTINF:-1,SKY SPORT NBA FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/43.m3u8
-#EXTINF:-1,SKY SPORT SERIE A FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/40.m3u8
-#EXTINF:-1,SKY SPORT UNO FULL HD
-http://live.safetv2.pro:23000/live/nora/nora/37.m3u8
-
 
 
 
