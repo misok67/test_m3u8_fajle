@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1,EX-YU: Sport Klub 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75173.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75174.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75175.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 4 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75176.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 1 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75162.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 2 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75163.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 3 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75164.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 4 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75165.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 5 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75166.m3u8
+
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Arena Sports 2
