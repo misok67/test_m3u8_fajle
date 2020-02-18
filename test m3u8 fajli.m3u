@@ -4,50 +4,55 @@
 http://live.redfhd.com:8000/live/cemal/sakarya54/1728.m3u8
 #EXTINF:-1,UK:BT SPORT 2
 http://live.redfhd.com:8000/live/cemal/sakarya54/4759.m3u8
+#EXTINF:-1,|UK| BT SPORT 2 HD *
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71779.m3u8
 #EXTINF:-1,BEIN SPORTS 11 HD AR
 http://live.redfhd.com:8000/live/cemal/sakarya54/50725.m3u8
+#EXTINF:0,b31N Sports 11 HD (AR)
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1312006.m3u8
 #EXTINF:-1,Sky Sport 2 FHD (DE)
 http://live.redfhd.com:8000/live/cemal/sakarya54/1027.m3u8
 #EXTINF:-1,Sky Sport 2 UHD 2K (DE)
 http://live.redfhd.com:8000/live/cemal/sakarya54/56831.m3u8
+#EXTINF:0,DE: SKY SPORT 2+
+http://hdlivetv.tv:8080/live/s1.niacam/skyppedinidin/9976.m3u8
 #EXTINF:-1,Ziggo Sport Voetbal HD NL
 http://live.redfhd.com:8000/live/cemal/sakarya54/1138.m3u8
 #EXTINF:-1,IT: Sky Sport Uno HD
 http://live.redfhd.com:8000/live/cemal/sakarya54/23703.m3u8
 #EXTINF:-1,IT: SKY SPORT 1 HD *
 http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/72127.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 HD *
-http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71779.m3u8
 #EXTINF:-1,|FR| RMC SPORT 2 SD*
 http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49954.m3u8
 #EXTINF:-1,AR: BEINSPORTS_HD2*
 http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11140.m3u8
-#EXTINF:0,DE: SKY SPORT 2+
-http://hdlivetv.tv:8080/live/s1.niacam/skyppedinidin/9976.m3u8
+#EXTINF:0,b31N Sports 2 HD (AR)-
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1312015.m3u8
 
 #EXTINF:-1,Borussia Dortmund - PSG  ......BEIN SPORT 1 HD AR
 http://live.redfhd.com:8000/live/cemal/sakarya54/46657.m3u8
 #EXTINF:-1,UK:BT SPORT 3
 http://live.redfhd.com:8000/live/cemal/sakarya54/4760.m3u8
+#EXTINF:-1,|UK| BT SPORT 3 SD*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71782.m3u8
 #EXTINF:-1,DAZN 1 BAR UHD 2K (DE)
 http://live.redfhd.com:8000/live/cemal/sakarya54/56832.m3u8
 #EXTINF:-1,DAZN 1 Bar FHD (DE)
 http://live.redfhd.com:8000/live/cemal/sakarya54/22499.m3u8
 #EXTINF:-1,Sky Sport 1 FHD (DE)
 http://live.redfhd.com:8000/live/cemal/sakarya54/3697.m3u8
-#EXTINF:-1,RMC SPORT 1 HD FR
-http://live.redfhd.com:8000/live/cemal/sakarya54/1729.m3u8
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://live.redfhd.com:8000/live/cemal/sakarya54/4326.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 SD*
-http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71782.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 SD*
-http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49956.m3u8
-#EXTINF:-1,AR: BEINSPORTS_HD1*
-http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11138.m3u8
 #EXTINF:0,DE: SKY SPORT 1+
 http://hdlivetv.tv:8080/live/s1.niacam/skyppedinidin/77.m3u8
-
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/4326.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49956.m3u8
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/1729.m3u8
+#EXTINF:0,b31N Sports 1 HD (AR)-
+http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1312016.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD1*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11138.m3u8
 
 #EXTINF:-1,RO:Sport Klub 1
 http://live.redfhd.com:8000/live/cemal/sakarya54/2174.m3u8
