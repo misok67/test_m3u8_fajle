@@ -1,23 +1,168 @@
 #EXTM3U
 
-#EXTINF:-1,EX-YU: Sport Klub 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75173.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75174.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 3 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75175.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 4 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75176.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 1 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75162.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 2 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75163.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 3 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75164.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 4 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75165.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 5 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75166.m3u8
+#EXTINF:-1,Atlético Madrid - Liverpool .....   RMC SPORT 2 HD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/1728.m3u8
+#EXTINF:-1,UK:BT SPORT 2
+http://live.redfhd.com:8000/live/cemal/sakarya54/4759.m3u8
+#EXTINF:-1,BEIN SPORTS 11 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/50725.m3u8
+#EXTINF:-1,Sky Sport 2 FHD (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/1027.m3u8
+#EXTINF:-1,Sky Sport 2 UHD 2K (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/56831.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal HD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/1138.m3u8
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/23703.m3u8
+#EXTINF:-1,IT: SKY SPORT 1 HD *
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/72127.m3u8
+#EXTINF:-1,|UK| BT SPORT 2 HD *
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71779.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 SD*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49954.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD2*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11140.m3u8
+
+
+#EXTINF:-1,Borussia Dortmund - PSG  ......BEIN SPORT 1 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46657.m3u8
+#EXTINF:-1,UK:BT SPORT 3
+http://live.redfhd.com:8000/live/cemal/sakarya54/4760.m3u8
+#EXTINF:-1,DAZN 1 BAR UHD 2K (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/56832.m3u8
+#EXTINF:-1,DAZN 1 Bar FHD (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/22499.m3u8
+#EXTINF:-1,Sky Sport 1 FHD (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/3697.m3u8
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/1729.m3u8
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/4326.m3u8
+#EXTINF:-1,|UK| BT SPORT 3 SD*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71782.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49956.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD1*
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11138.m3u8
+
+
+
+#EXTINF:-1,RO:Sport Klub 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/2174.m3u8
+#EXTINF:-1,RO:Sport Klub 2
+http://live.redfhd.com:8000/live/cemal/sakarya54/2173.m3u8
+#EXTINF:-1,RO:Sport Klub 3
+http://live.redfhd.com:8000/live/cemal/sakarya54/2172.m3u8
+#EXTINF:-1,EXYU: ARENA SPORT 1 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7335.m3u8
+#EXTINF:-1,EXYU: Arena Sport 2 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7334.m3u8
+#EXTINF:-1,EXYU: Arena Sport 3 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7333.m3u8
+#EXTINF:-1,EXYU: Arena Sport 4 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/7332.m3u8
+#EXTINF:-1,EXYU:Arena Sport 5
+http://live.redfhd.com:8000/live/cemal/sakarya54/8165.m3u8
+#EXTINF:-1,BEIN SPORTS 10 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/50724.m3u8
+#EXTINF:-1,BEIN SPORTS 11 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/50725.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46659.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46660.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46661.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46662.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46663.m3u8
+#EXTINF:-1,BEIN SPORTS 8 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46664.m3u8
+#EXTINF:-1,BEIN SPORTS 9 HD AR
+http://live.redfhd.com:8000/live/cemal/sakarya54/46665.m3u8
+#EXTINF:-1,DAZN 1 BAR UHD 2K (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/56832.m3u8
+#EXTINF:-1,DAZN 1 Bar FHD (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/22499.m3u8
+#EXTINF:-1,DAZN 2 BAR UHD 2K (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/56833.m3u8
+#EXTINF:-1,DAZN 2 Bar FHD (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/22500.m3u8
+#EXTINF:-1,Sky Sport 1 FHD (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/3697.m3u8
+#EXTINF:-1,Sky Sport 1 UHD 2K (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/56830.m3u8
+#EXTINF:-1,Sky Sport 2 FHD (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/1027.m3u8
+#EXTINF:-1,Sky Sport 2 UHD 2K (DE)
+http://live.redfhd.com:8000/live/cemal/sakarya54/56831.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/266.m3u8
+#EXTINF:-1,FOX SPORTS 4 FHD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/38921.m3u8
+#EXTINF:-1,FOX SPORTS 5 HD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/268.m3u8
+#EXTINF:-1,Fox Sports 6 HD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/4331.m3u8
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/4326.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal HD NL
+http://live.redfhd.com:8000/live/cemal/sakarya54/1138.m3u8
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/23705.m3u8
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/23708.m3u8
+#EXTINF:-1,IT: Sky Sport Football HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/23704.m3u8
+#EXTINF:-1,IT: Sky Sport Serie A HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/23706.m3u8
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/23703.m3u8
+#EXTINF:-1,M. DEPORTES 1 FHD ES
+http://live.redfhd.com:8000/live/cemal/sakarya54/45661.m3u8
+#EXTINF:-1,M. DEPORTES FHD ES
+http://live.redfhd.com:8000/live/cemal/sakarya54/45660.m3u8
+#EXTINF:-1,Movistar+  Deportes 1 HD ES
+http://live.redfhd.com:8000/live/cemal/sakarya54/4201.m3u8
+#EXTINF:-1,UK:BT SPORT 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/4758.m3u8
+#EXTINF:-1,UK:BT SPORT 2
+http://live.redfhd.com:8000/live/cemal/sakarya54/4759.m3u8
+#EXTINF:-1,UK:BT SPORT 3
+http://live.redfhd.com:8000/live/cemal/sakarya54/4760.m3u8
+#EXTINF:-1,UK:BT SPORT ESPN HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1512.m3u8
+#EXTINF:-1,UK:SKY SPORTS ACTION HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1018.m3u8
+#EXTINF:-1,UK:SKY SPORTS ARENA HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/1016.m3u8
+#EXTINF:-1,UK:Sky Sport Main Event HD
+http://live.redfhd.com:8000/live/cemal/sakarya54/22754.m3u8
+#EXTINF:-1,UK:Sky Sports Premier League
+http://live.redfhd.com:8000/live/cemal/sakarya54/22755.m3u8
+#EXTINF:-1,USA | BEIN SPORT
+http://live.redfhd.com:8000/live/cemal/sakarya54/32705.m3u8
+#EXTINF:-1,USA | ELEVEN SPORTS
+http://live.redfhd.com:8000/live/cemal/sakarya54/32781.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1
+http://live.redfhd.com:8000/live/cemal/sakarya54/9476.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2
+http://live.redfhd.com:8000/live/cemal/sakarya54/9475.m3u8
+#EXTINF:-1,beIN SPORTS 1 FHD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/38816.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/38817.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/38818.m3u8
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/1729.m3u8
+#EXTINF:-1,RMC SPORT 2 HD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/1728.m3u8
+#EXTINF:-1,RMC SPORT 3 HD FR
+http://live.redfhd.com:8000/live/cemal/sakarya54/1739.m3u8
+
+
 
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
@@ -110,104 +255,4 @@ http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311923.m3u8
 #EXTINF:0,Sky Sports Premier League FHD (UK)
 http://tvla.xyz:80/live/noslsahr/X5G01h0xki/1311922.m3u8
 
-
-#EXTM3U
-#EXTINF:-1 , LIST 2   BEIN SPORTS 2 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22216.m3u8
-#EXTINF:-1 , LIST 2   BEIN SPORTS 3 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22215.m3u8
-#EXTINF:-1 , LIST 2   BEIN SPORTS 4 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22214.m3u8
-#EXTINF:-1 , LIST 2   BEIN SPORTS 5 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22213.m3u8
-#EXTINF:-1 , LIST 2   BEIN SPORTS 6 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22212.m3u8
-#EXTINF:-1 , LIST 2   BEIN SPORTS 7 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22211.m3u8
-#EXTINF:-1 , LIST 2   BEIN SPORTS 8 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22210.m3u8
-#EXTINF:-1 , LIST 2   BEIN SPORTS 9 FHD
-http://tt.rip:8000/live/41900808131509/41532890/22209.m3u8
-#EXTINF:-1 , LIST 2   CANAL SPORT FHD +6H
-http://tt.rip:8000/live/41900808131509/41532890/82485.m3u8
-#EXTINF:-1 , LIST 2   DE: Dazn Bar 1 HD
-http://tt.rip:8000/live/41900808131509/41532890/79224.m3u8
-#EXTINF:-1 , LIST 2   DE: Dazn Bar 2 HD
-http://tt.rip:8000/live/41900808131509/41532890/79225.m3u8
-#EXTINF:-1 , LIST 2   DE: Eurosport 1 FHD
-http://tt.rip:8000/live/41900808131509/41532890/79230.m3u8
-#EXTINF:-1 , LIST 2   DE: Eurosport 2 HD
-http://tt.rip:8000/live/41900808131509/41532890/79231.m3u8
-#EXTINF:-1 , LIST 2   DE: SKY BUNDESLIGA 1 HD 1080P
-http://tt.rip:8000/live/41900808131509/41532890/79270.m3u8
-#EXTINF:-1 , LIST 2   DE: Sky Sport 1 FHD
-http://tt.rip:8000/live/41900808131509/41532890/79293.m3u8
-#EXTINF:-1 , LIST 2   DE: Sky Sport 2 FHD
-http://tt.rip:8000/live/41900808131509/41532890/79296.m3u8
-#EXTINF:-1 , LIST 2   DE:|VIP| DAZN 1 DE
-http://tt.rip:8000/live/41900808131509/41532890/76169.m3u8
-#EXTINF:-1 , LIST 2   DE:|VIP| DAZN 2 DE
-http://tt.rip:8000/live/41900808131509/41532890/76170.m3u8
-#EXTINF:-1 , LIST 2   DE:|VIP| Eurosport 1 HD DE
-http://tt.rip:8000/live/41900808131509/41532890/76179.m3u8
-#EXTINF:-1 , LIST 2   DE:|VIP| Eurosport 2 HD DE
-http://tt.rip:8000/live/41900808131509/41532890/76177.m3u8
-#EXTINF:-1 , LIST 2   DE:|VIP| Sky Sport 1 HD DE
-http://tt.rip:8000/live/41900808131509/41532890/76215.m3u8
-#EXTINF:-1 , LIST 2   DE:|VIP| Sky Sport 2 HD DE
-http://tt.rip:8000/live/41900808131509/41532890/76217.m3u8
-#EXTINF:-1 , LIST 2   DE:|VIP| Sky Sport Bundesliga 1 HD DE
-http://tt.rip:8000/live/41900808131509/41532890/76226.m3u8
-#EXTINF:-1 , LIST 2   ES: MOVISTAR  DEPORTE
-http://tt.rip:8000/live/41900808131509/41532890/30114.m3u8
-#EXTINF:-1 , LIST 2   ES: MOVISTAR DEPORTE 1 FULLHD
-http://tt.rip:8000/live/41900808131509/41532890/30102.m3u8
-#EXTINF:-1 , LIST 2   ES: TELEDEPORTE
-http://tt.rip:8000/live/41900808131509/41532890/30055.m3u8
-#EXTINF:-1 , LIST 2   EUROSPORT 2 FULL HD
-http://tt.rip:8000/live/41900808131509/41532890/23795.m3u8
-#EXTINF:-1 , LIST 2   NL FOX SPORTS 3
-http://tt.rip:8000/live/41900808131509/41532890/46173.m3u8
-#EXTINF:-1 , LIST 2   NL FOX SPORTS 4
-http://tt.rip:8000/live/41900808131509/41532890/46172.m3u8
-#EXTINF:-1 , LIST 2   NL FOX SPORTS 5
-http://tt.rip:8000/live/41900808131509/41532890/46171.m3u8
-#EXTINF:-1 , LIST 2   NL ZIGGO SPORT SELECT HD
-http://tt.rip:8000/live/41900808131509/41532890/46153.m3u8
-#EXTINF:-1 , LIST 2   NL ZIGGO SPORT VOETBAL
-http://tt.rip:8000/live/41900808131509/41532890/46152.m3u8
-#EXTINF:-1 , LIST 2   UK: BT SPORT / ESPN
-http://tt.rip:8000/live/41900808131509/41532890/22298.m3u8
-#EXTINF:-1 , LIST 2   UK: BT SPORT 1
-http://tt.rip:8000/live/41900808131509/41532890/22306.m3u8
-#EXTINF:-1 , LIST 2   UK: BT SPORT 2
-http://tt.rip:8000/live/41900808131509/41532890/22303.m3u8
-#EXTINF:-1 , LIST 2   UK: BT SPORT 3
-http://tt.rip:8000/live/41900808131509/41532890/22300.m3u8
-#EXTINF:-1 , LIST 2   UK: EUROSPORT 1
-http://tt.rip:8000/live/41900808131509/41532890/22292.m3u8
-#EXTINF:-1 , LIST 2   UK: EUROSPORT 2
-http://tt.rip:8000/live/41900808131509/41532890/22291.m3u8
-#EXTINF:-1 , LIST 2   UK: SKY SPORTS ACTION
-http://tt.rip:8000/live/41900808131509/41532890/22311.m3u8
-#EXTINF:-1 , LIST 2   UK: SKY SPORTS ARENA
-http://tt.rip:8000/live/41900808131509/41532890/22308.m3u8
-#EXTINF:-1 , LIST 2   UK: SKY SPORTS MAIN EVENT
-http://tt.rip:8000/live/41900808131509/41532890/22323.m3u8
-#EXTINF:-1 , LIST 2   UK: SKY SPORTS PREMIER LEAGUE *
-http://tt.rip:8000/live/41900808131509/41532890/22313.m3u8
-#EXTINF:-1 , LIST 2   UK: SKY SPORTS PREMIER LEAGUE
-http://tt.rip:8000/live/41900808131509/41532890/22314.m3u8
-#EXTINF:-1 , LIST 2   USA: FOX Sports 1 HD
-http://tt.rip:8000/live/41900808131509/41532890/75170.m3u8
-#EXTINF:-1 , LIST 2   USA: FOX Sports 2 HD
-http://tt.rip:8000/live/41900808131509/41532890/75171.m3u8
-#EXTINF:-1 , LIST 2   VIP|CA| TSN1
-http://tt.rip:8000/live/41900808131509/41532890/80597.m3u8
-#EXTINF:-1 , LIST 2   VIP|UK| BT Sport 1 Full HD
-http://tt.rip:8000/live/41900808131509/41532890/85399.m3u8
-#EXTINF:-1 , LIST 2   VIP|UK| BT Sport 2 Full HD
-http://tt.rip:8000/live/41900808131509/41532890/85400.m3u8
-#EXTINF:-1 , LIST 2   VIP|UK| BT Sport 3 Full HD
-http://tt.rip:8000/live/41900808131509/41532890/85401.m3u8
 
