@@ -1,74 +1,56 @@
 #EXTM3U
 
 
-#EXTINF:-1, Tottenham . Leipzig..... beIN Sports 11 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1011.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/910.m3u8
-#EXTINF:-1,DE -- Dazn 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/868.m3u8
-#EXTINF:-1,DE -- Sky Sport 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/866.m3u8
-#EXTINF:-1, LISTA 1...DE: SKY SPORT 1 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/347.m3u8
-#EXTINF:-1, LISTA 1...NL: ZIGGO SPORT VOETBAL
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/742.m3u8
-#EXTINF:-1,FR -- RMC SPORT 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/959.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/400.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORTS 11 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/452.m3u8
-#EXTINF:-1,AR: beIN Sports 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1013.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 1 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/425.m3u8
-
-
-#EXTINF:-1,Atalanta - Valencia......FR -- RMC SPORT 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/958.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORTS 12 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/453.m3u8
-#EXTINF:-1, LISTA 1...UK: BT SPORT 3 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/412.m3u8
-#EXTINF:-1,DE -- Sky Sport 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/863.m3u8
-#EXTINF:-1, LISTA 1...DE: SKY SPORT 2 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/346.m3u8
-#EXTINF:-1,IT: Sky Sport Uno FHD
-http://hd.007iptv.com:2095/live/eda/eda123456/623.m3u8
-#EXTINF:-1, LISTA 1...IT: SKY SPORTS 1 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/417.m3u8
-#EXTINF:-1, LISTA 1...NL: ZIGGO SPORT SELECT *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/352.m3u8
-#EXTINF:-1,FR: RMC SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/401.m3u8
-#EXTINF:-1,AR: beIN Sports 2 HD 
-http://hd.007iptv.com:2095/live/eda/eda123456/1010.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 2 *
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/426.m3u8
-
-
-
-#EXTINF:-1,EX-YO: Sport Klub 1
-http://hd.007iptv.com:2095/live/eda/eda123456/740.m3u8
-#EXTINF:-1,EX-YO: Sport Klub 2
-http://hd.007iptv.com:2095/live/eda/eda123456/739.m3u8
-#EXTINF:-1,EX-YO: Sport Klub 3
-http://hd.007iptv.com:2095/live/eda/eda123456/738.m3u8
-#EXTINF:-1,EX-YO: Sport Klub 4
-http://hd.007iptv.com:2095/live/eda/eda123456/737.m3u8
-#EXTINF:-1,EX-YO: Arena Sport 1 HR
-http://hd.007iptv.com:2095/live/eda/eda123456/750.m3u8
-#EXTINF:-1,EX-YO: Arena Sport 2 HR
-http://hd.007iptv.com:2095/live/eda/eda123456/748.m3u8
-#EXTINF:-1,EX-YO: Arena Sport 3 HR
-http://hd.007iptv.com:2095/live/eda/eda123456/746.m3u8
-#EXTINF:-1,EX-YO: Arena Sport 4 HR
-http://hd.007iptv.com:2095/live/eda/eda123456/744.m3u8
-#EXTINF:-1,EX-YO: Arena Sport 5 HR
-http://hd.007iptv.com:2095/live/eda/eda123456/742.m3u8
-
+#EXTINF:-1 ,DE | DAZN 1 Bar HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14931.m3u8
+#EXTINF:-1 ,DE | DAZN 2 Bar HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14932.m3u8
+#EXTINF:-1 ,DE | Eurosport 2 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14944.m3u8
+#EXTINF:-1 ,DE | Eurosport 2 Xtra FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14945.m3u8
+#EXTINF:-1 ,DE | Sky Sport 1
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/15021.m3u8
+#EXTINF:-1 ,DE | Sky Sport 2 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/15023.m3u8
+#EXTINF:-1 ,DEP | ESPN deportes FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/31993.m3u8
+#EXTINF:-1 ,DEP | FOX SPORTS PREMIUM HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/3384.m3u8
+#EXTINF:-1 ,DEP | Fox Deportes FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/27355.m3u8
+#EXTINF:-1 ,FR | beIN Sports 1 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/18509.m3u8
+#EXTINF:-1 ,IT | Sky Sport ARENA HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/28633.m3u8
+#EXTINF:-1 ,IT | Sky Sport Uno FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/28645.m3u8
+#EXTINF:-1 ,NL | FOX SPORT 3 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14786.m3u8
+#EXTINF:-1 ,NL | FOX SPORT 4 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14787.m3u8
+#EXTINF:-1 ,NL | FOX SPORT 5 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14788.m3u8
+#EXTINF:-1 ,NL | ZIGGO SPORT SELECT HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14850.m3u8
+#EXTINF:-1 ,UK | BT Sport 1 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26428.m3u8
+#EXTINF:-1 ,UK | BT Sport 2 FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26430.m3u8
+#EXTINF:-1 ,UK | BT Sport 3 FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26432.m3u8
+#EXTINF:-1 ,UK | BT Sport ESPN HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26433.m3u8
+#EXTINF:-1 ,UK | Eurosport 1 HD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26426.m3u8
+#EXTINF:-1 ,UK | Sky Sports Action FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26442.m3u8
+#EXTINF:-1 ,UK | Sky Sports Arena FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26441.m3u8
+#EXTINF:-1 ,UK | Sky Sports Football FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26440.m3u8
+#EXTINF:-1 ,UK | Sky Sports Main Event FHD
+http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26439.m3u8
 
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
