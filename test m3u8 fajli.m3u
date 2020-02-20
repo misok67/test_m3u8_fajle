@@ -1,55 +1,145 @@
 #EXTM3U
 
+#EXTINF:-1,AR: BEIN SPORTS 11
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/452.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 12
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/453.m3u8
+#EXTINF:-1,AR: BEIN SPORT 10
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/434.m3u8
+#EXTINF:-1,AR: BEIN SPORT 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/425.m3u8
+#EXTINF:-1,AR: BEIN SPORT 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/426.m3u8
+#EXTINF:-1,AR: BEIN SPORT 3
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/427.m3u8
+#EXTINF:-1,AR: BEIN SPORT 4
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/428.m3u8
+#EXTINF:-1,AR: BEIN SPORT 5
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/429.m3u8
+#EXTINF:-1,AR: BEIN SPORT 6
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/430.m3u8
+#EXTINF:-1,AR: BEIN SPORT 7
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/431.m3u8
+#EXTINF:-1,AR: BEIN SPORT 8
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/432.m3u8
+#EXTINF:-1,AR: BEIN SPORT 9
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/433.m3u8
+#EXTINF:-1,BR: FOX SPORTS 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/803.m3u8
+#EXTINF:-1,DE: DAZN Sport 1 HD
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/547.m3u8
+#EXTINF:-1,DE: DAZN Sport 2 HD
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/546.m3u8
+#EXTINF:-1,DE: EUROSPORT 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/688.m3u8
+#EXTINF:-1,DE: EUROSPORT 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/689.m3u8
+#EXTINF:-1,DE: SKY SPORT 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/347.m3u8
+#EXTINF:-1,DE: SKY SPORT 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/346.m3u8
+#EXTINF:-1,ES: Deportes 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/446.m3u8
+#EXTINF:-1,ES: Deportes 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/447.m3u8
+#EXTINF:-1,FR: RMC SPORT 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/400.m3u8
+#EXTINF:-1,FR: RMC SPORT 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/401.m3u8
+#EXTINF:-1,FR: RMC SPORT 3
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/402.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/397.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/398.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/399.m3u8
+#EXTINF:-1,IT: SKY SPORT SERIE A
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/706.m3u8
+#EXTINF:-1,IT: SKY SPORTS 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/417.m3u8
+#EXTINF:-1,IT: Sky Sport F1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/423.m3u8
+#EXTINF:-1,NL: FOX SPORT 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/362.m3u8
+#EXTINF:-1,NL: FOX SPORT 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/361.m3u8
+#EXTINF:-1,NL: FOX SPORT 3
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/360.m3u8
+#EXTINF:-1,NL: FOX SPORT 4
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/359.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/352.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/742.m3u8
+#EXTINF:-1,UK: BT SPORT 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/413.m3u8
+#EXTINF:-1,UK: BT SPORT 3
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/412.m3u8
+#EXTINF:-1,UK: BT SPORT ESPN
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/442.m3u8
+#EXTINF:-1,UK: Eurosport 1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/364.m3u8
+#EXTINF:-1,UK: Eurosport 2
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/363.m3u8
+#EXTINF:-1,UK: SKY SPORT ACTION
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/411.m3u8
+#EXTINF:-1,UK: SKY SPORT MIX
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/698.m3u8
+#EXTINF:-1,UK: SKY SPORT PREMIER LEAGUE
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/408.m3u8
+#EXTINF:-1,UK: SKY SPORTS F1
+http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/407.m3u8
 
-#EXTINF:-1 ,DE | DAZN 1 Bar HD
+#EXTINF:-1 , L1...DE | DAZN 1 Bar HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14931.m3u8
-#EXTINF:-1 ,DE | DAZN 2 Bar HD
+#EXTINF:-1 , L1...DE | DAZN 2 Bar HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14932.m3u8
-#EXTINF:-1 ,DE | Eurosport 2 HD
+#EXTINF:-1 , L1...DE | Eurosport 2 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14944.m3u8
-#EXTINF:-1 ,DE | Eurosport 2 Xtra FHD
+#EXTINF:-1 , L1...DE | Eurosport 2 Xtra FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14945.m3u8
-#EXTINF:-1 ,DE | Sky Sport 1
+#EXTINF:-1 , L1...DE | Sky Sport 1
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/15021.m3u8
-#EXTINF:-1 ,DE | Sky Sport 2 HD
+#EXTINF:-1 , L1...DE | Sky Sport 2 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/15023.m3u8
-#EXTINF:-1 ,DEP | ESPN deportes FHD
+#EXTINF:-1 , L1...DEP | ESPN deportes FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/31993.m3u8
-#EXTINF:-1 ,DEP | FOX SPORTS PREMIUM HD
+#EXTINF:-1 , L1...DEP | FOX SPORTS PREMIUM HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/3384.m3u8
-#EXTINF:-1 ,DEP | Fox Deportes FHD
+#EXTINF:-1 , L1...DEP | Fox Deportes FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/27355.m3u8
-#EXTINF:-1 ,FR | beIN Sports 1 HD
+#EXTINF:-1 , L1...FR | beIN Sports 1 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/18509.m3u8
-#EXTINF:-1 ,IT | Sky Sport ARENA HD
+#EXTINF:-1 , L1...IT | Sky Sport ARENA HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/28633.m3u8
-#EXTINF:-1 ,IT | Sky Sport Uno FHD
+#EXTINF:-1 , L1...IT | Sky Sport Uno FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/28645.m3u8
-#EXTINF:-1 ,NL | FOX SPORT 3 HD
+#EXTINF:-1 , L1...NL | FOX SPORT 3 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14786.m3u8
-#EXTINF:-1 ,NL | FOX SPORT 4 HD
+#EXTINF:-1 , L1...NL | FOX SPORT 4 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14787.m3u8
-#EXTINF:-1 ,NL | FOX SPORT 5 HD
+#EXTINF:-1 , L1...NL | FOX SPORT 5 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14788.m3u8
-#EXTINF:-1 ,NL | ZIGGO SPORT SELECT HD
+#EXTINF:-1 , L1...NL | ZIGGO SPORT SELECT HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14850.m3u8
-#EXTINF:-1 ,UK | BT Sport 1 HD
+#EXTINF:-1 , L1...UK | BT Sport 1 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26428.m3u8
-#EXTINF:-1 ,UK | BT Sport 2 FHD
+#EXTINF:-1 , L1...UK | BT Sport 2 FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26430.m3u8
-#EXTINF:-1 ,UK | BT Sport 3 FHD
+#EXTINF:-1 , L1...UK | BT Sport 3 FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26432.m3u8
-#EXTINF:-1 ,UK | BT Sport ESPN HD
+#EXTINF:-1 , L1...UK | BT Sport ESPN HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26433.m3u8
-#EXTINF:-1 ,UK | Eurosport 1 HD
+#EXTINF:-1 , L1...UK | Eurosport 1 HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26426.m3u8
-#EXTINF:-1 ,UK | Sky Sports Action FHD
+#EXTINF:-1 , L1...UK | Sky Sports Action FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26442.m3u8
-#EXTINF:-1 ,UK | Sky Sports Arena FHD
+#EXTINF:-1 , L1...UK | Sky Sports Arena FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26441.m3u8
-#EXTINF:-1 ,UK | Sky Sports Football FHD
+#EXTINF:-1 , L1...UK | Sky Sports Football FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26440.m3u8
-#EXTINF:-1 ,UK | Sky Sports Main Event FHD
+#EXTINF:-1 , L1...UK | Sky Sports Main Event FHD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/26439.m3u8
 
 #EXTINF:-1 ,Arena Sports 1
