@@ -1,98 +1,147 @@
 #EXTM3U
 
-#EXTINF:-1,AR: BEIN SPORTS 11
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/452.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 12
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/453.m3u8
-#EXTINF:-1,AR: BEIN SPORT 10
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/434.m3u8
-#EXTINF:-1,AR: BEIN SPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/425.m3u8
-#EXTINF:-1,AR: BEIN SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/426.m3u8
-#EXTINF:-1,AR: BEIN SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/427.m3u8
-#EXTINF:-1,AR: BEIN SPORT 4
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/428.m3u8
-#EXTINF:-1,AR: BEIN SPORT 5
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/429.m3u8
-#EXTINF:-1,AR: BEIN SPORT 6
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/430.m3u8
-#EXTINF:-1,AR: BEIN SPORT 7
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/431.m3u8
-#EXTINF:-1,AR: BEIN SPORT 8
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/432.m3u8
-#EXTINF:-1,AR: BEIN SPORT 9
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/433.m3u8
-#EXTINF:-1,BR: FOX SPORTS 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/803.m3u8
-#EXTINF:-1,DE: DAZN Sport 1 HD
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/547.m3u8
-#EXTINF:-1,DE: DAZN Sport 2 HD
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/546.m3u8
-#EXTINF:-1,DE: EUROSPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/688.m3u8
-#EXTINF:-1,DE: EUROSPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/689.m3u8
-#EXTINF:-1,DE: SKY SPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/347.m3u8
-#EXTINF:-1,DE: SKY SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/346.m3u8
-#EXTINF:-1,ES: Deportes 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/446.m3u8
-#EXTINF:-1,ES: Deportes 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/447.m3u8
-#EXTINF:-1,FR: RMC SPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/400.m3u8
-#EXTINF:-1,FR: RMC SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/401.m3u8
-#EXTINF:-1,FR: RMC SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/402.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/397.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/398.m3u8
-#EXTINF:0,FR: RMC SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/402.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75173.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75174.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75175.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 4 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75176.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 1 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75162.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 2 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75163.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 3 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75164.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 4 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75165.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 5 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75166.m3u8
 
-#EXTINF:-1,FR: BEIN SPORTS 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/399.m3u8
-#EXTINF:-1,IT: SKY SPORT SERIE A
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/706.m3u8
-#EXTINF:-1,IT: SKY SPORTS 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/417.m3u8
-#EXTINF:-1,IT: Sky Sport F1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/423.m3u8
-#EXTINF:-1,NL: FOX SPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/362.m3u8
-#EXTINF:-1,NL: FOX SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/361.m3u8
-#EXTINF:-1,NL: FOX SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/360.m3u8
-#EXTINF:-1,NL: FOX SPORT 4
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/359.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/352.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/742.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/413.m3u8
-#EXTINF:-1,UK: BT SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/412.m3u8
-#EXTINF:-1,UK: BT SPORT ESPN
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/442.m3u8
-#EXTINF:-1,UK: Eurosport 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/364.m3u8
-#EXTINF:-1,UK: Eurosport 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/363.m3u8
-#EXTINF:-1,UK: SKY SPORT ACTION
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/411.m3u8
-#EXTINF:-1,UK: SKY SPORT MIX
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/698.m3u8
-#EXTINF:-1,UK: SKY SPORT PREMIER LEAGUE
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/408.m3u8
-#EXTINF:-1,UK: SKY SPORTS F1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/407.m3u8
+#EXTINF:-1 ,AR: beIN Sports 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53243.m3u8
+#EXTINF:-1 ,AR: beIN Sports 10 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53254.m3u8
+#EXTINF:-1 ,AR: beIN Sports 11 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53255.m3u8
+#EXTINF:-1 ,AR: beIN Sports 11 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76357.m3u8
+#EXTINF:-1 ,AR: beIN Sports 11 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76358.m3u8
+#EXTINF:-1 ,AR: beIN Sports 12 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53256.m3u8
+#EXTINF:-1 ,AR: beIN Sports 12 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76360.m3u8
+#EXTINF:-1 ,AR: beIN Sports 12 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76361.m3u8
+#EXTINF:-1 ,AR: beIN Sports 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53244.m3u8
+#EXTINF:-1 ,AR: beIN Sports 3 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53262.m3u8
+#EXTINF:-1 ,AR: beIN Sports 4 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76373.m3u8
+#EXTINF:-1 ,AR: beIN Sports 5 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53266.m3u8
+#EXTINF:-1 ,AR: beIN Sports 6 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53248.m3u8
+#EXTINF:-1 ,AR: beIN Sports 7 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53249.m3u8
+#EXTINF:-1 ,AR: beIN Sports 8 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53250.m3u8
+#EXTINF:-1 ,AR: beIN Sports 9 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53251.m3u8
+#EXTINF:-1 ,DE: DAZN 1 Bar HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71345.m3u8
+#EXTINF:-1 ,DE: DAZN 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71346.m3u8
+#EXTINF:-1 ,DE: DAZN 2 Bar HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71347.m3u8
+#EXTINF:-1 ,DE: DAZN 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71348.m3u8
+#EXTINF:-1 ,DE: DAZN BAR 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71349.m3u8
+#EXTINF:-1 ,DE: DAZN Bar 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71350.m3u8
+#EXTINF:-1 ,DE: EUROSPORT 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71438.m3u8
+#EXTINF:-1 ,DE: EUROSPORT 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71440.m3u8
+#EXTINF:-1 ,DE: Sky Bundesliga 1 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71627.m3u8
+#EXTINF:-1 ,DE: Sky Sport 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71305.m3u8
+#EXTINF:-1 ,DE: Sky Sport 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71307.m3u8
+#EXTINF:-1 ,FR: beIN Sports 1 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54026.m3u8
+#EXTINF:-1 ,FR: beIN Sports 2 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54027.m3u8
+#EXTINF:-1 ,IT: Sky Sport 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/73695.m3u8
+#EXTINF:-1 ,IT: Sky Sport Football FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/73708.m3u8
+#EXTINF:-1 ,NL: FOX SPORTS 3 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76521.m3u8
+#EXTINF:-1 ,NL: FOX SPORTS 4 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76525.m3u8
+#EXTINF:-1 ,NL: FOX SPORTS 5 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76530.m3u8
+#EXTINF:-1 ,NL: FOX SPORTS 6 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/76534.m3u8
+#EXTINF:-1 ,UK: BT Sport 1 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75903.m3u8
+#EXTINF:-1 ,UK: BT Sport 2 FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75905.m3u8
+#EXTINF:-1 ,UK: BT Sport 2 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75906.m3u8
+#EXTINF:-1 ,UK: BT Sport 3 HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75908.m3u8
+#EXTINF:-1 ,UK: Sky Sports Action FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75935.m3u8
+#EXTINF:-1 ,UK: Sky Sports Arena FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75937.m3u8
+#EXTINF:-1 ,UK: Sky Sports Main Event FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75949.m3u8
+#EXTINF:-1 ,UK: Sky Sports Main Event HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/75950.m3u8
+#EXTINF:-1 ,US: BT Sport ESPN
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/66880.m3u8
+#EXTINF:-1 ,US: ESPN DEPORTES FHD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/66751.m3u8
+#EXTINF:-1 ,US: beIN Sports HD
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/66597.m3u8
+
+#EXTINF:-1 ,BeIN Sport 11 (SD)
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/30449.m3u8
+#EXTINF:-1 ,DE:DAZN 1 Bar HD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/97431.m3u8
+#EXTINF:-1 ,DE:DAZN 2 Bar HD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/97432.m3u8
+#EXTINF:-1 ,DE:Sky Sport Bundesliga 1 HD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/97528.m3u8
+#EXTINF:-1 ,SPORT: BT Sport 3 FHD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/41029.m3u8
+#EXTINF:-1 ,SPORT: Sky Sports Action HD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/40974.m3u8
+#EXTINF:-1 ,SPORT: Sky Sports Arena FHD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/40983.m3u8
+#EXTINF:-1 ,SPORT: Sky Sports Main Event FHD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/40978.m3u8
+#EXTINF:-1 ,SPORT: Sky Sports Premier League FHD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/40975.m3u8
+#EXTINF:-1 ,SPORT: Sky Sports Premier League HD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/40964.m3u8
+#EXTINF:-1 ,UK: Sky Sports Premier League HD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/96734.m3u8
+#EXTINF:-1 ,beIN Sports HD
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/65988.m3u8
+#EXTINF:-1 ,FR: BEINSPORT 1 HD FR
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/97913.m3u8
+#EXTINF:-1 ,FR: BEINSPORT 2 HD FR
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/97914.m3u8
+#EXTINF:-1 ,FR: BEINSPORT 3 HD FR
+http://falconiptv.com:80/live/nd82bba7b/nns883bsh/97915.m3u8
 
 #EXTINF:-1 , L1...DE | DAZN 1 Bar HD
 http://espana-premium.ddns.net:8000/live/SEBAS/POSO/14931.m3u8
