@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1, Chelsea - Bayern Munich......|FR| RMC SPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/32714.m3u8
+#EXTINF:-1,|DE|SKY SPORT 2
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/23702.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/42469.m3u8
+
+
+#EXTINF:-1,|FR| RMC SPORT 2HD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/32719.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/13610.m3u8
+
+#EXTINF:-1, Napoli - Barcelona.....|FR| RMC SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/32718.m3u8
+#EXTINF:-1,|DE| SKY SPORT 1HD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/23705.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL HD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/42547.m3u8
+#EXTINF:-1,|IT| SKY SPORT UNO HD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/23587.m3u8
+
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/39589.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
+http://iptvpro.premium-itv.com:8789/live/ahmed/1234/13608.m3u8
+
 #EXTINF:-1,Sport Klub 1 HR
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/109.m3u8
 #EXTINF:-1,Sport Klub 2 HR
@@ -38,93 +65,6 @@ http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/13842.m3u8
 http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/13843.m3u8
 
 
-#EXTINF:-1,AR: Bein Sports 1 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1392.m3u8
-#EXTINF:-1,AR: Bein Sports 10 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1383.m3u8
-#EXTINF:-1,AR: Bein Sports 11 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/9213.m3u8
-#EXTINF:-1,AR: Bein Sports 12 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1365.m3u8
-#EXTINF:-1,AR: Bein Sports 2 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/9211.m3u8
-#EXTINF:-1,AR: Bein Sports 3 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1390.m3u8
-#EXTINF:-1,AR: Bein Sports 4 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1389.m3u8
-#EXTINF:-1,AR: Bein Sports 5 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1388.m3u8
-#EXTINF:-1,AR: Bein Sports 6 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1387.m3u8
-#EXTINF:-1,AR: Bein Sports 7 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1386.m3u8
-#EXTINF:-1,AR: Bein Sports 8 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1385.m3u8
-#EXTINF:-1,AR: Bein Sports 9 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/1384.m3u8
-#EXTINF:-1,DE: DAZN  1 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/10067.m3u8
-#EXTINF:-1,DE: DAZN  2 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/10066.m3u8
-#EXTINF:-1,DE: DAZN 1 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/7508.m3u8
-#EXTINF:-1,DE: DAZN 2 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/7507.m3u8
-#EXTINF:-1,DE: EuroSport 1 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/7154.m3u8
-#EXTINF:-1,DE: EuroSport 2 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/7153.m3u8
-#EXTINF:-1,DE: Sky Sport 1 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/3084.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/6996.m3u8
-#EXTINF:-1,DE: Sky Sport 2 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/3082.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/6995.m3u8
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/3061.m3u8
-#EXTINF:-1,NL: FOX Sports 3 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12125.m3u8
-#EXTINF:-1,NL: FOX Sports 3 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12126.m3u8
-#EXTINF:-1,NL: FOX Sports 4 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12127.m3u8
-#EXTINF:-1,NL: FOX Sports 4 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12128.m3u8
-#EXTINF:-1,NL: FOX Sports 5 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12129.m3u8
-#EXTINF:-1,NL: FOX Sports 5 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12130.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12196.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12197.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal FHD+
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12198.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/12199.m3u8
-#EXTINF:-1,UK: BT Sport 1 FHD 2
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/4003.m3u8
-#EXTINF:-1,UK: BT Sport 1 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/8906.m3u8
-#EXTINF:-1,UK: BT Sport 2 FHD 2
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/4002.m3u8
-#EXTINF:-1,UK: BT Sport 2 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/8905.m3u8
-#EXTINF:-1,UK: BT Sport 3 FHD 2
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/4001.m3u8
-#EXTINF:-1,UK: BT Sport 3 FHD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/8904.m3u8
-#EXTINF:-1,UK: Eurosport 1 FHD 2
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/2919.m3u8
-#EXTINF:-1,UK: Eurosport 2 FHD 2
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/2918.m3u8
-#EXTINF:-1,US: Fox Sports 1 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/2824.m3u8
-#EXTINF:-1,US: Fox Sports 2 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/2823.m3u8
-
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Arena Sports 2
@@ -136,32 +76,6 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1 ,Arena Sports 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,ZIGGO Select HD
-http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8
-#EXTINF:-1,ZIGGO sport
-http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
-#EXTINF:-1,BT Sports 1 HD
-http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1,BT Sports 2 HD
-http://95.170.215.120:80/hls/m3u8/BT-Sport-2
-HD.m3u8
-
-
-#EXTINF:-1 ,EX-YU:Sport_Klub1
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
-#EXTINF:0,EX-YU:Sport_Klub3
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1446
-#EXTINF:-1 ,EX-YU:Arena_Sport_1
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
-#EXTINF:-1 ,EX-YU:Arena_Sport_2
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
-
-
-
-#EXTINF:-1,BE - PLAY SPORT 1 HD
-http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3633.ts
-#EXTINF:-1,BE - PLAY SPORT 2 HD
-http://iptv8.premium-stv.com:2052/live/sourcebelgiquepro1/5578736030/3634.ts
 
 
 
