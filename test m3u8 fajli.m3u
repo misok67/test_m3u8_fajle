@@ -1,31 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1, Chelsea - Bayern Munich......|FR| RMC SPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/32714.m3u8
-#EXTINF:-1,|DE|SKY SPORT 2
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/23702.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/42469.m3u8
+#EXTINF:-1, Real Madrid - Manchester City......[FR]_RMC_SPORT_2
+http://mhiptv.com:8888/live/eldeeba7/564452002/4687.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=1701273726237058&key=43971
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
+http://skdn.redi-vo.com/iptv/ch1829?code=1701273726237058&key=57494
+#EXTINF:-1,UK-S | BT SPORTS 2
+http://p5.giffy.be:8080/live/danielle123/danielle123/64286.m3u8
+#EXTINF:-1,[UK]BT_SPORT2_SD
+http://mhiptv.com:8888/live/eldeeba7/564452002/2536.m3u8
+#EXTINF:-1,[NL]Ziggo_Sport_Voetbal
+http://mhiptv.com:8888/live/eldeeba7/564452002/3045.m3u8
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/878.png",Ziggo Sport Voetball
+http://skdn.redi-vo.com/iptv/ch878?code=1701273726237058&key=53667
+#EXTINF:-1,Sky Sport 1 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/164.m3u8
+#EXTINF:-1,[DE]Sky_Sport_2_HD_DE
+http://mhiptv.com:8888/live/eldeeba7/564452002/9276.m3u8
+#EXTINF:-1,[DE]DAZN_1
+http://mhiptv.com:8888/live/eldeeba7/564452002/8573.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/162.m3u8
+#EXTINF:-1,beIN_SPORTS_11HD_1080p
+http://mhiptv.com:8888/live/eldeeba7/564452002/3246.m3u8
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BeInSport 11 HD
+http://skdn.redi-vo.com/iptv/ch512?code=1701273726237058&key=55556
+#EXTINF:-1,beIN_SPORTS_1HD_1080p
+http://mhiptv.com:8888/live/eldeeba7/564452002/2442.m3u8
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
+http://skdn.redi-vo.com/iptv/ch111?code=1701273726237058&key=54576
 
-
-#EXTINF:-1,|FR| RMC SPORT 2HD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/32719.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/13610.m3u8
-
-#EXTINF:-1, Napoli - Barcelona.....|FR| RMC SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/32718.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1HD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/23705.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL HD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/42547.m3u8
-#EXTINF:-1,|IT| SKY SPORT UNO HD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/23587.m3u8
-
-#EXTINF:-1,|FR| RMC SPORT 1 SD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/39589.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
-http://iptvpro.premium-itv.com:8789/live/ahmed/1234/13608.m3u8
+#EXTINF:-1, Lyon - Juventus.....[FR]_RMC_Sport
+http://mhiptv.com:8888/live/eldeeba7/564452002/2957.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=1701273726237058&key=43852
+#EXTINF:-1,[UK]BT_Sports3_SD
+http://mhiptv.com:8888/live/eldeeba7/564452002/2546.m3u8
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
+http://skdn.redi-vo.com/iptv/ch1830?code=1701273726237058&key=30373
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/860.png",Ziggo Sport Select
+http://skdn.redi-vo.com/iptv/ch860?code=1701273726237058&key=24851
+#EXTINF:-1,[IT]Sky_Uno
+http://mhiptv.com:8888/live/eldeeba7/564452002/3761.m3u8
+#EXTINF:-1,IT | SKY SPORT UNO FHD
+http://p5.giffy.be:8080/live/danielle123/danielle123/63362.m3u8
+#EXTINF:-1,beIN_SPORTS_4HD_1080p
+http://mhiptv.com:8888/live/eldeeba7/564452002/2445.m3u8
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
+http://skdn.redi-vo.com/iptv/ch114?code=1701273726237058&key=46165
+#EXTINF:-1,beIN_SPORTS_12HD_1080p
+http://mhiptv.com:8888/live/eldeeba7/564452002/3250.m3u8
 
 #EXTINF:-1,Sport Klub 1 HR
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/109.m3u8
