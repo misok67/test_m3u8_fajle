@@ -1,84 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Real Madrid - Manchester City......[FR]_RMC_SPORT_2
-http://vvn.neoredi.com/iptv/ch253?code=138137164006399&key=43971.m3u8
-#EXTINF:-1,RMC Sport 2
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/362.m3u8
-#EXTINF:-1,RMC SPORT 2 HD FR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/1728.m3u8
-#EXTINF:-1,RMC SPORTS 2 HD
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/2864.m3u8
-#EXTINF:-1,UK-S | BT SPORTS 2
-http://vvn.neoredi.com/iptv/ch1829?code=138137164006399&key=57494.m3u8
-#EXTINF:-1,UK:BT SPORT 2
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/4759.m3u8
-#EXTINF:-1,BT Sport 2 | UK
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/47100.m3u8
-#EXTINF:-1,[NL]Ziggo_Sport_Voetbal
-http://vvn.neoredi.com/iptv/ch878?code=138137164006399&key=53667.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal HD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/1138.m3u8
-#EXTINF:-1,NL ZIGGO SPORT VOETBAL HD
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/49982.m3u8
-#EXTINF:-1,Sky Sport 1 HD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/7176.m3u8
-#EXTINF:-1,Sky Sport 1 FHD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/3697.m3u8
-#EXTINF:-1,DAZN 1 BAR UHD 2K (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/56832.m3u8
-#EXTINF:-1,DAZN 1 Bar FHD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22499.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/164.m3u8.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://tv.fast-iptv.info:12974/live/nhYFn3DjF3/BAVdbnMePn/162.m3u8.m3u8
-#EXTINF:-1,beIN_SPORTS_11HD_1080p
-http://vvn.neoredi.com/iptv/ch512?code=138137164006399&key=55556.m3u8
-#EXTINF:-1,J-A BeIN Sports HD 11
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/34829.m3u8
-#EXTINF:-1,beIN_SPORTS_1HD_1080p
-http://vvn.neoredi.com/iptv/ch111?code=138137164006399&key=54576.m3u8
-#EXTINF:-1,BEIN SPORT 1 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46657.m3u8
-#EXTINF:-1,beIN SPORTS 1HD
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/20998.m3u8
-
-
-#EXTINF:-1, Lyon - Juventus.....[FR]_RMC_Sport 1
-http://vvn.neoredi.com/iptv/ch255?code=138137164006399&key=43852.m3u8
-#EXTINF:-1,RMC Sport 1
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.m3u8
-#EXTINF:-1,RMC SPORT 1 HD FR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/1729.m3u8
-#EXTINF:-1,RMC SPORTS 1 HD
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/2863.m3u8
-#EXTINF:-1,[UK]BT_Sports3_SD
-http://vvn.neoredi.com/iptv/ch1830?code=138137164006399&key=30373.m3u8
-#EXTINF:-1,UK:BT SPORT 3
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/4760.m3u8
-#EXTINF:-1,BT Sport 3 | UK
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/47102.m3u8
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/860.png",Ziggo Sport Select
-http://vvn.neoredi.com/iptv/ch860?code=138137164006399&key=24851.m3u8
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/4326.m3u8
-#EXTINF:-1,NL ZIGGO SPORT SELECT HD
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/49983.m3u8
-#EXTINF:-1,Sky Sport 2 HD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/7177.m3u8
-#EXTINF:-1,Sky Sport 2 FHD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/1027.m3u8
-#EXTINF:-1,IT | SKY SPORT UNO FHD
-http://vvn.neoredi.com/iptv/ch953?code=138137164006399&key=55431.m3u8
-#EXTINF:-1,IT.Sky Sport Uno
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/50728.m3u8
-#EXTINF:-1,beIN_SPORTS_4HD_1080p
-http://vvn.neoredi.com/iptv/ch114?code=138137164006399&key=46165.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46660.m3u8
-#EXTINF:-1,beIN SPORTS 4HD
-http://x12tv.co:80/live/freebox_842619/Sh1Wgpf1/19143.m3u8
-
 #EXTINF:-1,Sport Klub 1 HR
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/109.m3u8
 #EXTINF:-1,Sport Klub 2 HR
@@ -105,17 +26,6 @@ http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/98.m3u8
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/99.m3u8
 #EXTINF:-1,Arena Sport 1  sr
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/90.m3u8
-#EXTINF:-1,HR: Arena Sports 1 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/13839.m3u8
-#EXTINF:-1,HR: Arena Sports 2 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/13840.m3u8
-#EXTINF:-1,HR: Arena Sports 3 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/13841.m3u8
-#EXTINF:-1,HR: Arena Sports 4 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/13842.m3u8
-#EXTINF:-1,HR: Arena Sports 5 HD
-http://neczbm.to:80/live/fsj1000@gmail.com/8s7gs4g5sg/13843.m3u8
-
 
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
