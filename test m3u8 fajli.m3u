@@ -27,74 +27,56 @@ http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/99.m3u8
 #EXTINF:-1,Arena Sport 1  sr
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/90.m3u8
 
-#EXTINF:0,BEIN SPORT 1 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46657.m3u8
-#EXTINF:0,BEIN SPORTS 3 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46659.m3u8
-#EXTINF:0,BEIN SPORTS 4 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46660.m3u8
-#EXTINF:0,BEIN SPORTS 5 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46661.m3u8
-#EXTINF:0,BEIN SPORTS 6 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46662.m3u8
-#EXTINF:0,BEIN SPORTS 7 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46663.m3u8
-#EXTINF:0,BEIN SPORTS 8 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46664.m3u8
-#EXTINF:0,BEIN SPORTS 9 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46665.m3u8
-#EXTINF:0,Bein Sports 2 HD AR
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/46658.m3u8
-#EXTINF:0,DAZN 1 Bar FHD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22499.m3u8
-#EXTINF:0,DAZN 2 Bar FHD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/22500.m3u8
-#EXTINF:0,FOX SPORTS 3 HD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/266.m3u8
-#EXTINF:0,FOX SPORTS 4 FHD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/38921.m3u8
-#EXTINF:0,FOX SPORTS 4 HD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/267.m3u8
-#EXTINF:0,FOX SPORTS 5 HD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/268.m3u8
-#EXTINF:0,Sky Sport 1 FHD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/3697.m3u8
-#EXTINF:0,Sky Sport 1 HD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/7176.m3u8
-#EXTINF:0,Sky Sport 2 FHD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/1027.m3u8
-#EXTINF:0,Sky Sport 2 HD (DE)
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/7177.m3u8
-#EXTINF:0,ZIGGO SPORT SELECT HD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/74087.m3u8
-#EXTINF:0,ZIGGO SPORT VOETBAL HD NL
-http://live.redfhd.com:8000/live/Giacomo/i5pWdg8WBL/74088.m3u8
-#EXTINF:0,|DE| DAZN 1 BAR
-http://supertv.io:25461/live/live/miguel/miguel/1969.m3u8
-#EXTINF:0,|DE| DAZN 2 BAR
-http://supertv.io:25461/live/live/miguel/miguel/1970.m3u8
-#EXTINF:0,|FR| RMC SPORT 1 HD
-http://supertv.io:25461/live/live/miguel/miguel/138.m3u8
-#EXTINF:0,|FR| RMC SPORT 2 HD
-http://supertv.io:25461/live/live/miguel/miguel/139.m3u8
-#EXTINF:0,|FR| RMC SPORT 3 HD
-http://supertv.io:25461/live/live/miguel/miguel/140.m3u8
-#EXTINF:0,|FR| BEIN SPO.m3u8 1 HD
-http://supertv.io:25461/live/live/miguel/miguel/142.m3u8
-#EXTINF:0,|FR| BEIN SPO.m3u8 2 HD
-http://supertv.io:25461/live/live/miguel/miguel/143.m3u8
-#EXTINF:0,|FR| BEIN SPO.m3u8 3 HD
-http://supertv.io:25461/live/live/miguel/miguel/144.m3u8
-#EXTINF:0,|IT| SKY SPORT ARENA HD
-http://supertv.io:25461/live/live/miguel/miguel/1779.m3u8
-#EXTINF:0,|IT| SKY SPORT FOOTBALL HD
-http://supertv.io:25461/live/live/miguel/miguel/1780.m3u8
-#EXTINF:0,|IT| SKY SPORT MOTO GP HD
-http://supertv.io:25461/live/live/miguel/miguel/1782.m3u8
-#EXTINF:0,|IT| SKY SPORT SERIE A HD
-http://supertv.io:25461/live/live/miguel/miguel/1793.m3u8
-#EXTINF:0,|IT| SKY SPORT UNO HD
-http://supertv.io:25461/live/live/miguel/miguel/1778.m3u8
+#EXTINF:0,BEIN SPORT 1 FHD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5052.m3u8
+#EXTINF:0,BEIN SPORT 2 FHD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5051.m3u8
+#EXTINF:0,BEIN SPORT 4 FHD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5049.m3u8
+#EXTINF:0,BEIN SPORT 5 FHD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5048.m3u8
+#EXTINF:0,BEIN SPORT 7 FHD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5046.m3u8
+#EXTINF:0,BEIN SPORT 8 FHD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5045.m3u8
+#EXTINF:0,BEIN SPORT 9 FHD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/6167.m3u8
+#EXTINF:0,beIN SPORT 10HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/790.m3u8
+#EXTINF:0,beIN SPORT 11HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1272.m3u8
+#EXTINF:0,beIN SPORT 12HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1273.m3u8
+#EXTINF:0,FR: RMC Sport 1 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1559.m3u8
+#EXTINF:0,FR: RMC Sport 2 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1761.m3u8
+#EXTINF:0,FR: RMC Sport 3 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1812.m3u8
+#EXTINF:0,beIN France1 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3175.m3u8
+#EXTINF:0,beIN France2 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/480.m3u8
+#EXTINF:0,beIN France3 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/478.m3u8
+#EXTINF:0,beIN Sport2 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1834.m3u8
+#EXTINF:0,beIN Sport3 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1859.m3u8
+#EXTINF:0,beIN Sport4 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1825.m3u8
+#EXTINF:0,beIN Sport5 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3532.m3u8
+#EXTINF:0,beIN Sport6 hd
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/2083.m3u8
+#EXTINF:0,beIN Sport7 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/2086.m3u8
+#EXTINF:0,beIN Sport8 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/2087.m3u8
+#EXTINF:0,beIN Sport9 HD
+http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/789.m3u8
+
+
 
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
