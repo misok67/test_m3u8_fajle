@@ -77,6 +77,26 @@ http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123674.m3u8
 http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123704.m3u8
 #EXTINF:0,VIP ES: Bein Sports HD ( 1080P )
 http://hudsmart.xyz:8080/live/gokturk1/gokturk1/122134.m3u8
+
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=138137164006399&key=45498
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=138137164006399&key=57494
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
+http://vvn.neoredi.com/iptv/ch1830?code=138137164006399&key=30373
+http://vvn.neoredi.com/iptv/ch955?code=138137164006399&key=24673
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/953.png",SKY Sport Uno IT
+http://vvn.neoredi.com/iptv/ch953?code=138137164006399&key=55431
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/954.png",SKY Sport Serie A IT
+http://vvn.neoredi.com/iptv/ch954?code=138137164006399&key=16382
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1910.png",Sky Sport Football IT
+http://vvn.neoredi.com/iptv/ch1910?code=138137164006399&key=18976
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1927.png",Sky Sport Arena IT
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/c8h512.png",BeInSport 11 SD
+http://vvn.neoredi.com/iptv/c8h512?code=138137164006399&key=56447
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 12 HD
+http://vvn.neoredi.com/iptv/ch513?code=138137164006399&key=55186
+
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Arena Sports 2
