@@ -27,28 +27,7 @@ http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/99.m3u8
 #EXTINF:-1,Arena Sport 1  sr
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/90.m3u8
 
-#EXTINF:0,NL: Fox Sports 3
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123688.m3u8
-#EXTINF:0,NL: FOX Sports 3 HD ( 1080P )
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123702.m3u8
-#EXTINF:0,NL: Fox Sports 4
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123687.m3u8
-#EXTINF:0,NL: Fox Sports 4 HD ( 1080P )
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123700.m3u8
-#EXTINF:0,NL: Fox Sports 5
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123686.m3u8
-#EXTINF:0,NL: Fox Sports 5 HD ( 1080P )
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123701.m3u8
-#EXTINF:0,NL: Fox Sports 6
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123685.m3u8
-#EXTINF:0,NL: Sport 1 Voetbal
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123676.m3u8
-#EXTINF:0,NL: Ziggo Sport Select FHD 1080
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123674.m3u8
-#EXTINF:0,NL: Ziggo Sport Select HD
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123704.m3u8
-#EXTINF:0,VIP ES: Bein Sports HD ( 1080P )
-http://hudsmart.xyz:8080/live/gokturk1/gokturk1/122134.m3u8
+
 #EXTINF:-1,RMC Sport 1
 http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.m3u8
 #EXTINF:-1,RMC Sport 2
@@ -76,7 +55,28 @@ http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74087.m3u8
 #EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
 http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74088.m3u8
 
-
+#EXTINF:0,NL: Fox Sports 3
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123688.m3u8
+#EXTINF:0,NL: FOX Sports 3 HD ( 1080P )
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123702.m3u8
+#EXTINF:0,NL: Fox Sports 4
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123687.m3u8
+#EXTINF:0,NL: Fox Sports 4 HD ( 1080P )
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123700.m3u8
+#EXTINF:0,NL: Fox Sports 5
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123686.m3u8
+#EXTINF:0,NL: Fox Sports 5 HD ( 1080P )
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123701.m3u8
+#EXTINF:0,NL: Fox Sports 6
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123685.m3u8
+#EXTINF:0,NL: Sport 1 Voetbal
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123676.m3u8
+#EXTINF:0,NL: Ziggo Sport Select FHD 1080
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123674.m3u8
+#EXTINF:0,NL: Ziggo Sport Select HD
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/123704.m3u8
+#EXTINF:0,VIP ES: Bein Sports HD ( 1080P )
+http://hudsmart.xyz:8080/live/gokturk1/gokturk1/122134.m3u8
 #EXTINF:-1 ,Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Arena Sports 2
