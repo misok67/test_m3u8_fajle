@@ -34,26 +34,7 @@ http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.m3u8
 http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/362.m3u8
 #EXTINF:-1,RMC Sport 3
 http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/363.m3u8
-#EXTINF:-1 ,FOX Sport HD 1 -USA-
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1138.m3u8
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4326.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/266.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/267.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/268.m3u8
-#EXTINF:-1,Fox Sports 6 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4331.m3u8
-#EXTINF:-1,ZIGGO SPORT HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74086.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74087.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74088.m3u8
+
 
 
 #EXTINF:-1 ,SP | SKY SPORT Bundesliga 1
@@ -166,64 +147,66 @@ http://hostiptv.com:8089/live/roch/roch123/18319.m3u8
 http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
 #EXTINF:-1 ,SKY SPORT2 HD
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
-#EXTINF:-1 ,beIN SPORTS 1 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/15.m3u8
-#EXTINF:-1 ,beIN SPORTS 2 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/16.m3u8
-#EXTINF:-1 ,beIN SPORTS 3 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/17.m3u8
-#EXTINF:-1 ,beIN SPORTS 4 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/18.m3u8
-#EXTINF:-1 ,beIN SPORTS 5 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/19.m3u8
-#EXTINF:-1 ,beIN SPORTS 6 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/20.m3u8
-#EXTINF:-1 ,beIN SPORTS 7 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/21.m3u8
-#EXTINF:-1 ,beIN SPORTS 8 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/22.m3u8
-#EXTINF:-1 ,beIN SPORTS 9 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/23.m3u8
-#EXTINF:-1 ,beIN SPORTS 10 -4K
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/24.m3u8
-#EXTINF:-1 ,beinsport1
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1786.m3u8
-#EXTINF:-1 ,beinsport2
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1787.m3u8
-#EXTINF:-1 ,beinsport3
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1788.m3u8
-#EXTINF:-1 ,beinsport4
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1789.m3u8
-#EXTINF:-1 ,beinsport hd
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1790.m3u8
-#EXTINF:-1 ,Ksa sport 3
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1791.m3u8
-#EXTINF:-1 ,beinsport5 sd
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1792.m3u8
-#EXTINF:-1 ,beinsport6 sd
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1793.m3u8
-#EXTINF:-1 ,beinsport 8 sd
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1794.m3u8
-#EXTINF:-1 ,beinsport 9 sd
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1795.m3u8
-#EXTINF:-1 ,beinsport 10 sd
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/1796.m3u8
-#EXTINF:-1 ,FR: RMC Sports 3
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/47.m3u8
-#EXTINF:-1 ,FR: RMC Sports 2
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/48.m3u8
-#EXTINF:-1 ,FR: RMC Sports 1
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/49.m3u8
-#EXTINF:-1 ,FR: Infosport HD
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/94.m3u8
-#EXTINF:-1 ,FR: Canal+Sport HD
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/133.m3u8
-#EXTINF:-1 ,FR: beIN SPORTS 3HD
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/151.m3u8
-#EXTINF:-1 ,FR: beIN SPORTS 2HD
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/152.m3u8
-#EXTINF:-1 ,FR: beIN SPORTS 1HD
-http://v1.ola1iptv.com:25461/live/apps256/soiid5VWKx/153.m3u8
+
+#EXTINF:-1 ,|NL|HEVC| FOX SPORTS 3 HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42603.m3u8
+#EXTINF:-1 ,|NL|HEVC| FOX SPORTS 5 HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42601.m3u8
+#EXTINF:-1 ,|NL|HEVC| FOX SPORTS 6 HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42600.m3u8
+#EXTINF:-1 ,|NL|HEVC| ZIGGO SPORT HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42599.m3u8
+#EXTINF:-1 ,|NL|HEVC| ZIGGO SPORT SELECT HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42597.m3u8
+#EXTINF:-1 ,|NL|HEVC| ZIGGO SPORT RACING HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42596.m3u8
+#EXTINF:-1 ,UK | BT Sport ESPN HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52522.m3u8
+#EXTINF:-1 ,UK | BT-Sport-1 FHD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52558.m3u8
+#EXTINF:-1 ,UK | BT-Sport-1-HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52559.m3u8
+#EXTINF:-1 ,UK | BT-Sport-2-HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52557.m3u8
+#EXTINF:-1 ,UK | BT-Sport-3 FHD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52555.m3u8
+#EXTINF:-1 ,UK | Euro-Sport-1 FHD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52529.m3u8
+#EXTINF:-1 ,UK | Euro-Sport-2 FHD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52527.m3u8
+#EXTINF:-1 ,UK | Premier-Sports-1 HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/52533.m3u8
+#EXTINF:-1,DE | DAZN Bar 1 HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42352.m3u8
+#EXTINF:-1,|DE|HEVC| DAZN 1 BAR HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42718.m3u8
+#EXTINF:-1,DE | DAZN Bar 2 HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42351.m3u8
+#EXTINF:-1,|DE|HEVC| DAZN 2 BAR HD
+http://gold.wezzy.pro:8888/live/black111/d332d31re/42717.m3u8
+
+
+#EXTINF:-1,beIN Sports 1 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/232.m3u8
+#EXTINF:-1,beIN Sports 2 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/233.m3u8
+#EXTINF:-1,beIN Sports 3 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/234.m3u8
+#EXTINF:-1,beIN Sports 4 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/235.m3u8
+#EXTINF:-1,beIN Sports 5 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/236.m3u8
+#EXTINF:-1,beIN Sports 6 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/237.m3u8
+#EXTINF:-1,beIN Sports 7 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/238.m3u8
+#EXTINF:-1,beIN Sports 8 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/239.m3u8
+#EXTINF:-1,beIN Sports 9 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/240.m3u8
+#EXTINF:-1,beIN Sports 10 FHD ARB
+http://45.137.149.194:25461/live/262020/262020/241.m3u8
+
 #EXTINF:-1 ,USA: FOX SPORTS 1 HD
 http://cdn.miptv.ws:8880/live/787980/787980/5819.m3u8
 #EXTINF:-1 ,BEIN SPORTS *HQ
