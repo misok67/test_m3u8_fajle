@@ -106,4 +106,31 @@ http://link.iptvlogin.com:6565/live/gibag88782/gibag88782/14248.m3u8
 http://link.iptvlogin.com:6565/live/gibag88782/gibag88782/37893.m3u8
 #EXTINF:0,UK: beIN Sports 12 | HD
 http://link.iptvlogin.com:6565/live/gibag88782/gibag88782/14249.m3u8
-.m3u8
+#EXTINF:0,DEP-Directv Sports 1 (e)(1080)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/955.m3u8
+#EXTINF:0,DEP-Directv Sports 2 (e)(1080)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/959.m3u8
+#EXTINF:0,DEP-Espn + (M2)(1080)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/11655.m3u8
+#EXTINF:0,DEP-Tennis Channel (M)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/23132.m3u8
+#EXTINF:0,ESP-Movistar La Liga (1080)(1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21972.m3u8
+#EXTINF:0,ESP-Movistar Liga Campeones (1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21983.m3u8
+#EXTINF:0,ESP-Movistar Liga Campeones (1080)(1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21984.m3u8
+#EXTINF:0,ESP-Movistar Liga Campeones 2 (1080)(1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21988.m3u8
+#EXTINF:0,ESP-Movistar  Deporte (1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21995.m3u8
+#EXTINF:0,ESP-Movistar Deporte (720)(1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21996.m3u8
+#EXTINF:0,ESP-Movistar Deporte (1080)(1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21997.m3u8
+#EXTINF:0,ESP-MULTIDeporte (1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21998.m3u8
+#EXTINF:0,ESP-Movistar Deporte 1 (1080)(1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21999.m3u8
+#EXTINF:0,ESP-Teledeporte (1080)(1)
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22020.m3u8
