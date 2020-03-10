@@ -1,5 +1,87 @@
 #EXTM3U
 
+#EXTINF:0,RB Leipzig - Tottenham...........FR: RMC Sport 1
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/1865.m3u8
+#EXTINF:0,|FR| RMC SPORT 1
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/94034.m3u8
+#EXTINF:0,UK: BT Sport 2 HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/1873.m3u8
+#EXTINF:0,|UK| BT SPORTS 2 HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/95424.m3u8
+#EXTINF:0,|DE| SKY SPORT 2 HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/94217.m3u8
+#EXTINF:0,L2..DE: Sky Sport 2 HD
+http://bestever.vodiptv.org:83/live/42698520/68845493/375480.m3u8
+#EXTINF:0,L2..BT SPORTS 2 FHD
+http://bestever.vodiptv.org:83/live/42698520/68845493/382158.m3u8
+#EXTINF:0,L2..BT SPORT 2 HD
+http://bestever.vodiptv.org:83/live/42698520/68845493/382159.m3u8
+#EXTINF:0,L2..VIP SD BT Sports 2
+http://bestever.vodiptv.org:83/live/42698520/68845493/304100.m3u8
+#EXTINF:-1,Arena Sport 1  sr.m3u8
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/90.m3u8.m3u8
+#EXTINF:0,DE: Dazn 1
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/1882.m3u8
+#EXTINF:0,L2..beIN-SPORTSFHD11
+http://bestever.vodiptv.org:83/live/42698520/68845493/381903.m3u8
+#EXTINF:0,L2..beIN-SPORTSFHD1
+http://bestever.vodiptv.org:83/live/42698520/68845493/381893.m3u8
+#EXTINF:0,Sky Sport 253 Full HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/1780.m3u8
+
+
+#EXTINF:0,Valencia - Atalanta............|FR| RMC SPORT 2
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/94035.m3u8
+#EXTINF:-1,Arena Sport 2  sr
+http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/91.m3u8
+
+#EXTINF:0,Sky Sport Uno HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/1748.m3u8
+#EXTINF:0,Sky Sport Uno Full HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/1749.m3u8
+#EXTINF:0,|DE| SKY SPORT 1 HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/94216.m3u8
+#EXTINF:0,L2..DE: Sky Sport 1 HD
+http://bestever.vodiptv.org:83/live/42698520/68845493/375479.m3u8
+#EXTINF:0,|UK| BT SPORTS 3 HD
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/95425.m3u8
+#EXTINF:0,L2..VIP SD BT Sports 3
+http://bestever.vodiptv.org:83/live/42698520/68845493/304099.m3u8
+#EXTINF:0,L2..UK BT SPORTS 3 HD
+http://bestever.vodiptv.org:83/live/42698520/68845493/309256.m3u8
+#EXTINF:0,DE: Dazn 2
+http://iup134.ddns.net:25461/live/ITbks10353/86860723/1883.m3u8
+#EXTINF:0,L2..beIN-SPORTSFHD12
+http://bestever.vodiptv.org:83/live/42698520/68845493/381904.m3u8
+#EXTINF:0,L2..beIN-SPORTSFHD2
+http://bestever.vodiptv.org:83/live/42698520/68845493/381894.m3u8
+
+#EXTINF:0,|AR| BEIN SPORTS 1 FHD
+http://iptvpro.premium-tv.media:8789/live/PirlGZuLaZ/YhEkMjbfe1/13611.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 2 FHD
+http://iptvpro.premium-tv.media:8789/live/PirlGZuLaZ/YhEkMjbfe1/13610.m3u8
+#EXTINF:0,|AR| BEINSPORT 11 HD
+http://iptvpro.premium-tv.media:8789/live/PirlGZuLaZ/YhEkMjbfe1/24977.m3u8
+#EXTINF:0,M.LCAMPEONES HD
+http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/632.m3u8
+#EXTINF:0,M.LCAMPEONES SD
+http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/60.m3u8
+#EXTINF:0,M.LCAMPEON1 hd
+http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/134.m3u8
+#EXTINF:0,M.LCAMPEON2 hd
+http://wanbadan.tv:8000/live/WvYwjtJQ5y/IqaU4IFLr7/136.m3u8
+#EXTINF:-1,BeInSport 1 HD
+http://cdng.pubcdn.tn/iptv/ch111?code=1701341723961808.m3u8
+#EXTINF:-1,BeInSport 1 SD.m3u8
+http://cdng.pubcdn.tn/iptv/ch8111?code=1701341723961808.m3u8
+#EXTINF:-1,BeInSport 2 HD.m3u8
+http://cdng.pubcdn.tn/iptv/ch112?code=1701341723961808.m3u8
+#EXTINF:-1,BeInSport 11 HD.m3u8
+http://cdng.pubcdn.tn/iptv/ch512?code=1701341723961808.m3u8
+#EXTINF:-1,BeInSport 12 HD.m3u8
+http://cdng.pubcdn.tn/iptv/ch513?code=1701341723961808.m3u8
+
+
 #EXTINF:-1,Sport Klub 1 HR
 http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/109.m3u8
 #EXTINF:-1,Sport Klub 2 HR
