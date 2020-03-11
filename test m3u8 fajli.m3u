@@ -14,6 +14,9 @@ http://iup134.ddns.net:25461/live/ITbks10353/86860723/1873.m3u8
 http://iup134.ddns.net:25461/live/ITbks10353/86860723/95424.m3u8
 #EXTINF:0,|DE| SKY SPORT 2 HD
 http://iup134.ddns.net:25461/live/ITbks10353/86860723/94217.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/2890.m3u8
+
 #EXTINF:-1,|DE| SKY SPORT 1
 http://siptv-online.com:8789/live/Jeanpaulgaut/825628/23703.m3u8
 #EXTINF:0,L2..DE: Sky Sport 2 HD
@@ -46,6 +49,8 @@ http://iup134.ddns.net:25461/live/ITbks10353/86860723/94216.m3u8
 http://siptv-online.com:8789/live/Jeanpaulgaut/825628/60696.m3u8
 #EXTINF:0,|UK| BT SPORTS 3 HD
 http://iup134.ddns.net:25461/live/ITbks10353/86860723/95425.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/2891.m3u8
 #EXTINF:0,DE: Dazn 2
 http://iup134.ddns.net:25461/live/ITbks10353/86860723/1883.m3u8
 #EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
