@@ -1,32 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Sport Klub 1 HR
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/109.m3u8
-#EXTINF:-1,Sport Klub 2 HR
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/110.m3u8
-#EXTINF:-1,Sport Klub 3  hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/111.m3u8
-#EXTINF:-1,Sport Klub 1
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/103.m3u8
-#EXTINF:-1,Sport Klub 2
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/104.m3u8
-#EXTINF:-1,Sport Klub 3
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/105.m3u8
-#EXTINF:-1,Sport Klub 4
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/106.m3u8
-#EXTINF:-1,Arena Sport 1 - hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/95.m3u8
-#EXTINF:-1,Arena Sport 2 - hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/96.m3u8
-#EXTINF:-1,Arena Sport 3 - hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/97.m3u8
-#EXTINF:-1,Arena Sport 4 - hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/98.m3u8
-#EXTINF:-1,Arena Sport 5 - hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/99.m3u8
-#EXTINF:-1,Arena Sport 1  sr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/90.m3u8
-
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
@@ -37,44 +10,128 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,|EX-YU| RTL 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54107.m3u8
+#EXTINF:-1,|EX-YU| DOMA TV
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54115.m3u8
+#EXTINF:-1,|EX-YU| NOVA HR
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54117.m3u8
+#EXTINF:-1 ,EX YU: HBO ADRIA
+http://104.218.60.145:83/live/Elonge/4049153347@/379134.m3u8
+#EXTINF:-1 ,EX YU: HBO 2
+http://104.218.60.145:83/live/Elonge/4049153347@/379130.m3u8
+#EXTINF:-1 ,EX YU: HBO ADRIA
+http://104.218.60.145:83/live/Elonge/4049153347@/379134.m3u8
+#EXTINF:-1 ,EX YU: CINEMAX-2
+http://104.218.60.145:83/live/Elonge/4049153347@/379121.m3u8
+#EXTINF:-1 ,EX-YU: RTS HD
+http://104.218.60.145:83/live/Elonge/4049153347@/379213.m3u8
+#EXTINF:-1 ,EX-YU: RTS 3
+http://104.218.60.145:83/live/Elonge/4049153347@/379212.m3u8
+#EXTINF:-1,|EX-YU| HBO ADRIA
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54084.m3u8
+#EXTINF:-1,|EX-YU| FOX MOVIES
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54086.m3u8
+#EXTINF:-1,|EX-YU| HBO HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54103.m3u8
+#EXTINF:-1,|EX-YU| HBO HD 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54104.m3u8
+#EXTINF:-1,|EX-YU| HBO 3
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54105.m3u8
+#EXTINF:-1,|EX-YU| CINEMAX HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54132.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR ACTION
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54133.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR FANTASY HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54134.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR PREMIER 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54135.m3u8
+#EXTINF:-1,|EX-YU| CINESTAR PREMIERE 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54136.m3u8
+#EXTINF:-1,|EX-YU| HBO 2 SLO
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54150.m3u8
+#EXTINF:-1,|EX-YU| HBO COMEDY
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54151.m3u8
+#EXTINF:-1,|EX-YU| PINK FILM
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54075.m3u8
+#EXTINF:-1,|EX-YU| RTS 1
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54119.m3u8
+#EXTINF:-1,|EX-YU| RTS 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54120.m3u8
 
-#EXTINF:-1,Nova TV  hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/40.m3u8
-#EXTINF:-1,Doma TV
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/41.m3u8
-#EXTINF:-1,RTL 2  hr
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/39.m3u8
-#EXTINF:-1,HBO 
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/1227.m3u8
-#EXTINF:-1,HBO 2 
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/59.m3u8
-#EXTINF:-1,HBO 3 
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/60.m3u8
-#EXTINF:-1,CINEMAX2HD
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/70.m3u8
-#EXTINF:-1,CINEMAXhd
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/69.m3u8
-#EXTINF:-1,Cinestar Premiere 1
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/66.m3u8
-#EXTINF:-1,cinestar premiere 2
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/67.m3u8
-#EXTINF:-1,CineStar TV Fantasy
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/807.m3u8
-#EXTINF:-1,Cinestar Action
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/375.m3u8
-#EXTINF:-1,Cinestar tv
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/68.m3u8
-#EXTINF:-1,FOX movies
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/63.m3u8
-#EXTINF:-1,KLASIK tv
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/1210.m3u8
-#EXTINF:-1,Pink film
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/77.m3u8
-#EXTINF:-1,RTS 1
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/21.m3u8
-#EXTINF:-1,RTS 2
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/22.m3u8
-#EXTINF:-1,TV 1000
-http://fisek1.sveokpro.com:7990/live/Mideriz/Klj2318hu/61.m3u8
 
-
+#EXTINF:0,|EX-YU| ARENA SPORT 1 (SR)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54227.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 2 (SR)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54228.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 3 (SR)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54229.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 4 (SR)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54230.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 5 (SR)
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54231.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 1 HR
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54251.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 2 HR
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54250.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 3 HR
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54249.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 5 HR
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54247.m3u8
+#EXTINF:0,|EX-YU| ARENA SPORT 4 HR
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54248.m3u8
+#EXTINF:0,|AR| BEIN SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13688live/
+#EXTINF:0,|AR| BEIN SPORTS 1 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13595live/
+#EXTINF:0,|AR| BEIN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13687live/
+#EXTINF:0,|AR| BEIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13686live/
+#EXTINF:0,|AR| BEIN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13685live/
+#EXTINF:0,|AR| BEIN SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13684live/
+#EXTINF:0,|AR| BEIN SPORTS 3 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13683live/
+#EXTINF:0,|AR| BEIN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13682live/
+#EXTINF:0,|AR| BEIN SPORTS 4 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13681live/
+#EXTINF:0,|AR| BEIN SPORTS 5 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13680live/
+#EXTINF:0,|AR| BEIN SPORTS 5 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13679live/
+#EXTINF:0,|AR| BEIN SPORTS 6 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13678live/
+#EXTINF:0,|AR| BEIN SPORTS 6 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13677live/
+#EXTINF:0,|AR| BEIN SPORTS 7 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13676live/
+#EXTINF:0,|AR| BEIN SPORTS 7 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13675live/
+#EXTINF:0,|AR| BEIN SPORTS 8 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13674live/
+#EXTINF:0,|AR| BEIN SPORTS 8 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13673live/
+#EXTINF:0,|AR| BEIN SPORTS 9 HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13672live/
+#EXTINF:0,|AR| BEIN SPORTS 9 BKP
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13587live/
+#EXTINF:-1,DE| SKY SPORT 1HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23705live/
+#EXTINF:-1,DE|SKY SPORT 2
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23702live/
+#EXTINF:-1,DE| SKY SPORT 3HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23701live/
+#EXTINF:-1,DE| SKY SPORT 4HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23700live/
+#EXTINF:-1,DE| SKY SPORT 5HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23699live/
+#EXTINF:-1,DE| SKY SPORT 6HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23698live/
+#EXTINF:-1,DE| SKY SPORT 7HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23697live/
+#EXTINF:-1,DE| SKY BUNDESLIGA 1HD
+http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23696live/
+live/
