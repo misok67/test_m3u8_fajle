@@ -11,127 +11,90 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,RTL 2
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54107.m3u8
-#EXTINF:-1,DOMA TV
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54115.m3u8
-#EXTINF:-1,NOVA HR
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54117.m3u8
-#EXTINF:-1 ,HBO ADRIA
-http://104.218.60.145:83/live/Elonge/4049153347@/379134.m3u8
-#EXTINF:-1 ,HBO 2
-http://104.218.60.145:83/live/Elonge/4049153347@/379130.m3u8
-#EXTINF:-1 ,HBO ADRIA
-http://104.218.60.145:83/live/Elonge/4049153347@/379134.m3u8
-#EXTINF:-1 ,CINEMAX-2
-http://104.218.60.145:83/live/Elonge/4049153347@/379121.m3u8
-#EXTINF:-1 ,RTS HD
-http://104.218.60.145:83/live/Elonge/4049153347@/379213.m3u8
-#EXTINF:-1 ,RTS 3
-http://104.218.60.145:83/live/Elonge/4049153347@/379212.m3u8
-#EXTINF:-1,HBO ADRIA
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54084.m3u8
-#EXTINF:-1,FOX MOVIES
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54086.m3u8
-#EXTINF:-1,HBO HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54103.m3u8
-#EXTINF:-1,HBO HD 2
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54104.m3u8
-#EXTINF:-1,HBO 3
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54105.m3u8
-#EXTINF:-1,CINEMAX HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54132.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54133.m3u8
-#EXTINF:-1,CINESTAR FANTASY HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54134.m3u8
-#EXTINF:-1,CINESTAR PREMIER 2
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54135.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54136.m3u8
-#EXTINF:-1,HBO 2 SLO
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54150.m3u8
-#EXTINF:-1,HBO COMEDY
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54151.m3u8
-#EXTINF:-1,PINK FILM
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54075.m3u8
-#EXTINF:-1,RTS 1
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54119.m3u8
-#EXTINF:-1,RTS 2
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54120.m3u8
+http://p4.giffy.be:8080/live/Testing1/Testing1/64192.m3u8
+#EXTINF:-1,NOVA TV
+http://p4.giffy.be:8080/live/Testing1/Testing1/64229.m3u8
 
 
-#EXTINF:0,ARENA SPORT 1 (SR)
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54227.m3u8
-#EXTINF:0,ARENA SPORT 2 (SR)
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54228.m3u8
-#EXTINF:0,ARENA SPORT 3 (SR)
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54229.m3u8
-#EXTINF:0,ARENA SPORT 4 (SR)
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54230.m3u8
-#EXTINF:0,ARENA SPORT 5 (SR)
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54231.m3u8
-#EXTINF:0,ARENA SPORT 1 HR
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54251.m3u8
-#EXTINF:0,ARENA SPORT 2 HR
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54250.m3u8
-#EXTINF:0,ARENA SPORT 3 HR
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54249.m3u8
-#EXTINF:0,ARENA SPORT 5 HR
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54247.m3u8
-#EXTINF:0,ARENA SPORT 4 HR
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/54248.m3u8
-#EXTINF:0,|AR| BEIN SPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13688live/
-#EXTINF:0,|AR| BEIN SPORTS 1 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13595live/
-#EXTINF:0,|AR| BEIN SPORTS 2 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13687live/
-#EXTINF:0,|AR| BEIN SPORTS 2 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13686live/
-#EXTINF:0,|AR| BEIN SPORTS 2 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13685live/
-#EXTINF:0,|AR| BEIN SPORTS 3 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13684live/
-#EXTINF:0,|AR| BEIN SPORTS 3 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13683live/
-#EXTINF:0,|AR| BEIN SPORTS 4 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13682live/
-#EXTINF:0,|AR| BEIN SPORTS 4 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13681live/
-#EXTINF:0,|AR| BEIN SPORTS 5 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13680live/
-#EXTINF:0,|AR| BEIN SPORTS 5 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13679live/
-#EXTINF:0,|AR| BEIN SPORTS 6 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13678live/
-#EXTINF:0,|AR| BEIN SPORTS 6 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13677live/
-#EXTINF:0,|AR| BEIN SPORTS 7 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13676live/
-#EXTINF:0,|AR| BEIN SPORTS 7 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13675live/
-#EXTINF:0,|AR| BEIN SPORTS 8 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13674live/
-#EXTINF:0,|AR| BEIN SPORTS 8 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13673live/
-#EXTINF:0,|AR| BEIN SPORTS 9 HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13672live/
-#EXTINF:0,|AR| BEIN SPORTS 9 BKP
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/13587live/
-#EXTINF:-1,DE| SKY SPORT 1HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23705live/
-#EXTINF:-1,DE|SKY SPORT 2
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23702live/
-#EXTINF:-1,DE| SKY SPORT 3HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23701live/
-#EXTINF:-1,DE| SKY SPORT 4HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23700live/
-#EXTINF:-1,DE| SKY SPORT 5HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23699live/
-#EXTINF:-1,DE| SKY SPORT 6HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23698live/
-#EXTINF:-1,DE| SKY SPORT 7HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23697live/
-#EXTINF:-1,DE| SKY BUNDESLIGA 1HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/23696live/
-live/
+#EXTINF:-1,UK:BT SPORT 1
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4758.m3u8
+#EXTINF:-1,UK:BT SPORT 2
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4759.m3u8
+#EXTINF:-1,UK:BT SPORT 3
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4760.m3u8
+#EXTINF:-1,UK:BT SPORT ESPN HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1512.m3u8
+#EXTINF:-1,UK | EVELEVEN SPORTS 1
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32749.m3u8
+#EXTINF:-1,UK | PREMIERE SPORTS
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32743.m3u8
+#EXTINF:-1,UK | SETANTA/PREMIERE SPORTS
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32754.m3u8
+#EXTINF:-1,UK:SETANTA SPORTS HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1501.m3u8
+#EXTINF:-1,UK:SKY SPORTS ARENA HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1016.m3u8
+#EXTINF:-1,UK:SKY SPORTS ACTION HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1018.m3u8
+#EXTINF:-1,UK:SKY SPORTS GOLF HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1019.m3u8
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1020.m3u8
+#EXTINF:-1,UK:Sky Sport Main Event HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22754.m3u8
+#EXTINF:-1,UK:Sky Sports Premier League
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22755.m3u8
+
+#EXTINF:-1,UK : BBC WORLD NEWS
+http://rayito-tv.xyz:41001/live/Armando/1234/34942.m3u8
+#EXTINF:-1,UK:BBC 1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1495.m3u8
+#EXTINF:-1,UK:BBC 2 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1496.m3u8
+#EXTINF:-1,UK:BBC 3 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1497.m3u8
+#EXTINF:-1,UK:BBC 4 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1498.m3u8
+
+
+#EXTINF:-1,ENGLISH | CNN
+http://p4.giffy.be:8080/live/Testing1/Testing1/21275.m3u8
+#EXTINF:-1,UK | ITV 1
+http://p4.giffy.be:8080/live/Testing1/Testing1/64397.m3u8
+#EXTINF:-1,UK | ITV 2
+http://p4.giffy.be:8080/live/Testing1/Testing1/64398.m3u8
+#EXTINF:-1,UK | ITV 3
+http://p4.giffy.be:8080/live/Testing1/Testing1/64396.m3u8
+#EXTINF:-1,UK | ITV 4
+http://p4.giffy.be:8080/live/Testing1/Testing1/64395.m3u8
+#EXTINF:-1,UK | SKY ARTS+
+http://p4.giffy.be:8080/live/Testing1/Testing1/64374.m3u8
+#EXTINF:-1,UK | SKY CINEMA PREMIER  FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64330.m3u8
+#EXTINF:-1,UK | SKY ATLANTIC HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64331.m3u8
+#EXTINF:-1,UK | SKY CINEMA THRILLER HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64333.m3u8
+#EXTINF:-1,UK | SKY CINEMA SELECT HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64334.m3u8
+#EXTINF:-1,UK | SKY CINEMA SCFI/HOR HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64335.m3u8
+#EXTINF:-1,UK | SKY CINEMA PREMIERE HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64336.m3u8
+#EXTINF:-1,UK | SKY CINEMA HITS HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64337.m3u8
+#EXTINF:-1,UK | SKY CINEMA GREATS HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64338.m3u8
+#EXTINF:-1,UK | SKY CINEMA FAMILY HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64339.m3u8
+#EXTINF:-1,UK | SKY CINEMA DRAMA HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64340.m3u8
+#EXTINF:-1,UK | SKY CINEMA DISNEY HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64341.m3u8
+#EXTINF:-1,UK | SKY CINEMA COMEDY HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64342.m3u8
+#EXTINF:-1,UK | SKY CINEMA ACTION HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64343.m3u8
+#EXTINF:-1,UK | SKY CINEMA CRIME HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64344.m3u8
+
