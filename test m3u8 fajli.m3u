@@ -14,8 +14,71 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://p4.giffy.be:8080/live/Testing1/Testing1/64192.m3u8
 #EXTINF:-1,NOVA TV
 http://p4.giffy.be:8080/live/Testing1/Testing1/64229.m3u8
+#EXTINF:-1,NOVA TV HD 
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7909.m3u8
+#EXTINF:-1,DOMA TV HD 
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7910.m3u8
+#EXTINF:-1,RTL 2 HD 
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7505.m3u8
+#EXTINF:-1,DOMA TV HD HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17588.m3u8
+#EXTINF:-1,NOVA TV  HD HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17589.m3u8
+#EXTINF:-1,HR:RTL 2 (HR)
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17586.m3u8
+#EXTINF:-1,: CINESTAR TV HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7498.m3u8
+#EXTINF:-1,: CINESTAR ACTION
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7500.m3u8
+#EXTINF:-1,: CINESTAR PREMIERE 1
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7375.m3u8
+#EXTINF:-1,: CINESTAR PREMIERE 2
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7499.m3u8
+#EXTINF:-1,: CINEMAX 1 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7501.m3u8
+#EXTINF:-1,: CINEMAX 1
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7378.m3u8
+#EXTINF:-1,: CINEMAX 2
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7377.m3u8
+#EXTINF:-1,: NOVA HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7494.m3u8
+#EXTINF:-1,RTS 1 HD 
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7503.m3u8
+#EXTINF:-1,RTS 2 HD 
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7504.m3u8
+#EXTINF:-1,:RTS SAT HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/8203.m3u8
+#EXTINF:-1,: FOX MOVIES
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7510.m3u8
 
-
+#EXTINF:-1,EXYU: SPORT KLUB 1
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7338.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 2
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7337.m3u8
+#EXTINF:-1,EXYU: SPORT KLUB 3 HD
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7336.m3u8
+#EXTINF:-1,HR:SPORT KLUB 1 HD HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17567.m3u8
+#EXTINF:-1,HR:SPORT KLUB 2 HD HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17566.m3u8
+#EXTINF:-1,HR:SPORT KLUB 3 HD HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17565.m3u8
+#EXTINF:-1,HR:SPORT KLUB 4 HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17564.m3u8
+#EXTINF:-1,HR:SPORT KLUB 5 HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17563.m3u8
+#EXTINF:-1,HR:SPORT KLUB 6 HR
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17562.m3u8
+#EXTINF:-1,HR:ARENA SPORT 1 HD (HR)
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17573.m3u8
+#EXTINF:-1,HR:ARENA SPORT 2 HD (HR)
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17572.m3u8
+#EXTINF:-1,HR:ARENA SPORT 3 HD (HR)
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17571.m3u8
+#EXTINF:-1,HR:ARENA SPORT 4 HD (HR)
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17570.m3u8
+#EXTINF:-1,HR:ARENA SPORT 5 HD (HR)
+http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17569.m3u8
 #EXTINF:-1,UK:BT SPORT 1
 http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4758.m3u8
 #EXTINF:-1,UK:BT SPORT 2
