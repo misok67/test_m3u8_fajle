@@ -14,211 +14,115 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 http://p4.giffy.be:8080/live/Testing1/Testing1/64192.m3u8
 #EXTINF:-1,NOVA TV
 http://p4.giffy.be:8080/live/Testing1/Testing1/64229.m3u8
-#EXTINF:-1,NOVA TV HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7909.m3u8
-#EXTINF:-1,DOMA TV HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7910.m3u8
-#EXTINF:-1,RTL 2 HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7505.m3u8
-#EXTINF:-1,DOMA TV HD HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17588.m3u8
-#EXTINF:-1,NOVA TV  HD HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17589.m3u8
-#EXTINF:-1,HR:RTL 2 (HR)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17586.m3u8
-#EXTINF:-1,: CINESTAR TV HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7498.m3u8
-#EXTINF:-1,: CINESTAR ACTION
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7500.m3u8
-#EXTINF:-1,: CINESTAR PREMIERE 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7375.m3u8
-#EXTINF:-1,: CINESTAR PREMIERE 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7499.m3u8
-#EXTINF:-1,: CINEMAX 1 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7501.m3u8
-#EXTINF:-1,: CINEMAX 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7378.m3u8
-#EXTINF:-1,: CINEMAX 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7377.m3u8
-#EXTINF:-1,: NOVA HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7494.m3u8
-#EXTINF:-1,RTS 1 HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7503.m3u8
-#EXTINF:-1,RTS 2 HD 
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7504.m3u8
-#EXTINF:-1,:RTS SAT HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/8203.m3u8
-#EXTINF:-1,: FOX MOVIES
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7510.m3u8
+#EXTINF:-1,NOVA TV HR
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379177.m3u8
+#EXTINF:-1,EX YU: NOVA TV HR
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379127.m3u8
+#EXTINF:-1,EX YU: RTL 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379126.m3u8
+#EXTINF:-1,EX YU: DOMA-TV
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379122.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379136.m3u8
+#EXTINF:-1,CINESTAR PREMIER 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379135.m3u8
+#EXTINF:-1,EX YU: HBO ADRIA
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379134.m3u8
+#EXTINF:-1,EX YU: HBO 2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379130.m3u8
+#EXTINF:-1,EX YU: HBO 3
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379123.m3u8
+#EXTINF:-1,FOX MOVIES
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379155.m3u8
+#EXTINF:-1,EX YU: CINEMAX-2
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379121.m3u8
+#EXTINF:-1,EX YU: CINEMAX 1
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379120.m3u8
+#EXTINF:-1,PINK FILM
+http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
 
-#EXTINF:-1,EXYU: SPORT KLUB 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7338.m3u8
-#EXTINF:-1,EXYU: SPORT KLUB 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7337.m3u8
-#EXTINF:-1,EXYU: SPORT KLUB 3 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/7336.m3u8
-#EXTINF:-1,HR:SPORT KLUB 1 HD HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17567.m3u8
-#EXTINF:-1,HR:SPORT KLUB 2 HD HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17566.m3u8
-#EXTINF:-1,HR:SPORT KLUB 3 HD HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17565.m3u8
-#EXTINF:-1,HR:SPORT KLUB 4 HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17564.m3u8
-#EXTINF:-1,HR:SPORT KLUB 5 HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17563.m3u8
-#EXTINF:-1,HR:SPORT KLUB 6 HR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17562.m3u8
-#EXTINF:-1,HR:ARENA SPORT 1 HD (HR)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17573.m3u8
-#EXTINF:-1,HR:ARENA SPORT 2 HD (HR)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17572.m3u8
-#EXTINF:-1,HR:ARENA SPORT 3 HD (HR)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17571.m3u8
-#EXTINF:-1,HR:ARENA SPORT 4 HD (HR)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17570.m3u8
-#EXTINF:-1,HR:ARENA SPORT 5 HD (HR)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/17569.m3u8
-#EXTINF:-1,UK:BT SPORT 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4758.m3u8
-#EXTINF:-1,UK:BT SPORT 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4759.m3u8
-#EXTINF:-1,UK:BT SPORT 3
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4760.m3u8
-#EXTINF:-1,UK:BT SPORT ESPN HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1512.m3u8
-#EXTINF:-1,UK | EVELEVEN SPORTS 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32749.m3u8
-#EXTINF:-1,UK | PREMIERE SPORTS
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32743.m3u8
-#EXTINF:-1,UK | SETANTA/PREMIERE SPORTS
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32754.m3u8
-#EXTINF:-1,UK:SETANTA SPORTS HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1501.m3u8
-#EXTINF:-1,UK:SKY SPORTS ARENA HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1016.m3u8
-#EXTINF:-1,UK:SKY SPORTS ACTION HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1018.m3u8
-#EXTINF:-1,UK:SKY SPORTS GOLF HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1019.m3u8
-#EXTINF:-1,UK:SKY SPORTS F1 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1020.m3u8
-#EXTINF:-1,UK:Sky Sport Main Event HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22754.m3u8
-#EXTINF:-1,UK:Sky Sports Premier League
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22755.m3u8
-#EXTINF:-1,RMC SPORT 1 HD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1729.m3u8
-#EXTINF:-1,RMC SPORT 2 HD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1728.m3u8
-#EXTINF:-1,RMC SPORT 3 HD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1739.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/115.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/114.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/113.m3u8
-#EXTINF:-1,RMC SPORT 1 FHD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38794.m3u8
-#EXTINF:-1,RMC SPORT 2 FHD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38795.m3u8
-#EXTINF:-1,RMC SPORT 3 FHD FR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/38796.m3u8
-#EXTINF:-1,DAZN 1 HD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/35588.m3u8
-#EXTINF:-1,DAZN 1 BAR FHD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22499.m3u8
-#EXTINF:-1,DAZN 1 BAR UHD 2K (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/56832.m3u8
-#EXTINF:-1,DAZN 2 HD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/35589.m3u8
-#EXTINF:-1,DAZN 2 BAR FHD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/22500.m3u8
-#EXTINF:-1,DAZN 2 BAR UHD 2K (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/56833.m3u8
-#EXTINF:-1,SKY SPORT NEWS HD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1028.m3u8
-#EXTINF:-1,SKY SPORT NEWS FHD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/20683.m3u8
-#EXTINF:-1,SKY SPORT 1 FHD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/3697.m3u8
-#EXTINF:-1,SKY SPORT 2 FHD (DE)
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1027.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1138.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT FHD NL
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4326.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD NL
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/266.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD NL
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/267.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD NL
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/268.m3u8
-#EXTINF:-1,FOX SPORTS 6 HD NL
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4331.m3u8
-#EXTINF:-1,RO:SPORT KLUB 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2174.m3u8
-#EXTINF:-1,RO:SPORT KLUB 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2173.m3u8
-#EXTINF:-1,RO:SPORT KLUB 3
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/2172.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46658.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46659.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46660.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46661.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46662.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46663.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46664.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/46665.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/50724.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/50725.m3u8
-#EXTINF:-1,BEIN SPORTS 12 HD AR
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/50726.m3u8
-#EXTINF:-1,TELEDEPORTE HD ES
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4162.m3u8
-#EXTINF:-1,MOVISTAR+  DEPORTES 1 HD ES
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/4201.m3u8
-#EXTINF:-1,IT: SKY SPORT SERIE A HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/23706.m3u8
-#EXTINF:-1,IT: SKY SPORT 24 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/23705.m3u8
-#EXTINF:-1,IT: SKY SPORT UNO HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/23703.m3u8
-#EXTINF:-1,IT: SKY SPORT ARENA HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/23708.m3u8
-#EXTINF:-1,IT: SKY SPORT FOOTBALL HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/23704.m3u8
-#EXTINF:-1,USA | FOX SPORTS 1
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/9476.m3u8
-#EXTINF:-1,USA | FOX SPORTS 2
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/9475.m3u8
-#EXTINF:-1,USA | TENNIS CHANNEL
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/32725.m3u8
-#EXTINF:-1,CAMPEONES - 2018
-http://uiptv.dyndns.tv:8000/live/movie/Germany1/Germany1/72806.mkv.m3u8
-
-
-#EXTINF:-1,UK : BBC WORLD NEWS
-http://rayito-tv.xyz:41001/live/Armando/1234/34942.m3u8
-#EXTINF:-1,UK:BBC 1 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1495.m3u8
-#EXTINF:-1,UK:BBC 2 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1496.m3u8
-#EXTINF:-1,UK:BBC 3 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1497.m3u8
-#EXTINF:-1,UK:BBC 4 HD
-http://uiptv.dyndns.tv:8000/live/Germany1/Germany1/1498.m3u8
+#EXTINF:-1,ESP | BEIN SPORTS SD 
+http://p4.giffy.be:8080/live/Testing1/Testing1/45034.m3u8
+#EXTINF:-1,UK-S | BT SPORTS 1
+http://p4.giffy.be:8080/live/Testing1/Testing1/64285.m3u8
+#EXTINF:-1,UK-S | BT SPORTS 2
+http://p4.giffy.be:8080/live/Testing1/Testing1/64286.m3u8
+#EXTINF:-1,UK-S | BT SPORTS ESPN
+http://p4.giffy.be:8080/live/Testing1/Testing1/64287.m3u8
+#EXTINF:-1,UK-S | SKY SPORTS ACTION FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64289.m3u8
+#EXTINF:-1,UK-S | SKY SPORTS ARENA FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/64291.m3u8
+#EXTINF:-1,UK-S | SKY SPORTS F1
+http://p4.giffy.be:8080/live/Testing1/Testing1/64293.m3u8
+#EXTINF:-1,UK-S | SKY SPORTS FOOTBALL
+http://p4.giffy.be:8080/live/Testing1/Testing1/64294.m3u8
+#EXTINF:-1,US-S | FOX SPORTS 1 
+http://p4.giffy.be:8080/live/Testing1/Testing1/11584.m3u8
+#EXTINF:-1,US-S | FOX SPORTS 2 
+http://p4.giffy.be:8080/live/Testing1/Testing1/11585.m3u8
+#EXTINF:-1,US-S | TENNIS CHANNEL 
+http://p4.giffy.be:8080/live/Testing1/Testing1/11635.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 1 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64099.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 2 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64101.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 3 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64103.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 4 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64105.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 5 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64107.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 6 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64109.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 7 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64111.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 8 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64113.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 9 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64115.m3u8
+#EXTINF:-1,OSN | BEIN SPORTS 10 HEVC
+http://p4.giffy.be:8080/live/Testing1/Testing1/64117.m3u8
+#EXTINF:-1,IT-S | DAZN 1 FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/63527.m3u8
+#EXTINF:-1,GERM | SKY SPORT NEWS.
+http://p4.giffy.be:8080/live/Testing1/Testing1/13841.m3u8
+#EXTINF:-1,ESP | TELEDEPORTE
+http://p4.giffy.be:8080/live/Testing1/Testing1/53563.m3u8
+#EXTINF:-1,ESP | MOVISTAR LIGA CAMPEONES
+http://p4.giffy.be:8080/live/Testing1/Testing1/53584.m3u8
+#EXTINF:-1,ESP | MOVISTAR LIGA CAMPEONES 2
+http://p4.giffy.be:8080/live/Testing1/Testing1/53585.m3u8
+#EXTINF:-1,ESP | MOVISTAR DEPORTES
+http://p4.giffy.be:8080/live/Testing1/Testing1/53586.m3u8
+#EXTINF:-1,IT | SUPER TENNIS FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/63358.m3u8
+#EXTINF:-1,IT | SKY SPORT UNO FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/63362.m3u8
+#EXTINF:-1,IT | SKY SPORT NBA FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/63363.m3u8
+#EXTINF:-1,IT | SKY SPORT FOOTBALL FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/63365.m3u8
+#EXTINF:-1,IT | SKY SPORT F1 FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/63366.m3u8
+#EXTINF:-1,IT | SKY SPORT ARENA FHD
+http://p4.giffy.be:8080/live/Testing1/Testing1/63367.m3u8
+#EXTINF:-1,NL | FOX SPORTS 3 | HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/68741.m3u8
+#EXTINF:-1,NL | FOX SPORTS 4 | HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/68742.m3u8
+#EXTINF:-1,NL | FOX SPORTS 5 | HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/68743.m3u8
+#EXTINF:-1,NL | FOX SPORTS 6 | HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/68744.m3u8
+#EXTINF:-1,NL-S | ZIGGO SPORT SELECT HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/68796.m3u8
+#EXTINF:-1,NL-S | ZIGGO SPORT VOETBAL HD
+http://p4.giffy.be:8080/live/Testing1/Testing1/68797.m3u8
+#EXTINF:-1,PERU | MOVIE STAR DEPORTES 
+http://p4.giffy.be:8080/live/Testing1/Testing1/68849.m3u8
 
 
 #EXTINF:-1,ENGLISH | CNN
