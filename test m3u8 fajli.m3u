@@ -42,6 +42,49 @@ http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379121.m3u8
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379120.m3u8
 #EXTINF:-1,PINK FILM
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
+#EXTINF:-1,HBO (HD)
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64581.m3u8
+#EXTINF:-1,HBO 1 HD
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64573.m3u8
+#EXTINF:-1,HBO 2 (HD)
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64579.m3u8
+#EXTINF:-1,HBO 2 (HD).
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64578.m3u8
+#EXTINF:-1,HBO 3
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64580.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64530.m3u8
+#EXTINF:-1,PINK FILM
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64550.m3u8
+#EXTINF:-1,FOX MOVIES HD (HR SUB)
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64574.m3u8
+#EXTINF:-1,RTL 2
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64669.m3u8
+#EXTINF:-1,RTS 1
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64582.m3u8
+#EXTINF:-1,RTS 1 (LOCAL)
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64586.m3u8
+#EXTINF:-1,RTS 2
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64583.m3u8
+#EXTINF:-1,RTS 2 (LOCAL)
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64587.m3u8
+#EXTINF:-1,TV 1000
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64628.m3u8
+#EXTINF:-1,SI: HBO 2
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64691.m3u8
+#EXTINF:-1,SI: HBO 3
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64692.m3u8
+#EXTINF:-1,SI: NOVA 24 TV
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64699.m3u8
+#EXTINF:-1,BG: CINEMAX 1
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64711.m3u8
+#EXTINF:-1,BG: CINEMAX 2
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64712.m3u8
+#EXTINF:-1,BG: HBO 1 HD
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64722.m3u8
+#EXTINF:-1,BG: HBO 2 HD
+http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64723.m3u8
+
 #EXTINF:-1,CRO: SPORT KLUB 1 HD
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/143037.m3u8
 #EXTINF:-1,CRO: SPORT KLUB 2
@@ -176,128 +219,45 @@ http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/254392.m3u8
 #EXTINF:-1,DAZN USA
 http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/381406.m3u8
 
-
-
-#EXTINF:-1,ESP | BEIN SPORTS SD 
-http://p4.giffy.be:8080/live/Testing1/Testing1/45034.m3u8
-#EXTINF:-1,UK-S | BT SPORTS 1
-http://p4.giffy.be:8080/live/Testing1/Testing1/64285.m3u8
-#EXTINF:-1,UK-S | BT SPORTS 2
-http://p4.giffy.be:8080/live/Testing1/Testing1/64286.m3u8
-#EXTINF:-1,UK-S | BT SPORTS ESPN
-http://p4.giffy.be:8080/live/Testing1/Testing1/64287.m3u8
-#EXTINF:-1,UK-S | SKY SPORTS ACTION FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64289.m3u8
-#EXTINF:-1,UK-S | SKY SPORTS ARENA FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64291.m3u8
-#EXTINF:-1,UK-S | SKY SPORTS F1
-http://p4.giffy.be:8080/live/Testing1/Testing1/64293.m3u8
-#EXTINF:-1,UK-S | SKY SPORTS FOOTBALL
-http://p4.giffy.be:8080/live/Testing1/Testing1/64294.m3u8
-#EXTINF:-1,US-S | FOX SPORTS 1 
-http://p4.giffy.be:8080/live/Testing1/Testing1/11584.m3u8
-#EXTINF:-1,US-S | FOX SPORTS 2 
-http://p4.giffy.be:8080/live/Testing1/Testing1/11585.m3u8
-#EXTINF:-1,US-S | TENNIS CHANNEL 
-http://p4.giffy.be:8080/live/Testing1/Testing1/11635.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 1 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64099.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 2 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64101.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 3 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64103.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 4 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64105.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 5 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64107.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 6 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64109.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 7 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64111.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 8 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64113.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 9 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64115.m3u8
-#EXTINF:-1,OSN | BEIN SPORTS 10 HEVC
-http://p4.giffy.be:8080/live/Testing1/Testing1/64117.m3u8
-#EXTINF:-1,IT-S | DAZN 1 FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/63527.m3u8
-#EXTINF:-1,GERM | SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/Testing1/Testing1/13841.m3u8
-#EXTINF:-1,ESP | TELEDEPORTE
-http://p4.giffy.be:8080/live/Testing1/Testing1/53563.m3u8
-#EXTINF:-1,ESP | MOVISTAR LIGA CAMPEONES
-http://p4.giffy.be:8080/live/Testing1/Testing1/53584.m3u8
-#EXTINF:-1,ESP | MOVISTAR LIGA CAMPEONES 2
-http://p4.giffy.be:8080/live/Testing1/Testing1/53585.m3u8
-#EXTINF:-1,ESP | MOVISTAR DEPORTES
-http://p4.giffy.be:8080/live/Testing1/Testing1/53586.m3u8
-#EXTINF:-1,IT | SUPER TENNIS FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/63358.m3u8
-#EXTINF:-1,IT | SKY SPORT UNO FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/63362.m3u8
-#EXTINF:-1,IT | SKY SPORT NBA FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/63363.m3u8
-#EXTINF:-1,IT | SKY SPORT FOOTBALL FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/63365.m3u8
-#EXTINF:-1,IT | SKY SPORT F1 FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/63366.m3u8
-#EXTINF:-1,IT | SKY SPORT ARENA FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/63367.m3u8
-#EXTINF:-1,NL | FOX SPORTS 3 | HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/68741.m3u8
-#EXTINF:-1,NL | FOX SPORTS 4 | HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/68742.m3u8
-#EXTINF:-1,NL | FOX SPORTS 5 | HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/68743.m3u8
-#EXTINF:-1,NL | FOX SPORTS 6 | HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/68744.m3u8
-#EXTINF:-1,NL-S | ZIGGO SPORT SELECT HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/68796.m3u8
-#EXTINF:-1,NL-S | ZIGGO SPORT VOETBAL HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/68797.m3u8
-#EXTINF:-1,PERU | MOVIE STAR DEPORTES 
-http://p4.giffy.be:8080/live/Testing1/Testing1/68849.m3u8
-
-
-#EXTINF:-1,ENGLISH | CNN
-http://p4.giffy.be:8080/live/Testing1/Testing1/21275.m3u8
-#EXTINF:-1,UK | ITV 1
-http://p4.giffy.be:8080/live/Testing1/Testing1/64397.m3u8
-#EXTINF:-1,UK | ITV 2
-http://p4.giffy.be:8080/live/Testing1/Testing1/64398.m3u8
-#EXTINF:-1,UK | ITV 3
-http://p4.giffy.be:8080/live/Testing1/Testing1/64396.m3u8
-#EXTINF:-1,UK | ITV 4
-http://p4.giffy.be:8080/live/Testing1/Testing1/64395.m3u8
-#EXTINF:-1,UK | SKY ARTS+
-http://p4.giffy.be:8080/live/Testing1/Testing1/64374.m3u8
-#EXTINF:-1,UK | SKY CINEMA PREMIER  FHD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64330.m3u8
-#EXTINF:-1,UK | SKY ATLANTIC HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64331.m3u8
-#EXTINF:-1,UK | SKY CINEMA THRILLER HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64333.m3u8
-#EXTINF:-1,UK | SKY CINEMA SELECT HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64334.m3u8
-#EXTINF:-1,UK | SKY CINEMA SCFI/HOR HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64335.m3u8
-#EXTINF:-1,UK | SKY CINEMA PREMIERE HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64336.m3u8
-#EXTINF:-1,UK | SKY CINEMA HITS HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64337.m3u8
-#EXTINF:-1,UK | SKY CINEMA GREATS HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64338.m3u8
-#EXTINF:-1,UK | SKY CINEMA FAMILY HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64339.m3u8
-#EXTINF:-1,UK | SKY CINEMA DRAMA HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64340.m3u8
-#EXTINF:-1,UK | SKY CINEMA DISNEY HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64341.m3u8
-#EXTINF:-1,UK | SKY CINEMA COMEDY HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64342.m3u8
-#EXTINF:-1,UK | SKY CINEMA ACTION HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64343.m3u8
-#EXTINF:-1,UK | SKY CINEMA CRIME HD
-http://p4.giffy.be:8080/live/Testing1/Testing1/64344.m3u8
-
+#EXTINF:-1,SKY SPORT UNO FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/372.m3u8
+#EXTINF:-1,SKY SPORT FOOTBALL FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/374.m3u8
+#EXTINF:-1,SKY SPORT ARENA FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/377.m3u8
+#EXTINF:-1,SKY SPORT NBA FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/375.m3u8
+#EXTINF:-1,SUPERTENNIS HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/346.m3u8
+#EXTINF:-1,SKY SPORT SERIE A HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/306.m3u8
+#EXTINF:-1,SKY DAZN BAR HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/6732.m3u8
+#EXTINF:-1,SKY DAZN BAR 2 HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/6734.m3u8
+#EXTINF:-1,DAZN DE  BAR 1 HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/552.m3u8
+#EXTINF:-1,DAZN DE BAR 2 HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/553.m3u8
+#EXTINF:-1,ARENA SPORT 1 HR FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/519.m3u8
+#EXTINF:-1,ARENA SPORT 2 HR FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/520.m3u8
+#EXTINF:-1,ARENA SPORT 3 HR FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/521.m3u8
+#EXTINF:-1,ARENA SPORT 4 HR FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/522.m3u8
+#EXTINF:-1,ARENA SPORT 5 HR FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/523.m3u8
+#EXTINF:-1,ARENA SPORT 6 HR FULL HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/524.m3u8
+#EXTINF:-1,NL: FOX SPORTS3
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/6012.m3u8
+#EXTINF:-1,NL: FOX SPORTS4
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/6013.m3u8
+#EXTINF:-1,NL: FOX SPORTS5
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/6014.m3u8
+#EXTINF:-1,NL: FOX SPORTS6
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/6015.m3u8
+#EXTINF:-1,ES - M. DEPORTES 1 HD
+http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/6087.m3u8
