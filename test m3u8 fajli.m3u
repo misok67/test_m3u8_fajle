@@ -10,214 +10,53 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,RTL 2
-http://p4.giffy.be:8080/live/Testing1/Testing1/64192.m3u8
-#EXTINF:-1,NOVA TV
-http://p4.giffy.be:8080/live/Testing1/Testing1/64229.m3u8
-#EXTINF:-1,NOVA TV HR
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379177.m3u8
-#EXTINF:-1,EX YU: NOVA TV HR
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379127.m3u8
-#EXTINF:-1,EX YU: RTL 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379126.m3u8
-#EXTINF:-1,EX YU: DOMA-TV
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379122.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379136.m3u8
-#EXTINF:-1,CINESTAR PREMIER 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379135.m3u8
-#EXTINF:-1,EX YU: HBO ADRIA
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379134.m3u8
-#EXTINF:-1,EX YU: HBO 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379130.m3u8
-#EXTINF:-1,EX YU: HBO 3
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379123.m3u8
-#EXTINF:-1,FOX MOVIES
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379155.m3u8
-#EXTINF:-1,EX YU: CINEMAX-2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379121.m3u8
-#EXTINF:-1,EX YU: CINEMAX 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379120.m3u8
-#EXTINF:-1,PINK FILM
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
-#EXTINF:-1,HBO (HD)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64581.m3u8
-#EXTINF:-1,HBO 1 HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64573.m3u8
-#EXTINF:-1,HBO 2 (HD)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64579.m3u8
-#EXTINF:-1,HBO 2 (HD).
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64578.m3u8
-#EXTINF:-1,HBO 3
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64580.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64530.m3u8
-#EXTINF:-1,PINK FILM
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64550.m3u8
-#EXTINF:-1,FOX MOVIES HD (HR SUB)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64574.m3u8
-#EXTINF:-1,RTL 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64669.m3u8
-#EXTINF:-1,RTS 1
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64582.m3u8
-#EXTINF:-1,RTS 1 (LOCAL)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64586.m3u8
-#EXTINF:-1,RTS 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64583.m3u8
-#EXTINF:-1,RTS 2 (LOCAL)
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64587.m3u8
-#EXTINF:-1,TV 1000
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64628.m3u8
-#EXTINF:-1,SI: HBO 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64691.m3u8
-#EXTINF:-1,SI: HBO 3
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64692.m3u8
-#EXTINF:-1,SI: NOVA 24 TV
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64699.m3u8
-#EXTINF:-1,BG: CINEMAX 1
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64711.m3u8
-#EXTINF:-1,BG: CINEMAX 2
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64712.m3u8
-#EXTINF:-1,BG: HBO 1 HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64722.m3u8
-#EXTINF:-1,BG: HBO 2 HD
-http://blade2018.ddns.net:25461/live/Sasillo110/OEVTs0GutC/64723.m3u8
+#EXTINF:-1,SKY SPORT NEWS HD
+http://cover.dnsfor.me:12233/live/DKsWd9Pb3L/tot2AnGlzh/1291.m3u8
+#EXTINF:-1,SKY SPORT 1 HD
+http://cover.dnsfor.me:12233/live/DKsWd9Pb3L/tot2AnGlzh/1294.m3u8
+#EXTINF:-1,SKY SPORT 2 HD
+http://cover.dnsfor.me:12233/live/DKsWd9Pb3L/tot2AnGlzh/1295.m3u8
+#EXTINF:-1,DAZN1
+http://cover.dnsfor.me:12233/live/DKsWd9Pb3L/tot2AnGlzh/1279.m3u8
+#EXTINF:-1,DAZN2
+http://cover.dnsfor.me:12233/live/DKsWd9Pb3L/tot2AnGlzh/1280.m3u8
+#EXTINF:-1,SKY SPORTS MIX
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/39.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/110.m3u8
+#EXTINF:-1,SKY SPORTS PL
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/111.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/112.m3u8
+#EXTINF:-1,SKY SPORTS F1
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/115.m3u8
+#EXTINF:-1,SKY SPORTS ACTION
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/116.m3u8
+#EXTINF:-1,SKY SPORTS ARENA
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/117.m3u8
+#EXTINF:-1,BT SPORTS 1
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/121.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/122.m3u8
+#EXTINF:-1,BT SPORTS 3
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/124.m3u8
+#EXTINF:-1,BT SPORT 1 HD
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/208.m3u8
+#EXTINF:-1,BT SPORT 2 HD
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/209.m3u8
+#EXTINF:-1,BT SPORT 3 HD
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/210.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/211.m3u8
+#EXTINF:-1,USA SPORT : FOX SPORTS 1
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/23620.m3u8
+#EXTINF:-1,USA SPORTS : FOX SPORTS 2
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/23621.m3u8
+#EXTINF:-1,USA: TENNIS TV
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/23623.m3u8
+#EXTINF:-1,SKY SPORTS NEWS
+http://185.80.220.140:25461/live/sLzBg2mw6F/2z59d2YYyi/23624.m3u8
 
-#EXTINF:-1,CRO: SPORT KLUB 1 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/143037.m3u8
-#EXTINF:-1,CRO: SPORT KLUB 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/366562.m3u8
-#EXTINF:-1,CRO: SPORT KLUB 3
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/360748.m3u8
-#EXTINF:-1,CRO: SPORT KLUB 4 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/143109.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379217.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379216.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379215.m3u8
-#EXTINF:-1,ARENA SPORT 1  HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/143033.m3u8
-#EXTINF:-1,ARENA SPORT 2  HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/143026.m3u8
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/342057.m3u8
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/342058.m3u8
-#EXTINF:-1,ARENA SPORT 4  HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/143035.m3u8
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/342059.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/143036.m3u8
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/342055.m3u8
-
-#EXTINF:-1,VIP FHD SKY SPORTS MAIN EVENT
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/309260.m3u8
-#EXTINF:-1,VIP HD SKY SPORTS NEWS 
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382181.m3u8
-#EXTINF:-1,VIP HD SKY SPORTS ACTION
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382180.m3u8
-#EXTINF:-1,VIP HD SKY SPORTS ARENA
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382179.m3u8
-#EXTINF:-1,VIP HD SKY SPORTS F1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382177.m3u8
-#EXTINF:-1,VIP HD SKY SPORTS FOOTBALL
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382176.m3u8
-#EXTINF:-1,VIP HD SKY SPORTS PREMIER LEAGUE
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382174.m3u8
-#EXTINF:-1,UK BT SPORTS 1 FHD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/309255.m3u8
-#EXTINF:-1,UK BT SPORTS 1 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/309257.m3u8
-#EXTINF:-1,UK BT SPORTS 3 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/309256.m3u8
-#EXTINF:-1,UK BT SPORTS 3 SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/309254.m3u8
-#EXTINF:-1,VIP HD FOX SPORTS 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/308896.m3u8
-#EXTINF:-1,VIP FHD FOX SPORTS 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/308895.m3u8
-#EXTINF:-1,VIP HD TENNIS
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/308780.m3u8
-#EXTINF:-1,BEIN SPORTS GLOBAL
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/331089.m3u8
-#EXTINF:-1,BEIN SPORTS N
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/311326.m3u8
-#EXTINF:-1,BEIN SPORTS NEWS
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/331188.m3u8
-#EXTINF:-1,BEIN SPORTS USA
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/268809.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/348427.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 3HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376378.m3u8
-#EXTINF:-1,FR: BEIN SPORTS1 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376377.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375479.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375480.m3u8
-#EXTINF:-1,DE: SKY SPORTS NEWS HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375491.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (SR)
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379249.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379248.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (SR)
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379247.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379246.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379217.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379216.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379215.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY DAZN SATELLITE SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375141.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY SPORT 24 SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375140.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY SPORT ARENA SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375139.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY SPORT F1 SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375137.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY SPORT FOOTBALL SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375136.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY SPORT NBA SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375134.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY SPORT UNO SD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375133.m3u8
-#EXTINF:-1,IT: DAZN SPORT 1 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375224.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD ( 1080P )
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375621.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD ( 1080P )
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375619.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD ( 1080P )
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375620.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375604.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD 1080
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375593.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375623.m3u8
-#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376700.m3u8
-#EXTINF:-1,ES: CANAL  DEPORTES HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376699.m3u8
-#EXTINF:-1,ES: TELEDEPORTE HD
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376673.m3u8
-#EXTINF:-1,VIP ES: BEIN SPORTS HD ( 1080P )
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376740.m3u8
-#EXTINF:-1,TENNIS CHANNEL
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/254392.m3u8
-#EXTINF:-1,DAZN USA
-http://yourdnshere.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/381406.m3u8
 
 #EXTINF:-1,SKY SPORT UNO FULL HD
 http://newteamtv.ddns.net:8000/live/G14mpa3012/S4gh69skf/372.m3u8
