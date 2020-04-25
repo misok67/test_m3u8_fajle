@@ -10,6 +10,81 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+
+#EXTINF:-1,NOVA TV
+http://webtv.ptorrent.me:80/live/krsta1051/OABCJ0RZT9/47.m3u8
+#EXTINF:-1,DOMA HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3398.m3u8
+#EXTINF:-1,RTL 2
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3400.m3u8
+#EXTINF:-1,PRVA TV
+http://webtv.ptorrent.me:80/live/krsta1051/OABCJ0RZT9/2.m3u8
+#EXTINF:-1,RTS 1
+http://webtv.ptorrent.me:80/live/krsta1051/OABCJ0RZT9/3.m3u8
+#EXTINF:-1,HBO 1 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/145939.m3u8
+#EXTINF:-1,HBO 2 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4161.m3u8
+#EXTINF:-1,HBO 3 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/10696.m3u8
+#EXTINF:-1,HBO ADRIA
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/35257.m3u8
+#EXTINF:-1,HBO COMEDY
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/148156.m3u8
+#EXTINF:-1,HBO HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/6826.m3u8
+#EXTINF:-1,KINO TV HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3405.m3u8
+#EXTINF:-1,CINEMAX 1 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4138.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4139.m3u8
+#EXTINF:-1,CINEMAX HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/23064.m3u8
+#EXTINF:-1,CINESTAR ACTION TV
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4140.m3u8
+#EXTINF:-1,CINESTAR COMEDY
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/146302.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/36890.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4141.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4142.m3u8
+#EXTINF:-1,CINESTAR TV
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/13464.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4155.m3u8
+#EXTINF:-1,M1 FILM
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4173.m3u8
+#EXTINF:-1,RTS 1 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3448.m3u8
+#EXTINF:-1,RTS 2 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3449.m3u8
+#EXTINF:-1,TV 1000
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4210.m3u8
+#EXTINF:-1,TV NOVA
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/145517.m3u8
+#EXTINF:-1,HR: ARENA SPORT 1 FHD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3601.m3u8
+#EXTINF:-1,HR: ARENA SPORT 2 FHD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3603.m3u8
+#EXTINF:-1,HR: ARENA SPORT 3 FHD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3605.m3u8
+#EXTINF:-1,HR: ARENA SPORT 4 FHD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3607.m3u8
+#EXTINF:-1,HR: ARENA SPORT 5 FHD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/3608.m3u8
+#EXTINF:-1,HR: ARENA SPORT 6 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/10961.m3u8
+#EXTINF:-1,HR: SPORT KLUB 1 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4201.m3u8
+#EXTINF:-1,HR: SPORT KLUB 2 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/4202.m3u8
+#EXTINF:-1,HR: SPORT KLUB 3 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/10964.m3u8
+#EXTINF:-1,HR: SPORT KLUB 4 HD
+http://bestcostiptv.com:8080/live/Restr1000con/5bb7441f/26651.m3u8
 #EXTINF:-1,CRO: SPORT KLUB 1 HD
 http://live.firetv.me:83/live/dirshawnb/65012302/143037.m3u8
 #EXTINF:-1,CRO: SPORT KLUB 2
@@ -34,54 +109,7 @@ http://live.firetv.me:83/live/dirshawnb/65012302/342059.m3u8
 http://live.firetv.me:83/live/dirshawnb/65012302/143036.m3u8
 #EXTINF:-1,ARENA SPORT 5 SRB
 http://live.firetv.me:83/live/dirshawnb/65012302/342055.m3u8
-#EXTINF:-1,HR- NOVA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21410
-#EXTINF:-1,YU- RTS 1
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21397
-#EXTINF:-1,YU- RTS 1 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21269
-#EXTINF:-1,YU- RTS 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21268
-#EXTINF:-1,YU- NOVA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/28822
-#EXTINF:-1,HR- RTL 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21424
-#EXTINF:-1,HR- CINESTAR PREMIERE
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29187
-#EXTINF:-1,HR- CINESTAR PREMIERE 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29188
-#EXTINF:-1,HR- FOX MOVIES
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29200
-#EXTINF:-1,HR- HBO ADRIA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/29201
-#EXTINF:-1,YU- FOX MOVIES
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21411
-#EXTINF:-1,YU- CINEMAX 1
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21246
-#EXTINF:-1,YU- CINEMAX 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21245
-#EXTINF:-1,YU- CINESTAR PREMIERE 1
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21244
-#EXTINF:-1,YU- CINESTAR PREMIERE 2
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21243
-#EXTINF:-1,YU- HBO ADRIA
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21239
-#EXTINF:-1,YU- HBO COMEDY
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21238
-#EXTINF:-1,YU- M1 FILM
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21237
-#EXTINF:-1,SR- PINK FILM
-http://176.119.28.126:6204/denvanp/New472968WachtWd/14097
-#EXTINF:-1,SR- CINESTAR ACTION
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21257
-#EXTINF:-1,SR- CINESTAR TV
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21256
-#EXTINF:-1,SR- HBO 1 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21253
-#EXTINF:-1,SR- HBO 2 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21252
-#EXTINF:-1,SR- HBO 3 HD
-http://176.119.28.126:6204/denvanp/New472968WachtWd/21251
+
 
 #EXTINF:-1,ARENA SPORT 1  HD
 http://104.218.60.145:83/live/Elonge/4049153347@/143033.m3u8
