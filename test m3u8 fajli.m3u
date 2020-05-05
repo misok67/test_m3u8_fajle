@@ -10,69 +10,71 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,TV NOVA
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/38370.m3u8
+#EXTINF:-1,NOVA [BACKUP]
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31816.m3u8
+#EXTINF:-1,DOMA TV
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42649.m3u8
+#EXTINF:-1,HBO FHD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/38337.m3u8
+#EXTINF:-1,HBO ADRIA
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31790.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/38338.m3u8
+#EXTINF:-1,KINO TV
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42694.m3u8
+#EXTINF:-1,CINEMAX 1
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31771.m3u8
+#EXTINF:-1,CINEMAX 1 FHD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31772.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42671.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42672.m3u8
+#EXTINF:-1,VIASAT TV 1000
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42771.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 1
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/38348.m3u8
+#EXTINF:-1,CINESTAR TV PREMIERE 2
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/38349.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31776.m3u8
+#EXTINF:-1,CINESTAR ACTION AND THRILLER
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42665.m3u8
+#EXTINF:-1,CINESTAR HRV
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42666.m3u8
+#EXTINF:-1,CINESTAR TV ACTION
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42668.m3u8
+#EXTINF:-1,CINESTAR TV FANTASY
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42669.m3u8
+#EXTINF:-1,FOX MOVIES.
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42682.m3u8
+#EXTINF:-1,PINK FILM
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42716.m3u8
+#EXTINF:-1,TV 1000
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/38368.m3u8
+#EXTINF:-1,CINESTAR ACTION & THRILLER
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31774.m3u8
+#EXTINF:-1,TV 1000
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31829.m3u8
 
-#EXTINF:-1,NOVA TV
-http://webtv.ptorrent.me:80/live/krsta1051/OABCJ0RZT9/47.m3u8
-#EXTINF:-1,PRVA TV
-http://webtv.ptorrent.me:80/live/krsta1051/OABCJ0RZT9/2.m3u8
-#EXTINF:-1,RTS 1
-http://webtv.ptorrent.me:80/live/krsta1051/OABCJ0RZT9/3.m3u8
-#EXTINF:-1,CRO: SPORT KLUB 1 HD
-http://live.firetv.me:83/live/dirshawnb/65012302/143037.m3u8
-#EXTINF:-1,CRO: SPORT KLUB 2
-http://live.firetv.me:83/live/dirshawnb/65012302/366562.m3u8
-#EXTINF:-1,CRO: SPORT KLUB 3
-http://live.firetv.me:83/live/dirshawnb/65012302/360748.m3u8
-#EXTINF:-1,CRO: SPORT KLUB 4 HD
-http://live.firetv.me:83/live/dirshawnb/65012302/143109.m3u8
-#EXTINF:-1,ARENA SPORT 1  HD
-http://live.firetv.me:83/live/dirshawnb/65012302/143033.m3u8
-#EXTINF:-1,ARENA SPORT 2  HD
-http://live.firetv.me:83/live/dirshawnb/65012302/143026.m3u8
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://live.firetv.me:83/live/dirshawnb/65012302/342057.m3u8
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://live.firetv.me:83/live/dirshawnb/65012302/342058.m3u8
-#EXTINF:-1,ARENA SPORT 4  HD
-http://live.firetv.me:83/live/dirshawnb/65012302/143035.m3u8
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://live.firetv.me:83/live/dirshawnb/65012302/342059.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD
-http://live.firetv.me:83/live/dirshawnb/65012302/143036.m3u8
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://live.firetv.me:83/live/dirshawnb/65012302/342055.m3u8
-#EXTINF:-1,HR: SPORT KLUB 1 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/1747.m3u8
-#EXTINF:-1,HR: SPORT KLUB 2 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/1748.m3u8
-#EXTINF:-1,HR: SPORT KLUB 3 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/2826.m3u8
-#EXTINF:-1,HR: ARENA SPORT 1 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/2070.m3u8
-#EXTINF:-1,HR: ARENA SPORT 2 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/1751.m3u8
-#EXTINF:-1,HR: ARENA SPORT 3 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/1752.m3u8
-#EXTINF:-1,HR: ARENA SPORT 4 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/1753.m3u8
-#EXTINF:-1,HR: ARENA SPORT 5 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3353.m3u8
-#EXTINF:-1,SR: ARENA SPORT 1
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3958.m3u8
-#EXTINF:-1,SR: ARENA SPORT 2
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3959.m3u8
-#EXTINF:-1,SR: ARENA SPORT 3
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3960.m3u8
-#EXTINF:-1,SR: ARENA SPORT 4
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3961.m3u8
-#EXTINF:-1,SR: ARENA SPORT 5
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3962.m3u8
-#EXTINF:-1,SR: SPORT KLUB 1 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/7807.m3u8
-#EXTINF:-1,SR: SPORT KLUB 2 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/7806.m3u8
-#EXTINF:-1,SR: SPORT KLUB 3 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/7805.m3u8
+#EXTINF:-1,HR: ARENA SPORT 1 FHD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31759.m3u8
+#EXTINF:-1,HR: ARENA SPORT 2 FHD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31760.m3u8
+#EXTINF:-1,HR: ARENA SPORT 3 FHD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31761.m3u8
+#EXTINF:-1,HR: ARENA SPORT 6 FHD
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/31764.m3u8
+#EXTINF:-1,RS: ARENA SPORT 1 SR
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42654.m3u8
+#EXTINF:-1,RS: ARENA SPORT 2 SR
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42655.m3u8
+#EXTINF:-1,RS: ARENA SPORT 3 SR
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42656.m3u8
+#EXTINF:-1,RS: ARENA SPORT 5 SR
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42657.m3u8
 
 #EXTINF:-1,ARENA SPORT 1  HD
 http://104.218.60.145:83/live/Elonge/4049153347@/143033.m3u8
@@ -93,57 +95,4 @@ http://104.218.60.145:83/live/Elonge/4049153347@/342055.m3u8
 
 
 
-#EXTINF:-1,DE: SKY SPORT 1
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/23139.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/2569.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/2556.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3915.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/5166.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/5167.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/5168.m3u8
-#EXTINF:-1,(IT) FOX SPORTS HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/9124.m3u8
-#EXTINF:-1,(IT) SKY SPORT UNO HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/9121.m3u8
-#EXTINF:-1,(IT) SKY SPORT FUTBALL HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/9122.m3u8
-#EXTINF:-1,(IT) SKY SPORT 24 HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/9120.m3u8
-#EXTINF:-1,(IT) SKY SPORT PLUS HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/9123.m3u8
-#EXTINF:-1,ES: M. DEPORTE 1 FHD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/7860.m3u8
-#EXTINF:-1,ES: MOVISTAR+ DEPORTES 1
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/13.m3u8
-#EXTINF:-1,ES: MULTIDEPORTE
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/10921.m3u8
-#EXTINF:-1,ES: DAZN 2 FHD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/10919.m3u8
-#EXTINF:-1,ES: TELEDEPORTE
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/4197.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 1
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/2602.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 2
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3084.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 3
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/2825.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 4
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3085.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 5
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3086.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 6
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3087.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 7
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3088.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 8
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3089.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 9
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3090.m3u8
-#EXTINF:-1,AR: BEIN SPORTS NEWS HD
-http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/2745.m3u8
+
