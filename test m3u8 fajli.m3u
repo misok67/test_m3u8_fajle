@@ -10,142 +10,184 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,HBO 1 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/419.m3u8
-#EXTINF:-1,HBO 2 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/418.m3u8
-#EXTINF:-1,HBO 3 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/417.m3u8
-#EXTINF:-1,HBO GO
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/8019.m3u8
-#EXTINF:-1,CINEMAX 1 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/435.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/434.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6543.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6542.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/431.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/430.m3u8
-#EXTINF:-1,CINESTAR TV
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/429.m3u8
-#EXTINF:-1,CINESTAR TV 2 HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/8304.m3u8
-#EXTINF:-1,CINESTAR FANTASY
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/432.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/433.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/6308.m3u8
-#EXTINF:-1,TV 1000
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/408.m3u8
-#EXTINF:-1,KINO TV
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/416.m3u8
-#EXTINF:-1,M1 FILM
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/414.m3u8
-#EXTINF:-1,PINK FILM
-http://195.181.161.111:80/live/dBARFycSW8/03PqqO6AJV/369.m3u8
-#EXTINF:-1,|EX_YU| SPORT KLUB 1
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22307.m3u8
-#EXTINF:-1,|EX_YU| SPORT KLUB 2
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22306.m3u8
-#EXTINF:-1,|EX_YU| SPORT KLUB 3
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22276.m3u8
 
-#EXTINF:-1,|EX_YU| ARENA SPORT 1 HR
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22295.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 1 SB
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22303.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 2 HR
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22294.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 2 SB
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22301.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 3 HR
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22293.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 3 SB
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22302.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 4 HR
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22292.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 4 SB
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22300.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 5 HR
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22291.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 5 SB
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22299.m3u8
-#EXTINF:-1,|EX_YU| ARENA SPORT 6 HR
-http://matrix.matrix-ott.tv:8000/live/PKwf7L2900/o66GWgudWH/22308.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD (FRANCE)
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/32466.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD (FRANCE)
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/32467.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD (FRANCE)
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/32468.m3u8
-#EXTINF:-1,DAZN  BAR 2 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/5780.m3u8
-#EXTINF:-1,DAZN BAR 1 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/5779.m3u8
-#EXTINF:-1,DE | DAZN
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/2139.m3u8
-#EXTINF:-1,DE:| SKY SPORT 1  HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/6440.m3u8
-#EXTINF:-1,DE:| SKY SPORT 2  HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/6439.m3u8
-#EXTINF:-1,DE:| SKY SPORT BUNDESLIGA 1 FHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/9473.m3u8
-#EXTINF:-1,ES  | MOVISTAR DEPORTE 1 FULLHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/1817.m3u8
-#EXTINF:-1,ES | BEIN SPORTS LALIGA
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/1840.m3u8
-#EXTINF:-1,ES | M. LA LIGA DE CAMPEONES ( SOLO EVENTOS)
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/18493.m3u8
-#EXTINF:-1,RMC SPORT 1 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/32472.m3u8
-#EXTINF:-1,RMC SPORT 2 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/32473.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/32474.m3u8
-#EXTINF:-1,UK | BT SPORT 1 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/155.m3u8
-#EXTINF:-1,UK | BT SPORT 2 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/157.m3u8
-#EXTINF:-1,UK | BT SPORT 3 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/159.m3u8
-#EXTINF:-1,UK | BT SPORT ESPN HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/161.m3u8
-#EXTINF:-1,UK: SKY SPORTS ACTION | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3085.m3u8
-#EXTINF:-1,UK: SKY SPORTS ARENA | UHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3088.m3u8
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3083.m3u8
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL | UHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3087.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT | UHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3081.m3u8
-#EXTINF:-1,UK: SKY SPORTS MIX | UHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3078.m3u8
-#EXTINF:-1,UK: SKY SPORTS NEWS | UHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3077.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE | UHD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/3080.m3u8
-#EXTINF:-1,USA | FOX SPORTS 1 | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/844.m3u8
-#EXTINF:-1,USA | FOX SPORTS 2 | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/845.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/38137.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/38138.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/38139.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/38140.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/38173.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL | HD
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/38174.m3u8
-#EXTINF:-1,DEPORTES HD | RED BULL TV
-http://premiumplustv.club:25461/live/lobos11/Rjb2Wfw9Zm/41226.m3u8
+#EXTINF:-1,YU061:NOVA TV HR
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49265.m3u8
+#EXTINF:-1,HR025:NOVA TV (HR))
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/46233.m3u8
+#EXTINF:-1,HR028:RTL 2 (HR))
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/46230.m3u8
+#EXTINF:-1,HR014:DOMA TV (HR)
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/46244.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD
+http://195.181.161.111:80/live/martin/martin/8941.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD
+http://195.181.161.111:80/live/martin/martin/9003.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD
+http://195.181.161.111:80/live/martin/martin/9004.m3u8
+#EXTINF:-1,SPORT KLUB 1 SRB
+http://195.181.161.111:80/live/martin/martin/9008.m3u8
+#EXTINF:-1,SPORT KLUB 2 SRB
+http://195.181.161.111:80/live/martin/martin/9009.m3u8
+#EXTINF:-1,SPORT KLUB 3 SRB
+http://195.181.161.111:80/live/martin/martin/9010.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD SRB
+http://195.181.161.111:80/live/martin/martin/490.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD SRB
+http://195.181.161.111:80/live/martin/martin/489.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD SRB
+http://195.181.161.111:80/live/martin/martin/488.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD SRB
+http://195.181.161.111:80/live/martin/martin/487.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://195.181.161.111:80/live/martin/martin/486.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://195.181.161.111:80/live/martin/martin/485.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://195.181.161.111:80/live/martin/martin/484.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://195.181.161.111:80/live/martin/martin/483.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://195.181.161.111:80/live/martin/martin/482.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD HR
+http://195.181.161.111:80/live/martin/martin/481.m3u8
+#EXTINF:-1,SPORT KLUB HD
+http://195.181.161.111:80/live/martin/martin/9002.m3u8
+
+#EXTINF:-1,YU184:HBO 1 HD
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49142.m3u8
+#EXTINF:-1,YU185:HBO 2 HD
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49141.m3u8
+#EXTINF:-1,YU186:HBO 3 HD
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49140.m3u8
+#EXTINF:-1,YU187:HBO FAMILY
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49139.m3u8
+#EXTINF:-1,HR015:HBO (HR)
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/46243.m3u8
+#EXTINF:-1,HR016:HBO 2 (HR)
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/46242.m3u8
+#EXTINF:-1,YU004:HBO 3
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49322.m3u8
+#EXTINF:-1,YU011:HBO 2
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49315.m3u8
+#EXTINF:-1,YU015:HBO ADRIA
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49311.m3u8
+#EXTINF:-1,YU001:CINEMAX 1
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49325.m3u8
+#EXTINF:-1,YU002:CINEMAX-2
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49324.m3u8
+#EXTINF:-1,YU141:CINEMAX 1
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49185.m3u8
+#EXTINF:-1,YU142:CINEMAX 2 HD
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49184.m3u8
+#EXTINF:-1,YU016:CINESTAR PREMIER 2
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49310.m3u8
+#EXTINF:-1,YU017:CINESTAR PREMIERE 1
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49309.m3u8
+#EXTINF:-1,YU037:FOX MOVIES
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49289.m3u8
+#EXTINF:-1,YU047:CINESTAR ACTION
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49279.m3u8
+#EXTINF:-1,YU140:CINESTAR TV
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49186.m3u8
+#EXTINF:-1,YU143:CINESTAR ACTION & THRILLER
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49183.m3u8
+#EXTINF:-1,YU144:CINESTAR PREMIER 1
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49182.m3u8
+#EXTINF:-1,YU145:CINESTAR PREMIER 2
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49181.m3u8
+#EXTINF:-1,YU146:CINESTAR TV HD
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49180.m3u8
+#EXTINF:-1,YU172:FOX MOVIES HD
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49154.m3u8
+#EXTINF:-1,YU073:PINK FILM
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49253.m3u8
+#EXTINF:-1,YU209:M1 FILM
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49117.m3u8
+#EXTINF:-1,YU258:RTS 1
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49068.m3u8
+#EXTINF:-1,YU259:RTS 2 FHD
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49067.m3u8
+#EXTINF:-1,YU102:RTS 1 (LOCAL)
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49224.m3u8
+#EXTINF:-1,YU103:RTS 2 (LOCAL)
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49223.m3u8
+#EXTINF:-1,YU291:TV 1000
+http://mu03.amzlive.net:8880/live/AN6M0721/VT2ko6YuO2/49035.m3u8
+
+#EXTINF:-1,DAZN 1 HD
+http://195.181.161.111:80/live/martin/martin/5541.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://195.181.161.111:80/live/martin/martin/5542.m3u8
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://195.181.161.111:80/live/martin/martin/290.m3u8
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://195.181.161.111:80/live/martin/martin/289.m3u8
+#EXTINF:-1,SKY SPORT 3 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/288.m3u8
+#EXTINF:-1,SKY SPORT 4 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/287.m3u8
+#EXTINF:-1,SKY SPORT 5 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/286.m3u8
+#EXTINF:-1,SKY SPORT 6 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/285.m3u8
+#EXTINF:-1,SKY SPORT 7 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/284.m3u8
+#EXTINF:-1,SKY SPORT 8 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/283.m3u8
+#EXTINF:-1,SKY SPORT 9 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/282.m3u8
+#EXTINF:-1,SKY SPORT 10 HD (ONLY ON MATCHDAY)
+http://195.181.161.111:80/live/martin/martin/281.m3u8
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://195.181.161.111:80/live/martin/martin/279.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
+http://195.181.161.111:80/live/martin/martin/278.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 2 HD
+http://195.181.161.111:80/live/martin/martin/277.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 3 HD
+http://195.181.161.111:80/live/martin/martin/276.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 4 HD
+http://195.181.161.111:80/live/martin/martin/275.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 5 HD
+http://195.181.161.111:80/live/martin/martin/274.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 6 HD
+http://195.181.161.111:80/live/martin/martin/273.m3u8
+#EXTINF:-1,SKY SPORT NEWS DE
+http://195.181.161.111:80/live/martin/martin/272.m3u8
+#EXTINF:-1,SKY SPORTS F1 DE
+http://195.181.161.111:80/live/martin/martin/296.m3u8
+#EXTINF:-1,US: SKY SPORT F1
+http://195.181.161.111:80/live/martin/martin/229.m3u8
+#EXTINF:-1,USA/UK: SKY SPORT HD CRICKET
+http://195.181.161.111:80/live/martin/martin/27.m3u8
+#EXTINF:-1,USA/UK: SKY SPORTS ARENA FHD
+http://195.181.161.111:80/live/martin/martin/24.m3u8
+#EXTINF:-1,USA/UK: SKY SPORT PREMIER LIGA
+http://195.181.161.111:80/live/martin/martin/23.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://195.181.161.111:80/live/martin/martin/471.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://195.181.161.111:80/live/martin/martin/470.m3u8
+#EXTINF:-1,BT SPORT 1
+http://195.181.161.111:80/live/martin/martin/474.m3u8
+#EXTINF:-1,BT SPORT 2
+http://195.181.161.111:80/live/martin/martin/473.m3u8
+#EXTINF:-1,BT SPORT 3
+http://195.181.161.111:80/live/martin/martin/472.m3u8
+#EXTINF:-1,USA/UK: BT SPORT 3
+http://195.181.161.111:80/live/martin/martin/34.m3u8
+#EXTINF:-1,USA/UK: BT SPORT ESPN
+http://195.181.161.111:80/live/martin/martin/33.m3u8
+#EXTINF:-1,USA/UK: BT SPORT EXTRA 2
+http://195.181.161.111:80/live/martin/martin/32.m3u8
+#EXTINF:-1,USA/UK: BT SPORT EXTRA 3
+http://195.181.161.111:80/live/martin/martin/31.m3u8
+#EXTINF:-1,USA/UK: FOX SPORTS 1
+http://195.181.161.111:80/live/martin/martin/93.m3u8
+#EXTINF:-1,USA/UK: FOX SPORTS 2
+http://195.181.161.111:80/live/martin/martin/92.m3u8
+#EXTINF:-1,USA/UK: SKY SPORTS GOLF
+http://195.181.161.111:80/live/martin/martin/91.m3u8
+#EXTINF:-1,USA/UK: SKY SPORTS ACTION HD
+http://195.181.161.111:80/live/martin/martin/28.m3u8
