@@ -1,157 +1,65 @@
 #EXTM3U
 
 
-#EXTINF:-1,Bein Sports HD 1
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/12.ts
-#EXTINF:-1,Bein Sports HD 2
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/18.ts
-#EXTINF:-1,Bein Sports HD 3
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/20.ts
-#EXTINF:-1,Bein Sports HD 4
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/22.ts
-#EXTINF:-1,Bein Sports HD 5
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/23.ts
-#EXTINF:-1,Bein Sports HD 6
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/24.ts
-#EXTINF:-1,Bein Sports HD 7
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/25.ts
-#EXTINF:-1,Bein Sports HD 8
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/26.ts
-#EXTINF:-1,Bein Sports HD 9
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/27.ts
-
+#EXTINF:-1,ARENA SPORT 1
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/495.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/494.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/493.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/492.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/491.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD SRB
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/490.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD SRB
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/489.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD SRB
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/488.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD SRB
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/487.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/486.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/485.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/484.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/483.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/482.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD HR
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/481.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/5541.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/5542.m3u8
 #EXTINF:-1,SKY SPORT 1 HD DE
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/12697.m3u8
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/290.m3u8
 #EXTINF:-1,SKY SPORT 2 HD DE
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/12696.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD DE
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/12700.m3u8
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/289.m3u8
+#EXTINF:-1,SKY SPORT AUSTRIA
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/279.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/278.m3u8
 #EXTINF:-1,SKY SPORT NEWS DE
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/24381.m3u8
-#EXTINF:-1,ARENA SPORT 1 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2284.m3u8
-#EXTINF:-1,ARENA SPORT 2 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2283.m3u8
-#EXTINF:-1,ARENA SPORT 3 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2282.m3u8
-#EXTINF:-1,ARENA SPORT 4 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2281.m3u8
-#EXTINF:-1,ARENA SPORT 5 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2280.m3u8
-#EXTINF:-1,ARENA SPORT 1 HR HD EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/589.m3u8
-#EXTINF:-1,ARENA SPORT 2 HR HD EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/588.m3u8
-#EXTINF:-1,ARENA SPORT 3 HR HD EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/587.m3u8
-#EXTINF:-1,ARENA SPORT 4 HR HD EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/586.m3u8
-#EXTINF:-1,ARENA SPORT 5 HR HD EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/585.m3u8
-#EXTINF:-1,SPORT KLUB 1 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/592.m3u8
-#EXTINF:-1,SPORT KLUB HD 1 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2279.m3u8
-#EXTINF:-1,SPORT KLUB 2 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/591.m3u8
-#EXTINF:-1,SPORT KLUB HD 2 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2278.m3u8
-#EXTINF:-1,SPORT KLUB 3 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/590.m3u8
-#EXTINF:-1,SPORT KLUB HD 3 SRB EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/2277.m3u8
-#EXTINF:-1,SPORT KLUB 4 SR EX-YU
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1173.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/242.m3u8
-#EXTINF:-1,FOX SPORTS 3 FHD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/6510.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/241.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/240.m3u8
-#EXTINF:-1,FOX SPORTS 5 FHD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/6511.m3u8
-#EXTINF:-1,FOX SPORTS 6 HD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/239.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/6112.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/234.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT FHD NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/6514.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL NL
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/233.m3u8
-#EXTINF:-1,BT SPORT 1 HD UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/370.m3u8
-#EXTINF:-1,BT SPORT 1 UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/369.m3u8
-#EXTINF:-1,BT SPORT 2 HD UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/368.m3u8
-#EXTINF:-1,BT SPORT 2 UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/367.m3u8
-#EXTINF:-1,BT SPORT 3 HD UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/366.m3u8
-#EXTINF:-1,BT SPORT 3 UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/365.m3u8
-#EXTINF:-1,BT SPORT ESPN HD UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1743.m3u8
-#EXTINF:-1,BT SPORT ESPN UK
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1819.m3u8
-#EXTINF:-1,SKY SPORT 1 VIP IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/15109.m3u8
-#EXTINF:-1,SKY SPORT 24 HD IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/309.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL HD IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/315.m3u8
-#EXTINF:-1,SKY SPORT PLUS HD VIP IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/15100.m3u8
-#EXTINF:-1,SKY SPORT PLUS VIP IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/15099.m3u8
-#EXTINF:-1,SKY SPORT UNO FHD IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/316.m3u8
-#EXTINF:-1,SUPER TENNIS HD IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1262.m3u8
-#EXTINF:-1,SUPERTENNIS VIP IT
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/15086.m3u8
-#EXTINF:-1,BEIN SPORTS 1 FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/417.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/418.m3u8
-#EXTINF:-1,BEIN SPORTS 2 FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/415.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/416.m3u8
-#EXTINF:-1,BEIN SPORTS 3 FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/413.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/414.m3u8
-#EXTINF:-1,RMC SPORT 1 HD FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1170.m3u8
-#EXTINF:-1,RMC SPORT 2 HD FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1169.m3u8
-#EXTINF:-1,RMC SPORT 3 HD FR
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1168.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD US
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/553.m3u8
-#EXTINF:-1,FOX SPORTS 1 US
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/7786.m3u8
-#EXTINF:-1,FOX SPORTS 2 FHD US
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/554.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD US
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/7759.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES 1 ES
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/1064.m3u8
-#EXTINF:-1,MOVISTAR  DEPORTES 1 FHD ES
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/6071.m3u8
-#EXTINF:-1,BEIN SPORTS LALIGA ES
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/7428.m3u8
-#EXTINF:-1,MULTIDEPORTE ES
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/79725.m3u8
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES ES
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/79802.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES FHD ES
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/79809.m3u8
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES FHD ES
-http://restream.geniptv.com:8080/live/greenpoison8/fQ7uZO6prE/79810.m3u8
-
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/272.m3u8
+#EXTINF:-1,US: SKY SPORT F1
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/229.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/471.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/470.m3u8
+#EXTINF:-1,BT SPORT 1
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/474.m3u8
+#EXTINF:-1,BT SPORT 2
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/473.m3u8
+#EXTINF:-1,BT SPORT 3
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/472.m3u8
+#EXTINF:-1,USA/UK: BT SPORT ESPN
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/33.m3u8
+#EXTINF:-1,USA/UK: FOX SPORTS 1
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/93.m3u8
+#EXTINF:-1,USA/UK: FOX SPORTS 2
+http://195.181.161.119:80/live/bTpVkpoJvm/KOgwFpZQKZ/92.m3u8
