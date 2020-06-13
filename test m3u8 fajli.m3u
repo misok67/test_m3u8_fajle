@@ -1,100 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://ottking-platinum.com:7788/live/1234/1234/1904.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://ottking-platinum.com:7788/live/1234/1234/1905.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://ottking-platinum.com:7788/live/1234/1234/1906.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://ottking-platinum.com:7788/live/1234/1234/1907.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://ottking-platinum.com:7788/live/1234/1234/1908.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://ottking-platinum.com:7788/live/1234/1234/1909.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://ottking-platinum.com:7788/live/1234/1234/1910.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://ottking-platinum.com:7788/live/1234/1234/1911.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://ottking-platinum.com:7788/live/1234/1234/1912.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://ottking-platinum.com:7788/live/1234/1234/1913.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://ottking-platinum.com:7788/live/1234/1234/27407.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://ottking-platinum.com:7788/live/1234/1234/27408.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://ottking-platinum.com:7788/live/1234/1234/27409.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://ottking-platinum.com:7788/live/1234/1234/27410.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://ottking-platinum.com:7788/live/1234/1234/27411.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://ottking-platinum.com:7788/live/1234/1234/27412.m3u8
-#EXTINF:-1,ES: BEIN SPORTS HD
-http://ottking-platinum.com:7788/live/1234/1234/10003.m3u8
-#EXTINF:-1,|ES:BEIN SPORTS FHD
-http://ottking-platinum.com:7788/live/1234/1234/24738.m3u8
-#EXTINF:-1,|ES:M. DEPORTES 1 FHD
-http://ottking-platinum.com:7788/live/1234/1234/24780.m3u8
-#EXTINF:-1,|ES:M. DEPORTES 2 FHD
-http://ottking-platinum.com:7788/live/1234/1234/24781.m3u8
-#EXTINF:-1,|ES: LIGA DE CAMPEONES FHD
-http://ottking-platinum.com:7788/live/1234/1234/24807.m3u8
-#EXTINF:-1,|ES: LIGA CAMPEONES FHD
-http://ottking-platinum.com:7788/live/1234/1234/24808.m3u8
-#EXTINF:-1,|ES:DEPORTE FHD
-http://ottking-platinum.com:7788/live/1234/1234/24819.m3u8
-#EXTINF:-1,|ES:DEPORTE 1 FHD
-http://ottking-platinum.com:7788/live/1234/1234/24820.m3u8
-#EXTINF:-1,|ES:DEPORTE 2 (SOLO EVENTOS)
-http://ottking-platinum.com:7788/live/1234/1234/24822.m3u8
-#EXTINF:-1,ES: DAZN PREMIER 1  (SOLO EVENTOS)
-http://ottking-platinum.com:7788/live/1234/1234/27688.m3u8
-#EXTINF:-1,ES: DAZN PREMIER 2 (SOLO EVENTOS)
-http://ottking-platinum.com:7788/live/1234/1234/27689.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://ottking-platinum.com:7788/live/1234/1234/23050.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://ottking-platinum.com:7788/live/1234/1234/23051.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://ottking-platinum.com:7788/live/1234/1234/23054.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-http://ottking-platinum.com:7788/live/1234/1234/23055.m3u8
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://ottking-platinum.com:7788/live/1234/1234/32131.m3u8
-#EXTINF:-1,DE: DAZN 1 BAR HD
-http://ottking-platinum.com:7788/live/1234/1234/33606.m3u8
-#EXTINF:-1,DE: DAZN 2 BAR HD
-http://ottking-platinum.com:7788/live/1234/1234/33607.m3u8
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://ottking-platinum.com:7788/live/1234/1234/33608.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://ottking-platinum.com:7788/live/1234/1234/33611.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://ottking-platinum.com:7788/live/1234/1234/32132.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://ottking-platinum.com:7788/live/1234/1234/32133.m3u8
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
-http://ottking-platinum.com:7788/live/1234/1234/33620.m3u8
-#EXTINF:-1,IT: SKY SPORT UNO HD
-http://ottking-platinum.com:7788/live/1234/1234/32786.m3u8
-#EXTINF:-1,IT: SKY SPORT FOOTBALL HD
-http://ottking-platinum.com:7788/live/1234/1234/32787.m3u8
-#EXTINF:-1,IT: SKY SPORT SERIE A HD
-http://ottking-platinum.com:7788/live/1234/1234/32788.m3u8
-#EXTINF:-1,IT: SKY SPORT ARENA HD
-http://ottking-platinum.com:7788/live/1234/1234/32789.m3u8
-#EXTINF:-1,US: FOX SPORTS 1
-http://ottking-platinum.com:7788/live/1234/1234/33080.m3u8
-#EXTINF:-1,US: FOX SPORTS 2
-http://ottking-platinum.com:7788/live/1234/1234/33081.m3u8
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://ottking-platinum.com:7788/live/1234/1234/32390.m3u8
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://ottking-platinum.com:7788/live/1234/1234/32391.m3u8
-#EXTINF:-1,UK: BT SPORT 3 HD
-http://ottking-platinum.com:7788/live/1234/1234/32392.m3u8
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://ottking-platinum.com:7788/live/1234/1234/32450.m3u8
+#EXTINF:0,BT SPORT 1
+http://cdn.miip.tv:8080/live/canada/123456/3742.m3u8
+#EXTINF:0,BT SPORT 2
+http://cdn.miip.tv:8080/live/canada/123456/3743.m3u8
+#EXTINF:0,BT SPORT 3
+http://cdn.miip.tv:8080/live/canada/123456/3744.m3u8
+#EXTINF:0,Fox Sport 1 Usa
+http://cdn.miip.tv:8080/live/canada/123456/537.m3u8
+#EXTINF:0,Fox Sport Usa 2
+http://cdn.miip.tv:8080/live/canada/123456/538.m3u8
+
+#EXTINF:0,DIRECTV SPORT 2
+http://cdn.miip.tv:8080/live/canada/123456/4236.m3u8
+#EXTINF:0,DIRECTV SPORT
+http://cdn.miip.tv:8080/live/canada/123456/4235.m3u8
