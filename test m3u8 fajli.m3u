@@ -12,6 +12,20 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
+#EXTINF:-1,BT SPORTS
+http://cdn.miip.tv:8080/live/canada/123456/3741.m3u8
+#EXTINF:-1,BT SPORT 1
+http://cdn.miip.tv:8080/live/canada/123456/3742.m3u8
+#EXTINF:-1,BT SPORT 2
+http://cdn.miip.tv:8080/live/canada/123456/3743.m3u8
+#EXTINF:-1,BT SPORT 3
+http://cdn.miip.tv:8080/live/canada/123456/3744.m3u8
+#EXTINF:-1,FOX SPORT 2 SUR 
+http://cdn.miip.tv:8080/live/canada/123456/4232.m3u8
+#EXTINF:-1,FOX SPORT SUR
+http://cdn.miip.tv:8080/live/canada/123456/4231.m3u8
+#EXTINF:-1,FOX SPORT PREMIUN
+http://cdn.miip.tv:8080/live/canada/123456/4224.m3u8
 #EXTINF:0,US | ESPN DEPORTES HD_
 http://207.38.89.242:8080/live/6200/6200/14643.m3u8
 #EXTINF:0,US | BEIN SPO.m3u8 LA LIGA
