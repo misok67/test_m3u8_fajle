@@ -1,150 +1,32 @@
 #EXTM3U
 
-
-#EXTINF:-1 ,SPORT | ARENA SPORT 1
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189956.m3u8
-#EXTINF:-1 ,SPORT | ARENA SPORT 2
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189958.m3u8
-#EXTINF:-1 ,SPORT | ARENA SPORT 2 HD (SR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189959.m3u8
-#EXTINF:-1 ,SPORT | ARENA SPORT 4
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189962.m3u8
-#EXTINF:-1 ,SPORT | ARENA SPORT 6 HD (HR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189967.m3u8
-#EXTINF:-1 ,SPORT | ARENA SPORT 6 HR
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189968.m3u8
-#EXTINF:-1 ,SPORT | SPORT KLUB 2 HD (SR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189983.m3u8
-#EXTINF:-1 ,SPORT | SPORT KLUB 4 (SR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189987.m3u8
-#EXTINF:-1 ,(FR): RMC SPORT 1
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184083.m3u8
-#EXTINF:-1 ,(FR): RMC SPORT 2
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184084.m3u8
-#EXTINF:-1 ,(FR): RMC SPORT 3
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184085.m3u8
-#EXTINF:-1 ,(FR): BEIN SPORTS 1 HD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184094.m3u8
-#EXTINF:-1 ,(FR): BEIN SPORTS 1
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184095.m3u8
-#EXTINF:-1 ,(FR): BEIN SPORTS 2 HD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184096.m3u8
-#EXTINF:-1 ,(FR): BEIN SPORTS 2
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184097.m3u8
-#EXTINF:-1 ,(FR): BEIN SPORTS 3 HD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184098.m3u8
-#EXTINF:-1 ,(FR): BEIN SPORTS 3
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184099.m3u8
-#EXTINF:-1 ,(FR): RMC SPORT 1HD ACCESS
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184109.m3u8
-#EXTINF:-1 ,(FR): RMC SPORT 2HD ACCESS
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/184110.m3u8
-#EXTINF:-1 ,(DE): DAZN BAR 1 HD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/139558.m3u8
-#EXTINF:-1 ,(NL): FOX SPORTS 3 FHD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/140140.m3u8
-#EXTINF:-1 ,(NL): FOX SPORTS 4 FHD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/140141.m3u8
-#EXTINF:-1 ,(NL): FOX SPORTS 5 FHD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/140142.m3u8
-#EXTINF:-1 ,(NL): FOX SPORTS 6 HD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189496.m3u8
-#EXTINF:-1 ,(NL): ZIGGO SPORT SELECT HD
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189497.m3u8
-#EXTINF:-1 ,(ES): BEIN SPORTS ESPANGA
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/183466.m3u8
-
-#EXTINF:-1 ,..B1..|FR| RMC.Sport4
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2352.m3u8
-#EXTINF:-1 ,..B1..|FR| RMC.Sport3
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2353.m3u8
-#EXTINF:-1 ,..B1..|FR| RMC.Sport2
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2354.m3u8
-#EXTINF:-1 ,..B1..|FR| RMC.Sport1
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2355.m3u8
-#EXTINF:-1 ,..B1..|FR| Canal.Sport
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2422.m3u8
-#EXTINF:-1 ,..B1..|PO| Eleven Sports 1
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2645.m3u8
-#EXTINF:-1 ,..B1..|PO| Eleven Sports 2
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2646.m3u8
-#EXTINF:-1 ,..B1..|ES|  BeIn Sports
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2583.m3u8
-#EXTINF:-1 ,..B1..|NL| Ziggo Sport Docu HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2490.m3u8
-#EXTINF:-1 ,..B1..|NL| Ziggo Sport 1 Voetbal
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2491.m3u8
-#EXTINF:-1 ,..B1..|NL| Fox Sport  3 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2497.m3u8
-#EXTINF:-1 ,..B1..|NL| Fox Sport 4 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2498.m3u8
-#EXTINF:-1 ,..B1..|NL| Fox Sport 5 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2499.m3u8
-#EXTINF:-1 ,..B1..|NL| Fox Sport 6 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2500.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 1 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2236.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 2 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2237.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 3 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2238.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 4 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2239.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 5 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2240.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 6 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2241.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 7 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2242.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 8 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2243.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 9 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2244.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 10 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2245.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 11 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/22406.m3u8
-#EXTINF:-1 ,..B1..|B HD| beIN SPORTS 12 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/22407.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 1 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2247.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 2 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2248.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 3 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2249.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 4 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2250.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 5 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2251.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 6 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2252.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 7 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2253.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 8 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2254.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 9 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2255.m3u8
-#EXTINF:-1 ,..B1..|B SD| beIN SPORTS 10 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2256.m3u8
-#EXTINF:-1 ,..B1..|DE| Sky Sport News HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2596.m3u8
-#EXTINF:-1 ,..B1..|DE| Sky Sport 2 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2597.m3u8
-#EXTINF:-1 ,..B1..|DE| Sky Sport 1 HD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2598.m3u8
-
-#EXTINF:0,BT SPORT 1
-http://cdn.miip.tv:8080/live/canada/123456/3742.m3u8
-#EXTINF:0,BT SPORT 2
-http://cdn.miip.tv:8080/live/canada/123456/3743.m3u8
-#EXTINF:0,BT SPORT 3
-http://cdn.miip.tv:8080/live/canada/123456/3744.m3u8
-#EXTINF:0,Fox Sport 1 Usa
-http://cdn.miip.tv:8080/live/canada/123456/537.m3u8
-#EXTINF:0,Fox Sport Usa 2
-http://cdn.miip.tv:8080/live/canada/123456/538.m3u8
-
-#EXTINF:0,DIRECTV SPORT 2
-http://cdn.miip.tv:8080/live/canada/123456/4236.m3u8
-#EXTINF:0,DIRECTV SPORT
-http://cdn.miip.tv:8080/live/canada/123456/4235.m3u8
+#EXTINF:0,US | ESPN DEPORTES HD_
+http://207.38.89.242:8080/live/6200/6200/14643.m3u8
+#EXTINF:0,US | BEIN SPO.m3u8 LA LIGA
+http://207.38.89.242:8080/live/6200/6200/14644.m3u8
+#EXTINF:0,US  | TENNIS CHANEL_
+http://207.38.89.242:8080/live/6200/6200/14645.m3u8
+#EXTINF:0,US | Eleven Spo.m3u8
+http://207.38.89.242:8080/live/6200/6200/14648.m3u8
+#EXTINF:0,US | ESPN_
+http://207.38.89.242:8080/live/6200/6200/14649.m3u8
+#EXTINF:0,US | ESPN News
+http://207.38.89.242:8080/live/6200/6200/14650.m3u8
+#EXTINF:0,US | ESPN U
+http://207.38.89.242:8080/live/6200/6200/14651.m3u8
+#EXTINF:0,US | Fox Spo.m3u8 1
+http://207.38.89.242:8080/live/6200/6200/14653.m3u8
+#EXTINF:0,US | Fox Spo.m3u8 2
+http://207.38.89.242:8080/live/6200/6200/14654.m3u8
+#EXTINF:0,US | Fox Soccer Plus
+http://207.38.89.242:8080/live/6200/6200/14655.m3u8
+#EXTINF:0,US | GINX eSpo.m3u8V_
+http://207.38.89.242:8080/live/6200/6200/14656.m3u8
+#EXTINF:0,Latino | FOX Spo.m3u8
+http://207.38.89.242:8080/live/6200/6200/15353.m3u8
+#EXTINF:0,Latino | FOX Spo.m3u8 2
+http://207.38.89.242:8080/live/6200/6200/15354.m3u8
+#EXTINF:0,Latino | FOX Spo.m3u8 3
+http://207.38.89.242:8080/live/6200/6200/15355.m3u8
+#EXTINF:0,Latino | FOX Spo.m3u8 Premium_
+http://207.38.89.242:8080/live/6200/6200/15356.m3u8
