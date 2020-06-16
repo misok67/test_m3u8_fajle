@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:0,ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
+#EXTINF:0,ARENA SPORT1 HR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/893.m3u8
+#EXTINF:0,ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
+#EXTINF:0,ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
+#EXTINF:0,ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
+#EXTINF:0,ARENA SPORT 5
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 #EXTINF:0,US | ESPN DEPORTES HD_
 http://207.38.89.242:8080/live/6200/6200/14643.m3u8
 #EXTINF:0,US | BEIN SPO.m3u8 LA LIGA
