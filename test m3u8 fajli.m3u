@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,DE: DAZN 1 BAR HD+
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2182.m3u8
+#EXTINF:-1,DE: DAZN 1 BAR HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2181.m3u8
+#EXTINF:-1,DE: DAZN 2 BAR HD+
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2180.m3u8
+#EXTINF:-1,DE: DAZN 2 BAR HD
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2179.m3u8
+
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT1 HR
@@ -26,33 +35,3 @@ http://cdn.miip.tv:8080/live/canada/123456/4232.m3u8
 http://cdn.miip.tv:8080/live/canada/123456/4231.m3u8
 #EXTINF:-1,FOX SPORT PREMIUN
 http://cdn.miip.tv:8080/live/canada/123456/4224.m3u8
-#EXTINF:0,US | ESPN DEPORTES HD_
-http://207.38.89.242:8080/live/6200/6200/14643.m3u8
-#EXTINF:0,US | BEIN SPO.m3u8 LA LIGA
-http://207.38.89.242:8080/live/6200/6200/14644.m3u8
-#EXTINF:0,US  | TENNIS CHANEL_
-http://207.38.89.242:8080/live/6200/6200/14645.m3u8
-#EXTINF:0,US | Eleven Spo.m3u8
-http://207.38.89.242:8080/live/6200/6200/14648.m3u8
-#EXTINF:0,US | ESPN_
-http://207.38.89.242:8080/live/6200/6200/14649.m3u8
-#EXTINF:0,US | ESPN News
-http://207.38.89.242:8080/live/6200/6200/14650.m3u8
-#EXTINF:0,US | ESPN U
-http://207.38.89.242:8080/live/6200/6200/14651.m3u8
-#EXTINF:0,US | Fox Spo.m3u8 1
-http://207.38.89.242:8080/live/6200/6200/14653.m3u8
-#EXTINF:0,US | Fox Spo.m3u8 2
-http://207.38.89.242:8080/live/6200/6200/14654.m3u8
-#EXTINF:0,US | Fox Soccer Plus
-http://207.38.89.242:8080/live/6200/6200/14655.m3u8
-#EXTINF:0,US | GINX eSpo.m3u8V_
-http://207.38.89.242:8080/live/6200/6200/14656.m3u8
-#EXTINF:0,Latino | FOX Spo.m3u8
-http://207.38.89.242:8080/live/6200/6200/15353.m3u8
-#EXTINF:0,Latino | FOX Spo.m3u8 2
-http://207.38.89.242:8080/live/6200/6200/15354.m3u8
-#EXTINF:0,Latino | FOX Spo.m3u8 3
-http://207.38.89.242:8080/live/6200/6200/15355.m3u8
-#EXTINF:0,Latino | FOX Spo.m3u8 Premium_
-http://207.38.89.242:8080/live/6200/6200/15356.m3u8
