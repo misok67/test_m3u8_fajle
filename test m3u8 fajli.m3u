@@ -1,13 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1,VIP SPORT: SPORT KLUB 1 (EX-YU)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/3199.m3u8
-#EXTINF:-1,VIP SPORT: SPORT KLUB 2 (EX-YU)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/3200.m3u8
-#EXTINF:-1,VIP SPORT: SPORT KLUB 3 (EX-YU)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/3201.m3u8
-#EXTINF:-1,VIP SPORT: SPORT KLUB 4 (EX-YU)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/3202.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2510.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2509.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2508.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HD (SR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2503.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HD (SR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2502.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HD (SR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2501.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2490.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2489.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2488.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2487.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2486.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 6 HD (HR)
+http://live.iptvmerkezi.com:8080/live/alican/alican1/2485.m3u8
 #EXTINF:-1,VIP SPORT: ARENA SPORT 1 HD (EX-YU)
 http://live.iptvmerkezi.com:8080/live/alican/alican1/3194.m3u8
 #EXTINF:-1,VIP SPORT: ARENA SPORT 2 HD (EX-YU)
@@ -69,30 +85,6 @@ http://live.iptvmerkezi.com:8080/live/alican/alican1/3192.m3u8
 http://live.iptvmerkezi.com:8080/live/alican/alican1/3222.m3u8
 #EXTINF:-1,VIP SPORT: BEIN SPORTS 12 (AR)
 http://live.iptvmerkezi.com:8080/live/alican/alican1/3223.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2490.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2489.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2488.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2487.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2486.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 6 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2485.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2510.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2509.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HD (HR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2508.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HD (SR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2503.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2 HD (SR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2502.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HD (SR)
-http://live.iptvmerkezi.com:8080/live/alican/alican1/2501.m3u8
 #EXTINF:-1,NL: FOX SPORTS 3 HD
 http://live.iptvmerkezi.com:8080/live/alican/alican1/19369.m3u8
 #EXTINF:-1,NL: FOX SPORTS 4 HD
@@ -206,3 +198,5 @@ http://cdn.miip.tv:8080/live/canada/123456/4232.m3u8
 http://cdn.miip.tv:8080/live/canada/123456/4231.m3u8
 #EXTINF:-1,FOX SPORT PREMIUN
 http://cdn.miip.tv:8080/live/canada/123456/4224.m3u8
+
+
