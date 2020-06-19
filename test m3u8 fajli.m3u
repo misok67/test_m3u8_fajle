@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:0,SPORT | SPORT KLUB 1 HD (HR)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189980.m3u8
+#EXTINF:0,SPORT | SPORT KLUB 1 HD (SR)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189981.m3u8
+#EXTINF:0,SPORT | SPORT KLUB 2 HD (HR)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189982.m3u8
+#EXTINF:0,SPORT | SPORT KLUB 2 HD (SR)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189983.m3u8
+#EXTINF:0,SPORT | SPORT KLUB 3 HD (SR)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189985.m3u8
+#EXTINF:0,SPORT | SPORT KLUB HD (HR)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189992.m3u8
+#EXTINF:0,SPORT | SPORT KLUB HD (SR)
+http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189993.m3u8
 #EXTINF:-1,ZIGGO SPORT VOETBAL NL
 http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4167.m3u8
 #EXTINF:-1,ZIGGO SPORT VOETBAL FHD NL
