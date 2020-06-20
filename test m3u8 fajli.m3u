@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1,[EXYU]ARENA SPORT 1 HD HR
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9611.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 1 SRB FHD
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9606.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 2 HD HR
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9612.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 2 SRB FHD
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9607.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 3 HD HR
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9613.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 3 SRB FHD
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9608.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 4 HD HR
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9614.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 4 SRB FHD
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9609.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 5 HD HR
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9615.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 5 SRB FHD
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9610.m3u8
+#EXTINF:-1,[EXYU]ARENA SPORT 6 HR
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9616.m3u8
+#EXTINF:-1,[EXYU]SPORT KLUB 1
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9619.m3u8
+#EXTINF:-1,[EXYU]SPORT KLUB 2
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9620.m3u8
+#EXTINF:-1,[EXYU]SPORT KLUB 3
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9621.m3u8
+#EXTINF:-1,[EXYU]SPORT KLUB 4
+http://live.faucontv.com:8000/live/aradaradian1360/zyw4X6Hby3/9622.m3u8
+
 #EXTINF:0,BEIN SPORTS 1 (UHD)
 http://62.171.128.99:25461/live/phoenix/1212/928.m3u8
 #EXTINF:0,BEIN SPORTS 2 (UHD)
