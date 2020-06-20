@@ -1,182 +1,48 @@
 #EXTM3U
 
-#EXTINF:0,SPORT | SPORT KLUB 1 HD (HR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189980.m3u8
-#EXTINF:0,SPORT | SPORT KLUB 1 HD (SR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189981.m3u8
-#EXTINF:0,SPORT | SPORT KLUB 2 HD (HR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189982.m3u8
-#EXTINF:0,SPORT | SPORT KLUB 2 HD (SR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189983.m3u8
-#EXTINF:0,SPORT | SPORT KLUB 3 HD (SR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189985.m3u8
-#EXTINF:0,SPORT | SPORT KLUB HD (HR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189992.m3u8
-#EXTINF:0,SPORT | SPORT KLUB HD (SR)
-http://s1.mekon.in:8880/live/bktsiptvcom/w1ELI8YccV/189993.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4167.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL FHD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/15803.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14977.m3u8
-#EXTINF:-1,BEIN SPORTS 1 FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/5522.m3u8
-#EXTINF:-1,BEIN SPORTS 1 4K QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/24697.m3u8
-#EXTINF:-1,BEIN SPORTS 1 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/22157.m3u8
-#EXTINF:-1,BEIN SPORTS 2 4K QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/24696.m3u8
-#EXTINF:-1,BEIN SPORTS 2 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/22158.m3u8
-#EXTINF:-1,BEIN SPORTS 3 4K QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/24695.m3u8
-#EXTINF:-1,BEIN SPORTS 3 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/22159.m3u8
-#EXTINF:-1,BEIN SPORTS 4 4K QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/24694.m3u8
-#EXTINF:-1,BEIN SPORTS 4 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/22160.m3u8
-#EXTINF:-1,BEIN SPORTS 5 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/22161.m3u8
-#EXTINF:-1,BEIN SPORTS 6 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/22162.m3u8
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/24691.m3u8
-#EXTINF:-1,BEIN SPORTS 7 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/22163.m3u8
-#EXTINF:-1,BEIN SPORTS 8 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/18284.m3u8
-#EXTINF:-1,BEIN SPORTS 9 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/21515.m3u8
-#EXTINF:-1,BEIN SPORTS 10 FHD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/21516.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/15000.m3u8
-#EXTINF:-1,BEIN SPORTS 12 HD QA
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/15001.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14977.m3u8
-#EXTINF:-1,BEIN SPORTS 1 FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/5522.m3u8
-#EXTINF:-1,BEIN SPORTS 2 FHD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14978.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/15637.m3u8
-#EXTINF:-1,BEIN SPORTS 3 FHD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4477.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14979.m3u8
-#EXTINF:-1,BEIN SPORTS HD US
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/15002.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD AU
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/33648.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD AU
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/33649.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD AU
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/33650.m3u8
-#EXTINF:-1,ARENA SPORT 1 SK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/23941.m3u8
-#EXTINF:-1,RMC SPORT 1 HD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/13182.m3u8
-#EXTINF:-1,RMC SPORT 2 HD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/2251.m3u8
-#EXTINF:-1,RMC SPORT 3 FHD FR
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/21522.m3u8
-#EXTINF:-1,DAZN 1 FHD DE
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/23280.m3u8
-#EXTINF:-1,DAZN 2 FHD DE
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/23281.m3u8
-#EXTINF:-1,SKY SPORT 1 HD DE
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/1479.m3u8
-#EXTINF:-1,SKY SPORT 1 FHD DE
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/7326.m3u8
-#EXTINF:-1,SKY SPORT 2 HD DE
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/1480.m3u8
-#EXTINF:-1,SKY SPORT 2 FHD DE
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/7327.m3u8
-#EXTINF:-1,SKY SPORT ARENA HD IT
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/1689.m3u8
-#EXTINF:-1,SUPER TENNIS HD IT
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4084.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL HD IT
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/17371.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4171.m3u8
-#EXTINF:-1,FOX SPORTS 3 FHD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/17218.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4172.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4173.m3u8
-#EXTINF:-1,FOX SPORTS 6 HD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/11231.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/4166.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT FHD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/12523.m3u8
-#EXTINF:-1,FOX SPORTS 4 FHD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/17219.m3u8
-#EXTINF:-1,FOX SPORTS 5 FHD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/17220.m3u8
-#EXTINF:-1,FOX SPORTS 6 FHD NL
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/17221.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES 1 ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/5465.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES HD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/12723.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES 1 HD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/12700.m3u8
-#EXTINF:-1,TELEDEPORTE ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/5414.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/23282.m3u8
-#EXTINF:-1,TELEDEPORTE FHD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/23441.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/28597.m3u8
-#EXTINF:-1,FOX SPORTS 2 FHD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/28598.m3u8
-#EXTINF:-1,FOX SPORTS 3 FHD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/28599.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1 ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/28656.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1 FHD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/28655.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 FHD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/28657.m3u8
-#EXTINF:-1,DAZN FHD ES
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/28893.m3u8
-#EXTINF:-1,BT SPORT 1 FHD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14657.m3u8
-#EXTINF:-1,BT SPORT 1 HD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/1991.m3u8
-#EXTINF:-1,BT SPORT 2 FHD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14658.m3u8
-#EXTINF:-1,BT SPORT 2 HD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/1992.m3u8
-#EXTINF:-1,BT SPORT 3 FHD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14659.m3u8
-#EXTINF:-1,BT SPORT 3 UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/1965.m3u8
-#EXTINF:-1,BT SPORT ESPN UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/2673.m3u8
-#EXTINF:-1,BT SPORT ESPN HD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/1980.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14651.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD UK
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/14655.m3u8
-#EXTINF:-1,TENNIS CHANNEL HD US
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/18386.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD US
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/9031.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD US
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/9030.m3u8
-#EXTINF:-1,ESPN DEPORTES HD US
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/23260.m3u8
-#EXTINF:-1,DAZN 1 HD IT
-http://tv.hero.iptv.uno:80/live/4NLBGnM69/4LtkMo1626/23357.m3u8
+#EXTINF:0,BEIN SPORTS 1 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/928.m3u8
+#EXTINF:0,BEIN SPORTS 2 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/929.m3u8
+#EXTINF:0,BEIN SPORTS 3 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/930.m3u8
+#EXTINF:0,BEIN SPORTS 4 (UHD)_
+http://62.171.128.99:25461/live/phoenix/1212/931.m3u8
+#EXTINF:0,BEIN SPORTS 5 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/932.m3u8
+#EXTINF:0,BEIN SPORTS 6 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/933.m3u8
+#EXTINF:0,BEIN SPORTS 7 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/934.m3u8
+#EXTINF:0,BEIN SPORTS 8 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/935.m3u8
+#EXTINF:0,BEIN SPORTS 9 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/936.m3u8
+#EXTINF:0,BEIN SPORTS 10 (UHD)
+http://62.171.128.99:25461/live/phoenix/1212/937.m3u8
+#EXTINF:0,BEIN SPORTS 1 FHD_
+http://62.171.128.99:25461/live/phoenix/1212/986.m3u8
+#EXTINF:0,BEIN SPORTS 2 FHD
+http://62.171.128.99:25461/live/phoenix/1212/987.m3u8
+#EXTINF:0,BEIN SPORTS 3 FHD
+http://62.171.128.99:25461/live/phoenix/1212/989.m3u8
+#EXTINF:0,BEIN SPORTS 4 FHD
+http://62.171.128.99:25461/live/phoenix/1212/990.m3u8
+#EXTINF:0,BEIN SPORTS 5 FHD
+http://62.171.128.99:25461/live/phoenix/1212/991.m3u8
+#EXTINF:0,BEIN SPORTS 6 FHD
+http://62.171.128.99:25461/live/phoenix/1212/992.m3u8
+#EXTINF:0,BEIN SPORTS 7 FHD
+http://62.171.128.99:25461/live/phoenix/1212/993.m3u8
+#EXTINF:0,BEIN SPORTS 8 FHD
+http://62.171.128.99:25461/live/phoenix/1212/994.m3u8
+#EXTINF:0,BEIN SPORTS 9 FHD_
+http://62.171.128.99:25461/live/phoenix/1212/995.m3u8
+#EXTINF:0,BEIN SPORTS 10 FHD
+http://62.171.128.99:25461/live/phoenix/1212/996.m3u8
+#EXTINF:0,BEIN SPORTS 11 FHD
+http://62.171.128.99:25461/live/phoenix/1212/997.m3u8
+
 
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
