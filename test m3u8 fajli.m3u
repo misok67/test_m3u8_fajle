@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTM3U
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7319.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7320.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7321.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7324.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7325.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7326.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7327.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7328.m3u8
+
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT1 HR
