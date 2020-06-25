@@ -1,49 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,BEIN SPORTS 1 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/928.m3u8
-#EXTINF:0,BEIN SPORTS 2 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/929.m3u8
-#EXTINF:0,BEIN SPORTS 3 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/930.m3u8
-#EXTINF:0,BEIN SPORTS 4 (UHD)_
-http://62.171.128.99:25461/live/phoenix/1212/931.m3u8
-#EXTINF:0,BEIN SPORTS 5 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/932.m3u8
-#EXTINF:0,BEIN SPORTS 6 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/933.m3u8
-#EXTINF:0,BEIN SPORTS 7 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/934.m3u8
-#EXTINF:0,BEIN SPORTS 8 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/935.m3u8
-#EXTINF:0,BEIN SPORTS 9 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/936.m3u8
-#EXTINF:0,BEIN SPORTS 10 (UHD)
-http://62.171.128.99:25461/live/phoenix/1212/937.m3u8
-#EXTINF:0,BEIN SPORTS 1 FHD_
-http://62.171.128.99:25461/live/phoenix/1212/986.m3u8
-#EXTINF:0,BEIN SPORTS 2 FHD
-http://62.171.128.99:25461/live/phoenix/1212/987.m3u8
-#EXTINF:0,BEIN SPORTS 3 FHD
-http://62.171.128.99:25461/live/phoenix/1212/989.m3u8
-#EXTINF:0,BEIN SPORTS 4 FHD
-http://62.171.128.99:25461/live/phoenix/1212/990.m3u8
-#EXTINF:0,BEIN SPORTS 5 FHD
-http://62.171.128.99:25461/live/phoenix/1212/991.m3u8
-#EXTINF:0,BEIN SPORTS 6 FHD
-http://62.171.128.99:25461/live/phoenix/1212/992.m3u8
-#EXTINF:0,BEIN SPORTS 7 FHD
-http://62.171.128.99:25461/live/phoenix/1212/993.m3u8
-#EXTINF:0,BEIN SPORTS 8 FHD
-http://62.171.128.99:25461/live/phoenix/1212/994.m3u8
-#EXTINF:0,BEIN SPORTS 9 FHD_
-http://62.171.128.99:25461/live/phoenix/1212/995.m3u8
-#EXTINF:0,BEIN SPORTS 10 FHD
-http://62.171.128.99:25461/live/phoenix/1212/996.m3u8
-#EXTINF:0,BEIN SPORTS 11 FHD
-http://62.171.128.99:25461/live/phoenix/1212/997.m3u8
-
-
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT1 HR
@@ -58,39 +14,47 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
 
-#EXTINF:-1 ,BEIN SPORTS 11HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/663.m3u8
-#EXTINF:-1 ,BEIN SPORTS 12HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/662.m3u8
-#EXTINF:-1 ,BEIN SPORTS 13HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/661.m3u8
-#EXTINF:-1 ,M. DEPORTE 2 HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38452.m3u8
-#EXTINF:-1 ,BEIN SPORTS HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38463.m3u8
-#EXTINF:-1 ,BT SPORTS 1 | HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38642.m3u8
-#EXTINF:-1 ,BT SPORTS 3 | HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38644.m3u8
-#EXTINF:-1 ,SKY SPORT MAIN EVENT
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38650.m3u8
-#EXTINF:-1 ,FOX SPORTS
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18349.m3u8
-#EXTINF:-1 ,SKY SPORT ARENA HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18415.m3u8
-#EXTINF:-1 ,SKY SPORT UNO
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18417.m3u8
-#EXTINF:-1 ,FOX SPORT 4
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18526.m3u8
-#EXTINF:-1 ,ZIGGO SPORT SELECT HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18467.m3u8
-#EXTINF:-1 ,ZIGGO SPORT VOETBAL
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18466.m3u8
-#EXTINF:-1 ,DAZN 1 BAR HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39051.m3u8
-#EXTINF:-1 ,DAZN 2 BAR HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39052.m3u8
-#EXTINF:-1 ,SKY SPORT 1 HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38892.m3u8
-#EXTINF:-1 ,TENNIS CHANNEL HD
-http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39094.m3u8
+#EXTINF:-1,FR-RMC-SPORT1_HD
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/4295.m3u8
+#EXTINF:-1,FR-RMC-SPORT2_HD
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/4296.m3u8
+#EXTINF:-1,FR-RMC-SPORT3_HD
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/4297.m3u8
+#EXTINF:-1,FR-BEIN-SPORTS-1
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/2268.m3u8
+#EXTINF:-1,FR-BEIN-SPORTS-2FR
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/2267.m3u8
+#EXTINF:-1,FR-BEIN-SPORTS-3FR
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/2266.m3u8
+#EXTINF:-1,FR-CANAL.SPORT.SD
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/10851.m3u8
+#EXTINF:-1,DE-SKY_SPORT1
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/3076.m3u8
+#EXTINF:-1,DE-SKY_SPORT2
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/3077.m3u8
+#EXTINF:-1,UK-BT-SPORT-1-HD
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/6238.m3u8
+#EXTINF:-1,UK-BT-SPORT-2-HD
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/6239.m3u8
+#EXTINF:-1,UK-BT-SPORT-EUROPE
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/6240.m3u8
+#EXTINF:-1,UK-PREMIERE_SPORT
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/5803.m3u8
+#EXTINF:-1,UK-SETANTA-SPORT _IRLAND1
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/5804.m3u8
+#EXTINF:-1,USA-FOX-SPORTS-1
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/3523.m3u8
+#EXTINF:-1,USA-FOX-SPORTS-2
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/7931.m3u8
+#EXTINF:-1,IT-SKY-SPORT1
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/5936.m3u8
+#EXTINF:-1,IT-PREMIUM-SPORT1
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/2706.m3u8
+#EXTINF:-1,IT-SKY-SPORT2
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/5922.m3u8
+#EXTINF:-1,IT-SKY-SPORT3
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/2659.m3u8
+#EXTINF:-1,IT-SKY-SPORTF1
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/2660.m3u8
+#EXTINF:-1,IT-FOX_SPORTS
+http://best-servers.xyz:8000/live/aziz2020/2020aziz/2669.m3u8
