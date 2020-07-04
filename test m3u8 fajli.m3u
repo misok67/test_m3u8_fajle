@@ -1,22 +1,72 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7319.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7320.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7321.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7324.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7325.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7326.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7327.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7328.m3u8
+#EXTINF:-1,Sport Klub-1
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9157.m3u8
+#EXTINF:-1,Sport Klub-2
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9158.m3u8
+#EXTINF:-1,Sport Klub-3
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9183.m3u8
+#EXTINF:-1,Sport Klub-4
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9187.m3u8
+#EXTINF:-1,Sport Klub-1-H
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9181.m3u8
+#EXTINF:-1,Sport Klub-2-H
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9182.m3u8
+#EXTINF:-1,Sport Klub-3-H
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9184.m3u8
+#EXTINF:-1,Sport Klub-4-H
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9185.m3u8
+#EXTINF:-1,SPORT TV 1 HD SLO
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/215.m3u8
+#EXTINF:-1,SPORT TV 2 HD SLO
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/214.m3u8
+#EXTINF:-1,SPORT TV 3 HD SLO
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/213.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/486.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/485.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/484.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/483.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/482.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD HR
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/481.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/495.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/494.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/493.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/492.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/491.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/5541.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/5542.m3u8
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/290.m3u8
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/289.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/278.m3u8
+#EXTINF:-1,US: SKY SPORT F1
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/229.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/471.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/470.m3u8
+#EXTINF:-1,BT SPORT 1
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/474.m3u8
+#EXTINF:-1,BT SPORT 2
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/473.m3u8
+#EXTINF:-1,BT SPORT 3
+http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/472.m3u8
 
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
@@ -31,95 +81,62 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
+#EXTM3U
 
-#EXTINF:-1,DE: DAZN 1
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/53387.m3u8
-#EXTINF:-1,DE: DAZN 2
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/53386.m3u8
-#EXTINF:-1,USA: BT SPORTS 1 HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31157.m3u8
-#EXTINF:-1,USA: BT SPORTS 2 HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31156.m3u8
-#EXTINF:-1,USA: BT SPORTS 3 HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31155.m3u8
-#EXTINF:-1,USA: BT SPORTS ESPN HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31147.m3u8
-#EXTINF:-1,USA: SKY SPORTS F1 HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31149.m3u8
-#EXTINF:-1,USA: SKY SPORTS FOOTBALL HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31145.m3u8
-#EXTINF:-1,USA: SKY SPORTS MAIN EVENTS HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31146.m3u8
-#EXTINF:-1,USA: SKY SPORTS PREMIER LEAGUE HD-GB
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31150.m3u8
-#EXTINF:-1,UK: SKY SPORTS PL
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1044.m3u8
-#EXTINF:-1,UK: SKY SPORTS F1
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1045.m3u8
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/16897.m3u8
-#EXTINF:-1,UK: BT SPORT 1
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1028.m3u8
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/9300.m3u8
-#EXTINF:-1,UK: BT SPORT 1 FHD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/16898.m3u8
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1029.m3u8
-#EXTINF:-1,UK: BT SPORT 2 FHD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/16899.m3u8
-#EXTINF:-1,UK: BT SPORTS EUROPE HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1030.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/45684.m3u8
-#EXTINF:-1,NL: FOX SPORTS 2
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/26096.m3u8
-#EXTINF:-1,NL: FOX SPORTS4
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/26094.m3u8
-#EXTINF:-1,NL: FOX SPORTS5
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/26093.m3u8
-#EXTINF:-1,NL: FOX SPORTS6
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/26092.m3u8
-#EXTINF:-1,SPORT: BEIN SPORTS 1 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1063.m3u8
-#EXTINF:-1,SPORT: BEIN SPORTS 3 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1065.m3u8
-#EXTINF:-1,SPORT: BEIN SPORTS 4 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1066.m3u8
-#EXTINF:-1,SPORT: BEIN SPORTS 6 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1068.m3u8
-#EXTINF:-1,SPORT: BEIN SPORTS 8 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1070.m3u8
-#EXTINF:-1,SPORT: BEIN SPORTS 12 HD (ENGLISH)
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/4385.m3u8
-#EXTINF:-1,SP: M. LIGA DE CAMPEONES HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/5983.m3u8
-#EXTINF:-1,SP: M. LIGA DE CAMPEONES
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/587.m3u8
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/13600.m3u8
-#EXTINF:-1,SP: M.  DEPORTES 1
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/419.m3u8
-#EXTINF:-1,SP: M. DEPORTES 2
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7197.m3u8
-#EXTINF:-1,SP: MULTIDEPORTES
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/22611.m3u8
-#EXTINF:-1,SP: TELEDEPORTES
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/13917.m3u8
-#EXTINF:-1,USA: BEIN SPORTS HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31160.m3u8
-#EXTINF:-1,USA: BEIN SPORTS  FHD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31141.m3u8
-#EXTINF:-1,USA: ESPN DEPORTES
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31238.m3u8
-#EXTINF:-1,USA: FOX SPORTS 1 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31218.m3u8
-#EXTINF:-1,USA: FOX SPORTS 1 FHD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31135.m3u8
-#EXTINF:-1,USA: FOX SPORTS 2 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31217.m3u8
+#EXTINF:-1,..B1..DAZN 1 HD
+http://mojaiptv.net:80/live/edoedo/edoedo/5541.m3u8
+#EXTINF:-1,..B1..DAZN 2 HD
+http://mojaiptv.net:80/live/edoedo/edoedo/5542.m3u8
+#EXTINF:-1,..B1..SKY SPORT 1 HD DE
+http://mojaiptv.net:80/live/edoedo/edoedo/290.m3u8
+#EXTINF:-1,..B1..SKY SPORT 2 HD DE
+http://mojaiptv.net:80/live/edoedo/edoedo/289.m3u8
+#EXTINF:-1,..B1..SKY SPORTS F1 DE
+http://mojaiptv.net:80/live/edoedo/edoedo/296.m3u8
+#EXTINF:-1,..B1..US: SKY SPORT F1
+http://mojaiptv.net:80/live/edoedo/edoedo/229.m3u8
+#EXTINF:-1,..B1..USA/UK: SKY SPORT PREMIER LIGA
+http://mojaiptv.net:80/live/edoedo/edoedo/23.m3u8
+#EXTINF:-1,..B1..FOX SPORTS 1
+http://mojaiptv.net:80/live/edoedo/edoedo/471.m3u8
+#EXTINF:-1,..B1..FOX SPORTS 2
+http://mojaiptv.net:80/live/edoedo/edoedo/470.m3u8
+#EXTINF:-1,..B1..BT SPORT 1
+http://mojaiptv.net:80/live/edoedo/edoedo/474.m3u8
+#EXTINF:-1,..B1..BT SPORT 2
+http://mojaiptv.net:80/live/edoedo/edoedo/473.m3u8
+#EXTINF:-1,..B1..BT SPORT 3
+http://mojaiptv.net:80/live/edoedo/edoedo/472.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 1 HD BIH
+http://mojaiptv.net:80/live/edoedo/edoedo/6776.m3u8 
+#EXTINF:-1,..B1..ARENA SPORT 1 HD SRB
+http://mojaiptv.net:80/live/edoedo/edoedo/490.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 2 HD SRB
+http://mojaiptv.net:80/live/edoedo/edoedo/489.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 3 HD SRB
+http://mojaiptv.net:80/live/edoedo/edoedo/488.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 4 HD SRB
+http://mojaiptv.net:80/live/edoedo/edoedo/487.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 1 HD HR
+http://mojaiptv.net:80/live/edoedo/edoedo/486.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 2 HD HR
+http://mojaiptv.net:80/live/edoedo/edoedo/485.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 3 HD HR
+http://mojaiptv.net:80/live/edoedo/edoedo/484.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 4 HD HR
+http://mojaiptv.net:80/live/edoedo/edoedo/483.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 5 HD HR
+http://mojaiptv.net:80/live/edoedo/edoedo/482.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 6 HD HR
+http://mojaiptv.net:80/live/edoedo/edoedo/481.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 1
+http://mojaiptv.net:80/live/edoedo/edoedo/495.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 2
+http://mojaiptv.net:80/live/edoedo/edoedo/494.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 3
+http://mojaiptv.net:80/live/edoedo/edoedo/493.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 4
+http://mojaiptv.net:80/live/edoedo/edoedo/492.m3u8
+#EXTINF:-1,..B1..ARENA SPORT 5
+http://mojaiptv.net:80/live/edoedo/edoedo/491.m3u8
 
-#EXTINF:-1,USA: TENNIS CHANNEL FHD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31117.m3u8
-#EXTINF:-1,USA: TENNIS CHANNEL HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31210.m3u8
