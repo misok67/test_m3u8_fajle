@@ -1,72 +1,119 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1,Sport Klub-1
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9157.m3u8
-#EXTINF:-1,Sport Klub-2
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9158.m3u8
-#EXTINF:-1,Sport Klub-3
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9183.m3u8
-#EXTINF:-1,Sport Klub-4
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9187.m3u8
-#EXTINF:-1,Sport Klub-1-H
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9181.m3u8
-#EXTINF:-1,Sport Klub-2-H
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9182.m3u8
-#EXTINF:-1,Sport Klub-3-H
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9184.m3u8
-#EXTINF:-1,Sport Klub-4-H
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/9185.m3u8
-#EXTINF:-1,SPORT TV 1 HD SLO
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/215.m3u8
-#EXTINF:-1,SPORT TV 2 HD SLO
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/214.m3u8
-#EXTINF:-1,SPORT TV 3 HD SLO
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/213.m3u8
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/486.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/485.m3u8
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/484.m3u8
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/483.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/482.m3u8
-#EXTINF:-1,ARENA SPORT 6 HD HR
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/481.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/495.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/494.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/493.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/492.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/491.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/5541.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/5542.m3u8
-#EXTINF:-1,SKY SPORT 1 HD DE
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/290.m3u8
-#EXTINF:-1,SKY SPORT 2 HD DE
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/289.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/278.m3u8
-#EXTINF:-1,US: SKY SPORT F1
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/229.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/471.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/470.m3u8
-#EXTINF:-1,BT SPORT 1
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/474.m3u8
-#EXTINF:-1,BT SPORT 2
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/473.m3u8
-#EXTINF:-1,BT SPORT 3
-http://media-grupa.net:80/live/vmuYLFIgiQ/kGgE2OE3C0/472.m3u8
+#EXTINF:-1,SA : SUPERSPORT 1
+http://myallview.co.uk:80/live/frank3/frank3/17567.m3u8
+#EXTINF:-1,SA : SUPERSPORT 2
+http://myallview.co.uk:80/live/frank3/frank3/17568.m3u8
+#EXTINF:-1,SA : SUPERSPORT 3
+http://myallview.co.uk:80/live/frank3/frank3/17569.m3u8
+#EXTINF:-1,SA : SUPERSPORT 4
+http://myallview.co.uk:80/live/frank3/frank3/17570.m3u8
+#EXTINF:-1,SA : SUPERSPORT 5
+http://myallview.co.uk:80/live/frank3/frank3/17571.m3u8
+#EXTINF:-1,SA : SUPERSPORT 6
+http://myallview.co.uk:80/live/frank3/frank3/17572.m3u8
+#EXTINF:-1,SA : SUPERSPORT 7
+http://myallview.co.uk:80/live/frank3/frank3/17573.m3u8
+#EXTINF:-1,SA : SUPERSPORT 8
+http://myallview.co.uk:80/live/frank3/frank3/17574.m3u8
+#EXTINF:-1,SA : SUPERSPORT 9
+http://myallview.co.uk:80/live/frank3/frank3/17575.m3u8
+#EXTINF:-1,SA : SUPERSPORT 10
+http://myallview.co.uk:80/live/frank3/frank3/17576.m3u8
+#EXTINF:-1,SA : SUPERSPORT 11
+http://myallview.co.uk:80/live/frank3/frank3/17577.m3u8
+#EXTINF:-1,SA : SUPERSPORT 12
+http://myallview.co.uk:80/live/frank3/frank3/17578.m3u8
+#EXTINF:-1,ASTRO: SUPERSPORT 1 FHD
+http://myallview.co.uk:80/live/frank3/frank3/82559.m3u8
+#EXTINF:-1,ASTRO: SUPERSPORT 2 FHD
+http://myallview.co.uk:80/live/frank3/frank3/82560.m3u8
+#EXTINF:-1,ASTRO: SUPERSPORT 3 FHD
+http://myallview.co.uk:80/live/frank3/frank3/82561.m3u8
+#EXTINF:-1,ASTRO: SUPERSPORT 4 FHD
+http://myallview.co.uk:80/live/frank3/frank3/82562.m3u8
+#EXTINF:-1,EPL: RUSH SPORTS 1 HD/OPTUS 1
+http://myallview.co.uk:80/live/frank3/frank3/469.m3u8
+#EXTINF:-1,3PM:  SPARKSPORTS 1
+http://myallview.co.uk:80/live/frank3/frank3/82565.m3u8
+#EXTINF:-1,3PM: SPARKSPORTS 2
+http://myallview.co.uk:80/live/frank3/frank3/82566.m3u8
+#EXTINF:-1,3PM: SPARKSPORTS 3
+http://myallview.co.uk:80/live/frank3/frank3/82567.m3u8
+#EXTINF:-1,3PM:  SPARKSPORTS 4
+http://myallview.co.uk:80/live/frank3/frank3/82570.m3u8
+#EXTINF:-1,3PM:  SPARKSPORTS 5
+http://myallview.co.uk:80/live/frank3/frank3/82569.m3u8
+#EXTINF:-1,3PM:  SPARKSPORTS 6
+http://myallview.co.uk:80/live/frank3/frank3/82568.m3u8
+#EXTINF:-1,BS | BEIN SPORT HD
+http://myallview.co.uk:80/live/frank3/frank3/79673.m3u8
+#EXTINF:-1,BS | BEINSPORT HD
+http://myallview.co.uk:80/live/frank3/frank3/79674.m3u8
+#EXTINF:-1,BS | BEINSPORT1HD
+http://myallview.co.uk:80/live/frank3/frank3/79675.m3u8
+#EXTINF:-1,BS | BEINSPORT2 HD
+http://myallview.co.uk:80/live/frank3/frank3/79676.m3u8
+#EXTINF:-1,BS | BEINSPORT3 HD
+http://myallview.co.uk:80/live/frank3/frank3/79677.m3u8
+#EXTINF:-1,BS | BEINSPORT4 HD
+http://myallview.co.uk:80/live/frank3/frank3/79678.m3u8
+#EXTINF:-1,BS | BEINSPORT5 HD
+http://myallview.co.uk:80/live/frank3/frank3/79679.m3u8
+#EXTINF:-1,BS | BEINSPORT6 HD
+http://myallview.co.uk:80/live/frank3/frank3/79680.m3u8
+#EXTINF:-1,BS | BEINSPORT7 HD
+http://myallview.co.uk:80/live/frank3/frank3/79681.m3u8
+#EXTINF:-1,BS | BEINSPORT8 HD
+http://myallview.co.uk:80/live/frank3/frank3/79682.m3u8
+#EXTINF:-1,BS | BEIN SPORT 9HD
+http://myallview.co.uk:80/live/frank3/frank3/79683.m3u8
+#EXTINF:-1,BS | BEIN  SPORT 10HD
+http://myallview.co.uk:80/live/frank3/frank3/79684.m3u8
+#EXTINF:-1,BS | BEIN SPORT UHD
+http://myallview.co.uk:80/live/frank3/frank3/79685.m3u8
+#EXTINF:-1,BS | BEIN SPORT1 HD
+http://myallview.co.uk:80/live/frank3/frank3/79686.m3u8
+#EXTINF:-1,BS | BEIN SPORT1 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79687.m3u8
+#EXTINF:-1,BS | BEIN SPORT2 HD
+http://myallview.co.uk:80/live/frank3/frank3/79688.m3u8
+#EXTINF:-1,BS | BEIN SPORT2 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79689.m3u8
+#EXTINF:-1,BS | BEIN SPORT4 HD
+http://myallview.co.uk:80/live/frank3/frank3/79690.m3u8
+#EXTINF:-1,BS | BEIN SPORT4 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79691.m3u8
+#EXTINF:-1,BS | BEIN SPORT5 HD
+http://myallview.co.uk:80/live/frank3/frank3/79692.m3u8
+#EXTINF:-1,BS | BEIN SPORT5 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79693.m3u8
+#EXTINF:-1,BS | BEIN SPORT6 HD
+http://myallview.co.uk:80/live/frank3/frank3/79694.m3u8
+#EXTINF:-1,BS | BEIN SPORT6 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79695.m3u8
+#EXTINF:-1,BS | BEIN SPORT7 HD
+http://myallview.co.uk:80/live/frank3/frank3/79696.m3u8
+#EXTINF:-1,BS | BEIN SPORT7 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79697.m3u8
+#EXTINF:-1,BS | BEIN SPORT8 HD
+http://myallview.co.uk:80/live/frank3/frank3/79698.m3u8
+#EXTINF:-1,BS | BEIN SPORT8 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79699.m3u8
+#EXTINF:-1,BS | BEIN SPORT9 HD
+http://myallview.co.uk:80/live/frank3/frank3/79700.m3u8
+#EXTINF:-1,BS | BEIN SPORT9 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79701.m3u8
+#EXTINF:-1,BS | BEIN SPORT10 HD
+http://myallview.co.uk:80/live/frank3/frank3/79702.m3u8
+#EXTINF:-1,BS | BEIN SPORT10 HD+
+http://myallview.co.uk:80/live/frank3/frank3/79703.m3u8
+#EXTINF:-1,BS | BEIN SPORT 11 HD
+http://myallview.co.uk:80/live/frank3/frank3/79735.m3u8
+#EXTINF:-1,BS | BEIN SPORT 12 HD
+http://myallview.co.uk:80/live/frank3/frank3/79736.m3u8
+#EXTINF:-1,BS | BEIN SPORT 13 HD
+http://myallview.co.uk:80/live/frank3/frank3/79737.m3u8
 
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
@@ -80,63 +127,4 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
-
-#EXTM3U
-
-#EXTINF:-1,..B1..DAZN 1 HD
-http://mojaiptv.net:80/live/edoedo/edoedo/5541.m3u8
-#EXTINF:-1,..B1..DAZN 2 HD
-http://mojaiptv.net:80/live/edoedo/edoedo/5542.m3u8
-#EXTINF:-1,..B1..SKY SPORT 1 HD DE
-http://mojaiptv.net:80/live/edoedo/edoedo/290.m3u8
-#EXTINF:-1,..B1..SKY SPORT 2 HD DE
-http://mojaiptv.net:80/live/edoedo/edoedo/289.m3u8
-#EXTINF:-1,..B1..SKY SPORTS F1 DE
-http://mojaiptv.net:80/live/edoedo/edoedo/296.m3u8
-#EXTINF:-1,..B1..US: SKY SPORT F1
-http://mojaiptv.net:80/live/edoedo/edoedo/229.m3u8
-#EXTINF:-1,..B1..USA/UK: SKY SPORT PREMIER LIGA
-http://mojaiptv.net:80/live/edoedo/edoedo/23.m3u8
-#EXTINF:-1,..B1..FOX SPORTS 1
-http://mojaiptv.net:80/live/edoedo/edoedo/471.m3u8
-#EXTINF:-1,..B1..FOX SPORTS 2
-http://mojaiptv.net:80/live/edoedo/edoedo/470.m3u8
-#EXTINF:-1,..B1..BT SPORT 1
-http://mojaiptv.net:80/live/edoedo/edoedo/474.m3u8
-#EXTINF:-1,..B1..BT SPORT 2
-http://mojaiptv.net:80/live/edoedo/edoedo/473.m3u8
-#EXTINF:-1,..B1..BT SPORT 3
-http://mojaiptv.net:80/live/edoedo/edoedo/472.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 1 HD BIH
-http://mojaiptv.net:80/live/edoedo/edoedo/6776.m3u8 
-#EXTINF:-1,..B1..ARENA SPORT 1 HD SRB
-http://mojaiptv.net:80/live/edoedo/edoedo/490.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 2 HD SRB
-http://mojaiptv.net:80/live/edoedo/edoedo/489.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 3 HD SRB
-http://mojaiptv.net:80/live/edoedo/edoedo/488.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 4 HD SRB
-http://mojaiptv.net:80/live/edoedo/edoedo/487.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 1 HD HR
-http://mojaiptv.net:80/live/edoedo/edoedo/486.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 2 HD HR
-http://mojaiptv.net:80/live/edoedo/edoedo/485.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 3 HD HR
-http://mojaiptv.net:80/live/edoedo/edoedo/484.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 4 HD HR
-http://mojaiptv.net:80/live/edoedo/edoedo/483.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 5 HD HR
-http://mojaiptv.net:80/live/edoedo/edoedo/482.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 6 HD HR
-http://mojaiptv.net:80/live/edoedo/edoedo/481.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 1
-http://mojaiptv.net:80/live/edoedo/edoedo/495.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 2
-http://mojaiptv.net:80/live/edoedo/edoedo/494.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 3
-http://mojaiptv.net:80/live/edoedo/edoedo/493.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 4
-http://mojaiptv.net:80/live/edoedo/edoedo/492.m3u8
-#EXTINF:-1,..B1..ARENA SPORT 5
-http://mojaiptv.net:80/live/edoedo/edoedo/491.m3u8
 
