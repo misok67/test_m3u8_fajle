@@ -118,3 +118,7 @@ http://itvrus4.ddns.net:8080/live/31313131/31313131/28826.m3u8
 http://itvrus4.ddns.net:8080/live/31313131/31313131/28827.m3u8
 #EXTINF:-1,..B1..LA | FOX SPORTS 3
 http://itvrus4.ddns.net:8080/live/31313131/31313131/28828.m3u8
+#EXTINF:-1,UKS | Premier Sport 1
+http://pcjatv.com:8080/live/31313131/31313131/1094.m3u8
+#EXTINF:-1,UKS | Premier Sport 2
+http://pcjatv.com:8080/live/31313131/31313131/1095.m3u8 
