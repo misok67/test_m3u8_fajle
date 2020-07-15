@@ -16,23 +16,51 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
 
-#EXTINF:-1,DEPORTE | DIRECTV SPORTS HD
-http://plus-masters-premiunvip.live:8000/live/IPTV945/M0Uz7EuPZC/47671.m3u8
-#EXTINF:-1,DEPORTE | DIRECTV SPORTS+
-http://plus-masters-premiunvip.live:8000/live/IPTV945/M0Uz7EuPZC/47672.m3u8
-#EXTINF:-1,DEPORTE | DIRECTV SPORTS PLUS +
-http://plus-masters-premiunvip.live:8000/live/IPTV945/M0Uz7EuPZC/64877.m3u8
-#EXTINF:-1,DEPORTE | DIRECTV SPORTS 2 HD
-http://plus-masters-premiunvip.live:8000/live/IPTV945/M0Uz7EuPZC/47670.m3u8
-#EXTINF:-1,DEPORTE | ESPN + HD
-http://plus-masters-premiunvip.live:8000/live/IPTV945/M0Uz7EuPZC/47673.m3u8
-#EXTINF:-1,DEPORTE | ESPN 1
-http://plus-masters-premiunvip.live:8000/live/IPTV945/M0Uz7EuPZC/47674.m3u8
-#EXTINF:-1,DEPORTE | ESPN 1 HD SUR
-http://plus-masters-premiunvip.live:8000/live/IPTV945/M0Uz7EuPZC/47675.m3u8
-#EXTINF:-1,TR: SPORTS 1 HD
-http://www.bbip.tv:8080/live/salvador/salvador/4632.m3u8
-#EXTINF:-1,TR: SPORTS 2 HD
-http://www.bbip.tv:8080/live/salvador/salvador/4633.m3u8
-#EXTINF:-1,TR: SPORTS 3 HD
-http://www.bbip.tv:8080/live/salvador/salvador/4634.m3u8
+#EXTINF:-1,[NL] FOX SPORTS 3 HD EREDIVISIE
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/25750
+#EXTINF:-1,[NL] FOX SPORTS 4 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/469
+#EXTINF:-1,[NL] FOX SPORTS 5 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/470
+#EXTINF:-1,[NL] FOX SPORTS 6 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/1050
+#EXTINF:-1,[NL] ZIGGO SPORT SELECT HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/394
+#EXTINF:-1,[NL] ZIGGO SPORT VOETBAL HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/395
+#EXTINF:-1,[DE] SKY SPORT 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5129
+#EXTINF:-1,[DE] SKY SPORT 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5128
+#EXTINF:-1,[ES] DAZN 1
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/25841
+#EXTINF:-1,[ES] MOVISTAR LIGA CAMPEONES 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/25832
+#EXTINF:-1,[ES] MOVISTAR LIGA CAMPEONES 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/25830
+#EXTINF:-1,[IT] SKY SPORT ARENA UHD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/21131
+#EXTINF:-1,[IT] SKY SPORT UNO UHD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/21133
+#EXTINF:-1,[AR] BEIN SPORTS 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/13
+#EXTINF:-1,[AR] BEIN SPORTS 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/21
+#EXTINF:-1,[AR] BEIN SPORTS 3 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/22
+#EXTINF:-1,[AR] BEIN SPORTS 4 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/25759
+#EXTINF:-1,[AR] BEIN SPORTS 5 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/24
+#EXTINF:-1,[AR] BEIN SPORTS 6 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/25
+#EXTINF:-1,[AR] BEIN SPORTS 7 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/26
+#EXTINF:-1,[AR] BEIN SPORTS 8 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/27
+#EXTINF:-1,[AR] BEIN SPORTS 9 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/28
+#EXTINF:-1,[AR] BEIN SPORTS 11 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/21513
+#EXTINF:-1,[AR] BEIN SPORTS 12 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/21514
