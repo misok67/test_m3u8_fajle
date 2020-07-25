@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT1 HR
@@ -14,123 +12,114 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
-#EXTINF:-1 ,ES: BEIN SPORTS LALIGA
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/40021.m3u8
-#EXTINF:-1 ,ES: MOVISTAR  DEPORTES 1 FHD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/39971.m3u8
-#EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/39955.m3u8
-#EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/39954.m3u8
-#EXTINF:-1 ,ARABIC: BEIN SPORTS 3 HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/23092.m3u8
-#EXTINF:-1 ,ARABIC: BEIN SPORTS 4 HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/23091.m3u8
-#EXTINF:-1 ,ARABIC: BEIN SPORTS 6 HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/23089.m3u8
-#EXTINF:-1 ,ARABIC: BEIN SPORTS 7 HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/23088.m3u8
-#EXTINF:-1 ,UK: BT SPORT 1
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/3399.m3u8
-#EXTINF:-1 ,UK: BT SPORT 2
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/3398.m3u8
-#EXTINF:-1 ,UK: BT SPORT 3
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/3397.m3u8
-#EXTINF:-1 ,UK: BT SPORT ESPN
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/3396.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS F1 HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/41545.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS MAIN EVENT FHD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/25170.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS PREMIER LEAGUE FHD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/22992.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS MIX FHD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/25169.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS NEWS FHD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/25168.m3u8
-#EXTINF:-1 ,US: BEIN SPORTS 1
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15178.m3u8
-#EXTINF:-1 ,US: BEIN SPORTS 2
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15177.m3u8
-#EXTINF:-1 ,CA: BEIN SPORTS HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42515.m3u8
-#EXTINF:-1 ,US: TENNIS CHANNEL HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/13119.m3u8
-#EXTINF:-1 ,US: TENNIS CHANNEL PLUS
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42106.m3u8
-#EXTINF:-1 ,US: TENNIS CHANNEL PLUS 1
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/41749.m3u8
-#EXTINF:-1 ,US: TENNIS CHANNEL PLUS 3
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/41751.m3u8
-#EXTINF:-1,UK - BT SPORT 1 HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/1408.m3u8
-#EXTINF:-1,UK - BT SPORT 2 HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/1306.m3u8
-#EXTINF:-1,UK - BT SPORT 3 HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/1305.m3u8
-#EXTINF:-1,UK - BT SPORT ESPN HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/1407.m3u8
-#EXTINF:-1,US | BEIN SPORTS
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/15922.m3u8
-#EXTINF:-1,US | FOX DEPORTES
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/23316.m3u8
-#EXTINF:-1,US | FOX SPORTS 1 HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/15948.m3u8
-#EXTINF:-1,US | FOX SPORTS 2 HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/15947.m3u8
-#EXTINF:-1,US | TENNIS CHANNEL HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/15940.m3u8
-#EXTINF:-1,DEPORTES | DIRECTV SPORTS + HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/47093.m3u8
-#EXTINF:-1,DEPORTES | DIRECTV SPORTS 2 HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/47095.m3u8
 
-
-#EXTINF:-1,[NL] FOX SPORTS 3 HD EREDIVISIE
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/25750
-#EXTINF:-1,[NL] FOX SPORTS 4 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/469
-#EXTINF:-1,[NL] FOX SPORTS 5 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/470
-#EXTINF:-1,[NL] FOX SPORTS 6 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/1050
-#EXTINF:-1,[NL] ZIGGO SPORT SELECT HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/394
-#EXTINF:-1,[NL] ZIGGO SPORT VOETBAL HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/395
-#EXTINF:-1,[DE] SKY SPORT 1 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/5129
-#EXTINF:-1,[DE] SKY SPORT 2 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/5128
-#EXTINF:-1,[ES] DAZN 1
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/25841
-#EXTINF:-1,[ES] MOVISTAR LIGA CAMPEONES 1 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/25832
-#EXTINF:-1,[ES] MOVISTAR LIGA CAMPEONES 2 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/25830
-#EXTINF:-1,[IT] SKY SPORT ARENA UHD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/21131
-#EXTINF:-1,[IT] SKY SPORT UNO UHD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/21133
-#EXTINF:-1,[AR] BEIN SPORTS 1 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/13
-#EXTINF:-1,[AR] BEIN SPORTS 2 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/21
-#EXTINF:-1,[AR] BEIN SPORTS 3 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/22
-#EXTINF:-1,[AR] BEIN SPORTS 4 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/25759
-#EXTINF:-1,[AR] BEIN SPORTS 5 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/24
-#EXTINF:-1,[AR] BEIN SPORTS 6 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/25
-#EXTINF:-1,[AR] BEIN SPORTS 7 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/26
-#EXTINF:-1,[AR] BEIN SPORTS 8 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/27
-#EXTINF:-1,[AR] BEIN SPORTS 9 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/28
-#EXTINF:-1,[AR] BEIN SPORTS 11 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/21513
-#EXTINF:-1,[AR] BEIN SPORTS 12 HD
-http://tv.raam.re:2082/unloaded/RHBHZuodEn/21514
+#EXTINF:-1,HR:SPORT KLUB 1 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49094.m3u8
+#EXTINF:-1,HR:SPORT KLUB 2 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49095.m3u8
+#EXTINF:-1,HR:SPORT KLUB 3 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49096.m3u8
+#EXTINF:-1,EXYU:SPORT KLUB 1
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49070.m3u8
+#EXTINF:-1,EXYU:SPORT KLUB 2
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49071.m3u8
+#EXTINF:-1,EXYU:SPORT KLUB 3 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49072.m3u8
+#EXTINF:-1,HR:ARENA SPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49100.m3u8
+#EXTINF:-1,HR:ARENA SPORT 2 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49101.m3u8
+#EXTINF:-1,HR:ARENA SPORT 3 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49102.m3u8
+#EXTINF:-1,HR:ARENA SPORT 4 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49103.m3u8
+#EXTINF:-1,HR:ARENA SPORT 5 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49104.m3u8
+#EXTINF:-1,DE:DAZN 1 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/17942.m3u8
+#EXTINF:-1,DE:DAZN 2 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/17943.m3u8
+#EXTINF:-1,DE:SKY SPORT 1 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/6112.m3u8
+#EXTINF:-1,DE:SKY SPORT 2 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/6111.m3u8
+#EXTINF:-1,DE:SKY SPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/36655.m3u8
+#EXTINF:-1,DE:SKY SPORT 2 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/6109.m3u8
+#EXTINF:-1,DE:DAZN 1 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/35510.m3u8
+#EXTINF:-1,DE:DAZN 2 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/35511.m3u8
+#EXTINF:-1,FR:RMC SPORT 1 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48790.m3u8
+#EXTINF:-1,FR:RMC SPORT 2 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48791.m3u8
+#EXTINF:-1,FR:RMC SPORT 3 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48792.m3u8
+#EXTINF:-1,FR:RMC SPORT 1 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48896.m3u8
+#EXTINF:-1,FR:RMC SPORT 2 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48897.m3u8
+#EXTINF:-1,NL:FOX SPORTS 2 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49719.m3u8
+#EXTINF:-1,NL:FOX SPORTS 2 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49692.m3u8
+#EXTINF:-1,NL:FOX SPORTS 3 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49720.m3u8
+#EXTINF:-1,NL:FOX SPORTS 4 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49721.m3u8
+#EXTINF:-1,NL:FOX SPORTS 4 UHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49693.m3u8
+#EXTINF:-1,NL:FOX SPORTS 5 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49722.m3u8
+#EXTINF:-1,NL:FOX SPORTS 6 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49723.m3u8
+#EXTINF:-1,NL:ZIGGO SPORT SELECT FHD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49715.m3u8
+#EXTINF:-1,NL:ZIGGO SPORT VOETBAL HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49712.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 2 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50495.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 3 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50496.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 4 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50497.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 5 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50498.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 6 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50499.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 7 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50500.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 8 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50501.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 9 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50502.m3u8
+#EXTINF:-1,UK:BT SPORT 1
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51108.m3u8
+#EXTINF:-1,UK:BT SPORT 2
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51109.m3u8
+#EXTINF:-1,UK:BT SPORT 3
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51110.m3u8
+#EXTINF:-1,UK:BT SPORT ESPN HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51111.m3u8
+#EXTINF:-1,UK:SKY SPORT MAIN EVENT HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51121.m3u8
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51120.m3u8
+#EXTINF:-1,UK:SKY SPORTS PREMIER LEAGUE
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51122.m3u8
+#EXTINF:-1,IT:SKY SPORT ARENA HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51295.m3u8
+#EXTINF:-1,IT:SKY SPORT FOOTBALL HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51296.m3u8
+#EXTINF:-1,IT:SKY SPORT SERIE A HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51292.m3u8
+#EXTINF:-1,IT:SKY SPORT UNO HD
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51294.m3u8
+#EXTINF:-1,USA:FOX SPORTS 1
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51415.m3u8
+#EXTINF:-1,USA:FOX SPORTS 2
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51416.m3u8
+#EXTINF:-1,USA:TENNIS CHANNEL
+http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51421.m3u8
