@@ -13,113 +13,61 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
-#EXTINF:-1,HR:SPORT KLUB 1 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49094.m3u8
-#EXTINF:-1,HR:SPORT KLUB 2 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49095.m3u8
-#EXTINF:-1,HR:SPORT KLUB 3 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49096.m3u8
-#EXTINF:-1,EXYU:SPORT KLUB 1
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49070.m3u8
-#EXTINF:-1,EXYU:SPORT KLUB 2
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49071.m3u8
-#EXTINF:-1,EXYU:SPORT KLUB 3 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49072.m3u8
-#EXTINF:-1,HR:ARENA SPORT 1 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49100.m3u8
-#EXTINF:-1,HR:ARENA SPORT 2 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49101.m3u8
-#EXTINF:-1,HR:ARENA SPORT 3 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49102.m3u8
-#EXTINF:-1,HR:ARENA SPORT 4 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49103.m3u8
-#EXTINF:-1,HR:ARENA SPORT 5 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49104.m3u8
-#EXTINF:-1,DE:DAZN 1 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/17942.m3u8
-#EXTINF:-1,DE:DAZN 2 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/17943.m3u8
-#EXTINF:-1,DE:SKY SPORT 1 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/6112.m3u8
-#EXTINF:-1,DE:SKY SPORT 2 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/6111.m3u8
-#EXTINF:-1,DE:SKY SPORT 1 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/36655.m3u8
-#EXTINF:-1,DE:SKY SPORT 2 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/6109.m3u8
-#EXTINF:-1,DE:DAZN 1 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/35510.m3u8
-#EXTINF:-1,DE:DAZN 2 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/35511.m3u8
-#EXTINF:-1,FR:RMC SPORT 1 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48790.m3u8
-#EXTINF:-1,FR:RMC SPORT 2 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48791.m3u8
-#EXTINF:-1,FR:RMC SPORT 3 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48792.m3u8
-#EXTINF:-1,FR:RMC SPORT 1 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48896.m3u8
-#EXTINF:-1,FR:RMC SPORT 2 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/48897.m3u8
-#EXTINF:-1,NL:FOX SPORTS 2 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49719.m3u8
-#EXTINF:-1,NL:FOX SPORTS 2 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49692.m3u8
-#EXTINF:-1,NL:FOX SPORTS 3 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49720.m3u8
-#EXTINF:-1,NL:FOX SPORTS 4 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49721.m3u8
-#EXTINF:-1,NL:FOX SPORTS 4 UHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49693.m3u8
-#EXTINF:-1,NL:FOX SPORTS 5 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49722.m3u8
-#EXTINF:-1,NL:FOX SPORTS 6 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49723.m3u8
-#EXTINF:-1,NL:ZIGGO SPORT SELECT FHD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49715.m3u8
-#EXTINF:-1,NL:ZIGGO SPORT VOETBAL HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/49712.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 2 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50495.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 3 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50496.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 4 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50497.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 5 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50498.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 6 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50499.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 7 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50500.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 8 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50501.m3u8
-#EXTINF:-1,AR:BEIN SPORTS 9 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/50502.m3u8
-#EXTINF:-1,UK:BT SPORT 1
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51108.m3u8
-#EXTINF:-1,UK:BT SPORT 2
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51109.m3u8
-#EXTINF:-1,UK:BT SPORT 3
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51110.m3u8
-#EXTINF:-1,UK:BT SPORT ESPN HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51111.m3u8
-#EXTINF:-1,UK:SKY SPORT MAIN EVENT HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51121.m3u8
-#EXTINF:-1,UK:SKY SPORTS F1 HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51120.m3u8
-#EXTINF:-1,UK:SKY SPORTS PREMIER LEAGUE
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51122.m3u8
-#EXTINF:-1,IT:SKY SPORT ARENA HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51295.m3u8
-#EXTINF:-1,IT:SKY SPORT FOOTBALL HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51296.m3u8
-#EXTINF:-1,IT:SKY SPORT SERIE A HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51292.m3u8
-#EXTINF:-1,IT:SKY SPORT UNO HD
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51294.m3u8
-#EXTINF:-1,USA:FOX SPORTS 1
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51415.m3u8
-#EXTINF:-1,USA:FOX SPORTS 2
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51416.m3u8
-#EXTINF:-1,USA:TENNIS CHANNEL
-http://portal.dynamicsportstv.xyz:8000/live/haldun/haldun12345/51421.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/486.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/485.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/484.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/483.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/482.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/481.m3u8
+#EXTINF:-1,SPORT KLUB 1
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9317.m3u8
+#EXTINF:-1,SPORT KLUB 2
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9290.m3u8
+#EXTINF:-1,SPORT KLUB 3
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9291.m3u8
+#EXTINF:-1,SPORT KLUB 1 HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9295.m3u8
+#EXTINF:-1,SPORT KLUB 2 HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9296.m3u8
+#EXTINF:-1,SPORT KLUB 3 HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9310.m3u8
+#EXTINF:-1,SPORT KLUB 4 HR
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9298.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/5541.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/5542.m3u8
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/290.m3u8
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/289.m3u8
+#EXTINF:-1,SKY SPORT NEWS DE
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/272.m3u8
+#EXTINF:-1,SKY SPORTS F1 DE
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/296.m3u8
+#EXTINF:-1,US: SKY SPORT F1
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/229.m3u8
+#EXTINF:-1,USA/UK: SKY SPORTS ARENA FHD
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/24.m3u8
+#EXTINF:-1,USA/UK: SKY SPORT PREMIER LIGA
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/23.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/471.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/470.m3u8
+#EXTINF:-1,BT SPORT 1
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/474.m3u8
+#EXTINF:-1,BT SPORT 2
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/473.m3u8
+#EXTINF:-1,BT SPORT 3
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/472.m3u8
+#EXTINF:-1,USA/UK: BT SPORT 3
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/34.m3u8
+#EXTINF:-1,USA/UK: BT SPORT ESPN
+http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/33.m3u8
