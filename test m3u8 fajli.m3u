@@ -1,5 +1,95 @@
 #EXTM3U
 
+
+#EXTINF:-1 ,UK:  BT SPORTS 1
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8209.m3u8
+#EXTINF:-1 ,UK:  BT SPORTS 2
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8210.m3u8
+#EXTINF:-1,AR: beINSport 1 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7749.m3u8
+#EXTINF:-1,AR: beINSport 2 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7750.m3u8 
+#EXTINF:-1,AR: beINSport 11 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7759.m3u8
+#EXTINF:-1,AR: beINSport 12 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7760.m3u8 
+#EXTINF:-1 ,BT SPORT 1 FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549142.m3u8
+#EXTINF:-1 ,BT SPORT 1 HD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550231.m3u8
+#EXTINF:-1 ,BT SPORT 2 FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549551.m3u8
+#EXTINF:-1 ,BT SPORT 2 HD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556418.m3u8
+#EXTINF:-1 ,ZIGGO SPORT SELECT HD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278675.m3u8
+#EXTINF:-1 ,ZIGGO SPORT SELECT FHD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278676.m3u8
+#EXTINF:-1 ,ZIGGO SPORT VOETBAL FHD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278678.m3u8
+
+#EXTINF:-1 ,BG: ARENA SPORT 5 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8012.m3u8
+#EXTINF:-1 ,BG: ARENA SPORT 4 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8013.m3u8
+#EXTINF:-1 ,BG: ARENA SPORT 3 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8014.m3u8
+#EXTINF:-1 ,BG: ARENA SPORT 2 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8015.m3u8
+#EXTINF:-1 ,BG: ARENA SPORT 1 HD
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8016.m3u8
+#EXTINF:-1 ,BG: ARENA SPORT 5
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8029.m3u8
+
+
+#EXTINF:-1 ,UK:  SKY SPORTS MAIN EVENT
+http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/8215
+#EXTINF:-1 ,UK:  SKY SPORTS F1
+http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8216.m3u8
+#EXTINF:-1 ,UK:  BT SPORTS ESPN
+http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/8212
+
+#EXTINF:-1 ,FOX SPORTS 3 HD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278662.m3u8
+#EXTINF:-1 ,FOX SPORTS 3 FHD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278663.m3u8
+#EXTINF:-1 ,FOX SPORTS 4 HD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278664.m3u8
+#EXTINF:-1 ,FOX SPORTS 5 FHD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278667.m3u8
+#EXTINF:-1 ,FOX SPORTS 6 FHD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278668.m3u8
+#EXTINF:-1 ,ZIGGO SPORT SELECT HD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278675.m3u8
+#EXTINF:-1 ,ZIGGO SPORT SELECT FHD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278676.m3u8
+#EXTINF:-1 ,ZIGGO SPORT VOETBAL FHD NL
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278678.m3u8
+#EXTINF:-1 ,SKY SPORTS F1 FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/542958.m3u8
+#EXTINF:-1 ,SKY SPORTS F1 HD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550212.m3u8
+#EXTINF:-1 ,SKY SPORTS MAIN EVENT FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/542965.m3u8
+#EXTINF:-1 ,BT SPORT 1 FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549142.m3u8
+#EXTINF:-1 ,BT SPORT 1 HD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550231.m3u8
+#EXTINF:-1 ,BT SPORT 1 SD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550232.m3u8
+#EXTINF:-1 ,BT SPORT 2 FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549551.m3u8
+#EXTINF:-1 ,BT SPORT 2 HD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556418.m3u8
+#EXTINF:-1 ,BT SPORT 2 SD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556419.m3u8
+#EXTINF:-1 ,BT SPORT 3 FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278223.m3u8
+#EXTINF:-1 ,BT SPORT ESPN FHD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556420.m3u8
+#EXTINF:-1 ,BT SPORT ESPN HD (DIRECT)
+http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556421.m3u8
+
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT1 HR
@@ -13,61 +103,3 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/486.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/485.m3u8
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/484.m3u8
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/483.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/482.m3u8
-#EXTINF:-1,ARENA SPORT 6 HD HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/481.m3u8
-#EXTINF:-1,SPORT KLUB 1
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9317.m3u8
-#EXTINF:-1,SPORT KLUB 2
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9290.m3u8
-#EXTINF:-1,SPORT KLUB 3
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9291.m3u8
-#EXTINF:-1,SPORT KLUB 1 HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9295.m3u8
-#EXTINF:-1,SPORT KLUB 2 HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9296.m3u8
-#EXTINF:-1,SPORT KLUB 3 HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9310.m3u8
-#EXTINF:-1,SPORT KLUB 4 HR
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/9298.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/5541.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/5542.m3u8
-#EXTINF:-1,SKY SPORT 1 HD DE
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/290.m3u8
-#EXTINF:-1,SKY SPORT 2 HD DE
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/289.m3u8
-#EXTINF:-1,SKY SPORT NEWS DE
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/272.m3u8
-#EXTINF:-1,SKY SPORTS F1 DE
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/296.m3u8
-#EXTINF:-1,US: SKY SPORT F1
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/229.m3u8
-#EXTINF:-1,USA/UK: SKY SPORTS ARENA FHD
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/24.m3u8
-#EXTINF:-1,USA/UK: SKY SPORT PREMIER LIGA
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/23.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/471.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/470.m3u8
-#EXTINF:-1,BT SPORT 1
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/474.m3u8
-#EXTINF:-1,BT SPORT 2
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/473.m3u8
-#EXTINF:-1,BT SPORT 3
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/472.m3u8
-#EXTINF:-1,USA/UK: BT SPORT 3
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/34.m3u8
-#EXTINF:-1,USA/UK: BT SPORT ESPN
-http://tv.nova-iptv.com:80/live/darkosp/SjE8EaR8Ng/33.m3u8
