@@ -13,6 +13,10 @@ http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7750.m3u8
 http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7759.m3u8
 #EXTINF:-1,AR: beINSport 12 HD
 http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7760.m3u8 
+#EXTINF:-1,|EX-YU| Arena Sport 1 HD (SR)
+http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69649.m3u8
+#EXTINF:-1,|EX-YU| Arena Sport 2 HD (SR)
+http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69648.m3u8
 #EXTINF:-1 ,BT SPORT 1 FHD (DIRECT)
 http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549142.m3u8
 #EXTINF:-1 ,BT SPORT 1 HD (DIRECT)
@@ -27,6 +31,16 @@ http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278675.m3u8
 http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278676.m3u8
 #EXTINF:-1 ,ZIGGO SPORT VOETBAL FHD NL
 http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278678.m3u8
+#EXTINF:-1,BEIN SPORTS 11HD
+http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69302.m3u8
+#EXTINF:-1,BEIN SPORTS 12HD
+http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/9635.m3u8
+#EXTINF:-1,|ES| M. LIGA DE CAMPEONES 2  HD (SOLO EVENTOS)
+http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/5996.m3u8
+#EXTINF:-1,|ES| M. LIGA DE CAMPEONES 1 HD (SOLO EVENTOS)
+http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/5998.m3u8
+#EXTINF:-1,|ES| M. LIGA DE CAMPEONES HD
+http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/6000.m3u8
 
 #EXTINF:-1 ,BG: ARENA SPORT 5 HD
 http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8012.m3u8
