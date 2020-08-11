@@ -1,109 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 ,UK:  BT SPORTS 1
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8209.m3u8
-#EXTINF:-1 ,UK:  BT SPORTS 2
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8210.m3u8
-#EXTINF:-1,AR: beINSport 1 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7749.m3u8
-#EXTINF:-1,AR: beINSport 2 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7750.m3u8 
-#EXTINF:-1,AR: beINSport 11 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7759.m3u8
-#EXTINF:-1,AR: beINSport 12 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/7760.m3u8 
-#EXTINF:-1,|EX-YU| Arena Sport 1 HD (SR)
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69649.m3u8
-#EXTINF:-1,|EX-YU| Arena Sport 2 HD (SR)
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69648.m3u8
-#EXTINF:-1 ,BT SPORT 1 FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549142.m3u8
-#EXTINF:-1 ,BT SPORT 1 HD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550231.m3u8
-#EXTINF:-1 ,BT SPORT 2 FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549551.m3u8
-#EXTINF:-1 ,BT SPORT 2 HD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556418.m3u8
-#EXTINF:-1 ,ZIGGO SPORT SELECT HD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278675.m3u8
-#EXTINF:-1 ,ZIGGO SPORT SELECT FHD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278676.m3u8
-#EXTINF:-1 ,ZIGGO SPORT VOETBAL FHD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278678.m3u8
-#EXTINF:-1,BEIN SPORTS 11HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/69302.m3u8
-#EXTINF:-1,BEIN SPORTS 12HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/9635.m3u8
-#EXTINF:-1,|ES| M. LIGA DE CAMPEONES 2  HD (SOLO EVENTOS)
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/5996.m3u8
-#EXTINF:-1,|ES| M. LIGA DE CAMPEONES 1 HD (SOLO EVENTOS)
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/5998.m3u8
-#EXTINF:-1,|ES| M. LIGA DE CAMPEONES HD
-http://vt.protoniumtv.net:1997/live/qaozen/UpVeFDki8N/6000.m3u8
-
-#EXTINF:-1 ,BG: ARENA SPORT 5 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8012.m3u8
-#EXTINF:-1 ,BG: ARENA SPORT 4 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8013.m3u8
-#EXTINF:-1 ,BG: ARENA SPORT 3 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8014.m3u8
-#EXTINF:-1 ,BG: ARENA SPORT 2 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8015.m3u8
-#EXTINF:-1 ,BG: ARENA SPORT 1 HD
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8016.m3u8
-#EXTINF:-1 ,BG: ARENA SPORT 5
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8029.m3u8
-
-
-#EXTINF:-1 ,UK:  SKY SPORTS MAIN EVENT
-http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/8215
-#EXTINF:-1 ,UK:  SKY SPORTS F1
-http://sweip.noip.me:9090/live/menkoiptv/JVGZRwr5oS/8216.m3u8
-#EXTINF:-1 ,UK:  BT SPORTS ESPN
-http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/8212
-
-#EXTINF:-1 ,FOX SPORTS 3 HD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278662.m3u8
-#EXTINF:-1 ,FOX SPORTS 3 FHD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278663.m3u8
-#EXTINF:-1 ,FOX SPORTS 4 HD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278664.m3u8
-#EXTINF:-1 ,FOX SPORTS 5 FHD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278667.m3u8
-#EXTINF:-1 ,FOX SPORTS 6 FHD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278668.m3u8
-#EXTINF:-1 ,ZIGGO SPORT SELECT HD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278675.m3u8
-#EXTINF:-1 ,ZIGGO SPORT SELECT FHD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278676.m3u8
-#EXTINF:-1 ,ZIGGO SPORT VOETBAL FHD NL
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278678.m3u8
-#EXTINF:-1 ,SKY SPORTS F1 FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/542958.m3u8
-#EXTINF:-1 ,SKY SPORTS F1 HD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550212.m3u8
-#EXTINF:-1 ,SKY SPORTS MAIN EVENT FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/542965.m3u8
-#EXTINF:-1 ,BT SPORT 1 FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549142.m3u8
-#EXTINF:-1 ,BT SPORT 1 HD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550231.m3u8
-#EXTINF:-1 ,BT SPORT 1 SD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/550232.m3u8
-#EXTINF:-1 ,BT SPORT 2 FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/549551.m3u8
-#EXTINF:-1 ,BT SPORT 2 HD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556418.m3u8
-#EXTINF:-1 ,BT SPORT 2 SD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556419.m3u8
-#EXTINF:-1 ,BT SPORT 3 FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/278223.m3u8
-#EXTINF:-1 ,BT SPORT ESPN FHD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556420.m3u8
-#EXTINF:-1 ,BT SPORT ESPN HD (DIRECT)
-http://sfast1.net:2052/live/izpeEf6zI2/sLPXrCPo14/556421.m3u8
-
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT1 HR
@@ -116,4 +12,62 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
+
+
+
+#EXTINF:-1 ,BT SPORT 1 FHD UK
+http://mlsh1.com:2086/live/jared/jared/579.m3u8
+#EXTINF:-1 ,BT SPORT 2 FHD UK
+http://mlsh1.com:2086/live/jared/jared/580.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 1
+http://mlsh1.com:2086/live/jared/jared/773.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 10
+http://mlsh1.com:2086/live/jared/jared/782.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 11
+http://mlsh1.com:2086/live/jared/jared/783.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 12
+http://mlsh1.com:2086/live/jared/jared/791.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 2
+http://mlsh1.com:2086/live/jared/jared/774.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 3
+http://mlsh1.com:2086/live/jared/jared/775.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 4
+http://mlsh1.com:2086/live/jared/jared/776.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 5
+http://mlsh1.com:2086/live/jared/jared/777.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 6
+http://mlsh1.com:2086/live/jared/jared/778.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 7
+http://mlsh1.com:2086/live/jared/jared/779.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 8
+http://mlsh1.com:2086/live/jared/jared/780.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 9
+http://mlsh1.com:2086/live/jared/jared/781.m3u8
+#EXTINF:-1 ,USA: FOX SPORTS 1
+http://mlsh1.com:2086/live/jared/jared/3896.m3u8
+#EXTINF:-1 ,USA: FOX SPORTS 2
+http://mlsh1.com:2086/live/jared/jared/3898.m3u8
+#EXTINF:-1 ,USA: TENNIS CHANNEL
+http://mlsh1.com:2086/live/jared/jared/5385.m3u8
+#EXTINF:-1 ,FR: BEIN SPORTS 1
+http://mlsh1.com:2086/live/jared/jared/73330.m3u8
+#EXTINF:-1 ,FR: BEIN SPORTS 2
+http://mlsh1.com:2086/live/jared/jared/73331.m3u8
+#EXTINF:-1 ,BT SPORT 1 HD UK
+http://mlsh1.com:2086/live/jared/jared/3.m3u8
+#EXTINF:-1 ,BT SPORT 2 HD UK
+http://mlsh1.com:2086/live/jared/jared/4.m3u8
+#EXTINF:-1 ,BT SPORT 3 HD UK
+http://mlsh1.com:2086/live/jared/jared/1776.m3u8
+#EXTINF:-1 ,BT SPORT 3 SD UK
+http://mlsh1.com:2086/live/jared/jared/5.m3u8
+#EXTINF:-1 ,BT SPORT ESPN HD UK
+http://mlsh1.com:2086/live/jared/jared/6.m3u8
+#EXTINF:-1 ,SKY SPORTS ACTION FHD UK
+http://mlsh1.com:2086/live/jared/jared/9.m3u8
+#EXTINF:-1 ,SKY SPORTS ARENA FHD UK
+http://mlsh1.com:2086/live/jared/jared/10.m3u8
+#EXTINF:-1 ,SKY SPORTS F1 FHD UK
+http://mlsh1.com:2086/live/jared/jared/12.m3u8
+
 
