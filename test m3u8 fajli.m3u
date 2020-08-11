@@ -12,9 +12,6 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
-
-
-
 #EXTINF:-1 ,BT SPORT 1 FHD UK
 http://mlsh1.com:2086/live/jared/jared/579.m3u8
 #EXTINF:-1 ,BT SPORT 2 FHD UK
@@ -71,3 +68,21 @@ http://mlsh1.com:2086/live/jared/jared/10.m3u8
 http://mlsh1.com:2086/live/jared/jared/12.m3u8
 
 
+#EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
+#EXTINF:-1 ,UK: BT SPORT 1
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
+#EXTINF:-1 ,UK: BT SPORT 2
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/3398.m3u8
+#EXTINF:-1 ,UK: BT SPORT 3
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/3397.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS ACTION FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/25176.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS ARENA FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/25175.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS F1 HD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/41545.m3u8
+#EXTINF:-1 ,US: BEIN SPORTS 1
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/15178.m3u8
+#EXTINF:-1 ,CA: BEIN SPORTS HD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/42515.m3u8
