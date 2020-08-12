@@ -1,7 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 ,BT SPORT 1 FHD UK
+http://mlsh1.com:2086/live/jared/jared/579.m3u8
+#EXTINF:-1 ,ARB: BEIN SPORTS 11
+http://mlsh1.com:2086/live/jared/jared/783.m3u8
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
+#EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
+#EXTINF:-1 ,UK: BT SPORT 1
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
 #EXTINF:0,ARENA SPORT1 HR
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/893.m3u8
 #EXTINF:0,ARENA SPORT 2
