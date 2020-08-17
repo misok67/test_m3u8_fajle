@@ -1,9 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 ,BT SPORT 1 FHD UK
-http://mlsh1.com:2086/live/jared/jared/579.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 11
-http://mlsh1.com:2086/live/jared/jared/783.m3u8
+#EXTINF:-1,BT Sport 1 HD UK
+http://showflix.org:5890/live/cristophe/cristophe123/55670.m3u8
+#EXTINF:-1,BT Sport 1 UK
+http://showflix.org:5890/live/cristophe/cristophe123/55671.m3u8
+#EXTINF:-1,DE | DAZN 1 Bar FHD
+http://showflix.org:5890/live/cristophe/cristophe123/1266.m3u8
+#EXTINF:0,SKY SPORT FOOTBALL FULL HD
+http://seeyoutv.net:2300/marcos/marcos/10400
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
@@ -20,62 +24,6 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
-#EXTINF:-1 ,BT SPORT 1 FHD UK
-http://mlsh1.com:2086/live/jared/jared/579.m3u8
-#EXTINF:-1 ,BT SPORT 2 FHD UK
-http://mlsh1.com:2086/live/jared/jared/580.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 1
-http://mlsh1.com:2086/live/jared/jared/773.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 10
-http://mlsh1.com:2086/live/jared/jared/782.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 11
-http://mlsh1.com:2086/live/jared/jared/783.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 12
-http://mlsh1.com:2086/live/jared/jared/791.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 2
-http://mlsh1.com:2086/live/jared/jared/774.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 3
-http://mlsh1.com:2086/live/jared/jared/775.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 4
-http://mlsh1.com:2086/live/jared/jared/776.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 5
-http://mlsh1.com:2086/live/jared/jared/777.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 6
-http://mlsh1.com:2086/live/jared/jared/778.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 7
-http://mlsh1.com:2086/live/jared/jared/779.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 8
-http://mlsh1.com:2086/live/jared/jared/780.m3u8
-#EXTINF:-1 ,ARB: BEIN SPORTS 9
-http://mlsh1.com:2086/live/jared/jared/781.m3u8
-#EXTINF:-1 ,USA: FOX SPORTS 1
-http://mlsh1.com:2086/live/jared/jared/3896.m3u8
-#EXTINF:-1 ,USA: FOX SPORTS 2
-http://mlsh1.com:2086/live/jared/jared/3898.m3u8
-#EXTINF:-1 ,USA: TENNIS CHANNEL
-http://mlsh1.com:2086/live/jared/jared/5385.m3u8
-#EXTINF:-1 ,FR: BEIN SPORTS 1
-http://mlsh1.com:2086/live/jared/jared/73330.m3u8
-#EXTINF:-1 ,FR: BEIN SPORTS 2
-http://mlsh1.com:2086/live/jared/jared/73331.m3u8
-#EXTINF:-1 ,BT SPORT 1 HD UK
-http://mlsh1.com:2086/live/jared/jared/3.m3u8
-#EXTINF:-1 ,BT SPORT 2 HD UK
-http://mlsh1.com:2086/live/jared/jared/4.m3u8
-#EXTINF:-1 ,BT SPORT 3 HD UK
-http://mlsh1.com:2086/live/jared/jared/1776.m3u8
-#EXTINF:-1 ,BT SPORT 3 SD UK
-http://mlsh1.com:2086/live/jared/jared/5.m3u8
-#EXTINF:-1 ,BT SPORT ESPN HD UK
-http://mlsh1.com:2086/live/jared/jared/6.m3u8
-#EXTINF:-1 ,SKY SPORTS ACTION FHD UK
-http://mlsh1.com:2086/live/jared/jared/9.m3u8
-#EXTINF:-1 ,SKY SPORTS ARENA FHD UK
-http://mlsh1.com:2086/live/jared/jared/10.m3u8
-#EXTINF:-1 ,SKY SPORTS F1 FHD UK
-http://mlsh1.com:2086/live/jared/jared/12.m3u8
-
-
 #EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
 #EXTINF:-1 ,UK: BT SPORT 1
@@ -94,3 +42,47 @@ http://ingrid.ltd:25461/live/Juan123456/Juan123456/41545.m3u8
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/15178.m3u8
 #EXTINF:-1 ,CA: BEIN SPORTS HD
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/42515.m3u8
+#EXTINF:0,SKY SPORT UNO HD
+http://seeyoutv.net:2300/marcos/marcos/10384
+#EXTINF:0,SKY SPORT UNO FULL HD
+http://seeyoutv.net:2300/marcos/marcos/10385
+#EXTINF:0,SKY SPORT FOOTBALL HD
+http://seeyoutv.net:2300/marcos/marcos/10399
+#EXTINF:0,SKY SPORT FOOTBALL FULL HD
+http://seeyoutv.net:2300/marcos/marcos/10400
+#EXTINF:0,SKY SPORT ARENA FULL HD
+http://seeyoutv.net:2300/marcos/marcos/10407
+#EXTINF:0,SKY SPORT NBA FULL HD
+http://seeyoutv.net:2300/marcos/marcos/10391
+#EXTINF:-1,BT Sport 1 HD UK
+http://showflix.org:5890/live/cristophe/cristophe123/55670.m3u8
+#EXTINF:-1,BT Sport 1 UK
+http://showflix.org:5890/live/cristophe/cristophe123/55671.m3u8
+#EXTINF:-1,FR| RMC SPORT 1 FHD
+http://showflix.org:5890/live/cristophe/cristophe123/601.m3u8
+#EXTINF:-1,NL | Fox sport 3 HD
+http://showflix.org:5890/live/cristophe/cristophe123/977.m3u8
+#EXTINF:-1,NL | Fox sport 4 HD
+http://showflix.org:5890/live/cristophe/cristophe123/978.m3u8
+#EXTINF:-1,NL | Fox sport 5 HD
+http://showflix.org:5890/live/cristophe/cristophe123/979.m3u8
+#EXTINF:-1,NL | Fox Sport 6 HD
+http://showflix.org:5890/live/cristophe/cristophe123/980.m3u8
+#EXTINF:-1,NL | Ziggo Sport Select HD
+http://showflix.org:5890/live/cristophe/cristophe123/981.m3u8
+#EXTINF:-1,NL | Ziggo Sport Voetbal
+http://showflix.org:5890/live/cristophe/cristophe123/983.m3u8
+#EXTINF:-1,DE | DAZN 1 Bar FHD
+http://showflix.org:5890/live/cristophe/cristophe123/1266.m3u8
+#EXTINF:-1,DE | DAZN 2 Bar FHD
+http://showflix.org:5890/live/cristophe/cristophe123/1267.m3u8
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://showflix.org:5890/live/cristophe/cristophe123/1293.m3u8
+#EXTINF:-1,DE | Sky Sport 2 HD
+http://showflix.org:5890/live/cristophe/cristophe123/1295.m3u8
+#EXTINF:-1,EX-YU|SPORTKLUB 1 HD
+http://showflix.org:5890/live/cristophe/cristophe123/56989.m3u8
+#EXTINF:-1,EX-YU|SPORTKLUB 2 HD
+http://showflix.org:5890/live/cristophe/cristophe123/56990.m3u8
+#EXTINF:-1,EX-YU|SPORTKLUB 3 HD
+http://showflix.org:5890/live/cristophe/cristophe123/56991.m3u8
