@@ -1,19 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://showflix.org:5890/live/cristophe/cristophe123/1293.m3u8
+#EXTINF:-1,DE | DAZN 1 Bar FHD
+http://showflix.org:5890/live/cristophe/cristophe123/1266.m3u8
 #EXTINF:-1,BT Sport 1 HD UK
 http://showflix.org:5890/live/cristophe/cristophe123/55670.m3u8
 #EXTINF:-1,BT Sport 1 UK
 http://showflix.org:5890/live/cristophe/cristophe123/55671.m3u8
-#EXTINF:-1,DE | DAZN 1 Bar FHD
-http://showflix.org:5890/live/cristophe/cristophe123/1266.m3u8
-#EXTINF:0,SKY SPORT FOOTBALL FULL HD
-http://seeyoutv.net:2300/marcos/marcos/10400
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
+#EXTINF:-1,ES: Movistar Liga de Campeones 1 HD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39954.m3u8
 #EXTINF:-1 ,UK: BT SPORT 1
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
+#EXTINF:-1,NL | Ziggo Sport Select HD
+http://showflix.org:5890/live/cristophe/cristophe123/981.m3u8
+#EXTINF:-1,NL | Ziggo Sport Voetbal
+http://showflix.org:5890/live/cristophe/cristophe123/983.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://jockeriptv.com:8080/live/navaro/navaro/622.m3u8
+#EXTINF:-1,BEIN SPORT 11 HD
+http://jockeriptv.com:8080/live/navaro/navaro/34.m3u8
+#EXTINF:-1,SKY SPORT 1 HD
+http://jockeriptv.com:8080/live/navaro/navaro/15682.m3u8
+#EXTINF:-1,BeIN_Sport_11_SD
+http://jockeriptv.com:8080/live/navaro/navaro/48.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/229.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/230.ts
 #EXTINF:0,ARENA SPORT1 HR
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/893.m3u8
 #EXTINF:0,ARENA SPORT 2
