@@ -1,39 +1,22 @@
 #EXTM3U
-
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://showflix.org:5890/live/cristophe/cristophe123/1293.m3u8
-#EXTINF:-1,DE | DAZN 1 Bar FHD
-http://showflix.org:5890/live/cristophe/cristophe123/1266.m3u8
-#EXTINF:-1,BT Sport 1 HD UK
-http://showflix.org:5890/live/cristophe/cristophe123/55670.m3u8
-#EXTINF:-1,BT Sport 1 UK
-http://showflix.org:5890/live/cristophe/cristophe123/55671.m3u8
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD 1080P
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7524.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD 1080
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5452.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 11 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/40.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 1
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3605.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3604.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 3
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3603.m3u8
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
-#EXTINF:-1,ES: Movistar Liga de Campeones 1 HD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/39954.m3u8
-#EXTINF:-1 ,UK: BT SPORT 1
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
-#EXTINF:-1,NL | Ziggo Sport Select HD
-http://showflix.org:5890/live/cristophe/cristophe123/981.m3u8
-#EXTINF:-1,NL | Ziggo Sport Voetbal
-http://showflix.org:5890/live/cristophe/cristophe123/983.m3u8
-#EXTINF:-1,RMC Sport 1 HD
-http://jockeriptv.com:8080/live/navaro/navaro/622.m3u8
-#EXTINF:-1,BEIN SPORT 11 HD
-http://jockeriptv.com:8080/live/navaro/navaro/34.m3u8
-#EXTINF:-1,SKY SPORT 1 HD
-http://jockeriptv.com:8080/live/navaro/navaro/15682.m3u8
-#EXTINF:-1,BeIN_Sport_11_SD
-http://jockeriptv.com:8080/live/navaro/navaro/48.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/229.ts
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/230.ts
-#EXTINF:0,ARENA SPORT1 HR
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/893.m3u8
 #EXTINF:0,ARENA SPORT 2
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
 #EXTINF:0,ARENA SPORT 3
@@ -42,8 +25,96 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
-#EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
+
+#EXTINF:-1,AR: BEIN SPORTS 12 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/41.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 11 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/40.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 1 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/30.m3u8
+#EXTINF:-1,SW: C MORE TENNIS
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4615.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 1
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3605.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3604.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 3
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3603.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/30759.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (SR)
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/28268.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/31021.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (SR)
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/31022.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/410.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/409.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6746.m3u8
+#EXTINF:-1,IT:SUPER TENNIS
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2286.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/152.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/153.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/154.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/155.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7475.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7476.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7474.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3892.m3u8
+#EXTINF:-1,ES:TELEDEPORTE HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2723.m3u8
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2463.m3u8
+#EXTINF:-1,UK: BT SPORTS 2 SD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2464.m3u8
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5547.m3u8
+#EXTINF:-1,VIP UK: BT SPORT 3 HD 1080P
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6631.m3u8
+#EXTINF:-1,VIP UK: SKY SPORTS F1 HD 1080P
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6628.m3u8
+#EXTINF:-1,UK: SKY SPORT F1 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/443.m3u8
+#EXTINF:-1,UK: SKY SPORT 1 SD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/1922.m3u8
+#EXTINF:-1,UK: BT SPORT ESPN
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4.m3u8
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6.m3u8
+#EXTINF:-1,US: BEIN SPORTS USA HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/1104.m3u8
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/13.m3u8
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/14.m3u8
+#EXTINF:-1,US: TENNIS CHANNEL HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2453.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD 1080P
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7523.m3u8
+#EXTINF:-1,IT: SUPER TENNIS (BACKUP)
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8094.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8273.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8310.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8309.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 FHD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8308.m3u8
+#EXTINF:-1,UK: BT SPORT 1 BACKUP
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8950.m3u8
+
 #EXTINF:-1 ,UK: BT SPORT 1
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
 #EXTINF:-1 ,UK: BT SPORT 2
@@ -56,51 +127,9 @@ http://ingrid.ltd:25461/live/Juan123456/Juan123456/25176.m3u8
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/25175.m3u8
 #EXTINF:-1 ,UK: SKY SPORTS F1 HD
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/41545.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/22992.m3u8
 #EXTINF:-1 ,US: BEIN SPORTS 1
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/15178.m3u8
 #EXTINF:-1 ,CA: BEIN SPORTS HD
 http://ingrid.ltd:25461/live/Juan123456/Juan123456/42515.m3u8
-#EXTINF:0,SKY SPORT UNO HD
-http://seeyoutv.net:2300/marcos/marcos/10384
-#EXTINF:0,SKY SPORT UNO FULL HD
-http://seeyoutv.net:2300/marcos/marcos/10385
-#EXTINF:0,SKY SPORT FOOTBALL HD
-http://seeyoutv.net:2300/marcos/marcos/10399
-#EXTINF:0,SKY SPORT FOOTBALL FULL HD
-http://seeyoutv.net:2300/marcos/marcos/10400
-#EXTINF:0,SKY SPORT ARENA FULL HD
-http://seeyoutv.net:2300/marcos/marcos/10407
-#EXTINF:0,SKY SPORT NBA FULL HD
-http://seeyoutv.net:2300/marcos/marcos/10391
-#EXTINF:-1,BT Sport 1 HD UK
-http://showflix.org:5890/live/cristophe/cristophe123/55670.m3u8
-#EXTINF:-1,BT Sport 1 UK
-http://showflix.org:5890/live/cristophe/cristophe123/55671.m3u8
-#EXTINF:-1,FR| RMC SPORT 1 FHD
-http://showflix.org:5890/live/cristophe/cristophe123/601.m3u8
-#EXTINF:-1,NL | Fox sport 3 HD
-http://showflix.org:5890/live/cristophe/cristophe123/977.m3u8
-#EXTINF:-1,NL | Fox sport 4 HD
-http://showflix.org:5890/live/cristophe/cristophe123/978.m3u8
-#EXTINF:-1,NL | Fox sport 5 HD
-http://showflix.org:5890/live/cristophe/cristophe123/979.m3u8
-#EXTINF:-1,NL | Fox Sport 6 HD
-http://showflix.org:5890/live/cristophe/cristophe123/980.m3u8
-#EXTINF:-1,NL | Ziggo Sport Select HD
-http://showflix.org:5890/live/cristophe/cristophe123/981.m3u8
-#EXTINF:-1,NL | Ziggo Sport Voetbal
-http://showflix.org:5890/live/cristophe/cristophe123/983.m3u8
-#EXTINF:-1,DE | DAZN 1 Bar FHD
-http://showflix.org:5890/live/cristophe/cristophe123/1266.m3u8
-#EXTINF:-1,DE | DAZN 2 Bar FHD
-http://showflix.org:5890/live/cristophe/cristophe123/1267.m3u8
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://showflix.org:5890/live/cristophe/cristophe123/1293.m3u8
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://showflix.org:5890/live/cristophe/cristophe123/1295.m3u8
-#EXTINF:-1,EX-YU|SPORTKLUB 1 HD
-http://showflix.org:5890/live/cristophe/cristophe123/56989.m3u8
-#EXTINF:-1,EX-YU|SPORTKLUB 2 HD
-http://showflix.org:5890/live/cristophe/cristophe123/56990.m3u8
-#EXTINF:-1,EX-YU|SPORTKLUB 3 HD
-http://showflix.org:5890/live/cristophe/cristophe123/56991.m3u8
