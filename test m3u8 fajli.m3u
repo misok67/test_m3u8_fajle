@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD 1080P
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7524.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD 1080
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5452.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 11 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/40.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3605.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3604.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3603.m3u8
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
-#EXTINF:-1 ,ES: MOVISTAR LIGA DE CAMPEONES 1 FHD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
 #EXTINF:0,ARENA SPORT 2
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8
 #EXTINF:0,ARENA SPORT 3
@@ -26,110 +10,99 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
-#EXTINF:-1,AR: BEIN SPORTS 12 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/41.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 11 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/40.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 1 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/30.m3u8
-#EXTINF:-1,SW: C MORE TENNIS
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4615.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3605.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3604.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3603.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/30759.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (SR)
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/28268.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/31021.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (SR)
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/31022.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/410.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/409.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6746.m3u8
-#EXTINF:-1,IT:SUPER TENNIS
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2286.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/152.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/153.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/154.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/155.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7475.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7476.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7474.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3892.m3u8
-#EXTINF:-1,ES:TELEDEPORTE HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2723.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2463.m3u8
-#EXTINF:-1,UK: BT SPORTS 2 SD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2464.m3u8
-#EXTINF:-1,UK: BT SPORT 3 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/5547.m3u8
-#EXTINF:-1,VIP UK: BT SPORT 3 HD 1080P
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6631.m3u8
-#EXTINF:-1,VIP UK: SKY SPORTS F1 HD 1080P
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6628.m3u8
-#EXTINF:-1,UK: SKY SPORT F1 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/443.m3u8
-#EXTINF:-1,UK: SKY SPORT 1 SD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/1922.m3u8
-#EXTINF:-1,UK: BT SPORT ESPN
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4.m3u8
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/6.m3u8
-#EXTINF:-1,US: BEIN SPORTS USA HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/1104.m3u8
-#EXTINF:-1,US: FOX SPORTS 2 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/13.m3u8
-#EXTINF:-1,US: FOX SPORTS 1 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/14.m3u8
-#EXTINF:-1,US: TENNIS CHANNEL HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2453.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD 1080P
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7523.m3u8
-#EXTINF:-1,IT: SUPER TENNIS (BACKUP)
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8094.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8273.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 1 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8310.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 2 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8309.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 3 FHD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8308.m3u8
-#EXTINF:-1,UK: BT SPORT 1 BACKUP
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/8950.m3u8
-
-#EXTINF:-1 ,UK: BT SPORT 1
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
-#EXTINF:-1 ,UK: BT SPORT 2
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/3398.m3u8
-#EXTINF:-1 ,UK: BT SPORT 3
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/3397.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS ACTION FHD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/25176.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS ARENA FHD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/25175.m3u8
-#EXTINF:-1 ,UK: SKY SPORTS F1 HD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/41545.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League FHD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/22992.m3u8
-#EXTINF:-1 ,US: BEIN SPORTS 1
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/15178.m3u8
-#EXTINF:-1 ,CA: BEIN SPORTS HD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/42515.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/24.m3u8
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/20.m3u8
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/15.m3u8
+#EXTINF:-1,BEIN SPORTS 7 H265
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13347.m3u8
+#EXTINF:-1,BEIN SPORTS  8 FHD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13344.m3u8
+#EXTINF:-1,BEIN SPORTS  9 FHD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13342.m3u8
+#EXTINF:-1,IFRI  BEIN SPORTS 1 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/310.m3u8
+#EXTINF:-1,IFRI  BEIN SPORTS 2 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/308.m3u8
+#EXTINF:-1,IFRI  BEIN SPORTS 3 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/306.m3u8
+#EXTINF:-1,IFRI  RMC SPORT 1 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/288.m3u8
+#EXTINF:-1,IFRI  RMC SPORT 2 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/286.m3u8
+#EXTINF:-1,IFRI  RMC SPORT 3 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/284.m3u8
+#EXTINF:-1,IFRI  EUROSPORT 1 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/244.m3u8
+#EXTINF:-1,IFRI  EUROSPORT 2 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/242.m3u8
+#EXTINF:-1,|SP| EUROSPORT 1
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/73164.m3u8
+#EXTINF:-1,|SP| EUROSPORT 2
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/73163.m3u8
+#EXTINF:-1,|NL|HEVC| FOX SPORTS 3 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69436.m3u8
+#EXTINF:-1,|NL|HEVC| FOX SPORTS 4 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69435.m3u8
+#EXTINF:-1,|NL|HEVC| FOX SPORTS 5 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69434.m3u8
+#EXTINF:-1,|NL|HEVC| ZIGGO SPORT VOETBAL HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69431.m3u8
+#EXTINF:-1,|NL|HEVC| ZIGGO SPORT SELECT HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69430.m3u8
+#EXTINF:-1,|DE|HEVC| SKY SPORT 1 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68920.m3u8
+#EXTINF:-1,|DE|HEVC| SKY SPORT 2 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68918.m3u8
+#EXTINF:-1,|DE|HEVC| DAZN 1 BAR HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68917.m3u8
+#EXTINF:-1,|DE|HEVC| DAZN 2 BAR HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68916.m3u8
+#EXTINF:-1,|UK| BEIN SPORT HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69664.m3u8
+#EXTINF:-1,|UK| BEIN SPORTS NBA HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69663.m3u8
+#EXTINF:-1,|UK| BEIN SPORT NEWS HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69662.m3u8
+#EXTINF:-1,|UK| BEIN SPORTS 1 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69661.m3u8
+#EXTINF:-1,|UK| BEIN SPORTS 2 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69660.m3u8
+#EXTINF:-1,|UK| BEIN SPORTS 3 HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69659.m3u8
+#EXTINF:-1,|UK|HD| SKY SPORTS ACTION
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69643.m3u8
+#EXTINF:-1,|UK|HD| SKY SPORTS ARENA
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69639.m3u8
+#EXTINF:-1,|UK|HD| SKY SPORTS F1
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69637.m3u8
+#EXTINF:-1,|UK|HD| BT SPORTS 1
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69634.m3u8
+#EXTINF:-1,|UK|HD| BT SPORTS 2
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69633.m3u8
+#EXTINF:-1,|UK|HD| BT SPORTS 3
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69632.m3u8
+#EXTINF:-1,|UK|FHD| EUROSPORTS 1
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69611.m3u8
+#EXTINF:-1,|UK|FHD| EUROSPORTS 2
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69610.m3u8
+#EXTINF:-1,|UK|FHD| PREMIER SPORTS
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69607.m3u8
+#EXTINF:-1,|UK|FHD| PREMIER SPORTS 2
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69606.m3u8
+#EXTINF:-1,|UK|SD| BT SPORTS 1
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69589.m3u8
+#EXTINF:-1,|UK|SD| BT SPORTS 2
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69588.m3u8
+#EXTINF:-1,|UK|SD| BT SPORTS 3
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69587.m3u8
+#EXTINF:-1,|USA| ESPN U
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70004.m3u8
+#EXTINF:-1,|USA| ESPN 2
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70003.m3u8
+#EXTINF:-1,|USA| ESPN
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70002.m3u8
+#EXTINF:-1,|USA| BEIN SPORT USA
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69997.m3u8
