@@ -1,4 +1,48 @@
 #EXTM3U
+
+
+#EXTINF:-1,CA : TSN 1
+http://randomserver.site:2086/live/crystal/12345/3202.m3u8
+#EXTINF:-1,CA : TSN 2
+http://randomserver.site:2086/live/crystal/12345/3201.m3u8
+#EXTINF:-1,CA : TSN 3
+http://randomserver.site:2086/live/crystal/12345/8802.m3u8
+#EXTINF:-1,CA : TSN 4
+http://randomserver.site:2086/live/crystal/12345/3199.m3u8
+#EXTINF:-1,CA : TSN 5
+http://randomserver.site:2086/live/crystal/12345/3198.m3u8
+#EXTINF:-1,DE : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/92355.m3u8
+#EXTINF:-1,DE : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/92356.m3u8
+#EXTINF:-1,FR : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/92214.m3u8
+#EXTINF:-1,FR : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/92215.m3u8
+#EXTINF:-1,GB : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/72659.m3u8
+#EXTINF:-1,GB : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/72660.m3u8
+#EXTINF:-1,IT : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/94204.m3u8
+#EXTINF:-1,IT : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/94203.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 7 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66778.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 8 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66779.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 9 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66780.m3u8
+#EXTINF:-1,US : TENNIS CHANNEL
+http://randomserver.site:2086/live/crystal/12345/64028.m3u8
+#EXTINF:-1,US : TENNIS CHANNEL FHD 1080
+http://randomserver.site:2086/live/crystal/12345/8867.m3u8
+#EXTINF:-1,US : ESPN
+http://randomserver.site:2086/live/crystal/12345/64127.m3u8
+#EXTINF:-1,US-720 : ESPN 2
+http://randomserver.site:2086/live/crystal/12345/95422.m3u8
+
+
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT 2
@@ -10,99 +54,45 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/24.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/20.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/15.m3u8
-#EXTINF:-1,BEIN SPORTS 7 H265
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13347.m3u8
-#EXTINF:-1,BEIN SPORTS  8 FHD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13344.m3u8
-#EXTINF:-1,BEIN SPORTS  9 FHD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/13342.m3u8
-#EXTINF:-1,IFRI  BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/310.m3u8
-#EXTINF:-1,IFRI  BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/308.m3u8
-#EXTINF:-1,IFRI  BEIN SPORTS 3 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/306.m3u8
-#EXTINF:-1,IFRI  RMC SPORT 1 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/288.m3u8
-#EXTINF:-1,IFRI  RMC SPORT 2 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/286.m3u8
-#EXTINF:-1,IFRI  RMC SPORT 3 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/284.m3u8
-#EXTINF:-1,IFRI  EUROSPORT 1 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/244.m3u8
-#EXTINF:-1,IFRI  EUROSPORT 2 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/242.m3u8
-#EXTINF:-1,|SP| EUROSPORT 1
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/73164.m3u8
-#EXTINF:-1,|SP| EUROSPORT 2
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/73163.m3u8
-#EXTINF:-1,|NL|HEVC| FOX SPORTS 3 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69436.m3u8
-#EXTINF:-1,|NL|HEVC| FOX SPORTS 4 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69435.m3u8
-#EXTINF:-1,|NL|HEVC| FOX SPORTS 5 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69434.m3u8
-#EXTINF:-1,|NL|HEVC| ZIGGO SPORT VOETBAL HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69431.m3u8
-#EXTINF:-1,|NL|HEVC| ZIGGO SPORT SELECT HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69430.m3u8
-#EXTINF:-1,|DE|HEVC| SKY SPORT 1 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68920.m3u8
-#EXTINF:-1,|DE|HEVC| SKY SPORT 2 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68918.m3u8
-#EXTINF:-1,|DE|HEVC| DAZN 1 BAR HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68917.m3u8
-#EXTINF:-1,|DE|HEVC| DAZN 2 BAR HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/68916.m3u8
-#EXTINF:-1,|UK| BEIN SPORT HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69664.m3u8
-#EXTINF:-1,|UK| BEIN SPORTS NBA HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69663.m3u8
-#EXTINF:-1,|UK| BEIN SPORT NEWS HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69662.m3u8
-#EXTINF:-1,|UK| BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69661.m3u8
-#EXTINF:-1,|UK| BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69660.m3u8
-#EXTINF:-1,|UK| BEIN SPORTS 3 HD
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69659.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS ACTION
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69643.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS ARENA
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69639.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS F1
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69637.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 1
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69634.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 2
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69633.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 3
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69632.m3u8
-#EXTINF:-1,|UK|FHD| EUROSPORTS 1
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69611.m3u8
-#EXTINF:-1,|UK|FHD| EUROSPORTS 2
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69610.m3u8
-#EXTINF:-1,|UK|FHD| PREMIER SPORTS
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69607.m3u8
-#EXTINF:-1,|UK|FHD| PREMIER SPORTS 2
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69606.m3u8
-#EXTINF:-1,|UK|SD| BT SPORTS 1
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69589.m3u8
-#EXTINF:-1,|UK|SD| BT SPORTS 2
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69588.m3u8
-#EXTINF:-1,|UK|SD| BT SPORTS 3
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69587.m3u8
-#EXTINF:-1,|USA| ESPN U
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70004.m3u8
-#EXTINF:-1,|USA| ESPN 2
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70003.m3u8
-#EXTINF:-1,|USA| ESPN
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70002.m3u8
-#EXTINF:-1,|USA| BEIN SPORT USA
-http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/69997.m3u8
+#EXTINF:-1,DE : DAZN 1
+http://randomserver.site:2086/live/crystal/12345/92343.m3u8
+#EXTINF:-1,DE : DAZN 2
+http://randomserver.site:2086/live/crystal/12345/92344.m3u8
+#EXTINF:-1,DE : SKY SPORT 1
+http://randomserver.site:2086/live/crystal/12345/92331.m3u8
+#EXTINF:-1,DE : SKY SPORT 2
+http://randomserver.site:2086/live/crystal/12345/92332.m3u8
+#EXTINF:-1,FR : RMC SPORT 1
+http://randomserver.site:2086/live/crystal/12345/92216.m3u8
+#EXTINF:-1,FR : RMC SPORT 2
+http://randomserver.site:2086/live/crystal/12345/92217.m3u8
+#EXTINF:-1,FR : RMC SPORT 3
+http://randomserver.site:2086/live/crystal/12345/92218.m3u8
+#EXTINF:-1,GB : SKY SPORTS ACTION
+http://randomserver.site:2086/live/crystal/12345/85930.m3u8
+#EXTINF:-1,GB : SKY SPORTS ARENA
+http://randomserver.site:2086/live/crystal/12345/85931.m3u8
+#EXTINF:-1,GB : SKY SPORTS MAIN EVENT
+http://randomserver.site:2086/live/crystal/12345/67058.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 7 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66778.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 8 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66779.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 9 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66780.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS LA LIGA
+http://randomserver.site:2086/live/crystal/12345/66786.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS USA
+http://randomserver.site:2086/live/crystal/12345/66771.m3u8
+#EXTINF:-1,US-720 : ESPN DEPORTES
+http://randomserver.site:2086/live/crystal/12345/95400.m3u8
+#EXTINF:-1,US-720 : FOX DEPORTES
+http://randomserver.site:2086/live/crystal/12345/95384.m3u8
+#EXTINF:-1,US-720 : FOX SPORTS 1
+http://randomserver.site:2086/live/crystal/12345/95441.m3u8
+#EXTINF:-1,US-720 : FOX SPORTS 2
+http://randomserver.site:2086/live/crystal/12345/95412.m3u8
+#EXTINF:-1,US-720 : TENNIS CHANNEL
+http://randomserver.site:2086/live/crystal/12345/95374.m3u8
+#EXTINF:-1,XUMOTV: BEIN SPORTS XTRA
+http://randomserver.site:2086/live/crystal/12345/98868.m3u8
