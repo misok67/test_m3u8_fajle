@@ -1,5 +1,86 @@
 #EXTM3U
 
+#EXTINF:-1,EUROSPORT 1 HD DE
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1316.m3u8
+#EXTINF:-1,EUROSPORT 2 DE
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/97.m3u8
+#EXTINF:-1,EUROSPORT 1 HD UK
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1812.m3u8
+#EXTINF:-1,EUROSPORT 2 HD UK
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1811.m3u8
+#EXTINF:-1,EUROSPORT 1 HD IT
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1260.m3u8
+#EXTINF:-1,EUROSPORT 2 HD IT
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1259.m3u8
+#EXTINF:-1,EUROSPORT 1 FR
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1389.m3u8
+#EXTINF:-1,EUROSPORT 2 HD FR
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1388.m3u8
+#EXTINF:-1,EUROSPORT 1 HD ES
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1036.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD ES
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/6065.m3u8
+#EXTINF:-1,EUROSPORT 2 HD ES
+http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/6064.m3u8
+
+
+#EXTINF:-1,SPORTS : SPORTS 1
+http://randomserver.site:2086/live/Bria/Bria/66772.m3u8
+#EXTINF:-1,SPORTS : SPORTS 10
+http://randomserver.site:2086/live/Bria/Bria/66781.m3u8
+#EXTINF:-1,SPORTS : SPORTS 11 (ENG)
+http://randomserver.site:2086/live/Bria/Bria/66782.m3u8
+#EXTINF:-1,SPORTS : SPORTS 12 (ENG)
+http://randomserver.site:2086/live/Bria/Bria/66783.m3u8
+#EXTINF:-1,SPORTS : SPORTS 13 (ENG)
+http://randomserver.site:2086/live/Bria/Bria/66784.m3u8
+#EXTINF:-1,SPORTS : SPORTS 2
+http://randomserver.site:2086/live/Bria/Bria/66773.m3u8
+#EXTINF:-1,SPORTS : SPORTS 3
+http://randomserver.site:2086/live/Bria/Bria/66774.m3u8
+#EXTINF:-1,SPORTS : SPORTS 4
+http://randomserver.site:2086/live/Bria/Bria/66775.m3u8
+#EXTINF:-1,SPORTS : SPORTS 5
+http://randomserver.site:2086/live/Bria/Bria/66776.m3u8
+#EXTINF:-1,SPORTS : SPORTS 6
+http://randomserver.site:2086/live/Bria/Bria/66777.m3u8
+#EXTINF:-1,SPORTS : SPORTS 7
+http://randomserver.site:2086/live/Bria/Bria/66778.m3u8
+#EXTINF:-1,SPORTS : SPORTS 8
+http://randomserver.site:2086/live/Bria/Bria/66779.m3u8
+#EXTINF:-1,SPORTS : SPORTS 9
+http://randomserver.site:2086/live/Bria/Bria/66780.m3u8
+#EXTINF:-1,SPORTS : SPORTS USA
+http://randomserver.site:2086/live/Bria/Bria/66771.m3u8 
+
+#EXTINF:-1,CA : TSN 1
+http://randomserver.site:2086/live/Bria/Bria/3202.m3u8
+#EXTINF:-1,CA : TSN 2
+http://randomserver.site:2086/live/Bria/Bria/3201.m3u8
+#EXTINF:-1,CA : TSN 3
+http://randomserver.site:2086/live/Bria/Bria/8802.m3u8
+#EXTINF:-1,CA : TSN 4
+http://randomserver.site:2086/live/Bria/Bria/3199.m3u8
+#EXTINF:-1,CA : TSN 5
+http://randomserver.site:2086/live/Bria/Bria/3198.m3u8
+#EXTINF:-1,DE : EUROSPORT 1
+http://randomserver.site:2086/live/Bria/Bria/92355.m3u8
+#EXTINF:-1,DE : EUROSPORT 2
+http://randomserver.site:2086/live/Bria/Bria/92356.m3u8
+#EXTINF:-1,FR : EUROSPORT 1
+http://randomserver.site:2086/live/Bria/Bria/92214.m3u8
+#EXTINF:-1,FR : EUROSPORT 2
+http://randomserver.site:2086/live/Bria/Bria/92215.m3u8
+#EXTINF:-1,GB : EUROSPORT 1
+http://randomserver.site:2086/live/Bria/Bria/72659.m3u8
+#EXTINF:-1,GB : EUROSPORT 2
+http://randomserver.site:2086/live/Bria/Bria/72660.m3u8
+#EXTINF:-1,IT : EUROSPORT 1
+http://randomserver.site:2086/live/Bria/Bria/94204.m3u8
+#EXTINF:-1,IT : EUROSPORT 2
+http://randomserver.site:2086/live/Bria/Bria/94203.m3u8
+#EXTINF:-1,US : ESPN
+http://randomserver.site:2086/live/Bria/Bria/64127.m3u8
 
 #EXTINF:-1,CA : TSN 1
 http://randomserver.site:2086/live/crystal/12345/3202.m3u8
@@ -55,44 +136,44 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
 
 #EXTINF:-1,DE : DAZN 1
-http://randomserver.site:2086/live/crystal/12345/92343.m3u8
+http://randomserver.site:2086/live/Bria/Bria/92343.m3u8
 #EXTINF:-1,DE : DAZN 2
-http://randomserver.site:2086/live/crystal/12345/92344.m3u8
+http://randomserver.site:2086/live/Bria/Bria/92344.m3u8
 #EXTINF:-1,DE : SKY SPORT 1
-http://randomserver.site:2086/live/crystal/12345/92331.m3u8
+http://randomserver.site:2086/live/Bria/Bria/92331.m3u8
 #EXTINF:-1,DE : SKY SPORT 2
-http://randomserver.site:2086/live/crystal/12345/92332.m3u8
+http://randomserver.site:2086/live/Bria/Bria/92332.m3u8
 #EXTINF:-1,FR : RMC SPORT 1
-http://randomserver.site:2086/live/crystal/12345/92216.m3u8
+http://randomserver.site:2086/live/Bria/Bria/92216.m3u8
 #EXTINF:-1,FR : RMC SPORT 2
-http://randomserver.site:2086/live/crystal/12345/92217.m3u8
+http://randomserver.site:2086/live/Bria/Bria/92217.m3u8
 #EXTINF:-1,FR : RMC SPORT 3
-http://randomserver.site:2086/live/crystal/12345/92218.m3u8
+http://randomserver.site:2086/live/Bria/Bria/92218.m3u8
 #EXTINF:-1,GB : SKY SPORTS ACTION
-http://randomserver.site:2086/live/crystal/12345/85930.m3u8
+http://randomserver.site:2086/live/Bria/Bria/85930.m3u8
 #EXTINF:-1,GB : SKY SPORTS ARENA
-http://randomserver.site:2086/live/crystal/12345/85931.m3u8
+http://randomserver.site:2086/live/Bria/Bria/85931.m3u8
 #EXTINF:-1,GB : SKY SPORTS MAIN EVENT
-http://randomserver.site:2086/live/crystal/12345/67058.m3u8
+http://randomserver.site:2086/live/Bria/Bria/67058.m3u8
 #EXTINF:-1,SPORTS : BEIN SPORTS 7 (ARABIC)
-http://randomserver.site:2086/live/crystal/12345/66778.m3u8
+http://randomserver.site:2086/live/Bria/Bria/66778.m3u8
 #EXTINF:-1,SPORTS : BEIN SPORTS 8 (ARABIC)
-http://randomserver.site:2086/live/crystal/12345/66779.m3u8
+http://randomserver.site:2086/live/Bria/Bria/66779.m3u8
 #EXTINF:-1,SPORTS : BEIN SPORTS 9 (ARABIC)
-http://randomserver.site:2086/live/crystal/12345/66780.m3u8
+http://randomserver.site:2086/live/Bria/Bria/66780.m3u8
 #EXTINF:-1,SPORTS : BEIN SPORTS LA LIGA
-http://randomserver.site:2086/live/crystal/12345/66786.m3u8
+http://randomserver.site:2086/live/Bria/Bria/66786.m3u8
 #EXTINF:-1,SPORTS : BEIN SPORTS USA
-http://randomserver.site:2086/live/crystal/12345/66771.m3u8
+http://randomserver.site:2086/live/Bria/Bria/66771.m3u8
 #EXTINF:-1,US-720 : ESPN DEPORTES
-http://randomserver.site:2086/live/crystal/12345/95400.m3u8
+http://randomserver.site:2086/live/Bria/Bria/95400.m3u8
 #EXTINF:-1,US-720 : FOX DEPORTES
-http://randomserver.site:2086/live/crystal/12345/95384.m3u8
+http://randomserver.site:2086/live/Bria/Bria/95384.m3u8
 #EXTINF:-1,US-720 : FOX SPORTS 1
-http://randomserver.site:2086/live/crystal/12345/95441.m3u8
+http://randomserver.site:2086/live/Bria/Bria/95441.m3u8
 #EXTINF:-1,US-720 : FOX SPORTS 2
-http://randomserver.site:2086/live/crystal/12345/95412.m3u8
+http://randomserver.site:2086/live/Bria/Bria/95412.m3u8
 #EXTINF:-1,US-720 : TENNIS CHANNEL
-http://randomserver.site:2086/live/crystal/12345/95374.m3u8
+http://randomserver.site:2086/live/Bria/Bria/95374.m3u8
 #EXTINF:-1,XUMOTV: BEIN SPORTS XTRA
-http://randomserver.site:2086/live/crystal/12345/98868.m3u8
+http://randomserver.site:2086/live/Bria/Bria/98868.m3u8
