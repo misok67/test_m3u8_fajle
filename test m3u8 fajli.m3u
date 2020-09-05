@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,EUROSPORT 1
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/871.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/870.m3u8
 #EXTINF:-1,EUROSPORT 1 HD DE
 http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/1316.m3u8
 #EXTINF:-1,EUROSPORT 2 DE
@@ -23,7 +27,31 @@ http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/6065.m3u
 #EXTINF:-1,EUROSPORT 2 HD ES
 http://portal.geniptv.com:8080/live/98b0c7957e5005b4/32e23dsaAcasA1ED12/6064.m3u8
 
+#EXTINF:-1,SPORTS : SPORTS 12 (ENG)
+http://randomserver.site:2086/live/Bria/Bria/66783.m3u8
+#EXTINF:-1,SPORTS : SPORTS 7
+http://randomserver.site:2086/live/Bria/Bria/66778.m3u8
+#EXTINF:-1,SPORTS : SPORTS 8
+http://randomserver.site:2086/live/Bria/Bria/66779.m3u8
+#EXTINF:-1,SPORTS : SPORTS 9
+http://randomserver.site:2086/live/Bria/Bria/66780.m3u8
 
+#EXTINF:-1,..B1..BEIN 7  HD
+http://shamsi.xyz:25461/live/free/free/610.m3u8
+#EXTINF:-1,..B1..BEIN 8  HD
+http://shamsi.xyz:25461/live/free/free/611.m3u8
+#EXTINF:-1,..B1..BEIN 9  HD
+http://shamsi.xyz:25461/live/free/free/612.m3u8
+#EXTINF:-1,..B1..BEIN 10  HD
+http://shamsi.xyz:25461/live/free/free/613.m3u8
+#EXTINF:-1,..B1..BEIN 11  HD
+http://shamsi.xyz:25461/live/free/free/614.m3u8
+#EXTINF:-1,..B1..BEIN 12  HD
+http://shamsi.xyz:25461/live/free/free/615.m3u8
+#EXTINF:-1,..B1..EUROSPORT
+http://seeyoutv.net:2300/marcos/marcos/10678
+#EXTINF:-1,..B1..EUROSPORT2
+http://seeyoutv.net:2300/marcos/marcos/10677
 #EXTINF:-1,SPORTS : SPORTS 1
 http://randomserver.site:2086/live/Bria/Bria/66772.m3u8
 #EXTINF:-1,SPORTS : SPORTS 10
@@ -52,7 +80,6 @@ http://randomserver.site:2086/live/Bria/Bria/66779.m3u8
 http://randomserver.site:2086/live/Bria/Bria/66780.m3u8
 #EXTINF:-1,SPORTS : SPORTS USA
 http://randomserver.site:2086/live/Bria/Bria/66771.m3u8 
-
 #EXTINF:-1,CA : TSN 1
 http://randomserver.site:2086/live/Bria/Bria/3202.m3u8
 #EXTINF:-1,CA : TSN 2
