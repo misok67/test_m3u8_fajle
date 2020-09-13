@@ -70,9 +70,37 @@ http://randomserver.site:2086/live/Bria/Bria/92216.m3u8
 http://randomserver.site:2086/live/Bria/Bria/92217.m3u8
 #EXTINF:-1,FR : RMC SPORT 3
 http://randomserver.site:2086/live/Bria/Bria/92218.m3u8
-#EXTINF:-1,GB : SKY SPORTS ACTION
-http://randomserver.site:2086/live/Bria/Bria/85930.m3u8
+#EXTINF:-1,DUTCH: FOX SPORTS 4 EREDIVISIE
+http://randomserver.site:2086/live/Bria/Bria/92908.m3u8
+#EXTINF:-1,DUTCH: FOX SPORTS 5 EREDIVISIE
+http://randomserver.site:2086/live/Bria/Bria/92909.m3u8
+#EXTINF:-1,DUTCH: FOX SPORTS 6 EREDIVISIE
+http://randomserver.site:2086/live/Bria/Bria/92910.m3u8
+#EXTINF:-1,DUTCH: ZIGGO SPORT SELECT
+http://randomserver.site:2086/live/Bria/Bria/92899.m3u8
+#EXTINF:-1,DUTCH: ZIGGO SPORT VOETBAL
+http://randomserver.site:2086/live/Bria/Bria/92901.m3u8
+#EXTINF:-1,ES : ESPN DEPORTES
+http://randomserver.site:2086/live/Bria/Bria/88723.m3u8
+#EXTINF:-1,GB : BT SPORTS 1
+http://randomserver.site:2086/live/Bria/Bria/67062.m3u8
+#EXTINF:-1,GB : BT SPORTS 2
+http://randomserver.site:2086/live/Bria/Bria/67063.m3u8
+#EXTINF:-1,GB : BT SPORTS 3
+http://randomserver.site:2086/live/Bria/Bria/67075.m3u8
+#EXTINF:-1,GB : BT SPORTS ESPN
+http://randomserver.site:2086/live/Bria/Bria/67076.m3u8
 #EXTINF:-1,GB : SKY SPORTS ARENA
 http://randomserver.site:2086/live/Bria/Bria/85931.m3u8
+#EXTINF:-1,GB : SKY SPORTS F1
+http://randomserver.site:2086/live/Bria/Bria/67056.m3u8
+#EXTINF:-1,GB : SKY SPORTS FOOTBALL
+http://randomserver.site:2086/live/Bria/Bria/67057.m3u8
 #EXTINF:-1,GB : SKY SPORTS MAIN EVENT
 http://randomserver.site:2086/live/Bria/Bria/67058.m3u8
+#EXTINF:-1,GB : SKY SPORTS MIX
+http://randomserver.site:2086/live/Bria/Bria/67061.m3u8
+#EXTINF:-1,GB : SKY SPORTS PREMIER LEAGUE
+http://randomserver.site:2086/live/Bria/Bria/67060.m3u8
+#EXTINF:-1,IT : SKY SPORT NBA
+http://randomserver.site:2086/live/Bria/Bria/94129.m3u8
