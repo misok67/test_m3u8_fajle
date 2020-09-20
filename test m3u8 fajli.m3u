@@ -1,51 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,EUROSPORT 1
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/871.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/870.m3u8
-#EXTINF:-1,SPORTS : SPORTS 12 (ENG)
-http://randomserver.site:2086/live/Bria/Bria/66783.m3u8
-#EXTINF:-1,SPORTS : SPORTS 7
-http://randomserver.site:2086/live/Bria/Bria/66778.m3u8
-#EXTINF:-1,SPORTS : SPORTS 8
-http://randomserver.site:2086/live/Bria/Bria/66779.m3u8
-#EXTINF:-1,SPORTS : SPORTS 9
-http://randomserver.site:2086/live/Bria/Bria/66780.m3u8
-#EXTINF:-1,SPORTS : SPORTS 1
-http://randomserver.site:2086/live/Bria/Bria/66772.m3u8
-#EXTINF:-1,SPORTS : SPORTS 10
-http://randomserver.site:2086/live/Bria/Bria/66781.m3u8
-#EXTINF:-1,SPORTS : SPORTS 11 (ENG)
-http://randomserver.site:2086/live/Bria/Bria/66782.m3u8
-#EXTINF:-1,SPORTS : SPORTS 2
-http://randomserver.site:2086/live/Bria/Bria/66773.m3u8
-#EXTINF:-1,SPORTS : SPORTS 3
-http://randomserver.site:2086/live/Bria/Bria/66774.m3u8
-#EXTINF:-1,SPORTS : SPORTS 4
-http://randomserver.site:2086/live/Bria/Bria/66775.m3u8
-#EXTINF:-1,SPORTS : SPORTS 5
-http://randomserver.site:2086/live/Bria/Bria/66776.m3u8
-#EXTINF:-1,SPORTS : SPORTS 6
-http://randomserver.site:2086/live/Bria/Bria/66777.m3u8
-#EXTINF:-1,SPORTS : SPORTS 7
-http://randomserver.site:2086/live/Bria/Bria/66778.m3u8
-#EXTINF:-1,SPORTS : SPORTS 8
-http://randomserver.site:2086/live/Bria/Bria/66779.m3u8
-#EXTINF:-1,SPORTS : SPORTS 9
-http://randomserver.site:2086/live/Bria/Bria/66780.m3u8
-#EXTINF:-1,SPORTS : SPORTS USA
-http://randomserver.site:2086/live/Bria/Bria/66771.m3u8 
-#EXTINF:-1,DE : EUROSPORT 1
-http://randomserver.site:2086/live/Bria/Bria/92355.m3u8
-#EXTINF:-1,FR : EUROSPORT 1
-http://randomserver.site:2086/live/Bria/Bria/92214.m3u8
-#EXTINF:-1,GB : EUROSPORT 1
-http://randomserver.site:2086/live/Bria/Bria/72659.m3u8
-#EXTINF:-1,GB : EUROSPORT 2
-http://randomserver.site:2086/live/Bria/Bria/72660.m3u8
-#EXTINF:-1,US : ESPN
-http://randomserver.site:2086/live/Bria/Bria/64127.m3u8
+#EXTINF:-1,..B1..SPORTS | SPORT KLUB HD 1
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/625227.m3u8
+#EXTINF:-1,..B1..SPORTS | SPORT KLUB HD 2
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/7088.m3u8
+#EXTINF:-1,..B1..SPORTS | SPORT KLUB HD 3
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/7087.m3u8
+#EXTINF:-1,..B1..SPORTS | SPORT KLUB 1 HD
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/53164.m3u8
+#EXTINF:-1,..B1..SPORTS | SPORT KLUB 2 FHD
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5444.m3u8
+#EXTINF:-1,..B1..SPORTS | SPORT KLUB 3 HD
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5443.m3u8
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT 2
@@ -56,51 +22,133 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
-#EXTINF:-1,DE : DAZN 1
-http://randomserver.site:2086/live/Bria/Bria/92343.m3u8
-#EXTINF:-1,DE : DAZN 2
-http://randomserver.site:2086/live/Bria/Bria/92344.m3u8
-#EXTINF:-1,DE : SKY SPORT 1
-http://randomserver.site:2086/live/Bria/Bria/92331.m3u8
-#EXTINF:-1,DE : SKY SPORT 2
-http://randomserver.site:2086/live/Bria/Bria/92332.m3u8
-#EXTINF:-1,FR : RMC SPORT 1
-http://randomserver.site:2086/live/Bria/Bria/92216.m3u8
-#EXTINF:-1,FR : RMC SPORT 2
-http://randomserver.site:2086/live/Bria/Bria/92217.m3u8
-#EXTINF:-1,FR : RMC SPORT 3
-http://randomserver.site:2086/live/Bria/Bria/92218.m3u8
-#EXTINF:-1,DUTCH: FOX SPORTS 4 EREDIVISIE
-http://randomserver.site:2086/live/Bria/Bria/92908.m3u8
-#EXTINF:-1,DUTCH: FOX SPORTS 5 EREDIVISIE
-http://randomserver.site:2086/live/Bria/Bria/92909.m3u8
-#EXTINF:-1,DUTCH: FOX SPORTS 6 EREDIVISIE
-http://randomserver.site:2086/live/Bria/Bria/92910.m3u8
-#EXTINF:-1,DUTCH: ZIGGO SPORT SELECT
-http://randomserver.site:2086/live/Bria/Bria/92899.m3u8
-#EXTINF:-1,DUTCH: ZIGGO SPORT VOETBAL
-http://randomserver.site:2086/live/Bria/Bria/92901.m3u8
-#EXTINF:-1,ES : ESPN DEPORTES
-http://randomserver.site:2086/live/Bria/Bria/88723.m3u8
-#EXTINF:-1,GB : BT SPORTS 1
-http://randomserver.site:2086/live/Bria/Bria/67062.m3u8
-#EXTINF:-1,GB : BT SPORTS 2
-http://randomserver.site:2086/live/Bria/Bria/67063.m3u8
-#EXTINF:-1,GB : BT SPORTS 3
-http://randomserver.site:2086/live/Bria/Bria/67075.m3u8
-#EXTINF:-1,GB : BT SPORTS ESPN
-http://randomserver.site:2086/live/Bria/Bria/67076.m3u8
-#EXTINF:-1,GB : SKY SPORTS ARENA
-http://randomserver.site:2086/live/Bria/Bria/85931.m3u8
-#EXTINF:-1,GB : SKY SPORTS F1
-http://randomserver.site:2086/live/Bria/Bria/67056.m3u8
-#EXTINF:-1,GB : SKY SPORTS FOOTBALL
-http://randomserver.site:2086/live/Bria/Bria/67057.m3u8
-#EXTINF:-1,GB : SKY SPORTS MAIN EVENT
-http://randomserver.site:2086/live/Bria/Bria/67058.m3u8
-#EXTINF:-1,GB : SKY SPORTS MIX
-http://randomserver.site:2086/live/Bria/Bria/67061.m3u8
-#EXTINF:-1,GB : SKY SPORTS PREMIER LEAGUE
-http://randomserver.site:2086/live/Bria/Bria/67060.m3u8
-#EXTINF:-1,IT : SKY SPORT NBA
-http://randomserver.site:2086/live/Bria/Bria/94129.m3u8
+#EXTINF:-1,BEIN SPORTS *FHD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1849.m3u8
+#EXTINF:-1,BEIN SPORTS LALIGA *FHD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1850.m3u8
+#EXTINF:-1,BEIN SPORTS LALIGA *FHD | OP2
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1851.m3u8
+#EXTINF:-1,SP | BT SPORT 1
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24108.m3u8
+#EXTINF:-1,SP | BT SPORT 2
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24109.m3u8
+#EXTINF:-1,SP | BT SPORT 3
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24110.m3u8
+#EXTINF:-1,SP | BT SPORT ESPN
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24111.m3u8
+#EXTINF:-1,SP | DAZN 1
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2370.m3u8
+#EXTINF:-1,SP | DAZN 1 DE
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2360.m3u8
+#EXTINF:-1,SP | DAZN 2
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2368.m3u8
+#EXTINF:-1,SP | DAZN 2 DE
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2361.m3u8
+#EXTINF:-1,SP | SKY SPORT 1
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2381.m3u8
+#EXTINF:-1,SP | SKY SPORT 2
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2384.m3u8
+#EXTINF:-1,SP | SKY SPORT BUNDESLIGA 1
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2383.m3u8
+#EXTINF:-1,SP | SKY SPORTS 1 *FHD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5444.m3u8
+#EXTINF:-1,SP | SKY SPORTS 2 *FHD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5445.m3u8
+#EXTINF:-1,SP | SKY SPORTS 4 *FHD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5446.m3u8
+#EXTINF:-1,SP | SKY SPORTS ACTION
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5439.m3u8
+#EXTINF:-1,SP | SKY SPORTS F1 *FHD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5448.m3u8
+#EXTINF:-1,SP | SKY SPORTS F1 *HD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5433.m3u8
+#EXTINF:-1,SP | SKY SPORTS F1 *HD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5442.m3u8
+#EXTINF:-1,SP | SKY SPORTS MAIN EVENT
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5441.m3u8
+#EXTINF:-1,SP | SKY SPORTS PREMIER LEAGUE
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5437.m3u8
+#EXTINF:-1,SP | SUPER TENNIS
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/22280.m3u8
+#EXTINF:-1,SP | TENNIS CHANNEL *HD
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1822.m3u8
+#EXTINF:-1,SP | TENNIS CHANNEL PLUS
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/30143.m3u8
+#EXTINF:-1,CA | BEIN SPORTS
+http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5689.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,..B1..SKY SPORT 1 FHD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13564.m3u8
+#EXTINF:-1,..B1..SKY SPORT 1 HD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/6184.m3u8
+#EXTINF:-1,..B1..SKY SPORT 2 FHD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/7362.m3u8
+#EXTINF:-1,..B1..SKY SPORT 2 DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/61835.m3u8
+#EXTINF:-1,..B1..SKY SPORT BUNDESLIGA 1 FHD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/620245.m3u8
+#EXTINF:-1,..B1..DAZN 1 FHD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/661090.m3u8
+#EXTINF:-1,..B1..DAZN 1 HD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/625243.m3u8
+#EXTINF:-1,..B1..DAZN 2 FHD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/661089.m3u8
+#EXTINF:-1,..B1..DAZN 2 HD DE
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/50775.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 1
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5482.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 2
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5481.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 3
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5480.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 4
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5479.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 5
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5478.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 6
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/54777.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 7
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5476.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 8
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/53432.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 9
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5474.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 10
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/5473.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 11
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/667466.m3u8
+#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 12
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/54715.m3u8
+#EXTINF:-1,..B1..SPORTS VIP | RMC SPORT 1 HD
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/625226.m3u8
+#EXTINF:-1,..B1..SPORTS VIP | RMC SPORT 3 FHD
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/625233.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 1 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13860.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 2 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13859.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 3 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/53268.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 4 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13857.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 5 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/625256.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 6 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13855.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 7 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13854.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 8 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13853.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 9 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13852.m3u8
+#EXTINF:-1,..B1..BEIN SPORTS 10 FHD ARB
+http://78.142.29.68:8080/live/martinwalter1/mpcder44/13851.m3u8
+
+
+
+#EXTINF:-1,EUROSPORT 1
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/871.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/870.m3u8
