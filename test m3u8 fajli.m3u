@@ -1,17 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,..B1..SPORTS | SPORT KLUB HD 1
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/625227.m3u8
-#EXTINF:-1,..B1..SPORTS | SPORT KLUB HD 2
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/7088.m3u8
-#EXTINF:-1,..B1..SPORTS | SPORT KLUB HD 3
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/7087.m3u8
-#EXTINF:-1,..B1..SPORTS | SPORT KLUB 1 HD
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/53164.m3u8
-#EXTINF:-1,..B1..SPORTS | SPORT KLUB 2 FHD
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5444.m3u8
-#EXTINF:-1,..B1..SPORTS | SPORT KLUB 3 HD
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5443.m3u8
+
 #EXTINF:0,ARENA SPORT 1
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8
 #EXTINF:0,ARENA SPORT 2
@@ -22,131 +11,65 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8
 #EXTINF:0,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8
-#EXTINF:-1,BEIN SPORTS *FHD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1849.m3u8
-#EXTINF:-1,BEIN SPORTS LALIGA *FHD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1850.m3u8
-#EXTINF:-1,BEIN SPORTS LALIGA *FHD | OP2
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1851.m3u8
-#EXTINF:-1,SP | BT SPORT 1
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24108.m3u8
-#EXTINF:-1,SP | BT SPORT 2
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24109.m3u8
-#EXTINF:-1,SP | BT SPORT 3
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24110.m3u8
-#EXTINF:-1,SP | BT SPORT ESPN
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/24111.m3u8
-#EXTINF:-1,SP | DAZN 1
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2370.m3u8
-#EXTINF:-1,SP | DAZN 1 DE
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2360.m3u8
-#EXTINF:-1,SP | DAZN 2
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2368.m3u8
-#EXTINF:-1,SP | DAZN 2 DE
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2361.m3u8
-#EXTINF:-1,SP | SKY SPORT 1
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2381.m3u8
-#EXTINF:-1,SP | SKY SPORT 2
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2384.m3u8
-#EXTINF:-1,SP | SKY SPORT BUNDESLIGA 1
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/2383.m3u8
-#EXTINF:-1,SP | SKY SPORTS 1 *FHD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5444.m3u8
-#EXTINF:-1,SP | SKY SPORTS 2 *FHD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5445.m3u8
-#EXTINF:-1,SP | SKY SPORTS 4 *FHD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5446.m3u8
-#EXTINF:-1,SP | SKY SPORTS ACTION
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5439.m3u8
-#EXTINF:-1,SP | SKY SPORTS F1 *FHD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5448.m3u8
-#EXTINF:-1,SP | SKY SPORTS F1 *HD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5433.m3u8
-#EXTINF:-1,SP | SKY SPORTS F1 *HD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5442.m3u8
-#EXTINF:-1,SP | SKY SPORTS MAIN EVENT
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5441.m3u8
-#EXTINF:-1,SP | SKY SPORTS PREMIER LEAGUE
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5437.m3u8
-#EXTINF:-1,SP | SUPER TENNIS
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/22280.m3u8
-#EXTINF:-1,SP | TENNIS CHANNEL *HD
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/1822.m3u8
-#EXTINF:-1,SP | TENNIS CHANNEL PLUS
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/30143.m3u8
-#EXTINF:-1,CA | BEIN SPORTS
-http://xdgo.live:8080/live/PauloSorto/VdatPUrN45/5689.m3u8
 
-#EXTM3U
-
-#EXTINF:-1,..B1..SKY SPORT 1 FHD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13564.m3u8
-#EXTINF:-1,..B1..SKY SPORT 1 HD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/6184.m3u8
-#EXTINF:-1,..B1..SKY SPORT 2 FHD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/7362.m3u8
-#EXTINF:-1,..B1..SKY SPORT 2 DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/61835.m3u8
-#EXTINF:-1,..B1..SKY SPORT BUNDESLIGA 1 FHD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/620245.m3u8
-#EXTINF:-1,..B1..DAZN 1 FHD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/661090.m3u8
-#EXTINF:-1,..B1..DAZN 1 HD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/625243.m3u8
-#EXTINF:-1,..B1..DAZN 2 FHD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/661089.m3u8
-#EXTINF:-1,..B1..DAZN 2 HD DE
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/50775.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 1
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5482.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 2
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5481.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 3
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5480.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 4
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5479.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 5
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5478.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 6
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/54777.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 7
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5476.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 8
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/53432.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 9
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5474.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 10
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/5473.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 11
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/667466.m3u8
-#EXTINF:-1,..B1..SPORTS | BEIN SPORTS 12
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/54715.m3u8
-#EXTINF:-1,..B1..SPORTS VIP | RMC SPORT 1 HD
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/625226.m3u8
-#EXTINF:-1,..B1..SPORTS VIP | RMC SPORT 3 FHD
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/625233.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 1 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13860.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 2 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13859.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 3 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/53268.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 4 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13857.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 5 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/625256.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 6 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13855.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 7 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13854.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 8 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13853.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 9 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13852.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 10 FHD ARB
-http://78.142.29.68:8080/live/martinwalter1/mpcder44/13851.m3u8
-
-
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://links.gpro.cc:80/live/walidcaSsdres/SDEcfv20365/3550.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://links.gpro.cc:80/live/walidcaSsdres/SDEcfv20365/5782.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://links.gpro.cc:80/live/walidcaSsdres/SDEcfv20365/5783.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://links.gpro.cc:80/live/walidcaSsdres/SDEcfv20365/258.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://links.gpro.cc:80/live/walidcaSsdres/SDEcfv20365/259.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://links.gpro.cc:80/live/walidcaSsdres/SDEcfv20365/265.m3u8
+#EXTINF:-1,beIN Sport Local 1 HD
+http://2.56.215.160:25461/live/sarhan1/123129/34.m3u8
+#EXTINF:-1,beIN Sport Local 2HD
+http://2.56.215.160:25461/live/sarhan1/123129/35.m3u8
+#EXTINF:-1,beIN Sport Local 3 HD
+http://2.56.215.160:25461/live/sarhan1/123129/36.m3u8
+#EXTINF:-1,beIN Sport Local 4 HD
+http://2.56.215.160:25461/live/sarhan1/123129/37.m3u8
+#EXTINF:-1,beIN Sport Local 5 HD
+http://2.56.215.160:25461/live/sarhan1/123129/38.m3u8
+#EXTINF:-1,beIN Sport Local 6 HD
+http://2.56.215.160:25461/live/sarhan1/123129/39.m3u8
+#EXTINF:-1,beIN Sport Local 7 HD
+http://2.56.215.160:25461/live/sarhan1/123129/40.m3u8
+#EXTINF:-1,beIN Sport Local 8 HD
+http://2.56.215.160:25461/live/sarhan1/123129/41.m3u8
+#EXTINF:-1,beIN Sport Local 9 HD
+http://2.56.215.160:25461/live/sarhan1/123129/42.m3u8
+#EXTINF:-1,beIN Sport Loacl 10 HD
+http://2.56.215.160:25461/live/sarhan1/123129/43.m3u8
+#EXTINF:-1 ,ES: BEIN SPORTS LALIGA
+http://ingrid.ltd:25461/live/frank1/frank/40021.m3u8
+#EXTINF:-1 ,ES: MOVISTAR  DEPORTES 1 FHD
+http://ingrid.ltd:25461/live/frank1/frank/39971.m3u8
+#EXTINF:-1 ,UK: BT SPORT 1
+http://ingrid.ltd:25461/live/frank1/frank/3399.m3u8
+#EXTINF:-1 ,UK: BT SPORT 2
+http://ingrid.ltd:25461/live/frank1/frank/3398.m3u8
+#EXTINF:-1 ,UK: BT SPORT 3
+http://ingrid.ltd:25461/live/frank1/frank/3397.m3u8
+#EXTINF:-1 ,UK: BT SPORT ESPN
+http://ingrid.ltd:25461/live/frank1/frank/3396.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS ACTION FHD
+http://ingrid.ltd:25461/live/frank1/frank/25176.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS ARENA FHD
+http://ingrid.ltd:25461/live/frank1/frank/25175.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS F1 HD
+http://ingrid.ltd:25461/live/frank1/frank/41545.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS MAIN EVENT FHD
+http://ingrid.ltd:25461/live/frank1/frank/25170.m3u8
+#EXTINF:-1 ,UK: SKY SPORTS MIX FHD
+http://ingrid.ltd:25461/live/frank1/frank/25169.m3u8
+#EXTINF:-1 ,US: TENNIS CHANNEL HD
+http://ingrid.ltd:25461/live/frank1/frank/13119.m3u8
+#EXTINF:-1 ,US: TENNIS CHANNEL PLUS
+http://ingrid.ltd:25461/live/frank1/frank/42106.m3u8
 
 #EXTINF:-1,EUROSPORT 1
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/871.m3u8
