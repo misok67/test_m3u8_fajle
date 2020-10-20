@@ -1,9 +1,34 @@
 #EXTM3U
 
-#EXTINF:0,BEIN SPORTS 9 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/134.m3u8
-#EXTINF:0,BEIN SPORTS 9 H265
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17727.m3u8
+#EXTINF:-1,UK: BT SPORTS 1 HD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38584.m3u8
+#EXTINF:-1,SPORT: BT SPORT 1 FHD
+http://portal.alliptv.tv:8080/live/2164190962/1174590290/8335.m3u8
+#EXTINF:-1,SPORT: BT SPORT 2 FHD
+http://portal.alliptv.tv:8080/live/2164190962/1174590290/8334.m3u8
+#EXTINF:-1,SPORT: BT SPORT 3 FHD
+http://portal.alliptv.tv:8080/live/2164190962/1174590290/8333.m3u8
+#EXTINF:-1,DE : DAZN 1 BAR HD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/7498.m3u8
+#EXTINF:-1,DE : DAZN 2 BAR HD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/7497.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/23737.m3u8
+#EXTINF:-1,BEIN SPORTS 11 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/18479.m3u8
+#EXTINF:-1,BEIN SPORTS 12 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/18478.m3u8
+#EXTINF:-1,FR:CSAT- RMC SPORT 1
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/50199.m3u8
+#EXTINF:-1,FR:CSAT- RMC SPORT 2
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/50167.m3u8
+#EXTINF:-1,FR:CSAT- RMC SPORT 3
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/50209.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31538.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31540.m3u8
+
 
 #EXTINF:-1,ARENA SPORT1 HR
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/893.m3u8
@@ -15,6 +40,33 @@ http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/896.m3u8
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/895.m3u8
 #EXTINF:-1,ARENA SPORT 5
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/894.m3u8
+
+#EXTINF:-1,BEIN SPORTS 4K
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/57810.m3u8
+#EXTINF:-1,BEIN SPORTS 1 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17735.m3u8
+#EXTINF:-1,BEIN SPORTS 2 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17734.m3u8
+#EXTINF:-1,BEIN SPORTS 3 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17733.m3u8
+#EXTINF:-1,BEIN SPORTS 4 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17732.m3u8
+#EXTINF:-1,BEIN SPORTS 5 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17731.m3u8
+#EXTINF:-1,BEIN SPORTS 6 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17730.m3u8
+#EXTINF:-1,BEIN SPORTS 7 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17729.m3u8
+#EXTINF:-1,BEIN SPORTS 8 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17728.m3u8
+#EXTINF:-1,BEIN SPORTS 9 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17727.m3u8
+#EXTINF:-1,BEIN SPORTS 10 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17726.m3u8
+#EXTINF:-1,BEIN SPORTS 11 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/18479.m3u8
+#EXTINF:-1,BEIN SPORTS 12 H265
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/18478.m3u8
 #EXTINF:-1,SPORT: BT SPORT 1 FHD
 http://portal.alliptv.tv:8080/live/2164190962/1174590290/8335.m3u8
 #EXTINF:-1,SPORT: BT SPORT 2 FHD
@@ -31,38 +83,7 @@ http://portal.alliptv.tv:8080/live/2164190962/1174590290/8325.m3u8
 http://portal.alliptv.tv:8080/live/2164190962/1174590290/8321.m3u8
 #EXTINF:-1,SPORT: SKY SPORTS PREMIER LEAGUE HD
 http://portal.alliptv.tv:8080/live/2164190962/1174590290/8320.m3u8
-#EXTINF:-1,BEIN SPORTS NBA
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/143.m3u8
-#EXTINF:-1,BEIN SPORTS FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8273.m3u8
-#EXTINF:-1,BEIN SPORTS GLOBAL HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/125.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/126.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/127.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/128.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/129.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/130.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/131.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/132.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/133.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/134.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/135.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/7177.m3u8
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/7178.m3u8
-#EXTINF:-1,BEIN SPORTS 13 HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/7179.m3u8
+
 
 
 #EXTM3U
@@ -74,28 +95,16 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/7497.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/23737.m3u8
 #EXTINF:-1,DE: SKY SPORT 2 HD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/35451.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38170.m3u8
 #EXTINF:-1,NL: FOX SPORTS 3 FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38171.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38172.m3u8
 #EXTINF:-1,NL: FOX SPORTS 4 FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38173.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38174.m3u8
 #EXTINF:-1,NL: FOX SPORTS 5 FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38175.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38176.m3u8
 #EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31538.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31539.m3u8
 #EXTINF:-1,NL: ZIGGO SPORT VOETBAL FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31540.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31541.m3u8
 #EXTINF:-1,FR:CSAT- BEIN SPORTS 1
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/50149.m3u8
 #EXTINF:-1,FR:CSAT- RMC SPORT 2
@@ -138,6 +147,8 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31760.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31761.m3u8
 #EXTINF:-1,HR: ARENA SPORT 6 FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31764.m3u8
+
+
 
 #EXTINF:-1,EUROSPORT 1
 http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/871.m3u8
