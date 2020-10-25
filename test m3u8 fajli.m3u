@@ -2,12 +2,8 @@
 
 #EXTINF:-1,UK: BT SPORTS 1 HD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38584.m3u8
-#EXTINF:-1,SPORT: BT SPORT 1 FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8335.m3u8
-#EXTINF:-1,SPORT: BT SPORT 2 FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8334.m3u8
-#EXTINF:-1,SPORT: BT SPORT 3 FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8333.m3u8
+#EXTINF:-1,UK: BT SPORTS 1 HD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38584.m3u8
 #EXTINF:-1,DE : DAZN 1 BAR HD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/7498.m3u8
 #EXTINF:-1,DE : DAZN 2 BAR HD
