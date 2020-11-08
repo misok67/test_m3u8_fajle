@@ -24,18 +24,25 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/50209.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31538.m3u8
 #EXTINF:-1,NL: ZIGGO SPORT VOETBAL FHD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31540.m3u8
+#EXTINF:-1,RS-LOCAL: ARENA SPORT 1 SR
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52143.m3u8
+#EXTINF:-1,RS-LOCAL: ARENA SPORT 2 SR
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52144.m3u8
+#EXTINF:-1,RS-LOCAL: ARENA SPORT 3 SR
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52145.m3u8
+#EXTINF:-1,RS-LOCAL: ARENA SPORT 4 SR
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52146.m3u8
+#EXTINF:-1,RS-LOCAL: ARENA SPORT 5 SR
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52147.m3u8
+#EXTINF:-1,HR: ARENA SPORT 1 FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31759.m3u8
+#EXTINF:-1,HR: ARENA SPORT 2 FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31760.m3u8
+#EXTINF:-1,HR: ARENA SPORT 3 FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31761.m3u8
+#EXTINF:-1,HR: ARENA SPORT 6 FHD
+http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31764.m3u8
 
-
-#EXTINF:-1,ARENA SPORT1 HR
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/893.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/897.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/896.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/895.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/894.m3u8
 
 #EXTINF:-1,BEIN SPORTS 4K
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/57810.m3u8
@@ -63,26 +70,6 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/17726.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/18479.m3u8
 #EXTINF:-1,BEIN SPORTS 12 H265
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/18478.m3u8
-#EXTINF:-1,SPORT: BT SPORT 1 FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8335.m3u8
-#EXTINF:-1,SPORT: BT SPORT 2 FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8334.m3u8
-#EXTINF:-1,SPORT: BT SPORT 3 FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8333.m3u8
-#EXTINF:-1,SPORT: SKY SPORTS F1 FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8327.m3u8
-#EXTINF:-1,SPORT: SKY SPORTS FOOTBALL FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8326.m3u8
-#EXTINF:-1,SPORT: SKY SPORTS MAIN EVENT FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8325.m3u8
-#EXTINF:-1,SPORT: SKY SPORTS PREMIER LEAGUE FHD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8321.m3u8
-#EXTINF:-1,SPORT: SKY SPORTS PREMIER LEAGUE HD
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/8320.m3u8
-
-
-
-#EXTM3U
 #EXTINF:-1,DE : DAZN 1 BAR HD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/7498.m3u8
 #EXTINF:-1,DE : DAZN 2 BAR HD
@@ -125,24 +112,7 @@ http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38583.m3u8
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38584.m3u8
 #EXTINF:-1,UK: BT SPORTS 2 HD
 http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/38585.m3u8
-#EXTINF:-1,RS-LOCAL: ARENA SPORT 1 SR
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52143.m3u8
-#EXTINF:-1,RS-LOCAL: ARENA SPORT 2 SR
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52144.m3u8
-#EXTINF:-1,RS-LOCAL: ARENA SPORT 3 SR
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52145.m3u8
-#EXTINF:-1,RS-LOCAL: ARENA SPORT 4 SR
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52146.m3u8
-#EXTINF:-1,RS-LOCAL: ARENA SPORT 5 SR
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/52147.m3u8
-#EXTINF:-1,HR: ARENA SPORT 1 FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31759.m3u8
-#EXTINF:-1,HR: ARENA SPORT 2 FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31760.m3u8
-#EXTINF:-1,HR: ARENA SPORT 3 FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31761.m3u8
-#EXTINF:-1,HR: ARENA SPORT 6 FHD
-http://mahs.work:80/live/a3seJKK9EB/kUiRZfGfhk/31764.m3u8
+
 
 
 
