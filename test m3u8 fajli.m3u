@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1,EX-YU: RTS 1
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3507.m3u8
+#EXTINF:-1,HU: Sport 1 HD
+http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4258.m3u8
+
 #EXTINF:-1,BEIN SPORT 1.720P
 http://xtream.pro:8080/live/blackpearl-sat/fKA3dn44CN/1341.m3u8
 #EXTINF:-1,BEIN SPORT 2.720P
