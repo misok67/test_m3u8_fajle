@@ -1,9 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1,EX-YU: RTS 1
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3507.m3u8
-#EXTINF:-1,HU: Sport 1 HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4258.m3u8
+#EXTINF:-1,RO | DIGI SPORT 2
+http://p4.giffy.be:8080/live/dmYmg23Q/U47GJ32Nxz/63565.m3u8
+#EXTINF:-1,RO | DIGI SPORT 2 HD
+http://p4.giffy.be:8080/live/dmYmg23Q/U47GJ32Nxz/63566.m3u8
+
+#EXTINF:-1,FR:BEINSPORT_1HD
+http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/79681.m3u8
+#EXTINF:-1,FR:BEINSPORT_2HD
+http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/79682.m3u8
+#EXTINF:-1,FR:BEINSPORT-3HD
+http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/79683.m3u8
+#EXTINF:-1,DIGISPORT 2
+http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/2486.m3u8
 
 #EXTINF:-1,BEIN SPORT 1.720P
 http://xtream.pro:8080/live/blackpearl-sat/fKA3dn44CN/1341.m3u8
@@ -25,100 +34,6 @@ http://xtream.pro:8080/live/blackpearl-sat/fKA3dn44CN/1399.m3u8
 http://xtream.pro:8080/live/blackpearl-sat/fKA3dn44CN/3114.m3u8
 #EXTINF:-1,BEIN SPORT 10.720P
 http://xtream.pro:8080/live/blackpearl-sat/fKA3dn44CN/3113.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/904.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/903.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/902.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 1 HR
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/916.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47848.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 2 HR
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/914.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47847.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 3 HR
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/912.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47846.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 4 HR
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/910.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47845.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 5 HR
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/908.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47844.m3u8
-#EXTINF:-1,BeIN_Sport_11_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/11.m3u8
-#EXTINF:-1,BeIN_Sport_12_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49701.m3u8
-#EXTINF:-1,BeIN_Sport_13_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49702.m3u8
-#EXTINF:-1,FR_BeIN_SPORTS_1_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3682.m3u8
-#EXTINF:-1,FR_BeIN_SPORTS_2_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47302.m3u8
-#EXTINF:-1,FR_BeIN_SPORTS_3_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3680.m3u8
-#EXTINF:-1,FR_RMC_Sport_03_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46712.m3u8
-#EXTINF:-1,FR_RMC_Sport_01_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3720.m3u8
-#EXTINF:-1,FR_RMC_Sport_02_FullHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2103.m3u8
-#EXTINF:-1,FR_RMC_Sport_03_FullHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2279.m3u8
-#EXTINF:-1,DE: DAZN Bar 1
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50878.m3u8
-#EXTINF:-1,DE: DAZN Bar 2
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50879.m3u
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/210.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/211.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46565.m3u8
-#EXTINF:-1,UK_BT_Sport_1_FullHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3600.m3u8
-#EXTINF:-1,UK_BT_Sport_2_FullHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3601.m3u8
-#EXTINF:-1,UK_BT_Sport_3_FullHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3602.m3u8
-#EXTINF:-1,UK_BT_Sport_ESPN_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/255.m3u8
-#EXTINF:-1,UK_SKY_SPORTS_MAIN_EVENT_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/788.m3u8
-#EXTINF:-1,UK_Sky_Sports_Main_Event_FullHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4699.m3u8
-#EXTINF:-1,UK_Sky_Sports_Premier_League_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/784.m3u8
-#EXTINF:-1,UK_Sky_Sports_Premier_League_FullHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4701.m3u8
-#EXTINF:-1,NL: FOX Sports 3 FHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1172.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 FHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1173.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 FHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1174.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 FHD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1175.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1799.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1800.m3u8
-#EXTINF:-1,EX-YU: SPORT TV 1 HD SLO
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47840.m3u8
-#EXTINF:-1,EX-YU: SPORT TV 2 HD SLO
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47839.m3u8
-#EXTINF:-1,EX-YU: SPORT TV 3 HD SLO
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47838.m3u8
-#EXTINF:-1,ES: M. Liga De Campeones
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50955.m3u8
-#EXTINF:-1,ES: M. Liga De Campeones 2
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50956.m3u8
 
 #EXTINF:-1,beIN SPORTS HD
 http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/2674.m3u8
@@ -138,23 +53,3 @@ http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/4.m3u8
 http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/3.m3u8
 #EXTINF:-1,beIN SPORTS 16 FR HD
 http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/2.m3u8
-#EXTINF:-1,BeIN_Sport_01_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1.m3u8
-#EXTINF:-1,BeIN_Sport_02_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2.m3u8
-#EXTINF:-1,BeIN_Sport_03_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3.m3u8
-#EXTINF:-1,BeIN_Sport_04_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4.m3u8
-#EXTINF:-1,BeIN_Sport_05_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/5.m3u8
-#EXTINF:-1,BeIN_Sport_06_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/6.m3u8
-#EXTINF:-1,BeIN_Sport_07_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/7.m3u8
-#EXTINF:-1,BeIN_Sport_08_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/8.m3u8
-#EXTINF:-1,BeIN_Sport_09_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/9.m3u8
-#EXTINF:-1,BeIN_Sport_10_HD
-http://sibfungold.com:8080/live/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/10.m3u8
