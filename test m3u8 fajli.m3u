@@ -4,13 +4,16 @@
 http://p4.giffy.be:8080/live/dmYmg23Q/U47GJ32Nxz/63565.m3u8
 #EXTINF:-1,RO | DIGI SPORT 2 HD
 http://p4.giffy.be:8080/live/dmYmg23Q/U47GJ32Nxz/63566.m3u8
-
+#EXTINF:-1,Ro- Digi Sport 2 HD
+http://linux-app.tv:8080/bdsjbdsbi/nexEiBPElL/33424
+#EXTINF:-1,NO-TV3
+http://linux-app.tv:8080/bdsjbdsbi/nexEiBPElL/68080
+#EXTINF:-1,Hu- Sport 1 FHD
+http://linux-app.tv:8080/bdsjbdsbi/nexEiBPElL/62881
+#EXTINF:-1,Hu- Sport 1 HD
+http://linux-app.tv:8080/bdsjbdsbi/nexEiBPElL/62882
 #EXTINF:-1,FR:BEINSPORT_1HD
 http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/79681.m3u8
-#EXTINF:-1,FR:BEINSPORT_2HD
-http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/79682.m3u8
-#EXTINF:-1,FR:BEINSPORT-3HD
-http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/79683.m3u8
 #EXTINF:-1,DIGISPORT 2
 http://cobraa.in:8000/live/x5000779/5f4a42ae89a7f/2486.m3u8
 
