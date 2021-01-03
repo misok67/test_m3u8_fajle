@@ -1,89 +1,12 @@
 #EXTM3U
-#EXTINF:-1,SP: SPORT KLUB 1 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1591.m3u8
-#EXTINF:-1,SP: SPORT KLUB 2 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1592.m3u8
-#EXTINF:-1,SP: SPORT KLUB 3 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1593.m3u8
-#EXTINF:-1,SP: SPORT KLUB 1
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/39.m3u8
-#EXTINF:-1,SP: SPORT KLUB 2
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/40.m3u8
-#EXTINF:-1,SP: SPORT KLUB 3
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/41.m3u8
-#EXTINF:-1,SP: ARENA SPORT 1 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1111.m3u8
-#EXTINF:-1,SP: ARENA SPORT 2 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1112.m3u8
-#EXTINF:-1,SP: ARENA SPORT 3 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1113.m3u8
-#EXTINF:-1,SP: ARENA SPORT 4 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1114.m3u8
-#EXTINF:-1,SP: ARENA SPORT 5 HR
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1115.m3u8
-#EXTINF:-1,SP: RMC SPORT 1 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/516.m3u8
-#EXTINF:-1,SP: RMC SPORT 2 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/517.m3u8
-#EXTINF:-1,SP: RMC SPORT 3 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/518.m3u8
-#EXTINF:-1,SP: FOX SPORTS 3 NL
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/715.m3u8
-#EXTINF:-1,SP: FOX SPORTS 4 NL
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/716.m3u8
-#EXTINF:-1,SP: FOX SPORTS 5 NL
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/717.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 11 FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1066.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 12 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1067.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 13 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1068.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 14 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1070.m3u8
-#EXTINF:-1,SP: SKY SPORT 1 DE
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1078.m3u8
-#EXTINF:-1,SP: SKY SPORT 2 DE
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1079.m3u8
-#EXTINF:-1,SP: DAZN 1 DE
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1082.m3u8
-#EXTINF:-1,SP: BT SPORT 1 FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1651.m3u8
-#EXTINF:-1,SP: BT SPORT 2 FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1652.m3u8
-#EXTINF:-1,SP: BT SPORT 3 FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1653.m3u8
-#EXTINF:-1,SP: BT SPORT ESPN FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1654.m3u8
-#EXTINF:-1,SP: SKY SPORTS PREMIER LEAGUE FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1655.m3u8
-#EXTINF:-1,SP: SKY SPORTS MAIN EVENT FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1656.m3u8
-#EXTINF:-1,SP: SKY SPORTS FOOTBALL FHD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/1657.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/753.m3u8
-#EXTINF:-1,UK: BT SPORTS 1 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/766.m3u8
-#EXTINF:-1,UK: BT SPORTS 2 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/767.m3u8
-#EXTINF:-1,UK: BT SPORTS 3 HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/768.m3u8
-#EXTINF:-1,UK: BT SPORTS ESPN HD
-http://smartiptv.dyndns.info:25461/live/greek.iptv/skype984/769.m3u8
+
 
 #EXTINF:-1, L2...SPORT KLUB 1
 http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2604.ts.m3u8
-#EXTINF:-1, L2...SPORT KLUB 1 HD
-http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2630.ts.m3u8
-#EXTINF:-1, L2...SPORT KLUB 2 HD
-http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2631.ts.m3u8
 #EXTINF:-1, L2...SPORT KLUB 2
 http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2632.ts.m3u8
 #EXTINF:-1, L2...SPORT KLUB 3
 http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2633.ts.m3u8
-#EXTINF:-1, L2...SPORT KLUB 3 HD
-http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/2603.ts.m3u8
 #EXTINF:-1, L2...ARENA SPORTS 1 HD CRO
 http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/15769.ts.m3u8
 #EXTINF:-1, L2...ARENA SPORTS 2 HD CRO
@@ -159,36 +82,3 @@ http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/681.ts.m3u8
 http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/975.ts.m3u8
 #EXTINF:-1, L2...SKY SPORTS MAIN EVENT HD
 http://1skytv.com:8889/live/live/xWzpQ8Y3BX/fsIFRfBhvG/976.ts.m3u8
-
-#EXTINF:-1, LS4.. BEIN SPORTS 1 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1436.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 2 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1437.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 3 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1438.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 4 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1439.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 5 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1440.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 6 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1441.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 7 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1442.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 8 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1443.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 9 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1444.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 10 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1445.m3u8
-#EXTINF:-1, LS4..BEIN SPORTS 11 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1446.m3u8
-#EXTINF:-1, LS4.. BEIN SPORTS 12 ENGLISH HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1447.m3u8
-#EXTINF:-1,BEIN SPORTS 13 HD
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1448.m3u8
-#EXTINF:-1,BEIN SPORTS 14 HD (MATCH DAYS ONLY)
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1449.m3u8
-#EXTINF:-1,BEIN SPORTS 15 HD (MATCH DAYS ONLY)
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1450.m3u8
-#EXTINF:-1,US: BEIN SPORTS USA
-http://s1.mainevents.icu:8000/live/48212021AM4884820/47212021AM4784720/1457.m3u8
