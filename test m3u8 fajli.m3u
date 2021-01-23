@@ -1,100 +1,218 @@
 #EXTM3U
+#EXTINF:-1,(HR) ARENA SPORT 1 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/404.m3u8
+#EXTINF:-1,(HR) ARENA SPORT 2 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/218.m3u8
+#EXTINF:-1,(HR) ARENA SPORT 3 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/405.m3u8
+#EXTINF:-1,(HR) ARENA SPORT 4 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/406.m3u8
+#EXTINF:-1,(HR) ARENA SPORT 5 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/787.m3u8
+#EXTINF:-1,(RS) ARENA SPORT 1 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/534.m3u8
+#EXTINF:-1,(RS) ARENA SPORT 2 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/535.m3u8
+#EXTINF:-1,(RS) ARENA SPORT 3 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/536.m3u8
+#EXTINF:-1,(RS) ARENA SPORT 4 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/537.m3u8
+#EXTINF:-1,(RS) ARENA SPORT 5
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/401.m3u8
+#EXTINF:-1,(DE) DAZN 1 BAR 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/37069.m3u8
+#EXTINF:-1,(DE) DAZN 2 BAR 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/37070.m3u8
+#EXTINF:-1,(UK) BT SPORT 1 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11484.m3u8
+#EXTINF:-1,(UK) BT SPORT 2 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11485.m3u8
+#EXTINF:-1,(UK) BT SPORT ESPN 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/316.m3u8
+#EXTINF:-1,(UK) BT SPORT 3 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11486.m3u8
+#EXTINF:-1,(DE) SKY SPORT 1 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/28546.m3u8
+#EXTINF:-1,(DE) SKY SPORT 2 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/15943.m3u8
+#EXTINF:-1,(DE) SKY SPORT 1 HD+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/182.m3u8
+#EXTINF:-1,(DE) SKY SPORT 2 HD+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/183.m3u8
+#EXTINF:-1,(DE) SKY SPORT BUNDESLIGA 1 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/15944.m3u8
+#EXTINF:-1,(UK) SKY SPORTS ACTION 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/11400.m3u8
+#EXTINF:-1,(UK) SKY SPORTS MAIN EVENT 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/7641.m3u8
+#EXTINF:-1,(UK) SKY SPORTS PREMIER LEAGUE 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/213.m3u8
+#EXTINF:-1,(NL) ZIGGO SPORT SELECT 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/9683.m3u8
+#EXTINF:-1,(NL) ZIGGO SPORT SELECT HD+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/2343.m3u8
+#EXTINF:-1,(NL) ZIGGO SPORT VOETBAL 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/9681.m3u8
+#EXTINF:-1,(NL) ZIGGO SPORT VOETBAL HD+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/23.m3u8
+#EXTINF:-1,(IT) SUPERTENNIS HD+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/4299.m3u8
+#EXTINF:-1,(ES) MOVISTAR DEPORTES 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/560.m3u8
+#EXTINF:-1,(ES) TELEDEPORTE
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/13155.m3u8
+#EXTINF:-1,(ES) MOVISTAR LIGA DE CAMPEONES 4K+
+http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/16512.m3u8
 
-#EXTINF:-1,EX-YU : SPORT KLUB 1 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1718.m3u8
-#EXTINF:-1,EX-YU : SPORT KLUB 2 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1719.m3u8
-#EXTINF:-1,EX-YU : SPORT KLUB 3 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1720.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1132.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1133.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1134.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR FULL HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/863.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 SRB HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/864.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HR FULL HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/865.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 SRB HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/866.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HR FULL HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/867.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/868.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HR FULL HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/869.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/870.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HR FULL HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/871.m3u8
-#EXTINF:-1,DE: DAZN BAR 1 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/20257.m3u8
-#EXTINF:-1,DE: DAZN BAR 2 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/20256.m3u8
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/7400.m3u8
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/7401.m3u8
-#EXTINF:-1,UK: BT SPORT 3 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/7402.m3u8
+#EXTINF:-1, L2...DE | DAZN 1 BAR HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/40868.m3u8
+#EXTINF:-1, L2...DE | DAZN 2 BAR HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/37228.m3u8
+#EXTINF:-1, L2...|UK| BT SPORTS 1 FHD 50FPS
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66132.m3u8
+#EXTINF:-1, L2...|UK| BT SPORTS 2 FHD 50FPS
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66133.m3u8
+#EXTINF:-1, L2...|UK| BT SPORTS 3 FHD 50FPS
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66134.m3u8
+#EXTINF:-1, L2...|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66104.m3u8
+#EXTINF:-1, L2...|UK| SKY SPORTS ACTION FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66109.m3u8
+#EXTINF:-1, L2...|UK| SKY SPORTS MAIN EVENT FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89439.m3u8
+#EXTINF:-1, L2...DE | SKY SPORT 1 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23705.m3u8
+#EXTINF:-1, L2...DE | SKY SPORT 1
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89645.m3u8
+#EXTINF:-1, L2...DE | SKY SPORT 2HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23704.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 3 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42494.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 4 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42495.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 5  HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42496.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 6 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42497.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 4 |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87358.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 5 |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87359.m3u8
+#EXTINF:-1, L2...NL | FOX SPORTS 6 |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87360.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT SELECT HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42469.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT SELECT |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87353.m3u8
+#EXTINF:-1, L2...|NL| ZIGGO SPORT VOETBAL
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42470.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT VOETBAL 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/42545.m3u8
+#EXTINF:-1, L2...NL | ZIGGO SPORT VOETBAL |HEVC| 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/87354.m3u8
+#EXTINF:-1, L2...FR | BEIN SPORTS 1 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14160.m3u8
+#EXTINF:-1, L2...FR | BEIN SPORTS 2 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14153.m3u8
+#EXTINF:-1, L2...FR | BEIN SPORTS 3 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/14152.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 1 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13611.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 2 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13610.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 3 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13609.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 4 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13608.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 5 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13607.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 6 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13606.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 7 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13605.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 8 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13604.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 9 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13603.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 10 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13602.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 11 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24977.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 13 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21202.m3u8
+#EXTINF:-1, L2...AR | BEIN SPORTS 12 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/39881.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS  1 
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78375.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78376.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 3
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78377.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 4
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78378.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 5
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78379.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 6
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89342.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 7
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78381.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 8
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78382.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 9
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78383.m3u8
+#EXTINF:-1, L2...4K | BEIN SPORTS 10
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78384.m3u8
+#EXTINF:-1, L2...IT | SUPER TENNIS HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23574.m3u8
+#EXTINF:-1, L2...|USA| TENNIS CHANNEL HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24095.m3u8
+#EXTINF:-1, L2...ES | M LIGA DE CAMPEONES
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/45416.m3u8
+#EXTINF:-1, L2...ES | LIGA DE CAMPEONES HEVC
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/85643.m3u8
+
+#EXTINF:-1,DE: DAZN 1 HD (LOCAL)
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/94.m3u8
+#EXTINF:-1,DE: DAZN 2 HD (LOCAL)
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/95.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/119.m3u8
 #EXTINF:-1,DE: SKY SPORT 1 FHD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30197.m3u8
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/118.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/121.m3u8
 #EXTINF:-1,DE: SKY SPORT 2 FHD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/30205.m3u8
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/10722.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/10720.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/10719.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11675.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11674.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11673.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11672.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/8967.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11291.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/8966.m3u8
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/120.m3u8
+#EXTINF:-1,FOX SPORTS 1 HD | US
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/8927.m3u8
 #EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1476.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1477.m3u8
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/8777.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 FHD
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/8778.m3u8
 #EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1208.m3u8
-#EXTINF:-1,USA: BEIN SPORTS LA LIGA | HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/39378.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 1 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11359.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 2 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11357.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 3 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11358.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 4 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/885.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 5 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/886.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 6 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/887.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 7 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/888.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 8 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/889.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 9 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1729.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 10 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1730.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 11 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11312.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 12 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/9536.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 13 HD
-http://client.ksporttv.com:88/live/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/11521.m3u8
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/8779.m3u8
+#EXTINF:-1,TENNIS CHANNEL HD | US
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/8932.m3u8
+#EXTINF:-1,FOX DEPORTES HD | US
+http://my-vip24.live:8080/live/TGLlstCZFu/4bezsctmlE/8973.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS FHD 1
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10676.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 2
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10677.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 4
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10679.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 5
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10680.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 6
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10681.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 8
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10683.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 9
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10684.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 10
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10685.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 11
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10686.m3u8
+#EXTINF:-1 ,BEIN SPORTS FHD 12
+http://iiiptv.live:8080/live/ODrHCu5i0i/qDrh1T7QLz/10687.m3u8
