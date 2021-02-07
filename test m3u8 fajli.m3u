@@ -1,4 +1,77 @@
 #EXTM3U
+#EXTINF:-1,DE: DAZN BAR 1 1080P
+http://drmbx.net:1962/live/aylin2019/2019aylin/44304.m3u8
+#EXTINF:-1,DE: DAZN BAR 2 1080P
+http://drmbx.net:1962/live/aylin2019/2019aylin/44305.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 (DATA)
+http://drmbx.net:1962/live/aylin2019/2019aylin/44290.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://drmbx.net:1962/live/aylin2019/2019aylin/44361.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/14103.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/14102.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/14101.m3u8
+#EXTINF:-1,ARENA SPORT 1 FHD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9732.m3u8
+#EXTINF:-1,ARENA SPORT 2 FHD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9731.m3u8
+#EXTINF:-1,ARENA SPORT 3 FHD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9730.m3u8
+#EXTINF:-1,ARENA SPORT 4 FHD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9729.m3u8
+#EXTINF:-1,ARENA SPORT 5 FHD HR
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9728.m3u8
+#EXTINF:-1,DAZN 01 FHD UK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/62642.m3u8
+#EXTINF:-1,DAZN 02 FHD UK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/62643.m3u8
+#EXTINF:-1,DAZN BAR 1 FHD DE
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/26506.m3u8
+#EXTINF:-1,DAZN BAR 2 FHD DE
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/26505.m3u8
+#EXTINF:-1,BT SPORTS 1 FHD UK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9850.m3u8
+#EXTINF:-1,BT SPORTS 2 FHD UK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9848.m3u8
+#EXTINF:-1,BT SPORTS 3 FHD UK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9846.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD UK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9807.m3u8
+#EXTINF:-1,SKY SPORTS ACTION FHD UK
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/37071.m3u8
+#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD DE
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/11715.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12092.m3u8
+#EXTINF:-1,FOX SPORTS 3 FHD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8407.m3u8
+#EXTINF:-1,FOX SPORTS 4 HD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8406.m3u8
+#EXTINF:-1,FOX SPORTS 4 FHD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12091.m3u8
+#EXTINF:-1,FOX SPORTS 5 HD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12090.m3u8
+#EXTINF:-1,FOX SPORTS 5 FHD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8405.m3u8
+#EXTINF:-1,FOX SPORTS 6 FHD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8404.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT HD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/37331.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT FHD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12053.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/37330.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL FHD NL
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12052.m3u8
+#EXTINF:-1,LIGA CAMPEONES FHD ES
+http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/48766.m3u8
+
+
+
+
+
 
 #EXTINF:-1,VIP SPORT KLUB 1
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28351.m3u8
