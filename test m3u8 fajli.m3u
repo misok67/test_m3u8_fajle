@@ -1,441 +1,357 @@
 #EXTM3U
-#EXTINF:-1,DE: DAZN BAR 1 1080P
-http://drmbx.net:1962/live/aylin2019/2019aylin/44304.m3u8
-#EXTINF:-1,DE: DAZN BAR 2 1080P
-http://drmbx.net:1962/live/aylin2019/2019aylin/44305.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 (DATA)
-http://drmbx.net:1962/live/aylin2019/2019aylin/44290.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://drmbx.net:1962/live/aylin2019/2019aylin/44361.m3u8
-#EXTINF:-1,SPORT KLUB 1 HD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/14103.m3u8
-#EXTINF:-1,SPORT KLUB 2 HD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/14102.m3u8
-#EXTINF:-1,SPORT KLUB 3 HD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/14101.m3u8
-#EXTINF:-1,ARENA SPORT 1 FHD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9732.m3u8
-#EXTINF:-1,ARENA SPORT 2 FHD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9731.m3u8
-#EXTINF:-1,ARENA SPORT 3 FHD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9730.m3u8
-#EXTINF:-1,ARENA SPORT 4 FHD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9729.m3u8
-#EXTINF:-1,ARENA SPORT 5 FHD HR
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9728.m3u8
-#EXTINF:-1,DAZN 01 FHD UK
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/62642.m3u8
-#EXTINF:-1,DAZN 02 FHD UK
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/62643.m3u8
-#EXTINF:-1,DAZN BAR 1 FHD DE
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/26506.m3u8
-#EXTINF:-1,DAZN BAR 2 FHD DE
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/26505.m3u8
-#EXTINF:-1,BT SPORTS 1 FHD UK
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9850.m3u8
-#EXTINF:-1,BT SPORTS 2 FHD UK
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9848.m3u8
-#EXTINF:-1,BT SPORTS 3 FHD UK
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9846.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD UK
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9807.m3u8
-#EXTINF:-1,SKY SPORTS ACTION FHD UK
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/37071.m3u8
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD DE
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/11715.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12092.m3u8
-#EXTINF:-1,FOX SPORTS 3 FHD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8407.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8406.m3u8
-#EXTINF:-1,FOX SPORTS 4 FHD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12091.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12090.m3u8
-#EXTINF:-1,FOX SPORTS 5 FHD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8405.m3u8
-#EXTINF:-1,FOX SPORTS 6 FHD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8404.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/37331.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT FHD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12053.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/37330.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL FHD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/12052.m3u8
-#EXTINF:-1,LIGA CAMPEONES FHD ES
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/48766.m3u8
 
-#EXTINF:-1, L3...EX-YU: SPORT KLUB 1 HD HR
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35994.m3u8
-#EXTINF:-1, L3...EX-YU: SPORT KLUB 2 HD HR
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35995.m3u8
-#EXTINF:-1, L3...EX-YU: SPORT KLUB 3 HD HR
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/35996.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 1 HD RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36078.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 1 (BACKUP) RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36079.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 2 HD RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36080.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 2 (BACKUP) RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36081.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 3 HD RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36082.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 3 (BACKUP) RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36083.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 4 HD RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36084.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 4 (BACKUP) RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36085.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 5 FHD RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36086.m3u8
-#EXTINF:-1, L3...EX-YU: ARENA SPORT 5 (BACKUP) RS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/36087.m3u8
-#EXTINF:-1, L3...SP: DE: DAZN BAR 1 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/33426.m3u8
-#EXTINF:-1, L3...SP: DE: DAZN BAR 2 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/33427.m3u8
-#EXTINF:-1, L3...SP: UK: BT SPORT 1 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32563.m3u8
-#EXTINF:-1, L3...SP: UK: BT SPORT 2 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32564.m3u8
-#EXTINF:-1, L3...SP: UK: BT SPORT 3 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32565.m3u8
-#EXTINF:-1, L3...SP: UK: SKY SPORTS PREMIER LEAGUE HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32552.m3u8
-#EXTINF:-1, L3...SP: UK: SKY SPORTS MAIN EVENT
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32554.m3u8
-#EXTINF:-1, L3...SP: UK: SKY SPORTS ACTION
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32557.m3u8
-#EXTINF:-1, L3...SP: NL: FOX SPORTS 4
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/37410.m3u8
-#EXTINF:-1, L3...SP: NL: FOX SPORTS 5
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/37411.m3u8
-#EXTINF:-1, L3...SP: NL: FOX SPORTS 3
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/37421.m3u8
-#EXTINF:-1, L3...SP: NL: FOX SPORTS 6
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/37424.m3u8
-#EXTINF:-1, L3...SP: NL: ZIGGO SPORT SELECT
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/37414.m3u8
-#EXTINF:-1, L3...SP: FR: RMC SPORT 1 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/61117.m3u8
-#EXTINF:-1, L3...SP: FR: RMC SPORT 2 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/61120.m3u8
-#EXTINF:-1, L3...SP: NL: ZIGGO SPORT VOETBAL
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/65832.m3u8
-#EXTINF:-1, L3...SP: USA: BEIN SPORTS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/1927.m3u8
-#EXTINF:-1, L3...SP: FR: BEIN SPORTS 1 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/61094.m3u8
-#EXTINF:-1, L3...SP: FR: BEIN SPORTS 2 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/61097.m3u8
-#EXTINF:-1, L3...SP: FR: BEIN SPORTS 3 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/61100.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 1 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30105.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 2 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30106.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 3 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30107.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 4 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30108.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 5 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30109.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 6 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30110.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 7 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30111.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 8 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30112.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 9 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30113.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 10 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30114.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 11 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30115.m3u8
-#EXTINF:-1, L3...SP: ARAB: BEIN SPORTS 12 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30116.m3u8
-#EXTINF:-1, L3...SP: USA: TENNIS CHANNEL
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/41379.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 HR
+http://starshare.live:8080/live/0987654321/1234567890/1144.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 HR
+http://starshare.live:8080/live/0987654321/1234567890/1145.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 3 HR
+http://starshare.live:8080/live/0987654321/1234567890/1146.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 SR
+http://starshare.live:8080/live/0987654321/1234567890/1150.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 SR
+http://starshare.live:8080/live/0987654321/1234567890/1151.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/3611.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/3612.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/3613.m3u8
+#EXTINF:-1, L2...EX YU: ARENA SPORT 1 HR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1082.m3u8
+#EXTINF:-1, L2...EX YU: ARENA SPORT 2 HR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1083.m3u8
+#EXTINF:-1, L2...EX YU: ARENA SPORT 3 HR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1084.m3u8
+#EXTINF:-1, L2...EX YU: ARENA SPORT 4 HR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1085.m3u8
+#EXTINF:-1, L2...EX YU: ARENA SPORT 5 HR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1086.m3u8
+#EXTINF:-1, L2...EX YU:  ARENA SPORT 1 SR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1087.m3u8
+#EXTINF:-1, L2...EX YU:  ARENA SPORT 2 SR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1088.m3u8
+#EXTINF:-1, L2...EX YU:  ARENA SPORT 3 SR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1089.m3u8
+#EXTINF:-1, L2...EX YU:  ARENA SPORT 4 SR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1090.m3u8
+#EXTINF:-1, L2...EX YU:  ARENA SPORT 5 SR FHD
+http://starshare.live:8080/live/0987654321/1234567890/1091.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 1 HR
+http://starshare.live:8080/live/0987654321/1234567890/3593.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 2 HR
+http://starshare.live:8080/live/0987654321/1234567890/3594.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 3 HR
+http://starshare.live:8080/live/0987654321/1234567890/3595.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 4 HR
+http://starshare.live:8080/live/0987654321/1234567890/3596.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 5 HR
+http://starshare.live:8080/live/0987654321/1234567890/3597.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 6 HR
+http://starshare.live:8080/live/0987654321/1234567890/3598.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 1 SRB
+http://starshare.live:8080/live/0987654321/1234567890/3599.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 2 SRB
+http://starshare.live:8080/live/0987654321/1234567890/3600.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 3 SRB
+http://starshare.live:8080/live/0987654321/1234567890/3601.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 4 SRB
+http://starshare.live:8080/live/0987654321/1234567890/3602.m3u8
+#EXTINF:-1, L2...DE: DAZN SPORT 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/563.m3u8
+#EXTINF:-1, L2...DE: DAZN SPORT 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/564.m3u8
+#EXTINF:-1, L2...DE: DAZN EVENT 1 FHD
+http://starshare.live:8080/live/0987654321/1234567890/10732.m3u8
+#EXTINF:-1, L2...DE: DAZN BAR 1 FHD
+http://starshare.live:8080/live/0987654321/1234567890/10733.m3u8
+#EXTINF:-1, L2...DE: DAZN BAR 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/10734.m3u8
+#EXTINF:-1, L2...DE: DAZN BAR 2 FHD
+http://starshare.live:8080/live/0987654321/1234567890/10735.m3u8
+#EXTINF:-1, L2...DE: DAZN BAR 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/10736.m3u8
+#EXTINF:-1, L2...UK: BT SPORT 3
+http://starshare.live:8080/live/0987654321/1234567890/283.m3u8
+#EXTINF:-1, L2...UK: BT SPORT 2
+http://starshare.live:8080/live/0987654321/1234567890/285.m3u8
+#EXTINF:-1, L2...UK: BT SPORT 1
+http://starshare.live:8080/live/0987654321/1234567890/286.m3u8
+#EXTINF:-1, L2...UK: SKY SPORTS MAIN EVENT
+http://starshare.live:8080/live/0987654321/1234567890/18.m3u8
+#EXTINF:-1, L2...DE: SKY SPORT 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/576.m3u8
+#EXTINF:-1, L2...DE: SKY SPORT 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/577.m3u8
+#EXTINF:-1, L2...SKY SPORT BUNDES LIGA 1
+http://starshare.live:8080/live/0987654321/1234567890/927.m3u8
+#EXTINF:-1, L2...NL : FOX SPORTS 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/505.m3u8
+#EXTINF:-1, L2...NL : FOX SPORTS 4 HD
+http://starshare.live:8080/live/0987654321/1234567890/506.m3u8
+#EXTINF:-1, L2...NL : FOX SPORTS 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/507.m3u8
+#EXTINF:-1, L2...NL : FOX SPORTS 6 HD
+http://starshare.live:8080/live/0987654321/1234567890/508.m3u8
+#EXTINF:-1, L2...|FR| RMC SPORT 1 FHD
+http://starshare.live:8080/live/0987654321/1234567890/2956.m3u8
+#EXTINF:-1, L2...|FR| RMC SPORT 2 FHD
+http://starshare.live:8080/live/0987654321/1234567890/2957.m3u8
+#EXTINF:-1, L2...|FR| RMC SPORT 3 FHD
+http://starshare.live:8080/live/0987654321/1234567890/2958.m3u8
+#EXTINF:-1, L2...FR : BEIN SPORT 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/356.m3u8
+#EXTINF:-1, L2...FR : BEIN SPORT 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/357.m3u8
+#EXTINF:-1, L2...FR : BEIN SPORT 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/358.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/359.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/360.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/361.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 4 HD
+http://starshare.live:8080/live/0987654321/1234567890/362.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/363.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 6 HD
+http://starshare.live:8080/live/0987654321/1234567890/364.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 7 HD
+http://starshare.live:8080/live/0987654321/1234567890/365.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 8 HD
+http://starshare.live:8080/live/0987654321/1234567890/366.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 9 HD
+http://starshare.live:8080/live/0987654321/1234567890/367.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 10 HD
+http://starshare.live:8080/live/0987654321/1234567890/368.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 11 HD (ENG)
+http://starshare.live:8080/live/0987654321/1234567890/369.m3u8
+#EXTINF:-1, L2...AR : BEIN SPORT 12 HD (ENG)
+http://starshare.live:8080/live/0987654321/1234567890/370.m3u8
+#EXTINF:-1, L2...|FR| BEIN SPORTS 1
+http://starshare.live:8080/live/0987654321/1234567890/3032.m3u8
+#EXTINF:-1, L2...|FR| BEIN SPORTS 2
+http://starshare.live:8080/live/0987654321/1234567890/3033.m3u8
+#EXTINF:-1, L2...|FR| BEIN SPORTS 3
+http://starshare.live:8080/live/0987654321/1234567890/3034.m3u8
+#EXTINF:-1, L2...USA: BEIN SPORTS LA LIGA
+http://starshare.live:8080/live/0987654321/1234567890/6625.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 1 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/20916.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 2 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/20917.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 3 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/20919.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 4 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/20920.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 5 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23405.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 6 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23406.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 7 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23407.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 8 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23408.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 9 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23409.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 10 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23410.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 11 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23411.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 12 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23412.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 13 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23413.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 14 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23414.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 15 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23415.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 16 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23416.m3u8
+#EXTINF:-1, L2...USA: TENNIS CHANNEL
+http://starshare.live:8080/live/0987654321/1234567890/712.m3u8
+#EXTINF:-1, L2...IT: SKY SUPERTENNIS HD
+http://starshare.live:8080/live/0987654321/1234567890/1242.m3u8
+#EXTINF:-1, L2...ES | M.LIGA CAMPEONES FHD
+http://starshare.live:8080/live/0987654321/1234567890/3296.m3u8
 
 
-
-
-
-
-#EXTINF:-1,VIP SPORT KLUB 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28351.m3u8
-#EXTINF:-1,VIP SPORT KLUB 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28352.m3u8
-#EXTINF:-1,VIP SPORT KLUB 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28353.m3u8
-#EXTINF:-1,EX_YU: SPORT KLUB 1 HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34498.m3u8
-#EXTINF:-1,EX_YU: SPORT KLUB 2 HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34499.m3u8
-#EXTINF:-1,EX_YU: SPORT KLUB 3 HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34500.m3u8
-#EXTINF:-1,VIP ARENA SPORT 1 SRB FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28333.m3u8
-#EXTINF:-1,VIP ARENA SPORT 2 SRB FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28334.m3u8
-#EXTINF:-1,VIP ARENA SPORT 3 SRB FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28335.m3u8
-#EXTINF:-1,VIP ARENA SPORT 4 SRB FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28336.m3u8
-#EXTINF:-1,VIP ARENA SPORT 5 SRB FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28337.m3u8
-#EXTINF:-1,VIP ARENA SPORT 1 HD HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28343.m3u8
-#EXTINF:-1,VIP ARENA SPORT 2 HD HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28344.m3u8
-#EXTINF:-1,VIP ARENA SPORT 3 HD HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28345.m3u8
-#EXTINF:-1,VIP ARENA SPORT 4 HD HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28346.m3u8
-#EXTINF:-1,VIP ARENA SPORT 5 HD HR
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28347.m3u8
-#EXTINF:-1,VIP BT SPORT 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28395.m3u8
-#EXTINF:-1,VIP BT SPORT 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28396.m3u8
-#EXTINF:-1,VIP BT SPORT 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28397.m3u8
-#EXTINF:-1,VIP BT SPORT ESPN
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28398.m3u8
-#EXTINF:-1,BT SPORT 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/69.m3u8
-#EXTINF:-1,BT SPORT 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/27040.m3u8
-#EXTINF:-1,BT SPORT 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/27041.m3u8
-#EXTINF:-1,VIP SKY SPORTS MAIN EVENTS
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28388.m3u8
-#EXTINF:-1,VIP SKY SPORT ARENA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28389.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28390.m3u8
-#EXTINF:-1,VIP SKY SPORT 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28401.m3u8
-#EXTINF:-1,VIP SKY SPORT 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28402.m3u8
-#EXTINF:-1,VIP SKY SPORT BUNDESLIGA 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28403.m3u8
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/27090.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/27097.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/158439.m3u8
-#EXTINF:-1,DE | SKY SPORT 1 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/1354.m3u8
-#EXTINF:-1,DE | SKY SPORT 2 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/1356.m3u8
+#EXTINF:-1,HR: SPORT KLUB 1 HD
+http://attacktv.ddns.net:2052/live/12345/54321/61214.m3u8
+#EXTINF:-1,HR: SPORT KLUB 2 HD
+http://attacktv.ddns.net:2052/live/12345/54321/61213.m3u8
+#EXTINF:-1,HR: SPORT KLUB 3 HD
+http://attacktv.ddns.net:2052/live/12345/54321/61212.m3u8
+#EXTINF:-1,RS: SPORT KLUB 1 HD
+http://attacktv.ddns.net:2052/live/12345/54321/55866.m3u8
+#EXTINF:-1,RS SPORT KLUB 1 HD
+http://attacktv.ddns.net:2052/live/12345/54321/55865.m3u8
+#EXTINF:-1,RS: SPORT KLUB 2 HD
+http://attacktv.ddns.net:2052/live/12345/54321/55864.m3u8
+#EXTINF:-1,RS SPORT KLUB 2 HD
+http://attacktv.ddns.net:2052/live/12345/54321/55863.m3u8
+#EXTINF:-1,RS: SPORT KLUB 3 HD
+http://attacktv.ddns.net:2052/live/12345/54321/55862.m3u8
+#EXTINF:-1,RS: ARENA SPORT 1 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56076.m3u8
+#EXTINF:-1,RS ARENA SPORT 1 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56075.m3u8
+#EXTINF:-1,RS: ARENA SPORT 2 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56074.m3u8
+#EXTINF:-1,RS ARENA SPORT 2 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56073.m3u8
+#EXTINF:-1,RS: ARENA SPORT 3 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56072.m3u8
+#EXTINF:-1,RS ARENA SPORT 3 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56071.m3u8
+#EXTINF:-1,RS: ARENA SPORT 4 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56070.m3u8
+#EXTINF:-1,RS: ARENA SPORT 5 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/56069.m3u8
+#EXTINF:-1,DE_ DAZN 2 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/69763.m3u8
+#EXTINF:-1,DE_ DAZN 1 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/69762.m3u8
+#EXTINF:-1,DE_ SKY SPORT 1 HD
+http://attacktv.ddns.net:2052/live/12345/54321/61632.m3u8
+#EXTINF:-1,DE_ SKY SPORT 2 HD
+http://attacktv.ddns.net:2052/live/12345/54321/61631.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/44145.m3u8
 #EXTINF:-1,NL: FOX SPORTS 3 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/4672.m3u8
+http://attacktv.ddns.net:2052/live/12345/54321/44150.m3u8
 #EXTINF:-1,NL: FOX SPORTS 4 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/4673.m3u8
+http://attacktv.ddns.net:2052/live/12345/54321/44151.m3u8
 #EXTINF:-1,NL: FOX SPORTS 5 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/4675.m3u8
+http://attacktv.ddns.net:2052/live/12345/54321/44152.m3u8
 #EXTINF:-1,NL: FOX SPORTS 6 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/4678.m3u8
-#EXTINF:-1,VIP ZIGGO SPORT SELECT
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28412.m3u8
-#EXTINF:-1,NL HEVC: ZIGGO SPORT SELECT
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/4698.m3u8
-#EXTINF:-1,VIP RMC SPORT 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28429.m3u8
-#EXTINF:-1,VIP RMC SPORT 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28430.m3u8
-#EXTINF:-1,VIP RMC SPORT 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28431.m3u8
-#EXTINF:-1,VIP ZIGGO SPORT VOETBAL
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28414.m3u8
-#EXTINF:-1,NL HEVC: ZIGGO SPORT VOETBAL
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/4699.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28415.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28416.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28417.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 4
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28418.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 5
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28419.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 6
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28420.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 7
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28421.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 8
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28422.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 9
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28423.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 10
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28424.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 11
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28425.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 12
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28426.m3u8
-#EXTINF:-1,VIP BEIN SPORTS 13
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28427.m3u8
-#EXTINF:-1,VIP BEIN SPORTS USA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28428.m3u8
-#EXTINF:-1,BEIN SPORTS LA LIGA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14251.m3u8
-#EXTINF:-1,BEIN SPORTS USA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14238.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3700.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3701.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3702.m3u8
-#EXTINF:-1,VIP TENNIS CHANNEL
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28383.m3u8
-#EXTINF:-1,VIP SUPER TENNIS IT
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28442.m3u8
-#EXTINF:-1,SUPER TENNIS
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/53762.m3u8
+http://attacktv.ddns.net:2052/live/12345/54321/44153.m3u8
+#EXTINF:-1,FR: RMC SPORT 01 HD
+http://attacktv.ddns.net:2052/live/12345/54321/49671.m3u8
+#EXTINF:-1,FR: RMC SPORT 02 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/49803.m3u8
+#EXTINF:-1,FR: RMC SPORT 01 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/49830.m3u8
+#EXTINF:-1,FR: RMC SPORT 03 HD
+http://attacktv.ddns.net:2052/live/12345/54321/49831.m3u8
+#EXTINF:-1,FR: RMC SPORT 03 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/49832.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 1
+http://attacktv.ddns.net:2052/live/12345/54321/38577.m3u8
+#EXTINF:-1,BEIN SPORTS HD1
+http://attacktv.ddns.net:2052/live/12345/54321/10673.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 2
+http://attacktv.ddns.net:2052/live/12345/54321/38578.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 3
+http://attacktv.ddns.net:2052/live/12345/54321/38579.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 4
+http://attacktv.ddns.net:2052/live/12345/54321/38580.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 5
+http://attacktv.ddns.net:2052/live/12345/54321/38581.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 6
+http://attacktv.ddns.net:2052/live/12345/54321/38582.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 7
+http://attacktv.ddns.net:2052/live/12345/54321/38583.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 8
+http://attacktv.ddns.net:2052/live/12345/54321/38584.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 9
+http://attacktv.ddns.net:2052/live/12345/54321/38585.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 10
+http://attacktv.ddns.net:2052/live/12345/54321/38586.m3u8
+#EXTINF:-1,BEIN SPORTS 4K 11
+http://attacktv.ddns.net:2052/live/12345/54321/38587.m3u8
+#EXTINF:-1,BEIN SPORT 4K 12
+http://attacktv.ddns.net:2052/live/12345/54321/38588.m3u8
+#EXTINF:-1,BEIN SPORT 4K 13
+http://attacktv.ddns.net:2052/live/12345/54321/66696.m3u8
+#EXTINF:-1,BEIN SPORT 4K 14
+http://attacktv.ddns.net:2052/live/12345/54321/66697.m3u8
+#EXTINF:-1,BEIN SPORT 4K 15
+http://attacktv.ddns.net:2052/live/12345/54321/66698.m3u8
+#EXTINF:-1,BEIN SPORT 4K 16
+http://attacktv.ddns.net:2052/live/12345/54321/66699.m3u8
+#EXTINF:-1,USA: BEIN SPORTS HD
+http://attacktv.ddns.net:2052/live/12345/54321/55001.m3u8
+#EXTINF:-1,ZA: SUPERSPORT TENNIS FHD
+http://attacktv.ddns.net:2052/live/12345/54321/69533.m3u8
+#EXTINF:-1,USA: TENNIS HD
+http://attacktv.ddns.net:2052/live/12345/54321/54865.m3u8
 
-#EXTINF:-1, L2...VIP SPORT KLUB 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28351.m3u8
-#EXTINF:-1, L2...VIP SPORT KLUB 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28352.m3u8
-#EXTINF:-1, L2...VIP SPORT KLUB 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28353.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 1 HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34498.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 2 HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34499.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 3 HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/34500.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 1 SRB FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28333.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 2 SRB FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28334.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 3 SRB FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28335.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 4 SRB FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28336.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 5 SRB FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28337.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 1 HD HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28343.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 2 HD HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28344.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 3 HD HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28345.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 4 HD HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28346.m3u8
-#EXTINF:-1, L2...VIP ARENA SPORT 5 HD HR
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28347.m3u8
-#EXTINF:-1, L2...VIP BT SPORT 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28395.m3u8
-#EXTINF:-1, L2...VIP BT SPORT 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28396.m3u8
-#EXTINF:-1, L2...VIP BT SPORT 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28397.m3u8
-#EXTINF:-1, L2...BT SPORT 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/69.m3u8
-#EXTINF:-1, L2...BT SPORT 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/27040.m3u8
-#EXTINF:-1, L2...BT SPORT 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/27041.m3u8
-#EXTINF:-1, L2...VIP SKY SPORTS MAIN EVENTS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28388.m3u8
-#EXTINF:-1, L2...VIP SKY SPORT ARENA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28389.m3u8
-#EXTINF:-1, L2...SKY SPORTS PREMIER LEAGUE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28390.m3u8
-#EXTINF:-1, L2...VIP SKY SPORT 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28401.m3u8
-#EXTINF:-1, L2...VIP SKY SPORT 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28402.m3u8
-#EXTINF:-1, L2...VIP SKY SPORT BUNDESLIGA 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28403.m3u8
-#EXTINF:-1, L2...SKY SPORTS ARENA HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/27090.m3u8
-#EXTINF:-1, L2...SKY SPORTS FOOTBALL
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/27095.m3u8
-#EXTINF:-1, L2...SKY SPORTS MAIN EVENT
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/27097.m3u8
-#EXTINF:-1, L2...SKY SPORTS PREMIER LEAGUE
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/158439.m3u8
-#EXTINF:-1, L2...SKY SPORT ARENA (BACKUP)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/53740.m3u8
-#EXTINF:-1, L2...SKY SPORT ARENA HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/53741.m3u8
-#EXTINF:-1, L2...DE | SKY SPORT 1 HD (BACKUP)
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/1353.m3u8
-#EXTINF:-1, L2...DE | SKY SPORT 1 FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/1354.m3u8
-#EXTINF:-1, L2...DE | SKY SPORT 2 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/1355.m3u8
-#EXTINF:-1, L2...DE | SKY SPORT 2 FHD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/1356.m3u8
-#EXTINF:-1, L2...DE | SKY SPORT BUNDESLIGA 1 SD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/298220.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 3 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/4672.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 4 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/4673.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 5 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/4675.m3u8
-#EXTINF:-1, L2...NL: FOX SPORTS 6 HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/4678.m3u8
-#EXTINF:-1, L2...VIP RMC SPORT 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28429.m3u8
-#EXTINF:-1, L2...VIP RMC SPORT 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28430.m3u8
-#EXTINF:-1, L2...VIP RMC SPORT 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28431.m3u8
-#EXTINF:-1, L2...AU: BEIN SPORTS 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/284423.m3u8
-#EXTINF:-1, L2...AU: BEIN SPORTS 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/284424.m3u8
-#EXTINF:-1, L2...AU: BEIN SPORTS 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/284425.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 1
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28415.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28416.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 3
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28417.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 4
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28418.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 5
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28419.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 6
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28420.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 7
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28421.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 8
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28422.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 9
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28423.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 10
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28424.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 11
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28425.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 12
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28426.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS 13
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28427.m3u8
-#EXTINF:-1, L2...VIP BEIN SPORTS USA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28428.m3u8
-#EXTINF:-1, L2...VIP TENNIS CHANNEL
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28383.m3u8
-#EXTINF:-1, L2...VIP SUPER TENNIS IT
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/28442.m3u8
-#EXTINF:-1, L2...USA: TENNIS HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30095.m3u8
-#EXTINF:-1, L2...VIP US: TENNIS CHANNEL
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/32801.m3u8
-#EXTINF:-1, L2...SUPER TENNIS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/53762.m3u8
-#EXTINF:-1, L2...THAI: TENNIS | HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/286511.m3u8
+#EXTINF:-1, L1...SPORTS : SPORT KLUB 1
+http://mags.vip:2086/live/miriam/miriam123/99459.m3u8
+#EXTINF:-1, L1...SPORTS : SPORT KLUB 2
+http://mags.vip:2086/live/miriam/miriam123/99460.m3u8
+#EXTINF:-1, L1...SPORTS : SPORT KLUB 3
+http://mags.vip:2086/live/miriam/miriam123/99461.m3u8
+#EXTINF:-1, L1...DE : DAZN 1
+http://mags.vip:2086/live/miriam/miriam123/92343.m3u8
+#EXTINF:-1, L1...DE : DAZN 2
+http://mags.vip:2086/live/miriam/miriam123/92344.m3u8
+#EXTINF:-1, L1...GB : BT SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/67062.m3u8
+#EXTINF:-1, L1...GB : BT SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/67063.m3u8
+#EXTINF:-1, L1...GB : BT SPORTS 3
+http://mags.vip:2086/live/miriam/miriam123/67075.m3u8
+#EXTINF:-1, L1...DE : SKY SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92331.m3u8
+#EXTINF:-1, L1...DE : SKY SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92332.m3u8
+#EXTINF:-1, L1...GB : SKY SPORTS ARENA
+http://mags.vip:2086/live/miriam/miriam123/85931.m3u8
+#EXTINF:-1, L1...GB : SKY SPORTS MAIN EVENT
+http://mags.vip:2086/live/miriam/miriam123/67058.m3u8
+#EXTINF:-1, L1...GB : SKY SPORTS PREMIER LEAGUE
+http://mags.vip:2086/live/miriam/miriam123/67060.m3u8
+#EXTINF:-1, L1...DUTCH: FOX SPORTS 4 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92908.m3u8
+#EXTINF:-1, L1...DUTCH: FOX SPORTS 5 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92909.m3u8
+#EXTINF:-1, L1...DUTCH: FOX SPORTS 6 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92910.m3u8
+#EXTINF:-1, L1...FR : RMC SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92216.m3u8
+#EXTINF:-1, L1...FR : RMC SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92217.m3u8
+#EXTINF:-1, L1...FR : RMC SPORT 3
+http://mags.vip:2086/live/miriam/miriam123/92218.m3u8
+#EXTINF:-1, L1...DUTCH: ZIGGO SPORT VOETBAL
+http://mags.vip:2086/live/miriam/miriam123/92901.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 1 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66772.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 10 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66781.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 11 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66782.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 12 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66783.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 13 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66784.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 2 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66773.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 3 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66774.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 4 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66775.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 5 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66776.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 6 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66777.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 7 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66778.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 8 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66779.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 9 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66780.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS LA LIGA
+http://mags.vip:2086/live/miriam/miriam123/66786.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS USA
+http://mags.vip:2086/live/miriam/miriam123/66771.m3u8
+#EXTINF:-1, L1...US : TENNIS CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/55998.m3u8
+#EXTINF:-1, L1...US : TENNIS CHANNEL FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/90642.m3u8
+#EXTINF:-1, L1...US-720 : TENNIS CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/95465.m3u8
+#EXTINF:-1, L1...ES : ESPN DEPORTES
+http://mags.vip:2086/live/miriam/miriam123/88723.m3u8
