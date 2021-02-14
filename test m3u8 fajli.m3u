@@ -1,195 +1,105 @@
 #EXTM3U
-#EXTINF:-1,DE: EUROSPORT 1 FHD
-http://starshare.live:8080/live/0987654321/1234567890/6788.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 FHD
-http://starshare.live:8080/live/0987654321/1234567890/6791.m3u8
+#EXTINF:-1,GB : EUROSPORT ONE
+http://mags.vip:2086/live/miriam/miriam123/99200.m3u8
+#EXTINF:-1,GB : EUROSPORT TWO
+http://mags.vip:2086/live/miriam/miriam123/99201.m3u8
 #EXTINF:-1,GB : EUROSPORT 1
 http://mags.vip:2086/live/miriam/miriam123/72659.m3u8
 #EXTINF:-1,GB : EUROSPORT 2
 http://mags.vip:2086/live/miriam/miriam123/72660.m3u8
-#EXTINF:-1, L2...DE_ EUROSPORT 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/54374.m3u8
-#EXTINF:-1, L2...DE_ EUROSPORT 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/54373.m3u8
-#EXTINF:-1, L2...FR: EUROSPORT 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/49669.m3u8
-#EXTINF:-1, L2...FR: EUROSPORT 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/49670.m3u8
+#EXTINF:-1,DE : EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92355.m3u8
+#EXTINF:-1,DE : EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92356.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 8 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66779.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 9 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66780.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 10 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66781.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 11 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66782.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 12 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66783.m3u8
 
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 HR
-http://starshare.live:8080/live/0987654321/1234567890/1144.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 HR
-http://starshare.live:8080/live/0987654321/1234567890/1145.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 3 HR
-http://starshare.live:8080/live/0987654321/1234567890/1146.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 SR
-http://starshare.live:8080/live/0987654321/1234567890/1150.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 SR
-http://starshare.live:8080/live/0987654321/1234567890/1151.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 HD
-http://starshare.live:8080/live/0987654321/1234567890/3611.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 HD
-http://starshare.live:8080/live/0987654321/1234567890/3612.m3u8
-#EXTINF:-1, L2...EX-YU: SPORT KLUB 3 HD
-http://starshare.live:8080/live/0987654321/1234567890/3613.m3u8
-#EXTINF:-1, L2...EX YU: ARENA SPORT 1 HR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1082.m3u8
-#EXTINF:-1, L2...EX YU: ARENA SPORT 2 HR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1083.m3u8
-#EXTINF:-1, L2...EX YU: ARENA SPORT 3 HR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1084.m3u8
-#EXTINF:-1, L2...EX YU: ARENA SPORT 4 HR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1085.m3u8
-#EXTINF:-1, L2...EX YU: ARENA SPORT 5 HR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1086.m3u8
-#EXTINF:-1, L2...EX YU:  ARENA SPORT 1 SR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1087.m3u8
-#EXTINF:-1, L2...EX YU:  ARENA SPORT 2 SR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1088.m3u8
-#EXTINF:-1, L2...EX YU:  ARENA SPORT 3 SR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1089.m3u8
-#EXTINF:-1, L2...EX YU:  ARENA SPORT 4 SR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1090.m3u8
-#EXTINF:-1, L2...EX YU:  ARENA SPORT 5 SR FHD
-http://starshare.live:8080/live/0987654321/1234567890/1091.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 1 HR
-http://starshare.live:8080/live/0987654321/1234567890/3593.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 2 HR
-http://starshare.live:8080/live/0987654321/1234567890/3594.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 3 HR
-http://starshare.live:8080/live/0987654321/1234567890/3595.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 4 HR
-http://starshare.live:8080/live/0987654321/1234567890/3596.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 5 HR
-http://starshare.live:8080/live/0987654321/1234567890/3597.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 6 HR
-http://starshare.live:8080/live/0987654321/1234567890/3598.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 1 SRB
-http://starshare.live:8080/live/0987654321/1234567890/3599.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 2 SRB
-http://starshare.live:8080/live/0987654321/1234567890/3600.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 3 SRB
-http://starshare.live:8080/live/0987654321/1234567890/3601.m3u8
-#EXTINF:-1, L2...EX-YU: ARENA SPORT 4 SRB
-http://starshare.live:8080/live/0987654321/1234567890/3602.m3u8
-#EXTINF:-1, L2...DE: DAZN SPORT 1 HD
-http://starshare.live:8080/live/0987654321/1234567890/563.m3u8
-#EXTINF:-1, L2...DE: DAZN SPORT 2 HD
-http://starshare.live:8080/live/0987654321/1234567890/564.m3u8
-#EXTINF:-1, L2...DE: DAZN EVENT 1 FHD
-http://starshare.live:8080/live/0987654321/1234567890/10732.m3u8
-#EXTINF:-1, L2...DE: DAZN BAR 1 FHD
-http://starshare.live:8080/live/0987654321/1234567890/10733.m3u8
-#EXTINF:-1, L2...DE: DAZN BAR 1 HD
-http://starshare.live:8080/live/0987654321/1234567890/10734.m3u8
-#EXTINF:-1, L2...DE: DAZN BAR 2 FHD
-http://starshare.live:8080/live/0987654321/1234567890/10735.m3u8
-#EXTINF:-1, L2...DE: DAZN BAR 2 HD
-http://starshare.live:8080/live/0987654321/1234567890/10736.m3u8
-#EXTINF:-1, L2...UK: BT SPORT 3
-http://starshare.live:8080/live/0987654321/1234567890/283.m3u8
-#EXTINF:-1, L2...UK: BT SPORT 2
-http://starshare.live:8080/live/0987654321/1234567890/285.m3u8
-#EXTINF:-1, L2...UK: BT SPORT 1
-http://starshare.live:8080/live/0987654321/1234567890/286.m3u8
-#EXTINF:-1, L2...UK: SKY SPORTS MAIN EVENT
-http://starshare.live:8080/live/0987654321/1234567890/18.m3u8
-#EXTINF:-1, L2...DE: SKY SPORT 1 HD
-http://starshare.live:8080/live/0987654321/1234567890/576.m3u8
-#EXTINF:-1, L2...DE: SKY SPORT 2 HD
-http://starshare.live:8080/live/0987654321/1234567890/577.m3u8
-#EXTINF:-1, L2...SKY SPORT BUNDES LIGA 1
-http://starshare.live:8080/live/0987654321/1234567890/927.m3u8
-#EXTINF:-1, L2...NL : FOX SPORTS 3 HD
-http://starshare.live:8080/live/0987654321/1234567890/505.m3u8
-#EXTINF:-1, L2...NL : FOX SPORTS 4 HD
-http://starshare.live:8080/live/0987654321/1234567890/506.m3u8
-#EXTINF:-1, L2...NL : FOX SPORTS 5 HD
-http://starshare.live:8080/live/0987654321/1234567890/507.m3u8
-#EXTINF:-1, L2...NL : FOX SPORTS 6 HD
-http://starshare.live:8080/live/0987654321/1234567890/508.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT 1 FHD
-http://starshare.live:8080/live/0987654321/1234567890/2956.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT 2 FHD
-http://starshare.live:8080/live/0987654321/1234567890/2957.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT 3 FHD
-http://starshare.live:8080/live/0987654321/1234567890/2958.m3u8
-#EXTINF:-1, L2...FR : BEIN SPORT 1 HD
-http://starshare.live:8080/live/0987654321/1234567890/356.m3u8
-#EXTINF:-1, L2...FR : BEIN SPORT 2 HD
-http://starshare.live:8080/live/0987654321/1234567890/357.m3u8
-#EXTINF:-1, L2...FR : BEIN SPORT 3 HD
-http://starshare.live:8080/live/0987654321/1234567890/358.m3u8
-#EXTINF:-1, L2...AR: BEIN SPORTS 1 HD
-http://starshare.live:8080/live/0987654321/1234567890/359.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 2 HD
-http://starshare.live:8080/live/0987654321/1234567890/360.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 3 HD
-http://starshare.live:8080/live/0987654321/1234567890/361.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 4 HD
-http://starshare.live:8080/live/0987654321/1234567890/362.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 5 HD
-http://starshare.live:8080/live/0987654321/1234567890/363.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 6 HD
-http://starshare.live:8080/live/0987654321/1234567890/364.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 7 HD
-http://starshare.live:8080/live/0987654321/1234567890/365.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 8 HD
-http://starshare.live:8080/live/0987654321/1234567890/366.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 9 HD
-http://starshare.live:8080/live/0987654321/1234567890/367.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 10 HD
-http://starshare.live:8080/live/0987654321/1234567890/368.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 11 HD (ENG)
-http://starshare.live:8080/live/0987654321/1234567890/369.m3u8
-#EXTINF:-1, L2...AR : BEIN SPORT 12 HD (ENG)
-http://starshare.live:8080/live/0987654321/1234567890/370.m3u8
-#EXTINF:-1, L2...|FR| BEIN SPORTS 1
-http://starshare.live:8080/live/0987654321/1234567890/3032.m3u8
-#EXTINF:-1, L2...|FR| BEIN SPORTS 2
-http://starshare.live:8080/live/0987654321/1234567890/3033.m3u8
-#EXTINF:-1, L2...|FR| BEIN SPORTS 3
-http://starshare.live:8080/live/0987654321/1234567890/3034.m3u8
-#EXTINF:-1, L2...USA: BEIN SPORTS LA LIGA
-http://starshare.live:8080/live/0987654321/1234567890/6625.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 1 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/20916.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 2 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/20917.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 3 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/20919.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 4 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/20920.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 5 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23405.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 6 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23406.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 7 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23407.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 8 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23408.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 9 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23409.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 10 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23410.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 11 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23411.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 12 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23412.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 13 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23413.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 14 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23414.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 15 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23415.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 16 (4K)
-http://starshare.live:8080/live/0987654321/1234567890/23416.m3u8
-#EXTINF:-1, L2...USA: TENNIS CHANNEL
-http://starshare.live:8080/live/0987654321/1234567890/712.m3u8
-#EXTINF:-1, L2...IT: SKY SUPERTENNIS HD
-http://starshare.live:8080/live/0987654321/1234567890/1242.m3u8
-#EXTINF:-1, L2...ES | M.LIGA CAMPEONES FHD
-http://starshare.live:8080/live/0987654321/1234567890/3296.m3u8
+#EXTINF:-1, L1...SPORTS : SPORT KLUB 1
+http://mags.vip:2086/live/miriam/miriam123/99459.m3u8
+#EXTINF:-1, L1...SPORTS : SPORT KLUB 2
+http://mags.vip:2086/live/miriam/miriam123/99460.m3u8
+#EXTINF:-1, L1...SPORTS : SPORT KLUB 3
+http://mags.vip:2086/live/miriam/miriam123/99461.m3u8
+#EXTINF:-1, L1...DE : DAZN 1
+http://mags.vip:2086/live/miriam/miriam123/92343.m3u8
+#EXTINF:-1, L1...DE : DAZN 2
+http://mags.vip:2086/live/miriam/miriam123/92344.m3u8
+#EXTINF:-1, L1...GB : BT SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/67062.m3u8
+#EXTINF:-1, L1...GB : BT SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/67063.m3u8
+#EXTINF:-1, L1...GB : BT SPORTS 3
+http://mags.vip:2086/live/miriam/miriam123/67075.m3u8
+#EXTINF:-1, L1...DE : SKY SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92331.m3u8
+#EXTINF:-1, L1...DE : SKY SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92332.m3u8
+#EXTINF:-1, L1...GB : SKY SPORTS ARENA
+http://mags.vip:2086/live/miriam/miriam123/85931.m3u8
+#EXTINF:-1, L1...GB : SKY SPORTS MAIN EVENT
+http://mags.vip:2086/live/miriam/miriam123/67058.m3u8
+#EXTINF:-1, L1...GB : SKY SPORTS PREMIER LEAGUE
+http://mags.vip:2086/live/miriam/miriam123/67060.m3u8
+#EXTINF:-1, L1...DUTCH: FOX SPORTS 4 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92908.m3u8
+#EXTINF:-1, L1...DUTCH: FOX SPORTS 5 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92909.m3u8
+#EXTINF:-1, L1...DUTCH: FOX SPORTS 6 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92910.m3u8
+#EXTINF:-1, L1...FR : RMC SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92216.m3u8
+#EXTINF:-1, L1...FR : RMC SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92217.m3u8
+#EXTINF:-1, L1...FR : RMC SPORT 3
+http://mags.vip:2086/live/miriam/miriam123/92218.m3u8
+#EXTINF:-1, L1...DUTCH: ZIGGO SPORT VOETBAL
+http://mags.vip:2086/live/miriam/miriam123/92901.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 1 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66772.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 10 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66781.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 11 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66782.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 12 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66783.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 13 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66784.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 2 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66773.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 3 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66774.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 4 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66775.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 5 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66776.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 6 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66777.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 7 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66778.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 8 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66779.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS 9 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66780.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS LA LIGA
+http://mags.vip:2086/live/miriam/miriam123/66786.m3u8
+#EXTINF:-1, L1...SPORTS : BEIN SPORTS USA
+http://mags.vip:2086/live/miriam/miriam123/66771.m3u8
+#EXTINF:-1, L1...US : TENNIS CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/55998.m3u8
+#EXTINF:-1, L1...US : TENNIS CHANNEL FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/90642.m3u8
+#EXTINF:-1, L1...US-720 : TENNIS CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/95465.m3u8
+#EXTINF:-1, L1...ES : ESPN DEPORTES
+http://mags.vip:2086/live/miriam/miriam123/88723.m3u8
 
 
 #EXTINF:-1,HR: SPORT KLUB 1 HD
@@ -293,81 +203,3 @@ http://attacktv.ddns.net:2052/live/12345/54321/69533.m3u8
 #EXTINF:-1,USA: TENNIS HD
 http://attacktv.ddns.net:2052/live/12345/54321/54865.m3u8
 
-#EXTINF:-1, L1...SPORTS : SPORT KLUB 1
-http://mags.vip:2086/live/miriam/miriam123/99459.m3u8
-#EXTINF:-1, L1...SPORTS : SPORT KLUB 2
-http://mags.vip:2086/live/miriam/miriam123/99460.m3u8
-#EXTINF:-1, L1...SPORTS : SPORT KLUB 3
-http://mags.vip:2086/live/miriam/miriam123/99461.m3u8
-#EXTINF:-1, L1...DE : DAZN 1
-http://mags.vip:2086/live/miriam/miriam123/92343.m3u8
-#EXTINF:-1, L1...DE : DAZN 2
-http://mags.vip:2086/live/miriam/miriam123/92344.m3u8
-#EXTINF:-1, L1...GB : BT SPORTS 1
-http://mags.vip:2086/live/miriam/miriam123/67062.m3u8
-#EXTINF:-1, L1...GB : BT SPORTS 2
-http://mags.vip:2086/live/miriam/miriam123/67063.m3u8
-#EXTINF:-1, L1...GB : BT SPORTS 3
-http://mags.vip:2086/live/miriam/miriam123/67075.m3u8
-#EXTINF:-1, L1...DE : SKY SPORT 1
-http://mags.vip:2086/live/miriam/miriam123/92331.m3u8
-#EXTINF:-1, L1...DE : SKY SPORT 2
-http://mags.vip:2086/live/miriam/miriam123/92332.m3u8
-#EXTINF:-1, L1...GB : SKY SPORTS ARENA
-http://mags.vip:2086/live/miriam/miriam123/85931.m3u8
-#EXTINF:-1, L1...GB : SKY SPORTS MAIN EVENT
-http://mags.vip:2086/live/miriam/miriam123/67058.m3u8
-#EXTINF:-1, L1...GB : SKY SPORTS PREMIER LEAGUE
-http://mags.vip:2086/live/miriam/miriam123/67060.m3u8
-#EXTINF:-1, L1...DUTCH: FOX SPORTS 4 EREDIVISIE
-http://mags.vip:2086/live/miriam/miriam123/92908.m3u8
-#EXTINF:-1, L1...DUTCH: FOX SPORTS 5 EREDIVISIE
-http://mags.vip:2086/live/miriam/miriam123/92909.m3u8
-#EXTINF:-1, L1...DUTCH: FOX SPORTS 6 EREDIVISIE
-http://mags.vip:2086/live/miriam/miriam123/92910.m3u8
-#EXTINF:-1, L1...FR : RMC SPORT 1
-http://mags.vip:2086/live/miriam/miriam123/92216.m3u8
-#EXTINF:-1, L1...FR : RMC SPORT 2
-http://mags.vip:2086/live/miriam/miriam123/92217.m3u8
-#EXTINF:-1, L1...FR : RMC SPORT 3
-http://mags.vip:2086/live/miriam/miriam123/92218.m3u8
-#EXTINF:-1, L1...DUTCH: ZIGGO SPORT VOETBAL
-http://mags.vip:2086/live/miriam/miriam123/92901.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 1 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66772.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 10 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66781.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 11 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66782.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 12 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66783.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 13 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66784.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 2 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66773.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 3 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66774.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 4 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66775.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 5 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66776.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 6 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66777.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 7 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66778.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 8 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66779.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 9 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66780.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS LA LIGA
-http://mags.vip:2086/live/miriam/miriam123/66786.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS USA
-http://mags.vip:2086/live/miriam/miriam123/66771.m3u8
-#EXTINF:-1, L1...US : TENNIS CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/55998.m3u8
-#EXTINF:-1, L1...US : TENNIS CHANNEL FHD 1080
-http://mags.vip:2086/live/miriam/miriam123/90642.m3u8
-#EXTINF:-1, L1...US-720 : TENNIS CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/95465.m3u8
-#EXTINF:-1, L1...ES : ESPN DEPORTES
-http://mags.vip:2086/live/miriam/miriam123/88723.m3u8
