@@ -1,205 +1,354 @@
 #EXTM3U
-#EXTINF:-1,GB : EUROSPORT ONE
-http://mags.vip:2086/live/miriam/miriam123/99200.m3u8
-#EXTINF:-1,GB : EUROSPORT TWO
-http://mags.vip:2086/live/miriam/miriam123/99201.m3u8
-#EXTINF:-1,GB : EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/72659.m3u8
-#EXTINF:-1,GB : EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/72660.m3u8
-#EXTINF:-1,DE : EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/92355.m3u8
-#EXTINF:-1,DE : EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/92356.m3u8
-#EXTINF:-1,SPORTS : BEIN SPORTS 8 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66779.m3u8
-#EXTINF:-1,SPORTS : BEIN SPORTS 9 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66780.m3u8
-#EXTINF:-1,SPORTS : BEIN SPORTS 10 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66781.m3u8
-#EXTINF:-1,SPORTS : BEIN SPORTS 11 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66782.m3u8
-#EXTINF:-1,SPORTS : BEIN SPORTS 12 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66783.m3u8
 
-#EXTINF:-1, L1...SPORTS : SPORT KLUB 1
-http://mags.vip:2086/live/miriam/miriam123/99459.m3u8
-#EXTINF:-1, L1...SPORTS : SPORT KLUB 2
-http://mags.vip:2086/live/miriam/miriam123/99460.m3u8
-#EXTINF:-1, L1...SPORTS : SPORT KLUB 3
-http://mags.vip:2086/live/miriam/miriam123/99461.m3u8
-#EXTINF:-1, L1...DE : DAZN 1
-http://mags.vip:2086/live/miriam/miriam123/92343.m3u8
-#EXTINF:-1, L1...DE : DAZN 2
-http://mags.vip:2086/live/miriam/miriam123/92344.m3u8
-#EXTINF:-1, L1...GB : BT SPORTS 1
-http://mags.vip:2086/live/miriam/miriam123/67062.m3u8
-#EXTINF:-1, L1...GB : BT SPORTS 2
-http://mags.vip:2086/live/miriam/miriam123/67063.m3u8
-#EXTINF:-1, L1...GB : BT SPORTS 3
-http://mags.vip:2086/live/miriam/miriam123/67075.m3u8
-#EXTINF:-1, L1...DE : SKY SPORT 1
-http://mags.vip:2086/live/miriam/miriam123/92331.m3u8
-#EXTINF:-1, L1...DE : SKY SPORT 2
-http://mags.vip:2086/live/miriam/miriam123/92332.m3u8
-#EXTINF:-1, L1...GB : SKY SPORTS ARENA
-http://mags.vip:2086/live/miriam/miriam123/85931.m3u8
-#EXTINF:-1, L1...GB : SKY SPORTS MAIN EVENT
-http://mags.vip:2086/live/miriam/miriam123/67058.m3u8
-#EXTINF:-1, L1...GB : SKY SPORTS PREMIER LEAGUE
-http://mags.vip:2086/live/miriam/miriam123/67060.m3u8
-#EXTINF:-1, L1...DUTCH: FOX SPORTS 4 EREDIVISIE
-http://mags.vip:2086/live/miriam/miriam123/92908.m3u8
-#EXTINF:-1, L1...DUTCH: FOX SPORTS 5 EREDIVISIE
-http://mags.vip:2086/live/miriam/miriam123/92909.m3u8
-#EXTINF:-1, L1...DUTCH: FOX SPORTS 6 EREDIVISIE
-http://mags.vip:2086/live/miriam/miriam123/92910.m3u8
-#EXTINF:-1, L1...FR : RMC SPORT 1
-http://mags.vip:2086/live/miriam/miriam123/92216.m3u8
-#EXTINF:-1, L1...FR : RMC SPORT 2
-http://mags.vip:2086/live/miriam/miriam123/92217.m3u8
-#EXTINF:-1, L1...FR : RMC SPORT 3
-http://mags.vip:2086/live/miriam/miriam123/92218.m3u8
-#EXTINF:-1, L1...DUTCH: ZIGGO SPORT VOETBAL
-http://mags.vip:2086/live/miriam/miriam123/92901.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 1 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66772.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 10 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66781.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 11 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66782.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 12 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66783.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 13 (ENG)
-http://mags.vip:2086/live/miriam/miriam123/66784.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 2 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66773.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 3 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66774.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 4 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66775.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 5 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66776.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 6 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66777.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 7 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66778.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 8 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66779.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS 9 (ARABIC)
-http://mags.vip:2086/live/miriam/miriam123/66780.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS LA LIGA
-http://mags.vip:2086/live/miriam/miriam123/66786.m3u8
-#EXTINF:-1, L1...SPORTS : BEIN SPORTS USA
-http://mags.vip:2086/live/miriam/miriam123/66771.m3u8
-#EXTINF:-1, L1...US : TENNIS CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/55998.m3u8
-#EXTINF:-1, L1...US : TENNIS CHANNEL FHD 1080
-http://mags.vip:2086/live/miriam/miriam123/90642.m3u8
-#EXTINF:-1, L1...US-720 : TENNIS CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/95465.m3u8
-#EXTINF:-1, L1...ES : ESPN DEPORTES
-http://mags.vip:2086/live/miriam/miriam123/88723.m3u8
+#EXTINF:-1,UK:BT_Sport_1_FullHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3600.m3u8
+#EXTINF:-1,UK:BT_Sport_2_FullHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3601.m3u8
+#EXTINF:-1,UK:BT_Sport_3_FullHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/3602.m3u8
+#EXTINF:-1,UK_BT_Sport_1_HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/52241.m3u8
+#EXTINF:-1,UK_BT_Sport_2_HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/52240.m3u8
+#EXTINF:-1,UK_BT_Sport_3_HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/52239.m3u8
+#EXTINF:-1,BeIN_Sport_11_HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/11.m3u8
+#EXTINF:-1,BeIN_Sport_12_HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/49701.m3u8
+#EXTINF:-1,DE: DAZN BAR 1
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/50900.m3u8
+#EXTINF:-1,DE: DAZN BAR 2
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/50901.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/211.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/46587.m3u8
+#EXTINF:-1,FR_RMC_Sport_01_FullHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/2252.m3u8
+#EXTINF:-1,FR_RMC_Sport_02_FHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/2103.m3u8
+#EXTINF:-1,ES: M. LIGA DE CAMPEONES
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/51027.m3u8
+#EXTINF:-1,ES: M. LIGA DE CAMPEONES 2
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/51030.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1805.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/644.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1176.m3u8
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/52025.m3u8
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/52026.m3u8
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/52024.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/910.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47845.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/908.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47844.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/892.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/891.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/904.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/903.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/902.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/47834.m3u8
 
-
-#EXTINF:-1,HR: SPORT KLUB 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/61214.m3u8
-#EXTINF:-1,HR: SPORT KLUB 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/61213.m3u8
-#EXTINF:-1,HR: SPORT KLUB 3 HD
-http://attacktv.ddns.net:2052/live/12345/54321/61212.m3u8
-#EXTINF:-1,RS: SPORT KLUB 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/55866.m3u8
-#EXTINF:-1,RS SPORT KLUB 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/55865.m3u8
-#EXTINF:-1,RS: SPORT KLUB 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/55864.m3u8
-#EXTINF:-1,RS SPORT KLUB 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/55863.m3u8
-#EXTINF:-1,RS: SPORT KLUB 3 HD
-http://attacktv.ddns.net:2052/live/12345/54321/55862.m3u8
-#EXTINF:-1,RS: ARENA SPORT 1 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56076.m3u8
-#EXTINF:-1,RS ARENA SPORT 1 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56075.m3u8
-#EXTINF:-1,RS: ARENA SPORT 2 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56074.m3u8
-#EXTINF:-1,RS ARENA SPORT 2 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56073.m3u8
-#EXTINF:-1,RS: ARENA SPORT 3 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56072.m3u8
-#EXTINF:-1,RS ARENA SPORT 3 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56071.m3u8
-#EXTINF:-1,RS: ARENA SPORT 4 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56070.m3u8
-#EXTINF:-1,RS: ARENA SPORT 5 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/56069.m3u8
-#EXTINF:-1,DE_ DAZN 2 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/69763.m3u8
-#EXTINF:-1,DE_ DAZN 1 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/69762.m3u8
-#EXTINF:-1,DE_ SKY SPORT 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/61632.m3u8
-#EXTINF:-1,DE_ SKY SPORT 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/61631.m3u8
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/50992.m3u8
+#EXTINF:-1,USA: FOX SPORTS 2 HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/50990.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 FHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1175.m3u8
 #EXTINF:-1,NL: FOX SPORTS 4 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/44145.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://attacktv.ddns.net:2052/live/12345/54321/44150.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://attacktv.ddns.net:2052/live/12345/54321/44151.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://attacktv.ddns.net:2052/live/12345/54321/44152.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 HD
-http://attacktv.ddns.net:2052/live/12345/54321/44153.m3u8
-#EXTINF:-1,FR: RMC SPORT 01 HD
-http://attacktv.ddns.net:2052/live/12345/54321/49671.m3u8
-#EXTINF:-1,FR: RMC SPORT 02 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/49803.m3u8
-#EXTINF:-1,FR: RMC SPORT 01 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/49830.m3u8
-#EXTINF:-1,FR: RMC SPORT 03 HD
-http://attacktv.ddns.net:2052/live/12345/54321/49831.m3u8
-#EXTINF:-1,FR: RMC SPORT 03 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/49832.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 1
-http://attacktv.ddns.net:2052/live/12345/54321/38577.m3u8
-#EXTINF:-1,BEIN SPORTS HD1
-http://attacktv.ddns.net:2052/live/12345/54321/10673.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 2
-http://attacktv.ddns.net:2052/live/12345/54321/38578.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 3
-http://attacktv.ddns.net:2052/live/12345/54321/38579.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 4
-http://attacktv.ddns.net:2052/live/12345/54321/38580.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 5
-http://attacktv.ddns.net:2052/live/12345/54321/38581.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 6
-http://attacktv.ddns.net:2052/live/12345/54321/38582.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 7
-http://attacktv.ddns.net:2052/live/12345/54321/38583.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 8
-http://attacktv.ddns.net:2052/live/12345/54321/38584.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 9
-http://attacktv.ddns.net:2052/live/12345/54321/38585.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 10
-http://attacktv.ddns.net:2052/live/12345/54321/38586.m3u8
-#EXTINF:-1,BEIN SPORTS 4K 11
-http://attacktv.ddns.net:2052/live/12345/54321/38587.m3u8
-#EXTINF:-1,BEIN SPORT 4K 12
-http://attacktv.ddns.net:2052/live/12345/54321/38588.m3u8
-#EXTINF:-1,BEIN SPORT 4K 13
-http://attacktv.ddns.net:2052/live/12345/54321/66696.m3u8
-#EXTINF:-1,BEIN SPORT 4K 14
-http://attacktv.ddns.net:2052/live/12345/54321/66697.m3u8
-#EXTINF:-1,BEIN SPORT 4K 15
-http://attacktv.ddns.net:2052/live/12345/54321/66698.m3u8
-#EXTINF:-1,BEIN SPORT 4K 16
-http://attacktv.ddns.net:2052/live/12345/54321/66699.m3u8
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1799.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 FHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1800.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 FHD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1797.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1805.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/644.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/1176.m3u8
 #EXTINF:-1,USA: BEIN SPORTS HD
-http://attacktv.ddns.net:2052/live/12345/54321/55001.m3u8
-#EXTINF:-1,ZA: SUPERSPORT TENNIS FHD
-http://attacktv.ddns.net:2052/live/12345/54321/69533.m3u8
-#EXTINF:-1,USA: TENNIS HD
-http://attacktv.ddns.net:2052/live/12345/54321/54865.m3u8
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/52184.m3u8
 
+#EXTINF:-1, L1...EX_YU: SPORT KLUB 1 HR
+http://media-kings.xyz:8080/live/ali2020/2020ali/151164.m3u8
+#EXTINF:-1, L1...EX_YU: SPORT KLUB 2 HR
+http://media-kings.xyz:8080/live/ali2020/2020ali/151165.m3u8
+#EXTINF:-1, L1...EX_YU: SPORT KLUB 3 HR
+http://media-kings.xyz:8080/live/ali2020/2020ali/151166.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 1 HR
+http://media-kings.xyz:8080/live/ali2020/2020ali/151156.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 1 SRB
+http://media-kings.xyz:8080/live/ali2020/2020ali/151159.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 2 HR
+http://media-kings.xyz:8080/live/ali2020/2020ali/151157.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 2 SRB
+http://media-kings.xyz:8080/live/ali2020/2020ali/151160.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 3 SRB
+http://media-kings.xyz:8080/live/ali2020/2020ali/151161.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 4 SRB
+http://media-kings.xyz:8080/live/ali2020/2020ali/151162.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 5 HR
+http://media-kings.xyz:8080/live/ali2020/2020ali/151158.m3u8
+#EXTINF:-1, L1...EX_YU: ARENA SPORT 5 SRB
+http://media-kings.xyz:8080/live/ali2020/2020ali/151163.m3u8
+#EXTINF:-1, L1...|DE| DAZN 1 BAR HEVC
+http://media-kings.xyz:8080/live/ali2020/2020ali/146581.m3u8
+#EXTINF:-1, L1...|DE| DAZN 1 FHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/146373.m3u8
+#EXTINF:-1, L1...|DE| DAZN 2 BAR HEVC
+http://media-kings.xyz:8080/live/ali2020/2020ali/146582.m3u8
+#EXTINF:-1, L1...|DE| DAZN 2 FHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/146374.m3u8
+#EXTINF:-1, L1...BT SPORT 1 UHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/156464.m3u8
+#EXTINF:-1, L1...UK BT SPORT 1 FHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/137.m3u8
+#EXTINF:-1, L1...BT SPORT 2 UHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/43898.m3u8
+#EXTINF:-1, L1...UK BT SPORT 2 FHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/139.m3u8
+#EXTINF:-1, L1...UK BT SPORT 3 UHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/33845.m3u8
+#EXTINF:-1, L1...UK BT SPORT 3 FHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/22953.m3u8
+#EXTINF:-1, L1...|DE| SKY SPORT 1 FHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/146380.m3u8
+#EXTINF:-1, L1...|DE| SKY SPORT 1 HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/146436.m3u8
+#EXTINF:-1, L1...|DE| SKY SPORT 2 FHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/146381.m3u8
+#EXTINF:-1, L1...|NL| FOX SPORTS 3 H265
+http://media-kings.xyz:8080/live/ali2020/2020ali/173567.m3u8
+#EXTINF:-1, L1...|NL| FOX SPORTS 4 H265
+http://media-kings.xyz:8080/live/ali2020/2020ali/173568.m3u8
+#EXTINF:-1, L1...|NL| FOX SPORTS 5 H265
+http://media-kings.xyz:8080/live/ali2020/2020ali/173569.m3u8
+#EXTINF:-1, L1...|NL| FOX SPORTS 6 H265
+http://media-kings.xyz:8080/live/ali2020/2020ali/173570.m3u8
+#EXTINF:-1, L1...|NL| ZIGGO SPORT SELECT H265
+http://media-kings.xyz:8080/live/ali2020/2020ali/173563.m3u8
+#EXTINF:-1, L1...FR 4K+ | RMC SPORT 2 HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/147002.m3u8
+#EXTINF:-1, L1...FR | RMC SPORT 1 HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/147007.m3u8
+#EXTINF:-1, L1...FR4K+ | RMC SPORT 1 HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/147135.m3u8
+#EXTINF:-1, L1...FR4K+ | RMC SPORT 2 ACCESS HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/147136.m3u8
+#EXTINF:-1, L1...|NL| ZIGGO SPORT VOETBAL H265
+http://media-kings.xyz:8080/live/ali2020/2020ali/173564.m3u8
+#EXTINF:-1, L1...USA BEIN SPORTS USA UHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/39063.m3u8
+#EXTINF:-1, L1...FR | BEIN SPORT 1 HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/147003.m3u8
+#EXTINF:-1, L1...FR | BEIN SPORT 2 HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/147004.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 11 EN
+http://media-kings.xyz:8080/live/ali2020/2020ali/169851.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 12 EN
+http://media-kings.xyz:8080/live/ali2020/2020ali/169852.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 2
+http://media-kings.xyz:8080/live/ali2020/2020ali/169857.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 3
+http://media-kings.xyz:8080/live/ali2020/2020ali/169858.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 4
+http://media-kings.xyz:8080/live/ali2020/2020ali/169859.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 5
+http://media-kings.xyz:8080/live/ali2020/2020ali/169860.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 6
+http://media-kings.xyz:8080/live/ali2020/2020ali/169861.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 7
+http://media-kings.xyz:8080/live/ali2020/2020ali/169862.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 8
+http://media-kings.xyz:8080/live/ali2020/2020ali/169863.m3u8
+#EXTINF:-1, L1...AR- BEIN SPORTS FHD 9
+http://media-kings.xyz:8080/live/ali2020/2020ali/169864.m3u8
+#EXTINF:-1, L1... BEIN SPORTS 11 BACKUP
+http://media-kings.xyz:8080/live/ali2020/2020ali/154694.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 12 HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/54254.m3u8
+#EXTINF:-1, L1...USA TENNIS CHANNEL
+http://media-kings.xyz:8080/live/ali2020/2020ali/39206.m3u8
+#EXTINF:-1, L1...USA TENNIS CHANNEL UHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/39209.m3u8
+#EXTINF:-1, L1...USA TENNIS CHANNEL LHD
+http://media-kings.xyz:8080/live/ali2020/2020ali/39207.m3u8
+#EXTINF:-1, L1...USA TENNIS CHANNEL SD
+http://media-kings.xyz:8080/live/ali2020/2020ali/39208.m3u8
+#EXTINF:-1, L1...AFRICA - SUPERSPORT TENNIS
+http://media-kings.xyz:8080/live/ali2020/2020ali/149664.m3u8
+#EXTINF:-1, L1...SUPER SPORTS TENNIS HD
+http://media-kings.xyz:8080/live/ali2020/2020ali/100042.m3u8
+#EXTINF:-1, L1...SUPERSPORT TENNIS
+http://media-kings.xyz:8080/live/ali2020/2020ali/85827.m3u8
+
+
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3467.m3u8
+#EXTINF:-1, L2...EX-YU SPORT KLUB 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273491.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3468.m3u8
+#EXTINF:-1, L2...EX-YU SPORT KLUB 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273486.m3u8
+#EXTINF:-1, L2...EX-YU: SPORT KLUB 3 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3469.m3u8
+#EXTINF:-1, L2...EX-YU SPORT KLUB 3 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273497.m3u8
+#EXTINF:-1, L2...HR: SPORT KLUB 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4201.m3u8
+#EXTINF:-1, L2...HR: SPORT KLUB 2 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4202.m3u8
+#EXTINF:-1, L2...HR: SPORT KLUB 3 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/10964.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3461.m3u8
+#EXTINF:-1, L2...EX-YU ARENA SPORT 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273358.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3462.m3u8
+#EXTINF:-1, L2...EX-YU ARENA SPORT 2 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/37207.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 3 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/264526.m3u8
+#EXTINF:-1, L2...EX-YU ARENA SPORT 3 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273416.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 4 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3465.m3u8
+#EXTINF:-1, L2...EX-YU: ARENA SPORT 5 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3464.m3u8
+#EXTINF:-1, L2...HR: ARENA SPORT 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3601.m3u8
+#EXTINF:-1, L2...HR ARENA SPORT 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273359.m3u8
+#EXTINF:-1, L2...HR: ARENA SPORT 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3603.m3u8
+#EXTINF:-1, L2...HR ARENA SPORT 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273365.m3u8
+#EXTINF:-1, L2...HR: ARENA SPORT 3 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3605.m3u8
+#EXTINF:-1, L2...HR ARENA SPORT 3 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273414.m3u8
+#EXTINF:-1, L2...HR: ARENA SPORT 4 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3607.m3u8
+#EXTINF:-1, L2...HR: ARENA SPORT 5 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/3608.m3u8
+#EXTINF:-1, L2...DE: DAZN 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/48355.m3u8
+#EXTINF:-1, L2...DE DAZN 1 BAR FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/275024.m3u8
+#EXTINF:-1, L2...DE: DAZN 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2387.m3u8
+#EXTINF:-1, L2...UK: BT SPORT 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273.m3u8
+#EXTINF:-1, L2...UK BT SPORT 2 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/28344.m3u8
+#EXTINF:-1, L2...UK: BT SPORT 3 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/271.m3u8
+#EXTINF:-1, L2...UK BT SPORT 3 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/28348.m3u8
+#EXTINF:-1, L2...UK: BT SPORT 1 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/270.m3u8
+#EXTINF:-1, L2...UK BT SPORT 1 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/28340.m3u8
+#EXTINF:-1, L2...DE: SKY SPORT 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/266589.m3u8
+#EXTINF:-1, L2...DE SKY SPORT 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273273.m3u8
+#EXTINF:-1, L2...DE: SKY SPORT BUNDESLIGA 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2431.m3u8
+#EXTINF:-1, L2...DE: SKY SPORT LIGA 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/277150.m3u8
+#EXTINF:-1, L2...NL: FOX SPORTS 3 EREDIVISIE FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2466.m3u8
+#EXTINF:-1, L2...NL: FOX SPORTS 4 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4522.m3u8
+#EXTINF:-1, L2...NL: FOX SPORTS 5 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4523.m3u8
+#EXTINF:-1, L2...NL: FOX SPORTS 6 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/4524.m3u8
+#EXTINF:-1, L2...FR: RMC SPORT 1 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2984.m3u8
+#EXTINF:-1, L2...FR RMC SPORT 1 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/37157.m3u8
+#EXTINF:-1, L2...FR: RMC SPORT 2 ACCESS HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/15413.m3u8
+#EXTINF:-1, L2...FR: RMC SPORT 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/1938.m3u8
+#EXTINF:-1, L2...FR RMC SPORT 2 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/37158.m3u8
+#EXTINF:-1, L2...FR: RMC SPORT 3 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2983.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 1 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/100.m3u8
+#EXTINF:-1, L2...AR BEIN SPORTS 1 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/386.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 2 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/101.m3u8
+#EXTINF:-1, L2...AR BEIN SPORTS 2 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/395.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 3 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/102.m3u8
+#EXTINF:-1, L2...AR BEIN SPORTS 3 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273319.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 4 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/103.m3u8
+#EXTINF:-1, L2...AR BEIN SPORTS 4 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/399.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 5 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/104.m3u8
+#EXTINF:-1, L2...AR BEIN SPORTS 5 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273271.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 6 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/105.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 7 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/106.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 8 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/107.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 9 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/108.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 10 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/109.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 11 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/110.m3u8
+#EXTINF:-1, L2...AR BEIN SPORTS 11 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/390.m3u8
+#EXTINF:-1, L2...AR: BEIN SPORTS 12 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/111.m3u8
+#EXTINF:-1, L2...AR BEIN SPORTS 12 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/391.m3u8
+#EXTINF:-1, L2...FR BEIN SPORTS 1 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273327.m3u8
+#EXTINF:-1, L2...FR: BEIN SPORTS 2 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/145.m3u8
+#EXTINF:-1, L2...FR BEIN SPORTS 2 HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/273332.m3u8
+#EXTINF:-1, L2...FR: BEIN SPORTS 3 FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/146.m3u8
+#EXTINF:-1, L2...US: SUPER TENNIS HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/174783.m3u8
+#EXTINF:-1, L2...US: TENNIS CHANNEL HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/2360.m3u8
+#EXTINF:-1, L2...IT: SKY SUPER TENNIS HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/146692.m3u8
+#EXTINF:-1, L2...IT: SUPER TENNIS FHD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/1052.m3u8
+#EXTINF:-1, L2...ZA: SUPERSPORT TENNIS HD
+http://iptvtree.net:8080/live/HoungIPTV2021/4h7wNAaEYUjAFPTh/15200.m3u8
