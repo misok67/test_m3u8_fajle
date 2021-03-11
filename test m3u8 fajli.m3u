@@ -1,362 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1, L1...RS: SPORT KLUB 1
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96071.m3u8
-#EXTINF:-1, L1...RS: SPORT KLUB 2 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96072.m3u8
-#EXTINF:-1, L1...RS: SPORT KLUB 3 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96073.m3u8
-#EXTINF:-1, L1...HR: SPORT KLUB 1
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96149.m3u8
-#EXTINF:-1, L1...HR: SPORT KLUB 2
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96150.m3u8
-#EXTINF:-1, L1...HR: SPORT KLUB 3
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96151.m3u8
-#EXTINF:-1, L1...HR: ARENA SPORT 2 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96153.m3u8
-#EXTINF:-1, L1...HR: ARENA SPORT 3 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96154.m3u8
-#EXTINF:-1, L1...HR: ARENA SPORT 4 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96155.m3u8
-#EXTINF:-1, L1...HR: ARENA SPORT 5 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/96156.m3u8
-#EXTINF:-1, L1...GERMANY- DAZN 1
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/421217.m3u8
-#EXTINF:-1, L1...GERMANY- DAZN 2
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/421218.m3u8
-#EXTINF:-1, L1...UK: BT SPORT 1 FHD 50FPS
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/104529.m3u8
-#EXTINF:-1, L1...UK: BT SPORT 1 FHD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/635.m3u8
-#EXTINF:-1, L1...UK: BT SPORT 2 FHD 50FPS
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/104530.m3u8
-#EXTINF:-1, L1...UK: BT SPORT 2 FHD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/628.m3u8
-#EXTINF:-1, L1...UK: BT SPORT 3 FHD 50FPS
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/104531.m3u8
-#EXTINF:-1, L1...UK: BT SPORT 3 FHD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/617.m3u8
-#EXTINF:-1, L1...GERMANY- SKY SPORT 1 HD DE
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/421205.m3u8
-#EXTINF:-1, L1...GERMANY- SKY SPORT 2 HD DE
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/421206.m3u8
-#EXTINF:-1, L1...WS: ZIGGO SPORT SELECT
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/11449.m3u8
-#EXTINF:-1, L1...WS: ZIGGO SPORT SELECT HD  (1080P)
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/11442.m3u8
-#EXTINF:-1, L1...WS: ZIGGO SPORT SELECT HD (720P)
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/11441.m3u8
-#EXTINF:-1, L1...FRANCE -RMC SPORT 1 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/420408.m3u8
-#EXTINF:-1, L1...FRANCE -RMC SPORT 2 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/420409.m3u8
-#EXTINF:-1, L1...FRANCE -RMC SPORT 3 HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/420410.m3u8
-#EXTINF:-1, L1...WS: ZIGGO SPORT VOETBAL (576P)
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/11440.m3u8
-#EXTINF:-1, L1...WS: ZIGGO SPORT VOETBAL HD  (1080P)
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/11439.m3u8
-#EXTINF:-1, L1...US: BEIN SPORTS LALIGA
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/338792.m3u8
-#EXTINF:-1, L1...US: BEIN SPORTS LATIN
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/338793.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-1 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410989.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-2 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410990.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-3 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410991.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-4 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410992.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-5 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410993.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-6 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410994.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-7 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410995.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-8 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410996.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-9 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410997.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-10 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410998.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-11 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/410999.m3u8
-#EXTINF:-1, L1...BS | BEIN SPORT-12 4K
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/411000.m3u8
-#EXTINF:-1, L1...[ARAB SPORTS] BEIN SPORTS 11HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/411012.m3u8
-#EXTINF:-1, L1...[ARAB SPORTS] BEIN SPORTS 12HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/411013.m3u8
-#EXTINF:-1, L1...US: BEIN SPORTS LA LIGA | SD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/392361.m3u8
-#EXTINF:-1, L1...US: TENNIS CHANNEL | HD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/8727.m3u8
-#EXTINF:-1, L1...ITALIAN- SUPERTENNISFHD
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/421076.m3u8
-#EXTINF:-1, L1...SPORTS: SUPERSPORT TENNIS
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/409542.m3u8
-#EXTINF:-1, L1...[ZA] SUPERSPORT TENNIS
-http://51.89.217.174:8080/live/4msgTd7EVW/wXFgmuoAgN/437283.m3u8
-
-#EXTINF:-1, L2...EXYU:SPORT KLUB 3 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57243.m3u8
-#EXTINF:-1, L2...EXYU:SPORT KLUB 2
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57242.m3u8
-#EXTINF:-1, L2...EXYU:SPORT KLUB 1
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57241.m3u8
-#EXTINF:-1, L2...HRV:SPORT KLUB 3 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57884.m3u8
-#EXTINF:-1, L2...HRV:SPORT KLUB 2 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57883.m3u8
-#EXTINF:-1, L2...HRV:SPORT KLUB 1 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57882.m3u8
-#EXTINF:-1, L2...DE:DAZN 1 UHD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/17942.m3u8
-#EXTINF:-1, L2...DE:DAZN 2 UHD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/17943.m3u8
-#EXTINF:-1, L2...DE:DAZN 1 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/35510.m3u8
-#EXTINF:-1, L2...DE:DAZN 2 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/35511.m3u8
-#EXTINF:-1, L2...UK:BT SPORT 3
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57377.m3u8
-#EXTINF:-1, L2...UK:BT SPORT 2
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57376.m3u8
-#EXTINF:-1, L2...UK:BT SPORT 1
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57375.m3u8
-#EXTINF:-1, L2...DE:SKY SPORT 1 UHD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/6112.m3u8
-#EXTINF:-1, L2...DE:SKY SPORT 2 UHD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/6111.m3u8
-#EXTINF:-1, L2...DE:SKY SPORT 1 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/36655.m3u8
-#EXTINF:-1, L2...DE:SKY SPORT 2 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/6109.m3u8
-#EXTINF:-1, L2...UK:SKY SPORT MAIN EVENT HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57387.m3u8
-#EXTINF:-1, L2...NL:FOX SPORTS 3 FHD [H265]
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56351.m3u8
-#EXTINF:-1, L2...NL:FOX SPORTS 4 FHD [H265]
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56350.m3u8
-#EXTINF:-1, L2...NL:FOX SPORTS 5 FHD [H265]
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56349.m3u8
-#EXTINF:-1, L2...NL:FOX SPORTS 6 FHD [H265]
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56348.m3u8
-#EXTINF:-1, L2...NL:ZIGGO SPORT SELECT FHD [H265]
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56306.m3u8
-#EXTINF:-1, L2...NL:ZIGGO SPORT SELECT HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56296.m3u8
-#EXTINF:-1, L2...NL:ZIGGO SPORT SELECT FHD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56289.m3u8
-#EXTINF:-1, L2...FR:RMC SPORT 1 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/48790.m3u8
-#EXTINF:-1, L2...FR:RMC SPORT 2 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/48791.m3u8
-#EXTINF:-1, L2...FR:RMC SPORT 3 HD
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/48792.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 12 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56645.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 11 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56644.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 10 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56643.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 9 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56642.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 8 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56641.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 7 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56640.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 6 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56639.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 5 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56638.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 4 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56637.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 3 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56636.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 2 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56635.m3u8
-#EXTINF:-1, L2...BEIN SPORT 1 HD AR
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/56634.m3u8
-#EXTINF:-1, L2...USA:BEIN SPORT
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57682.m3u8
-#EXTINF:-1, L2...USA:TENNIS CHANNEL
-http://portal.electraservers.xyz:8000/live/wolkan/wolkan1/57676.m3u8
-
-
-
-#EXTINF:-1,SPORT EX-YU: SPORT KLUB 1 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19667.m3u8
-#EXTINF:-1,SPORT EX-YU: SPORT KLUB 2 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19668.m3u8
-#EXTINF:-1,SPORT EX-YU: SPORT KLUB 3 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19669.m3u8
-#EXTINF:-1,SPORT EX-YU: SPORT KLUB 1 SD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19670.m3u8
-#EXTINF:-1,SPORT EX-YU: SPORT KLUB 2 SD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19671.m3u8
-#EXTINF:-1,SPORT EX-YU: SPORT KLUB 3 SD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19672.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29863.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29864.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29865.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 1 SD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29866.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2 SD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29867.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 SD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29868.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 1 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19655.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 2 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19656.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 3 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19657.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 4 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19658.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 5 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19659.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 6 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19660.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 1 (SRB)
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19661.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 2 (SRB)
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19662.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 3 (SRB)
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19663.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 4 (SRB)
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19664.m3u8
-#EXTINF:-1,SPORT EX-YU: ARENA SPORT 5 (SRB)
-http://iptv.re-stream.tv:7711/live/Carlos/12345/19665.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29848.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29849.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29850.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29851.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
-http://iptv.re-stream.tv:7711/live/Carlos/12345/29852.m3u8
-#EXTINF:-1,DE: DAZN EVENT 1 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/64342.m3u8
-#EXTINF:-1,DE: DAZN BAR 1 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/64346.m3u8
-#EXTINF:-1,DE: DAZN BAR 1 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/64345.m3u8
-#EXTINF:-1,DE: DAZN BAR 2 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/64350.m3u8
-#EXTINF:-1,DE: DAZN BAR 2 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/64349.m3u8
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/20541.m3u8
-#EXTINF:-1,UK: BT SPORT 2 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/20542.m3u8
-#EXTINF:-1,UK: BT SPORT 3 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/20543.m3u8
-#EXTINF:-1,UK: BT SPORT ESPN HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/20544.m3u8
-#EXTINF:-1,SPORT DE: SKY SPORT 1 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/70539.m3u8
-#EXTINF:-1,SPORT DE: SKY SPORT 2 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6792.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/20550.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD BACKUP
-http://iptv.re-stream.tv:7711/live/Carlos/12345/20551.m3u8
-#EXTINF:-1,SPORT NL: FOX SPORTS 3
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6771.m3u8
-#EXTINF:-1,SPORT NL: FOX SPORTS 3 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6781.m3u8
-#EXTINF:-1,SPORT NL: FOX SPORTS 4
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6772.m3u8
-#EXTINF:-1,SPORT NL: FOX SPORTS 5
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6773.m3u8
-#EXTINF:-1,SPORT NL: FOX SPORTS 6
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6774.m3u8
-#EXTINF:-1,SPORT NL: ZIGGO SPORT SELECT HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6779.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/89005.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/89004.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 SD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/23985.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/926.m3u8
-#EXTINF:-1,FR: RMC SPORT 3
-http://iptv.re-stream.tv:7711/live/Carlos/12345/924.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/23987.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/925.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/23986.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/928.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/887.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/929.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/886.m3u8
-#EXTINF:-1,FR: BEIN SPORT 3 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/927.m3u8
-#EXTINF:-1,FR: BEIN SPORT 3 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/885.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 1 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6835.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 2 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6830.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 3 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6829.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 4 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6828.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 5 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6827.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 6 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6826.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 7 FHD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6825.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 9 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6823.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT 10 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6834.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT  EN 11  HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6833.m3u8
-#EXTINF:-1,SPORT AR: BEIN SPORT EN 12 HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/6832.m3u8
-#EXTINF:-1,SPORT USA: BEIN SPORT USA HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/13444.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 1 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68069.m3u8
-#EXTINF:-1,USA: BEIN SPORTS USA HD
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68070.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 2 (ES)
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68071.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 3 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68072.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 4 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68073.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 5 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68074.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 6 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68075.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 7 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68076.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 8 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68077.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 9 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68078.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 10 HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68079.m3u8
-#EXTINF:-1,USA: BEIN SPORTS 12HD*
-http://iptv.re-stream.tv:7711/live/Carlos/12345/68080.m3u8
-#EXTINF:-1,CAMPEONES (2018) [ES]
-http://iptv.re-stream.tv:7711/live/movie/Carlos/12345/73952.mkv.m3u8
-#EXTINF:-1,CAMPEONES (2018) [IT]
-http://iptv.re-stream.tv:7711/live/movie/Carlos/12345/80868.mp4.m3u8
+#EXTINF:-1,HR003:ARENA SPORT 3 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/46255
+#EXTINF:-1,YU005:ARENA SPORT 2 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/49321
+#EXTINF:-1,YU006:ARENA SPORT 3 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/49320
+#EXTINF:-1,SRB003:ARENA SPORT 2
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/49118
+#EXTINF:-1,SRB004:ARENA SPORT 3
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/49117
+#EXTINF:-1,DE161:DAZN BAR 1 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/29122
+#EXTINF:-1,UK017:BT SPORT ESPN FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/2940
+#EXTINF:-1,NL010:FOX SPORTS 4 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/31521
+#EXTINF:-1,NL023:FOX SPORTS 4 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/31508
+#EXTINF:-1,FR350:RMC SPORT 2 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/27959
+#EXTINF:-1,UK142:BEIN SPORTS 2 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/28917
+#EXTINF:-1,BN003:BEIN SPORT 2 HD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/2139
+#EXTINF:-1,BN029:BEIN SPORT 2 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59270
+#EXTINF:-1,BN030:BEIN SPORT 3 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59269
+#EXTINF:-1,BN031:BEIN SPORT 4 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59268
+#EXTINF:-1,BN032:BEIN SPORT 5 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59267
+#EXTINF:-1,BN033:BEIN SPORT 6 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59266
+#EXTINF:-1,BN034:BEIN SPORT 7 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59265
+#EXTINF:-1,BN035:BEIN SPORT 8 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59264
+#EXTINF:-1,BN036:BEIN SPORT 9 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59263
+#EXTINF:-1,BN037:BEIN SPORT 10 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59262
+#EXTINF:-1,BN038:BEIN SPORT 11 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59261
+#EXTINF:-1,BN039:BEIN SPORT 12 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59260
+#EXTINF:-1,BN040:BEIN SPORT 13 FHD
+http://mu02.cularu.com:8880/czw12m2n122417975/xz23bn/59259
