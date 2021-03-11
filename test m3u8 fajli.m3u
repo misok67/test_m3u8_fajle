@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1,BT SPORT ESPN HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163392.m3u8
+#EXTINF:-1,BT SPORT ESPN
+http://bigboss2017.club:8080/live/waleed/waleed123/163393.m3u8
 #EXTINF:-1,FR: RMC SPORT 2 FHD
 http://main38.mine.nu:8080/live/afb1234/mart2021/159175.m3u8
 #EXTINF:-1,BEIN SPORTS 2 720P
