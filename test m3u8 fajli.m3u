@@ -1,226 +1,167 @@
 #EXTM3U
 
 
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://tvmedia2.com:8080/live/doreen/doreen/166030.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://tvmedia2.com:8080/live/doreen/doreen/166031.m3u8
-#EXTINF:-1,BT SPORT 2 HD
-http://tvmedia2.com:8080/live/doreen/doreen/173223.m3u8
-#EXTINF:-1,BT SPORT 2
-http://tvmedia2.com:8080/live/doreen/doreen/173224.m3u8
-#EXTINF:-1,BT SPORT 3 HD
-http://tvmedia2.com:8080/live/doreen/doreen/173225.m3u8
-#EXTINF:-1,BT SPORT 3
-http://tvmedia2.com:8080/live/doreen/doreen/173226.m3u8
-#EXTINF:-1,AR || BEIN SPORTS 1 ENG HD
-http://tvmedia2.com:8080/live/doreen/doreen/174460.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 2 ENG HD
-http://tvmedia2.com:8080/live/doreen/doreen/174461.m3u8
-#EXTINF:-1, L2...BT SPORT 2 FHD 50 FPS
-http://pulsestreamstv.uk:8080/live/66666/66666/218616.m3u8
-#EXTINF:-1, L2...BT SPORT 2 UHD
-http://pulsestreamstv.uk:8080/live/66666/66666/43898.m3u8
-#EXTINF:-1, L2...BT SPORT 2 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/214685.m3u8
-#EXTINF:-1, L2...BT SPORT 3 FHD 50 FPS
-http://pulsestreamstv.uk:8080/live/66666/66666/218617.m3u8
-#EXTINF:-1, L2...UK BT SPORT 3 UHD
-http://pulsestreamstv.uk:8080/live/66666/66666/33845.m3u8
-#EXTINF:-1, L2...|DE| SKY SPORT 1 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/146380.m3u8
-#EXTINF:-1, L2...|DE| SKY SPORT 1 HD
-http://pulsestreamstv.uk:8080/live/66666/66666/146436.m3u8
-#EXTINF:-1, L2...|DE| SKY SPORT 2 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/146381.m3u8
-#EXTINF:-1, L2...|DE| SKY SPORT 2 HD
-http://pulsestreamstv.uk:8080/live/66666/66666/146435.m3u8
-#EXTINF:-1, L2...|DE| DAZN 1 BAR HEVC
-http://pulsestreamstv.uk:8080/live/66666/66666/146581.m3u8
-#EXTINF:-1, L2...|DE| DAZN 1 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/146373.m3u8
-#EXTINF:-1, L2...|DE| DAZN 2 BAR HEVC
-http://pulsestreamstv.uk:8080/live/66666/66666/146582.m3u8
-#EXTINF:-1, L2...|DE| DAZN 2 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/146374.m3u8
+#EXTINF:-1,UK| BT SPORT 1 FHD
+http://ip365.cx:80/live/591479399642519/845556651954303/153714.m3u8
+#EXTINF:-1,UK| BT SPORT 1 HD
+http://ip365.cx:80/live/591479399642519/845556651954303/13780.m3u8
+#EXTINF:-1,UK| BT SPORT 2 FHD
+http://ip365.cx:80/live/591479399642519/845556651954303/153716.m3u8
+#EXTINF:-1,UK| BT SPORT 2 HD
+http://ip365.cx:80/live/591479399642519/845556651954303/13779.m3u8
+#EXTINF:-1,UK| BT SPORT 3 FHD
+http://ip365.cx:80/live/591479399642519/845556651954303/153718.m3u8
+#EXTINF:-1,UK| BT SPORT 3 HD
+http://ip365.cx:80/live/591479399642519/845556651954303/13778.m3u8
+#EXTINF:-1,UK| BT SPORT ESPN FHD
+http://ip365.cx:80/live/591479399642519/845556651954303/13716.m3u8
+#EXTINF:-1,UK| SKY SPORTS F1 FHD
+http://ip365.cx:80/live/591479399642519/845556651954303/191464.m3u8
+#EXTINF:-1,UK| SKY SPORTS F1 HD
+http://ip365.cx:80/live/591479399642519/845556651954303/153701.m3u8
+#EXTINF:-1,UK| SKY SPORTS PREMIER LEAGUE FHD
+http://ip365.cx:80/live/591479399642519/845556651954303/153693.m3u8
+#EXTINF:-1,UK| SKY SPORTS PREMIER LEAGUE HD
+http://ip365.cx:80/live/591479399642519/845556651954303/191686.m3u8
+#EXTINF:-1,UK| SKY SPORTS MAIN EVENT FHD
+http://ip365.cx:80/live/591479399642519/845556651954303/153691.m3u8
+#EXTINF:-1,UK| FOX SPORTS 504
+http://ip365.cx:80/live/591479399642519/845556651954303/190999.m3u8
+#EXTINF:-1,UK| FOX SPORTS 505
+http://ip365.cx:80/live/591479399642519/845556651954303/191000.m3u8
+#EXTINF:-1,UK| FOX SPORTS 506
+http://ip365.cx:80/live/591479399642519/845556651954303/191001.m3u8
+#EXTINF:-1,UK| FOX SPORTS 507
+http://ip365.cx:80/live/591479399642519/845556651954303/191002.m3u8
 
-#EXTINF:-1, L1...DE: SKY SPORT 1 HD
-http://tvmedia2.com:8080/live/andrea/andrea/166030.m3u8
-#EXTINF:-1, L1...DE: SKY SPORT 2 HD
-http://tvmedia2.com:8080/live/andrea/andrea/166031.m3u8
-#EXTINF:-1, L1...BT SPORT 2 HD
-http://tvmedia2.com:8080/live/andrea/andrea/173223.m3u8
-#EXTINF:-1, L1...BT SPORT 2
-http://tvmedia2.com:8080/live/andrea/andrea/173224.m3u8
-#EXTINF:-1, L1...BT SPORT 3 HD
-http://tvmedia2.com:8080/live/andrea/andrea/173225.m3u8
-#EXTINF:-1, L1...BT SPORT 3
-http://tvmedia2.com:8080/live/andrea/andrea/173226.m3u8
-#EXTINF:-1, L1...AR || BEIN SPORTS 1 ENG HD
-http://tvmedia2.com:8080/live/andrea/andrea/174460.m3u8
-#EXTINF:-1, L1...AR ||  BEIN SPORTS 2 ENG HD
-http://tvmedia2.com:8080/live/andrea/andrea/174461.m3u8
 
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://tvmedia2.com:8080/live/doreen/doreen/165551.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://tvmedia2.com:8080/live/doreen/doreen/165552.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://tvmedia2.com:8080/live/doreen/doreen/165553.m3u8
-#EXTINF:-1,SPORT KLUB 1
-http://tvmedia2.com:8080/live/doreen/doreen/167868.m3u8
-#EXTINF:-1,SPORT KLUB 2
-http://tvmedia2.com:8080/live/doreen/doreen/167869.m3u8
-#EXTINF:-1,SPORT KLUB 3
-http://tvmedia2.com:8080/live/doreen/doreen/167870.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
-http://tvmedia2.com:8080/live/doreen/doreen/167816.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
-http://tvmedia2.com:8080/live/doreen/doreen/167817.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
-http://tvmedia2.com:8080/live/doreen/doreen/167818.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
-http://tvmedia2.com:8080/live/doreen/doreen/167819.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
-http://tvmedia2.com:8080/live/doreen/doreen/167820.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
-http://tvmedia2.com:8080/live/doreen/doreen/167821.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
-http://tvmedia2.com:8080/live/doreen/doreen/167822.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
-http://tvmedia2.com:8080/live/doreen/doreen/167823.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
-http://tvmedia2.com:8080/live/doreen/doreen/167824.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
-http://tvmedia2.com:8080/live/doreen/doreen/167825.m3u8
-#EXTINF:-1,BT SPORT 1 HD
-http://tvmedia2.com:8080/live/doreen/doreen/173221.m3u8
-#EXTINF:-1,BT SPORT 1
-http://tvmedia2.com:8080/live/doreen/doreen/173222.m3u8
-#EXTINF:-1,BT SPORT 2 HD
-http://tvmedia2.com:8080/live/doreen/doreen/173223.m3u8
-#EXTINF:-1,BT SPORT 2
-http://tvmedia2.com:8080/live/doreen/doreen/173224.m3u8
-#EXTINF:-1,BT SPORT 3 HD
-http://tvmedia2.com:8080/live/doreen/doreen/173225.m3u8
-#EXTINF:-1,BT SPORT 3
-http://tvmedia2.com:8080/live/doreen/doreen/173226.m3u8
-#EXTINF:-1,BT SPORT ESPN HD
-http://tvmedia2.com:8080/live/doreen/doreen/173227.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://tvmedia2.com:8080/live/doreen/doreen/166030.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://tvmedia2.com:8080/live/doreen/doreen/166031.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://tvmedia2.com:8080/live/doreen/doreen/173201.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://tvmedia2.com:8080/live/doreen/doreen/173205.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://tvmedia2.com:8080/live/doreen/doreen/167864.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://tvmedia2.com:8080/live/doreen/doreen/167867.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
-http://tvmedia2.com:8080/live/doreen/doreen/167866.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 1 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174450.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 2 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174451.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 3 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174452.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 4 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174453.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 5 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174454.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 6 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174455.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 7 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174456.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 8 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174457.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 9 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174458.m3u8
-#EXTINF:-1,AR ||  BEIN SPORTS 10 HD
-http://tvmedia2.com:8080/live/doreen/doreen/174459.m3u8
-#EXTINF:-1,BEIN SPORTS3 ENG HD
-http://tvmedia2.com:8080/live/doreen/doreen/174462.m3u8
-#EXTINF:-1,USA: TENNIS HD
-http://tvmedia2.com:8080/live/doreen/doreen/164185.m3u8
-#EXTINF:-1,NEW USA: TENNIS CHANNEL FHD 1080
-http://tvmedia2.com:8080/live/doreen/doreen/164409.m3u8
-#EXTINF:-1, L2...AR- BEIN SPORTS 1 ENGLISH FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/169851.m3u8
-#EXTINF:-1, L2...AR- BEIN SPORTS 1 ENGLISH SD
-http://pulsestreamstv.uk:8080/live/66666/66666/169877.m3u8
-#EXTINF:-1, L2...AR- BEIN SPORTS 2 ENGLISH FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/169852.m3u8
-#EXTINF:-1, L2...AR- BEIN SPORTS 2 ENGLISH SD
-http://pulsestreamstv.uk:8080/live/66666/66666/169878.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 1 HR
-http://pulsestreamstv.uk:8080/live/66666/66666/151164.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 1 SRB
-http://pulsestreamstv.uk:8080/live/66666/66666/151169.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 2 HR
-http://pulsestreamstv.uk:8080/live/66666/66666/151165.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 2 SRB
-http://pulsestreamstv.uk:8080/live/66666/66666/151170.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 3 HR
-http://pulsestreamstv.uk:8080/live/66666/66666/151166.m3u8
-#EXTINF:-1, L2...EX_YU: SPORT KLUB 3 SRB
-http://pulsestreamstv.uk:8080/live/66666/66666/151171.m3u8
-#EXTINF:-1, L2...BT SPORT 1 UHD
-http://pulsestreamstv.uk:8080/live/66666/66666/156464.m3u8
-#EXTINF:-1, L2...BT SPORT 3 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/214686.m3u8
+#EXTINF:-1, L1...UK|| BT SPORT 2 FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/9885.m3u8
+#EXTINF:-1, L1...UK|| BT SPORT 1 FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/9886.m3u8
+#EXTINF:-1, L1...UK| BT SPORT 1 FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4198.m3u8
+#EXTINF:-1, L1...UK| BT SPORT 2 FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4195.m3u8
+#EXTINF:-1, L1...UK| BT SPORT 3 FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4193.m3u8
+#EXTINF:-1, L1...UK| BT SPORT ESPN FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4191.m3u8
+#EXTINF:-1, L1...UK|| SKY SPORTS F1 FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4258.m3u8
+#EXTINF:-1, L1...UK| SKY SPORTS F1 FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4180.m3u8
+#EXTINF:-1, L1...UK| SKY SPORTS F1 HD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4181.m3u8
+#EXTINF:-1, L1...UK| SKY SPORTS MAIN EVENT FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4215.m3u8
+#EXTINF:-1, L1...UK| SKY SPORTS PREM LG FHD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4213.m3u8
+#EXTINF:-1, L1...UK| SKY SPORTS PREMIER LEAGUE HD
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4214.m3u8
+#EXTINF:-1, L1...UK| BEIN SPORTS 11 (ENGLISH)
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/4156.m3u8
+#EXTINF:-1, L1...UK| TENNIS CHANNEL
+http://localhd.tv:8081/live/abtaria0206/LWwNyUDslN/11033.m3u8
 
-#EXTINF:-1, L2...|NL| FOX SPORTS 3 H265
-http://pulsestreamstv.uk:8080/live/66666/66666/173567.m3u8
-#EXTINF:-1, L2...|NL| FOX SPORTS 4 H265
-http://pulsestreamstv.uk:8080/live/66666/66666/173568.m3u8
-#EXTINF:-1, L2...|NL| FOX SPORTS 5 H265
-http://pulsestreamstv.uk:8080/live/66666/66666/173569.m3u8
-#EXTINF:-1, L2...|NL| FOX SPORTS 6 H265
-http://pulsestreamstv.uk:8080/live/66666/66666/173570.m3u8
-#EXTINF:-1, L2...|NL| ZIGGO SPORT SELECT H265
-http://pulsestreamstv.uk:8080/live/66666/66666/173563.m3u8
-#EXTINF:-1, L2...FR 4K+ | RMC SPORT 2 HD
-http://pulsestreamstv.uk:8080/live/66666/66666/147002.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT LIVE 1 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/146721.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT LIVE 1 HD
-http://pulsestreamstv.uk:8080/live/66666/66666/146739.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT LIVE 2 FHD
-http://pulsestreamstv.uk:8080/live/66666/66666/146722.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT LIVE 2 HD
-http://pulsestreamstv.uk:8080/live/66666/66666/146738.m3u8
-#EXTINF:-1, L2...|FR| RMC SPORT LIVE 3
-http://pulsestreamstv.uk:8080/live/66666/66666/146794.m3u8
-#EXTINF:-1, L2...|NL| ZIGGO SPORT VOETBAL H265
-http://pulsestreamstv.uk:8080/live/66666/66666/173564.m3u8
-#EXTINF:-1, L2...USA BEIN SPORTS USA UHD
-http://pulsestreamstv.uk:8080/live/66666/66666/39063.m3u8
-#EXTINF:-1, L2...USA BEIN SPORTS USA LHD
-http://pulsestreamstv.uk:8080/live/66666/66666/39060.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 1 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138801.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 2 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138802.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 3 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138803.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 4 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138804.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 5 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138805.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 6 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138806.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 7 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138807.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 8 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138808.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 9 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138809.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 10 (UHD)
-http://pulsestreamstv.uk:8080/live/66666/66666/138810.m3u8
-#EXTINF:-1, L2...USA TENNIS CHANNEL
-http://pulsestreamstv.uk:8080/live/66666/66666/39206.m3u8
-#EXTINF:-1, L2...USA TENNIS CHANNEL UHD
-http://pulsestreamstv.uk:8080/live/66666/66666/39209.m3u8
+#EXTINF:-1, L2...|DE| DAZN 1 BAR HD
+http://rv.flysat.live:80/live/307242112467/307242112467/81582.m3u8
+#EXTINF:-1, L2...|DE| DAZN 2 BAR HD
+http://rv.flysat.live:80/live/307242112467/307242112467/81581.m3u8
+#EXTINF:-1, L2...|DE|HEVC| SKY SPORT 1
+http://rv.flysat.live:80/live/307242112467/307242112467/83173.m3u8
+#EXTINF:-1, L2...|DE|HEVC| SKY SPORT 1 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/83172.m3u8
+#EXTINF:-1, L2...|DE|HEVC| SKY SPORT 2
+http://rv.flysat.live:80/live/307242112467/307242112467/83171.m3u8
+#EXTINF:-1, L2...|DE|HEVC| SKY SPORT 2 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/83170.m3u8
+#EXTINF:-1, L2...|NL|HEVC| FOX SPORTS 3 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79729.m3u8
+#EXTINF:-1, L2...|NL|HEVC| FOX SPORTS 4 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79728.m3u8
+#EXTINF:-1, L2...|NL|HEVC| FOX SPORTS 5 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79727.m3u8
+#EXTINF:-1, L2...|NL|HEVC| FOX SPORTS 6 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79726.m3u8
+#EXTINF:-1, L2...|NL|HEVC| ZIGGO SPORT SELECT HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79723.m3u8
+#EXTINF:-1, L2...|NL| ZIGGO SPORT SELECT HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79518.m3u8
+#EXTINF:-1, L2...|FR| RMC SPORT 1 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/78380.m3u8
+#EXTINF:-1, L2...|FR| RMC SPORT 2 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/78379.m3u8
+#EXTINF:-1, L2...|NL|HEVC| ZIGGO SPORT VOETBAL HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79724.m3u8
+#EXTINF:-1, L2...|NL| ZIGGO SPORT VOETBAL HD
+http://rv.flysat.live:80/live/307242112467/307242112467/79519.m3u8
+#EXTINF:-1, L2...BEIN SPORT HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163931.m3u8
+#EXTINF:-1, L2...BEIN SPORT NEWS HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163930.m3u8
+#EXTINF:-1, L2...BEIN SPORTS PREMIUM 1 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163929.m3u8
+#EXTINF:-1, L2...BEIN SPORTS PREMIUM 2 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163928.m3u8
+#EXTINF:-1, L2...BEIN SPORTS PREMIUM 3 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163927.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD1 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163926.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD2 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163925.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD3 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163924.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD4 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163923.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD5 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163922.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD6 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163921.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD7 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/163920.m3u8
+#EXTINF:-1, L2...BEIN SPORTS ENGLISH HD1
+http://rv.flysat.live:80/live/307242112467/307242112467/163914.m3u8
+#EXTINF:-1, L2...BEIN SPORTS ENGLISH HD2
+http://rv.flysat.live:80/live/307242112467/307242112467/163918.m3u8
+#EXTINF:-1, L2...BEIN SPORTS ENGLISH HD3
+http://rv.flysat.live:80/live/307242112467/307242112467/163917.m3u8
+#EXTINF:-1, L2...BEIN SPORTS FRENCH HD1
+http://rv.flysat.live:80/live/307242112467/307242112467/163916.m3u8
+#EXTINF:-1, L2...BEIN SPORTS FRENCH HD2
+http://rv.flysat.live:80/live/307242112467/307242112467/163915.m3u8
+#EXTINF:-1, L2...|FR| BEIN SPORT 1 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/78393.m3u8
+#EXTINF:-1, L2...|FR| BEIN SPORT 2 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/78392.m3u8
+#EXTINF:-1, L2...|FR| BEIN SPORT 3 HD
+http://rv.flysat.live:80/live/307242112467/307242112467/78391.m3u8
+#EXTINF:-1, L2...|USA| TENNIS HD
+http://rv.flysat.live:80/live/307242112467/307242112467/80982.m3u8
+
+#EXTINF:-1, L3...UK| BT SPORT 1 FHD
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50866.m3u8
+#EXTINF:-1, L3...UK| BT SPORTS FHD 1
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50867.m3u8
+#EXTINF:-1, L3...UK| BT SPORT 2 FHD
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50868.m3u8
+#EXTINF:-1, L3...UK| BT SPORTS FHD 2
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50869.m3u8
+#EXTINF:-1, L3...UK| BT SPORT 3 FHD
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50870.m3u8
+#EXTINF:-1, L3...UK| BT SPORTS FHD 3
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50871.m3u8
+#EXTINF:-1, L3...UK| BT SPORT ESPN FHD
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50872.m3u8
+#EXTINF:-1, L3...UK| SKY SPORTS F1 HD
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50841.m3u8
+#EXTINF:-1, L3...UK| SKY SPORTS PREMIER LEAGUE HD
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50845.m3u8
+#EXTINF:-1, L3...UK| SKY SPORTS MAIN EVENT HD
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/50846.m3u8
+#EXTINF:-1, L3...UK| SKY SPORTS F1 FHD 50FPS
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/64485.m3u8
+#EXTINF:-1, L3...UK| SKY SPORTS MAIN EVENT FHD 50FPS
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/64480.m3u8
+#EXTINF:-1, L3...UK| SKY SPORTS PREMIER LEAGUE FHD 50FPS
+http://dream4k.co:8080/live/Augusto13620/nhmuq8fqd7/64481.m3u8
