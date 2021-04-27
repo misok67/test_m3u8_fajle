@@ -40,7 +40,8 @@ http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/7176.m3u8
 http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/3697.m3u8
 #EXTINF:-1,ZIGGO SPORT SELECT FHD NL
 http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/4326.m3u8
-
+#EXTINF:-1,UK BT SPORTS 2
+http://ky-tv.cc:25461/live/tram/tram/174237.m3u8
 
 #EXTINF:-1,EXYU: SPORT KLUB 1
 http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/7338.m3u8
