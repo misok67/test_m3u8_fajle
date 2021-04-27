@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1, L1...DAZN 1 FHD DE
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/23280.m3u8
+#EXTINF:-1, L1...DAZN 2 FHD DE
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/23281.m3u8
+#EXTINF:-1, L1...BT SPORT 2 FHD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14658.m3u8
+#EXTINF:-1, L1...BT SPORT 2 HD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1992.m3u8
+#EXTINF:-1, L1...SKY SPORT 1 HD DE
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1479.m3u8
+#EXTINF:-1, L1...SKY SPORT 1 FHD DE
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/7326.m3u8
+#EXTINF:-1, L1...RMC SPORT 1 HD FR
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/13182.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 11 HD QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/15000.m3u8
 #EXTINF:-1,DAZN 1 HD (DE)
 http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/35588.m3u8
 #EXTINF:-1,UK:BT SPORT 2
@@ -114,3 +130,63 @@ http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/46665.m3u8
 http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/32705.m3u8
 #EXTINF:-1,USA | TENNIS CHANNEL
 http://iptv.iptivihd.com:8888/live/VisionTV352678/QSAUKYAxdO/32725.m3u8
+#EXTINF:-1, L1...BT SPORT 1 FHD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14657.m3u8
+#EXTINF:-1, L1...BT SPORT 1 HD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1991.m3u8
+#EXTINF:-1, L1...BT SPORT 1 UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/3586.m3u8
+#EXTINF:-1, L1...BT SPORT 3 FHD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14659.m3u8
+#EXTINF:-1, L1...BT SPORT 3 UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1965.m3u8
+#EXTINF:-1, L1...SKY SPORT 2 HD DE
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/1480.m3u8
+#EXTINF:-1, L1...SKY SPORT 2 FHD DE
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/7327.m3u8
+#EXTINF:-1, L1...SKY SPORTS F1 FHD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14656.m3u8
+#EXTINF:-1, L1...SKY SPORTS MAIN EVENT HD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/5600.m3u8
+#EXTINF:-1, L1...SKY SPORTS MAIN EVENT UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14753.m3u8
+#EXTINF:-1, L1...SKY SPORTS PREMIER LEAGUE HD UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/4458.m3u8
+#EXTINF:-1, L1...SKY SPORTS PREMIER LEAGUE UK
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14742.m3u8
+#EXTINF:-1, L1...RMC SPORT 1 HD FR
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/13182.m3u8
+#EXTINF:-1, L1...RMC SPORT 2 HD FR
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/2251.m3u8
+#EXTINF:-1, L1...RMC SPORT 3 FHD FR
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/21522.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 1 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24697.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 1 FHD QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/22157.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 1 HD QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14980.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 1 SD QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/14981.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 2 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24696.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 3 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24695.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 4 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24694.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 5 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24693.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 6 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24692.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 7 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24691.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 8 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24690.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 9 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24689.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 10 4K QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/24688.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 11 HD QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/15000.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 12 HD QA
+http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/15001.m3u8
