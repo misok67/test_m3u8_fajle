@@ -8,6 +8,22 @@ http://ky-tv.cc:25461/live/cde123/cde123/182951.m3u8
 http://ky-tv.cc:25461/live/cde123/cde123/182953.m3u8
 #EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
 http://ky-tv.cc:25461/live/cde123/cde123/222493.m3u8
+#EXTINF:-1,BS: BEIN SPORT-11 4K
+http://ky-tv.cc:25461/live/cde123/cde123/1188484.m3u8
+#EXTINF:-1,ES: LIGA CAMPEONES HEVC
+http://ky-tv.cc:25461/live/cde123/cde123/388179.m3u8
+#EXTINF:-1,ES-L: LIGA CAMPEONES 1 HEVC
+http://ky-tv.cc:25461/live/cde123/cde123/388180.m3u8
+
+#EXTINF:-1,|DE| DAZN 2 FHD
+http://80.82.76.193:8081/live/hichamdbb22/J7d2FPvK0c/11017.m3u8
+#EXTINF:-1,|UK| BT SPORT 3 FHD
+http://80.82.76.193:8081/live/hichamdbb22/J7d2FPvK0c/4224.m3u8
+#EXTINF:-1,|DE| SKY SPORT 2 HD
+http://80.82.76.193:8081/live/hichamdbb22/J7d2FPvK0c/11171.m3u8
+#EXTINF:-1,FR|| RMC SPORT 1 FHD 
+http://80.82.76.193:8081/live/hichamdbb22/J7d2FPvK0c/3012.m3u8
+
 
 #EXTINF:-1, L1...DAZN 1 FHD DE
 http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/23280.m3u8
