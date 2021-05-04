@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,UK BT SPORTS 2
+http://ky-tv.cc:25461/live/cde123/cde123/174237.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 FHD
+http://ky-tv.cc:25461/live/cde123/cde123/182951.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 FHD
+http://ky-tv.cc:25461/live/cde123/cde123/182953.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
+http://ky-tv.cc:25461/live/cde123/cde123/222493.m3u8
+
 #EXTINF:-1, L1...DAZN 1 FHD DE
 http://tv.deluxetv.tvip.xyz:80/live/gLtM2aiLsZ734/ZGUakZ075/23280.m3u8
 #EXTINF:-1, L1...DAZN 2 FHD DE
