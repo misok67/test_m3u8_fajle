@@ -1,84 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1,|EXYU| SPORT KLUB 1 HD
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/30281.m3u8
-#EXTINF:-1,|EXYU| SPORT KLUB 2 HD
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/30280.m3u8
-#EXTINF:-1,|EXYU| SPORT KLUB 3 HD
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/30279.m3u8
-#EXTINF:-1,|SLO| SPORT KLUB 1
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/44691.m3u8
-#EXTINF:-1,|SLO| SPORT KLUB 2
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/44690.m3u8
-#EXTINF:-1,|SLO| SPORT KLUB 3
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/44694.m3u8
-#EXTINF:-1,|CR| ARENA SPORT 1
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/4903.m3u8
-#EXTINF:-1,|CR| ARENA SPORT 2
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/4904.m3u8
-#EXTINF:-1,|CR| ARENA SPORT 3
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/4905.m3u8
-#EXTINF:-1,|CR| ARENA SPORT 4
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/4906.m3u8
-#EXTINF:-1,|CR| ARENA SPORT 5
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/7454.m3u8
-#EXTINF:-1,UK: S-K-Y SPORTS F1
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/3750.m3u8
-#EXTINF:-1,UK: S-K-Y SPORTS F1 *
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6208.m3u8
-#EXTINF:-1,UK: S-K-Y SPORTS F1 **
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/3762.m3u8
+#EXTINF:-1,CA: TSN 2 HD
+http://iptvtree.net:8080/live/resplice/534db280/771.m3u8
+#EXTINF:-1,CA TSN 2 HD
+http://iptvtree.net:8080/live/resplice/534db280/274905.m3u8
+#EXTINF:-1,US: TENNIS CHANNEL HD
+http://iptvtree.net:8080/live/resplice/534db280/2360.m3u8
 
-#EXTINF:-1,UK: BT SPORT 1
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/3761.m3u8
-#EXTINF:-1,UK: BT SPORT 1 *
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6198.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/3760.m3u8
-#EXTINF:-1,UK: BT SPORT 2 *
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6199.m3u8
-#EXTINF:-1,UK: BT SPORT 3
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/3759.m3u8
-#EXTINF:-1,UK: BT SPORT 3 *
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/6197.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/1883.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/1882.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 FHD
-http://ip.trboss.net:80/live/dindin/sdfsjfujskrez/1881.m3u8
-
-
-#EXTINF:-1,*****|DE| DAZN 1 FHD
-http://147.135.130.72:8011/live/100200300/100200300/77122.m3u8
-#EXTINF:-1,|DE| DAZN 2 FHD
-http://147.135.130.72:8011/live/100200300/100200300/77121.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 HD
-http://147.135.130.72:8011/live/100200300/100200300/80878.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 HD
-http://147.135.130.72:8011/live/100200300/100200300/80877.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 HD
-http://147.135.130.72:8011/live/100200300/100200300/80876.m3u8
-#EXTINF:-1,|UK| SKY SPORTS F1 HD
-http://147.135.130.72:8011/live/100200300/100200300/80933.m3u8
-#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE HD
-http://147.135.130.72:8011/live/100200300/100200300/80931.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT HD
-http://147.135.130.72:8011/live/100200300/100200300/80930.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 HD
-http://147.135.130.72:8011/live/100200300/100200300/77061.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1 HD
-http://147.135.130.72:8011/live/100200300/100200300/76963.m3u8
-#EXTINF:-1,|US| TENNIS HD
-http://147.135.130.72:8011/live/100200300/100200300/81420.m3u8
-#EXTINF:-1,ZA: SUPERSPORT TENNIS FHD
-http://147.135.130.72:8011/live/100200300/100200300/69533.m3u8
+#EXTINF:-1,BEINVIP : BEIN SPORTS  6 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59893.m3u8
+#EXTINF:-1,BEINVIP : BEIN SPORTS  6 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59894.m3u8
+#EXTINF:-1,PT: EUROSPORT 1
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/3227.m3u8
+#EXTINF:-1,PT: EUROSPORT 2
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/3226.m3u8
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/2069.m3u8
+#EXTINF:-1,IT: EUROSPORT 1 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/22955.m3u8
+#EXTINF:-1,UK: EUROSPORT 1 (L)
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/993.m3u8
+#EXTINF:-1,UK: EUROSPORT 2 (L)
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/1150.m3u8
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/10838.m3u8
+#EXTINF:-1,DE: EUROSPORT 2 XTRA
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/19043.m3u8
+#EXTINF:-1,NL: EUROSPORT 1 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/1497.m3u8
+#EXTINF:-1,NL: EUROSPORT 2 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/22269.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 1 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/4.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 2 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/5.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 3 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/6.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 4 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/4129.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 4
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/7.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 5 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/20541.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 6 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/9.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 7 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/10.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 8 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/11.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 9 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/4131.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 9
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/12.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 10 HD
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/1676.m3u8
+#EXTINF:-1,ARB: BEIN SPORT 11 HD UK
+http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/2827.m3u8
+#EXTINF:-1,ARB: BEIN SPORTS 12 HD ENG
+http://telemedia.es:8000/live/player.xtrafm-cbl.mp3.m3u8
 
 
-#EXTINF:-1,*******DAZN 1
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/38469.m3u8
-#EXTINF:-1,DAZN 2
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/38470.m3u8
+
 #EXTINF:-1,DAZN 1 BAR
 http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/64364.m3u8
 #EXTINF:-1,DAZN 2 BAR
@@ -111,25 +94,23 @@ http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/59334.m3u8
 http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/541.m3u8
 #EXTINF:-1,RMC SPORT 2
 http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/540.m3u8
-#EXTINF:-1,RMC SPORT 3
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/539.m3u8
-#EXTINF:-1,BEIN SPORT 1 FHD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/5658.m3u8
-#EXTINF:-1,BEIN SPORT 2 FHD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/37619.m3u8
-#EXTINF:-1,BEIN SPORT 3 FHD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/5656.m3u8
-#EXTINF:-1,BEIN SPORT 4 FHD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/5655.m3u8
-#EXTINF:-1,BEIN SPORT 5 FHD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/5654.m3u8
-#EXTINF:-1,BEIN SPORT 6 FHD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/5653.m3u8
-#EXTINF:-1,BEIN SPORT 7 FHD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/5652.m3u8
-#EXTINF:-1,SUPER TENNIS HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/18399.m3u8
-#EXTINF:-1,SUPERSPORT TENNIS
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/62809.m3u8
-#EXTINF:-1,TENNIS CHANNEL HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/39094.m3u8
+#EXTINF:-1,DE -- DAZN 1 HD
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12414.m3u8
+#EXTINF:-1,DE -- DAZN 2 HD
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12415.m3u8
+#EXTINF:-1,UK- BT SPORTS 1
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/74.m3u8
+#EXTINF:-1,UK- BT SPORTS 2
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/75.m3u8
+#EXTINF:-1,UK- BT SPORTS ESPN
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/76.m3u8
+#EXTINF:-1,UK- BT SPORTS 3
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/77.m3u8
+#EXTINF:-1,UK- SKY SPORT MAIN EVENT
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/67.m3u8
+#EXTINF:-1,UK- SKY SPORT PREMIERE LEAGUE
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/71.m3u8
+#EXTINF:-1,DE -- SKY SPORT 1 HD
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12371.m3u8
+#EXTINF:-1,DE -- SKY SPORT 2 HD
+http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12372.m3u8
