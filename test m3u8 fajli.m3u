@@ -1,116 +1,96 @@
 #EXTM3U
 
-#EXTINF:-1,CA: TSN 2 HD
-http://iptvtree.net:8080/live/resplice/534db280/771.m3u8
-#EXTINF:-1,CA TSN 2 HD
-http://iptvtree.net:8080/live/resplice/534db280/274905.m3u8
-#EXTINF:-1,US: TENNIS CHANNEL HD
-http://iptvtree.net:8080/live/resplice/534db280/2360.m3u8
-
-#EXTINF:-1,BEINVIP : BEIN SPORTS  6 FHD
-http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59893.m3u8
-#EXTINF:-1,BEINVIP : BEIN SPORTS  6 HD
-http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59894.m3u8
-#EXTINF:-1,PT: EUROSPORT 1
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/3227.m3u8
-#EXTINF:-1,PT: EUROSPORT 2
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/3226.m3u8
-#EXTINF:-1,FR: EUROSPORT 2 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/2069.m3u8
-#EXTINF:-1,IT: EUROSPORT 1 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/22955.m3u8
-#EXTINF:-1,UK: EUROSPORT 1 (L)
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/993.m3u8
-#EXTINF:-1,UK: EUROSPORT 2 (L)
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/1150.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/10838.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 XTRA
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/19043.m3u8
-#EXTINF:-1,NL: EUROSPORT 1 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/1497.m3u8
-#EXTINF:-1,NL: EUROSPORT 2 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/22269.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 1 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/4.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 2 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/5.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 3 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/6.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 4 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/4129.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 4
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/7.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 5 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/20541.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 6 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/9.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 7 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/10.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 8 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/11.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 9 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/4131.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 9
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/12.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 10 HD
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/1676.m3u8
-#EXTINF:-1,ARB: BEIN SPORT 11 HD UK
-http://cloud-canalestv.rapidodns.com:8000/live/Tomas2021ex/RFfzwPKhEQj4fbs7/2827.m3u8
-#EXTINF:-1,ARB: BEIN SPORTS 12 HD ENG
-http://telemedia.es:8000/live/player.xtrafm-cbl.mp3.m3u8
-
-
-
-#EXTINF:-1,DAZN 1 BAR
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/64364.m3u8
-#EXTINF:-1,DAZN 2 BAR
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/64365.m3u8
-#EXTINF:-1,BT SPORTS 1 | HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/38642.m3u8
-#EXTINF:-1,BT SPORTS 2 | HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/38643.m3u8
-#EXTINF:-1,BT SPORTS 3 | HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/38644.m3u8
-#EXTINF:-1,SKY SPORT F1
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/18414.m3u8
-#EXTINF:-1,SKY SPORT F1 HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/18413.m3u8
-#EXTINF:-1,SKY SPORT 1
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/64358.m3u8
-#EXTINF:-1,SKY SPORT 2
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/64359.m3u8
-#EXTINF:-1,FOX SPORT 3 HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/18527.m3u8
-#EXTINF:-1,FOX SPORT 4 HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/18526.m3u8
-#EXTINF:-1,FOX SPORT 5 HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/18525.m3u8
-#EXTINF:-1,FOX SPORT 6 HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/18524.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/59334.m3u8
-#EXTINF:-1,RMC SPORT 1
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/541.m3u8
-#EXTINF:-1,RMC SPORT 2
-http://xtra.xcs521.cz:8080/live/2ZzP7TWR7P/PSyY3A4d3m/540.m3u8
-#EXTINF:-1,DE -- DAZN 1 HD
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12414.m3u8
-#EXTINF:-1,DE -- DAZN 2 HD
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12415.m3u8
-#EXTINF:-1,UK- BT SPORTS 1
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/74.m3u8
-#EXTINF:-1,UK- BT SPORTS 2
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/75.m3u8
-#EXTINF:-1,UK- BT SPORTS ESPN
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/76.m3u8
-#EXTINF:-1,UK- BT SPORTS 3
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/77.m3u8
-#EXTINF:-1,UK- SKY SPORT MAIN EVENT
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/67.m3u8
-#EXTINF:-1,UK- SKY SPORT PREMIERE LEAGUE
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/71.m3u8
-#EXTINF:-1,DE -- SKY SPORT 1 HD
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12371.m3u8
-#EXTINF:-1,DE -- SKY SPORT 2 HD
-http://x122.club:8080/live/zN2gNSMb/tZWC33Of/12372.m3u8
+#EXTINF:-1,UK113:EUROSPORT 1 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28946.m3u8
+#EXTINF:-1,UK112:EUROSPORT 2 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28947.m3u8
+#EXTINF:-1,FR111:EUROSPORT 2 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28198.m3u8
+#EXTINF:-1,FR112:EUROSPORT 1 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28197.m3u8
+#EXTINF:-1,NL014:EUROSPORT 1 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/31517.m3u8
+#EXTINF:-1,NL015:EUROSPORT 2 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/31516.m3u8
+#EXTINF:-1,ES040:EUROSPORT 1 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2564.m3u8
+#EXTINF:-1,ES041:EUROSPORT 2 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2563.m3u8
+#EXTINF:-1,DE135:EUROSPORT 1 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/29149.m3u8
+#EXTINF:-1,DE169:EUROSPORT 1 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/29113.m3u8
+#EXTINF:-1,DE170:EUROSPORT 2 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/29112.m3u8
+#EXTINF:-1,UK141:BEIN SPORTS 1 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28918.m3u8
+#EXTINF:-1,UK142:BEIN SPORTS 2 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28917.m3u8
+#EXTINF:-1,UK143:BEIN SPORTS 3 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28916.m3u8
+#EXTINF:-1,BN002:BEIN SPORT 1 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2140.m3u8
+#EXTINF:-1,BN003:BEIN SPORT 2 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2139.m3u8
+#EXTINF:-1,BN004:BEIN SPORT 3 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2138.m3u8
+#EXTINF:-1,BN005:BEIN SPORT 4 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2137.m3u8
+#EXTINF:-1,BN006:BEIN SPORT 5 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2136.m3u8
+#EXTINF:-1,BN007:BEIN SPORT 6 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2135.m3u8
+#EXTINF:-1,BN008:BEIN SPORT 7 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2134.m3u8
+#EXTINF:-1,BN009:BEIN SPORT 8 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2133.m3u8
+#EXTINF:-1,BN010:BEIN SPORT 9 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2132.m3u8
+#EXTINF:-1,BN011:BEIN SPORT 10 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2131.m3u8
+#EXTINF:-1,BN012:BEIN SPORT 11 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2130.m3u8
+#EXTINF:-1,BN028:BEIN SPORT 1 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59271.m3u8
+#EXTINF:-1,BN029:BEIN SPORT 2 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59270.m3u8
+#EXTINF:-1,BN030:BEIN SPORT 3 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59269.m3u8
+#EXTINF:-1,BN031:BEIN SPORT 4 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59268.m3u8
+#EXTINF:-1,BN032:BEIN SPORT 5 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59267.m3u8
+#EXTINF:-1,BN033:BEIN SPORT 6 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59266.m3u8
+#EXTINF:-1,BN034:BEIN SPORT 7 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59265.m3u8
+#EXTINF:-1,BN035:BEIN SPORT 8 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59264.m3u8
+#EXTINF:-1,BN036:BEIN SPORT 9 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59263.m3u8
+#EXTINF:-1,BN037:BEIN SPORT 10 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59262.m3u8
+#EXTINF:-1,BN038:BEIN SPORT 11 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59261.m3u8
+#EXTINF:-1,BN039:BEIN SPORT 12 FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59260.m3u8
+#EXTINF:-1,CA065:TSN-1 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/3004.m3u8
+#EXTINF:-1,CA066:TSN-2 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/3003.m3u8
+#EXTINF:-1,CA067:TSN-3 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/3002.m3u8
+#EXTINF:-1,CA068:TSN-4 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/3001.m3u8
+#EXTINF:-1,CA069:TSN-5 HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/3000.m3u8
+#EXTINF:-1,US086:TENNIS HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/3082.m3u8
+#EXTINF:-1,US815:TENNIS CHANNEL FHD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/59205.m3u8
+#EXTINF:-1,IT084:SUPER TENNIS HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/2688.m3u8
+#EXTINF:-1,IT227:SKY SUPER TENNIS HD
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/28335.m3u8
+#EXTINF:-1,ZA065:SUPERSPORT TENNIS
+http://mue03.wanicelife.com:8880/live/SWFAF122311/3DYZQW37/60572.m3u8
