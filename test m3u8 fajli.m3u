@@ -1,132 +1,98 @@
 #EXTM3U
 
-#EXTINF:-1,SPORT | SPORT KLUB 1 HD (SR)
-http://directtv1.xyz:80/live/18501/18501/97745.m3u8
-#EXTINF:-1,SPORT | SPORT KLUB 2 HD (SR)
-http://directtv1.xyz:80/live/18501/18501/97746.m3u8
-#EXTINF:-1,SPORT | SPORT KLUB 3 HD (SR)
-http://directtv1.xyz:80/live/18501/18501/97747.m3u8
-#EXTINF:-1,SPORT | SPORT KLUB 1 HD (HR)
-http://directtv1.xyz:80/live/18501/18501/97754.m3u8
-#EXTINF:-1,SPORT | SPORT KLUB 2 HD (HR)
-http://directtv1.xyz:80/live/18501/18501/97755.m3u8
-#EXTINF:-1,SPORT | SPORT KLUB 3 HD (HR)
-http://directtv1.xyz:80/live/18501/18501/97756.m3u8
-#EXTINF:-1,DE -- DAZN 1 HD LOCAL
-http://directtv1.xyz:80/live/18501/18501/103344.m3u8
-#EXTINF:-1,DE -- DAZN 2 HD LOCAL
-http://directtv1.xyz:80/live/18501/18501/103345.m3u8
-#EXTINF:-1,UK | BT SPORT 1
-http://directtv1.xyz:80/live/18501/18501/194405.m3u8
-#EXTINF:-1,UK | BT SPORT 2
-http://directtv1.xyz:80/live/18501/18501/194406.m3u8
-#EXTINF:-1,UK | BT SPORT 3
-http://directtv1.xyz:80/live/18501/18501/194407.m3u8
-#EXTINF:-1,DE -- SKY SPORT 1 HD LOCAL
-http://directtv1.xyz:80/live/18501/18501/103311.m3u8
-#EXTINF:-1,DE -- SKY SPORT 2 HD LOCAL
-http://directtv1.xyz:80/live/18501/18501/103312.m3u8
-#EXTINF:-1,UK | SKY SPORTS F1
-http://directtv1.xyz:80/live/18501/18501/194397.m3u8
-#EXTINF:-1,UK | SKY SPORTS MAIN EVENT
-http://directtv1.xyz:80/live/18501/18501/194401.m3u8
-#EXTINF:-1,UK | SKY SPORTS F1 SD (BACK UP)
-http://directtv1.xyz:80/live/18501/18501/194422.m3u8
-#EXTINF:-1,UK | SKY SPORTS F1 HD (BACK UP)
-http://directtv1.xyz:80/live/18501/18501/194423.m3u8
-#EXTINF:-1,FR | RMC SPORT 1 HD
-http://directtv1.xyz:80/live/18501/18501/137531.m3u8
-#EXTINF:-1,FR | RMC SPORT 2 HD
-http://directtv1.xyz:80/live/18501/18501/137532.m3u8
-#EXTINF:-1,FR | RMC SPORT 3 HD
-http://directtv1.xyz:80/live/18501/18501/137533.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 1 HD
-http://directtv1.xyz:80/live/18501/18501/137535.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 2 HD
-http://directtv1.xyz:80/live/18501/18501/137536.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 3 HD
-http://directtv1.xyz:80/live/18501/18501/137537.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 1 HEVC
-http://directtv1.xyz:80/live/18501/18501/101517.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 2 HEVC
-http://directtv1.xyz:80/live/18501/18501/101518.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 3 HEVC
-http://directtv1.xyz:80/live/18501/18501/101519.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 4 HEVC
-http://directtv1.xyz:80/live/18501/18501/101520.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 5 HEVC
-http://directtv1.xyz:80/live/18501/18501/101521.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 6 HEVC
-http://directtv1.xyz:80/live/18501/18501/101522.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 7 HEVC
-http://directtv1.xyz:80/live/18501/18501/101523.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 8 HEVC
-http://directtv1.xyz:80/live/18501/18501/101524.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 9 HEVC
-http://directtv1.xyz:80/live/18501/18501/101525.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4K 10 HEVC
-http://directtv1.xyz:80/live/18501/18501/101526.m3u8
-#EXTINF:-1,BEIN SPORTS PREMIUM 1 4K
-http://directtv1.xyz:80/live/18501/18501/153361.m3u8
-#EXTINF:-1,BEIN SPORTS PREMIUM 2 4K
-http://directtv1.xyz:80/live/18501/18501/153362.m3u8
-#EXTINF:-1,BEIN SPORTS PREMIUM 3 4K
-http://directtv1.xyz:80/live/18501/18501/153363.m3u8
-#EXTINF:-1,BEIN SPORTS 1 4K
-http://directtv1.xyz:80/live/18501/18501/153364.m3u8
-#EXTINF:-1,BEIN SPORTS 2 4K
-http://directtv1.xyz:80/live/18501/18501/153365.m3u8
-#EXTINF:-1,BEIN SPORTS 3 4K
-http://directtv1.xyz:80/live/18501/18501/153366.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/53605.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9413.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/53166.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9411.m3u8
+#EXTINF:-1,SPORT KLUB 5 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9410.m3u8
+#EXTINF:-1,SPORT KLUB 6 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9409.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD RS
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/625234.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD RS
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9407.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD RS
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9406.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD RS
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9405.m3u8
+#EXTINF:-1,SPORT KLUB 5 HD RS
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9404.m3u8
+#EXTINF:-1,SPORT KLUB 6 HD RS
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9403.m3u8
+#EXTINF:-1,ARENA SPORT 1 FHD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5464.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5462.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5460.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5458.m3u8
+#EXTINF:-1,ARENA SPORT 5 FHD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/545734.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD HR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/9415.m3u8
+#EXTINF:-1,DAZN 1 FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/661090.m3u8
+#EXTINF:-1,DAZN 1 HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/625243.m3u8
+#EXTINF:-1,DAZN 1 [B] HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/661088.m3u8
+#EXTINF:-1,DAZN 2 FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/661089.m3u8
+#EXTINF:-1,DAZN 2 HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/50775.m3u8
+#EXTINF:-1,SKY SPORT F1 FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/687666.m3u8
+#EXTINF:-1,SKY SPORT F1 HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/687667.m3u8
+#EXTINF:-1,SKY SPORT 1 FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/684432.m3u8
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/683895.m3u8
+#EXTINF:-1,SKY SPORT 2 FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/7362.m3u8
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/683896.m3u8
+#EXTINF:-1,SKY SPORT 3 [MATCH TIME] FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/13563.m3u8
+#EXTINF:-1,SKY SPORT 4 [MATCH TIME] FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/13562.m3u8
+#EXTINF:-1,SKY SPORT 5 FHD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/13561.m3u8
+#EXTINF:-1,SKY SPORT 6 [MATCH TIME] HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/6181.m3u8
+#EXTINF:-1,SKY SPORT 7 [MATCH TIME] HD DE
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/6180.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT FHD NL
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/53267.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT HD NL
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5113.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/625254.m3u8
+#EXTINF:-1,RMC SPORT 2 HD FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/86352.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/625250.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5112.m3u8
+#EXTINF:-1,BEIN SPORTS 1 FHD FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5710.m3u8
+#EXTINF:-1,BEIN SPORTS 2 FHD FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/12958.m3u8
+#EXTINF:-1,BEIN SPORTS 3 FHD FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/5708.m3u8
+#EXTINF:-1,BEIN SPORTS 4 MAX FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/8562.m3u8
+#EXTINF:-1,BEIN SPORTS 6 MAX FR
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/8538.m3u8
+#EXTINF:-1,TENNIS CHANNEL HD US
+http://185.63.254.200:8080/live/live:ackoace/adjgjkagsdiywqekjgasdgs/7084.m3u8
 
-#EXTINF:-1, L1...SR | SPORT KLUB 1
-http://web24.live:8080/live/Sally1/Sally1/43092.m3u8
-#EXTINF:-1, L1...SR | SPORT KLUB 2
-http://web24.live:8080/live/Sally1/Sally1/43093.m3u8
-#EXTINF:-1, L1...SR | SPORT KLUB 3
-http://web24.live:8080/live/Sally1/Sally1/43094.m3u8
-#EXTINF:-1, L1...HR | ARENA SPORT 1
-http://web24.live:8080/live/Sally1/Sally1/41705.m3u8
-#EXTINF:-1, L1...HR | ARENA SPORT 2
-http://web24.live:8080/live/Sally1/Sally1/41706.m3u8
-#EXTINF:-1, L1...HR | ARENA SPORT 3
-http://web24.live:8080/live/Sally1/Sally1/41707.m3u8
-#EXTINF:-1, L1...HR | ARENA SPORT 4
-http://web24.live:8080/live/Sally1/Sally1/41708.m3u8
-#EXTINF:-1, L1...HR | ARENA SPORT 5
-http://web24.live:8080/live/Sally1/Sally1/41709.m3u8
-#EXTINF:-1, L1...DE | DAZN 1
-http://web24.live:8080/live/Sally1/Sally1/45338.m3u8
-#EXTINF:-1, L1...DE | DAZN 2
-http://web24.live:8080/live/Sally1/Sally1/45339.m3u8
-#EXTINF:-1, L1...UK | BT SPORT 1
-http://web24.live:8080/live/Sally1/Sally1/45340.m3u8
-#EXTINF:-1, L1...UK | BT SPORT 2
-http://web24.live:8080/live/Sally1/Sally1/45341.m3u8
-#EXTINF:-1, L1...UK | BT SPORT 3
-http://web24.live:8080/live/Sally1/Sally1/45351.m3u8
-#EXTINF:-1, L1...UK | SKY SPORTS F1
-http://web24.live:8080/live/Sally1/Sally1/45349.m3u8
-#EXTINF:-1, L1...UK | SKY SPORTS MAIN EVENT
-http://web24.live:8080/live/Sally1/Sally1/45348.m3u8
-#EXTINF:-1, L1...FR | RMC SPORT 1
-http://web24.live:8080/live/Sally1/Sally1/37863.m3u8
-#EXTINF:-1, L1...FR | RMC SPORT 2
-http://web24.live:8080/live/Sally1/Sally1/37862.m3u8
-#EXTINF:-1, L1...FR | RMC SPORT 3
-http://web24.live:8080/live/Sally1/Sally1/37861.m3u8
-#EXTINF:-1, L1...AR | BEIN SPORTS 11
-http://web24.live:8080/live/Sally1/Sally1/41720.m3u8
-#EXTINF:-1, L1...AR | BEIN SPORTS 12
-http://web24.live:8080/live/Sally1/Sally1/41721.m3u8
-#EXTINF:-1, L1...UK | BEIN SPORTS 11
-http://web24.live:8080/live/Sally1/Sally1/40181.m3u8
-#EXTINF:-1, L1...UK | BEIN SPORTS 12
-http://web24.live:8080/live/Sally1/Sally1/40183.m3u8
-#EXTINF:-1, L1...USA | TENNIS CHANNEL
-http://web24.live:8080/live/Sally1/Sally1/708.m3u8
-#EXTINF:-1, L1...USA | TENNIS CHANNEL PLUS
-http://web24.live:8080/live/Sally1/Sally1/43493.m3u8
 
 #EXTINF:-1, L2...|DE| DAZN 1 FHD
 http://ultimateiptv.me:8080/live/amira/amira123/11018.m3u8
