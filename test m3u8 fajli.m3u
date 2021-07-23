@@ -1,6 +1,74 @@
 #EXTM3U
 
 
+#EXTINF:-1,SPORT KLUB 1 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/420.m3u8
+#EXTINF:-1,SPORT KLUB 2 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/421.m3u8
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/422.m3u8
+#EXTINF:-1,ARENA SPORT 1 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/399.m3u8
+#EXTINF:-1,ARENA SPORT 2 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/400.m3u8
+#EXTINF:-1,ARENA SPORT 3 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/401.m3u8
+#EXTINF:-1,ARENA SPORT 4 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/402.m3u8
+#EXTINF:-1,ARENA SPORT 5 (HR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/403.m3u8
+#EXTINF:-1,DAZN BAR 1 (DE)
+http://89.163.242.83:2082/live/Zorica/Zorica123/446.m3u8
+#EXTINF:-1,DAZN BAR 2 (DE)
+http://89.163.242.83:2082/live/Zorica/Zorica123/447.m3u8
+#EXTINF:-1,DAZN F1 (ES)
+http://89.163.242.83:2082/live/Zorica/Zorica123/436229.m3u8
+#EXTINF:-1,BT SPORT 1 (UK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/470.m3u8
+#EXTINF:-1,BT SPORT 2 (UK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/471.m3u8
+#EXTINF:-1,BT SPORT 3 (UK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/472.m3u8
+#EXTINF:-1,BT SPORT ESPN (UK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/469.m3u8
+#EXTINF:-1,SKY SPORT 1 (DE)
+http://89.163.242.83:2082/live/Zorica/Zorica123/449.m3u8
+#EXTINF:-1,SKY SPORT 2 (DE)
+http://89.163.242.83:2082/live/Zorica/Zorica123/451.m3u8
+#EXTINF:-1,SKY SPORTS F1 (IT)
+http://89.163.242.83:2082/live/Zorica/Zorica123/461.m3u8
+#EXTINF:-1,SKY SPORTS F1 (UK)
+http://89.163.242.83:2082/live/Zorica/Zorica123/437623.m3u8
+#EXTINF:-1,RMC SPORT 1 (FR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/542.m3u8
+#EXTINF:-1,RMC SPORT 2 (FR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/543.m3u8
+#EXTINF:-1,RMC SPORT 3 (FR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/544.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL (NL)
+http://89.163.242.83:2082/live/Zorica/Zorica123/495.m3u8
+#EXTINF:-1,BEIN SPORTS 1 (FR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/473.m3u8
+#EXTINF:-1,BEIN SPORTS 2 (FR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/474.m3u8
+#EXTINF:-1,BEIN SPORTS 3 (FR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/475.m3u8
+#EXTINF:-1,BEIN SPORTS 2 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/481.m3u8
+#EXTINF:-1,BEIN SPORTS 3 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/482.m3u8
+#EXTINF:-1,BEIN SPORTS 4 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/483.m3u8
+#EXTINF:-1,BEIN SPORTS 5 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/484.m3u8
+#EXTINF:-1,BEIN SPORTS 6 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/485.m3u8
+#EXTINF:-1,BEIN SPORTS 7 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/486.m3u8
+#EXTINF:-1,BEIN SPORTS 8 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/487.m3u8
+#EXTINF:-1,BEIN SPORTS 9 (AR)
+http://89.163.242.83:2082/live/Zorica/Zorica123/488.m3u8
 
 
 #EXTINF:-1, L2...|DE| DAZN 1 FHD
@@ -68,55 +136,3 @@ http://ultimateiptv.me:8080/live/amira/amira123/11033.m3u8
 #EXTINF:-1, L2...|IT| SUPERTENNIS HD
 http://ultimateiptv.me:8080/live/amira/amira123/2813.m3u8
 
-#EXTINF:-1,..L3...DAZN 1
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38469.m3u8
-#EXTINF:-1,..L3...DAZN 2
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/38470.m3u8
-#EXTINF:-1,..L3...FOX SPORT 3 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18527.m3u8
-#EXTINF:-1,..L3...FOX SPORT 4 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18526.m3u8
-#EXTINF:-1,..L3...FOX SPORT 5 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18525.m3u8
-#EXTINF:-1,..L3...FOX SPORT 6 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18524.m3u8
-#EXTINF:-1,..L3...RMC SPORT 1
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/541.m3u8
-#EXTINF:-1,..L3...RMC SPORT 2
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/540.m3u8
-#EXTINF:-1,..L3...RMC SPORT 3
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/539.m3u8
-#EXTINF:-1,..L3...BEIN SPORT MAX 1 SD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/67780.m3u8
-#EXTINF:-1,..L3...BEIN SPORT MAX 2 SD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/67781.m3u8
-#EXTINF:-1,..L3...BEIN SPORT MAX 3 SD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/67782.m3u8
-#EXTINF:-1,..L3...BEIN SPORTS ENGLISH 1 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63916.m3u8
-#EXTINF:-1,..L3...BEIN SPORTS ENGLISH 2 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63914.m3u8
-#EXTINF:-1,..L3...BEIN SPORTS ENGLISH 3 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63915.m3u8
-#EXTINF:-1,..L3...BEIN SPORTS FRENCH 1 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63917.m3u8
-#EXTINF:-1,..L3...BEIN SPORTS FRENCH 2 HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63918.m3u8
-#EXTINF:-1,..L3...BEIN SPORT 1 FHD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/5658.m3u8
-#EXTINF:-1,..L3...BEIN SPORT 2 FHD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/37619.m3u8
-#EXTINF:-1,..L3...BEIN SPORT 3 FHD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/5656.m3u8
-#EXTINF:-1,..L3...BEIN SPORT 4 FHD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/5655.m3u8
-#EXTINF:-1,..L3...BEIN SPORT 5 FHD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/5654.m3u8
-#EXTINF:-1,..L3...BEIN SPORT 6 FHD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/5653.m3u8
-#EXTINF:-1,..L3...BEIN SPORT 7 FHD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/5652.m3u8
-#EXTINF:-1,..L3...SUPER TENNIS HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/18399.m3u8
-#EXTINF:-1,..L3...TENNIS CHANNEL HD
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/39094.m3u8
