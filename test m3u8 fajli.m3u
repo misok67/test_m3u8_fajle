@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Ex-Yu | Hr: HNTV HD
-http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44332
-#EXTINF:-1,|CRO| HNTV
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/33160
-
-
 #EXTINF:-1,..L2...,DE: DAZN 2 HD
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/83843.m3u8
 #EXTINF:-1,..L2...,DE: DAZN 1 HD
@@ -67,47 +61,36 @@ http://teslaiptv.com:8080/live/hannaxhanna/es576457/94678.m3u8
 #EXTINF:-1,..L2...,USA : TENNIS HD
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/67855.m3u8
 
-#EXTINF:-1,[EXYU] SPORT KLUB 3
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6897.m3u8
-#EXTINF:-1,[EXYU] SPORT KLUB 2
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6898.m3u8
-#EXTINF:-1,[EXYU] SPORT KLUB 1
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6899.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 6 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6900.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 5 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6901.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 4 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6902.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 3 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6903.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 2 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6904.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 1 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6905.m3u8
-#EXTINF:-1,[DE] DAZN 1 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2315.m3u8
-#EXTINF:-1,[DE] DAZN 2 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2316.m3u8
-#EXTINF:-1,[DE] SKY SPORT 1 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2341.m3u8
-#EXTINF:-1,[DE] SKY SPORT 1 SD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2342.m3u8
-#EXTINF:-1,[DE] SKY SPORT 2 HD [ ONLY ON MATCHDAY ]
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2343.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 6 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10513.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 5 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10514.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 4 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10515.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 3 HD EREDIVISIE
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10516.m3u8
-#EXTINF:-1,[NL] ZIGGO SPORT SELECT HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10454.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 1HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/115.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 2HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/114.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 3HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/113.m3u8
+#EXTINF:-1,..L1...BEIN SPORT 1 HD PREMIUM
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/1
+#EXTINF:-1,..L1...BEIN SPORT 2 HD PREMIUM
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/2
+#EXTINF:-1,..L1...BEIN SPORT 3 HD PREMIUM
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/3
+#EXTINF:-1,..L1...BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/4
+#EXTINF:-1,..L1...BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/5
+#EXTINF:-1,..L1...BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/6
+#EXTINF:-1,..L1...BEIN SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/8
+#EXTINF:-1,..L1...BEIN SPORT 6 HD
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/9
+#EXTINF:-1,..L1...BEIN SPORT 7 HD
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/10
+#EXTINF:-1,..L1...BEIN SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/7
+#EXTINF:-1,..L1...bein sport usa
+#EXTVLCOPT:http-user-agent=Jeisiejejusudyyggdh
+http://ricoootv.xyz:8080/Znnjjjjbbxjx/Hxjzhjjjjjg/84
