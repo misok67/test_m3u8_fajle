@@ -1,5 +1,128 @@
 #EXTM3U
 
+#EXTINF:-1,[EXYU] SPORT KLUB 3
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6897.m3u8
+#EXTINF:-1,[EXYU] SPORT KLUB 2
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6898.m3u8
+#EXTINF:-1,[EXYU] SPORT KLUB 1
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6899.m3u8
+#EXTINF:-1,[EXYU] SPORT KLUB 3
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6948.m3u8
+#EXTINF:-1,[EXYU] SPORT KLUB 2
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6949.m3u8
+#EXTINF:-1,[EXYU] SPORT KLUB 1
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6953.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORTS 5 HR
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6901.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORTS 4 HR
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6902.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORTS 3 HR
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6903.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORTS 2 HR
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6904.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORTS 1 HR
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6905.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORT 5 SRB
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6940.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORT 4 SRB
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6941.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORT 3 SRB
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6942.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORT 2 SRB
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6943.m3u8
+#EXTINF:-1,[EXYU] ARENA SPORT 1 SRB
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6944.m3u8
+#EXTINF:-1,[DE] DAZN 1 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2315.m3u8
+#EXTINF:-1,[DE] DAZN 2 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2316.m3u8
+#EXTINF:-1,[DE] SKY SPORT 1
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2298.m3u8
+#EXTINF:-1,[DE] SKY SPORT 2
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2301.m3u8
+#EXTINF:-1,[NL] FOX SPORTS 6 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10513.m3u8
+#EXTINF:-1,[NL] FOX SPORTS 5 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10514.m3u8
+#EXTINF:-1,[NL] FOX SPORTS 4 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10515.m3u8
+#EXTINF:-1,[NL] FOX SPORTS 3 HD EREDIVISIE
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10516.m3u8
+#EXTINF:-1,[FR] RMC SPORT LIVE 1 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/36.m3u8
+#EXTINF:-1,[FR] RMC SPORT LIVE 2 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/34.m3u8
+#EXTINF:-1,[FR] RMC SPORT LIVE 3 HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/895.m3u8
+#EXTINF:-1,[NL] ZIGGO SPORT VOETBAL HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10453.m3u8
+#EXTINF:-1,[FR] BEIN SPORT 1HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/115.m3u8
+#EXTINF:-1,[FR] BEIN SPORT 2HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/114.m3u8
+#EXTINF:-1,[FR] BEIN SPORT 3HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/113.m3u8
+#EXTINF:-1,[IT] SUPER TENNIS HD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/947.m3u8
+#EXTINF:-1,[AF] S TENNIS FHD
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/14712.m3u8
+
+#EXTINF:-1,SPORT KLUB 1 (HR) 
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/5774.m3u8
+#EXTINF:-1,SPORT KLUB 1 (HR) L2
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/29944.m3u8
+#EXTINF:-1,SPORT KLUB 2 (HR) 
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/30132.m3u8
+#EXTINF:-1,SPORT KLUB 2 (HR) L2
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/30133.m3u8
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1527.m3u8
+#EXTINF:-1,SPORT KLUB 3 (HR) L2
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/29946.m3u8
+#EXTINF:-1,ARENA SPORT 1 ( SRB ) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1515.m3u8
+#EXTINF:-1,ARENA SPORT 2 ( SRB ) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1514.m3u8
+#EXTINF:-1,ARENA SPORT 3 ( SRB ) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1513.m3u8
+#EXTINF:-1,ARENA SPORT 4 ( SRB ) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1512.m3u8
+#EXTINF:-1,ARENA SPORT 5 ( SRB ) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1511.m3u8
+#EXTINF:-1,ARENA SPORT 1 (HR) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1520.m3u8
+#EXTINF:-1,ARENA SPORT 2 (HR) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1519.m3u8
+#EXTINF:-1,ARENA SPORT 3 (HR) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1518.m3u8
+#EXTINF:-1,ARENA SPORT 3 (HR) FHD L2
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/30195.m3u8
+#EXTINF:-1,ARENA SPORT 4 (HR) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1517.m3u8
+#EXTINF:-1,ARENA SPORT 5 (HR) FHD
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1516.m3u8
+#EXTINF:-1,DAZN BAR 1 HD (DE)
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/5816.m3u8
+#EXTINF:-1,DAZN BAR 2 (DE)
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/5817.m3u8
+#EXTINF:-1,FOX SPORTS 2 (NL)
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1465.m3u8
+#EXTINF:-1,FOX SPORTS 4 (NL)
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/1463.m3u8
+#EXTINF:-1,FOX SPORTS 5 (NL)
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13682.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/6941.m3u8
+#EXTINF:-1,RMC SPORT 1
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/29462.m3u8
+#EXTINF:-1,RMC SPORT 2
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/29463.m3u8
+#EXTINF:-1,RMC SPORT 3
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/3693.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL
+http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13684.m3u8
+
+
 #EXTINF:-1,..L2...,DE: DAZN 2 HD
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/83843.m3u8
 #EXTINF:-1,..L2...,DE: DAZN 1 HD
