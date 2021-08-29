@@ -1,72 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,[EXYU] SPORT KLUB 3
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6897.m3u8
-#EXTINF:-1,[EXYU] SPORT KLUB 2
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6898.m3u8
-#EXTINF:-1,[EXYU] SPORT KLUB 1
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6899.m3u8
-#EXTINF:-1,[EXYU] SPORT KLUB 3
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6948.m3u8
-#EXTINF:-1,[EXYU] SPORT KLUB 2
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6949.m3u8
-#EXTINF:-1,[EXYU] SPORT KLUB 1
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6953.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 5 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6901.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 4 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6902.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 3 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6903.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 2 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6904.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORTS 1 HR
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6905.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORT 5 SRB
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6940.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORT 4 SRB
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6941.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORT 3 SRB
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6942.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORT 2 SRB
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6943.m3u8
-#EXTINF:-1,[EXYU] ARENA SPORT 1 SRB
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/6944.m3u8
-#EXTINF:-1,[DE] DAZN 1 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2315.m3u8
-#EXTINF:-1,[DE] DAZN 2 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2316.m3u8
-#EXTINF:-1,[DE] SKY SPORT 1
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2298.m3u8
-#EXTINF:-1,[DE] SKY SPORT 2
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/2301.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 6 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10513.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 5 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10514.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 4 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10515.m3u8
-#EXTINF:-1,[NL] FOX SPORTS 3 HD EREDIVISIE
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10516.m3u8
-#EXTINF:-1,[FR] RMC SPORT LIVE 1 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/36.m3u8
-#EXTINF:-1,[FR] RMC SPORT LIVE 2 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/34.m3u8
-#EXTINF:-1,[FR] RMC SPORT LIVE 3 HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/895.m3u8
-#EXTINF:-1,[NL] ZIGGO SPORT VOETBAL HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/10453.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 1HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/115.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 2HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/114.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 3HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/113.m3u8
-#EXTINF:-1,[IT] SUPER TENNIS HD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/947.m3u8
-#EXTINF:-1,[AF] S TENNIS FHD
-http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/14712.m3u8
-
 #EXTINF:-1,SPORT KLUB 1 (HR) 
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/5774.m3u8
 #EXTINF:-1,SPORT KLUB 1 (HR) L2
@@ -122,6 +55,132 @@ http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/3693.m3u8
 #EXTINF:-1,ZIGGO SPORT VOETBAL
 http://srv-100.bluesite.club:2095/live/4vtqX5ytxe/QHFLAm5X7g/13684.m3u8
 
+#EXTINF:-1,UK-S: BT SPORT 1 HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000900.m3u8
+#EXTINF:-1,UK-S: BT SPORT 2 HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000899.m3u8
+#EXTINF:-1,UK-S: BT SPORT 3 HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000898.m3u8
+#EXTINF:-1,UK-S: BT SPORT ESPN
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000907.m3u8
+#EXTINF:-1,UK SD | SKY SPORTS F1 SD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2176489.m3u8
+#EXTINF:-1,UK SD | SKY SPORTS MAIN EVENT SD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2176495.m3u8
+#EXTINF:-1,UK-S: SKY SPORTS F1 HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000730.m3u8
+#EXTINF:-1,UK-S: SKY SPORTS MAIN EVENT HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000727.m3u8
+#EXTINF:-1,UK-S: SKY SPORTS PREMIER LEAGUE
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000725.m3u8
+#EXTINF:-1,DE: SKY SPORTS 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2170860.m3u8
+#EXTINF:-1,DE: SKY SPORTS 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2170859.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180430.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180432.m3u8
+#EXTINF:-1,US-S: BEIN SPORTS 
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000080.m3u8
+#EXTINF:-1,US-S: BEIN SPORTS 4
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1051812.m3u8
+#EXTINF:-1,US-S: BEIN SPORTS 5
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1051813.m3u8
+#EXTINF:-1,US-S: BEIN SPORTS 6
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1051814.m3u8
+#EXTINF:-1,US-S: BEIN SPORTS 7
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1051815.m3u8
+#EXTINF:-1,US-S: BEIN SPORTS 8
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1051816.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170890.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 1 (ENGLISH)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170900.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 1 (PREMIUM)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170897.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170891.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 2 (ENGLISH)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170901.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 2 (PREMIUM)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170898.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 3
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170892.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 3 (ENGLISH)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170902.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 3 (PREMIUM)
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170899.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 4
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170893.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 5
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170894.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 6
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170895.m3u8
+#EXTINF:-1,ARABIC: BEIN SPORTS 7
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170896.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 FHD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180445.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 FHD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180407.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 FHD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180409.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180408.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180448.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1039706.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 1
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170931.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 10
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180081.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 11
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170921.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 12
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170920.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 13
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170919.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 14
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170918.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 2
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170932.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 3
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170929.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 4
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180087.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 5
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180086.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 6
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180085.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 7
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180084.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 8
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180083.m3u8
+#EXTINF:-1,US-S: TENNIS CHANNEL PLUS 9
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2180082.m3u8
+#EXTINF:-1,ZA: SUPERSPORT TENNIS
+http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1170847.m3u8
+
+
+#EXTINF:-1,BT Sports 1 FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/d89a62b5-d675-47b2-8089-d7ca685de61e/mpegts
+#EXTINF:-1,BT Sport 2 FHD [50 FPS] UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/1ee9500f-be72-48ef-a4ff-d05c3c8270da/mpegts
+#EXTINF:-1,BT Sport ESPN FHD [50 FPS] UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/42de1d28-539c-4223-adbd-1a946bae643f/mpegts
+#EXTINF:-1,BT Sport 3 FHD [50 FPS] UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/a8356126-a87e-4f96-9796-e746a1206d36/mpegts
+#EXTINF:-1,Sky Sports Main Event FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/a56a4762-bc00-4ef3-af90-b35a4ea1d0b8/mpegts
+#EXTINF:-1,Sky Sports Arena FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/11b4c484-1e30-4684-ae38-5948760f65eb/mpegts
+#EXTINF:-1,Sky Sports Football FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/61af8e5c-f6e2-421b-998f-1e352cf451fc/mpegts
+#EXTINF:-1,Premier Sports 2 FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/84d486b8-eb11-44d1-93e2-103a9a893bac/mpegts
+#EXTINF:-1,Premier Sports 1 FHD UK
+http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/a362400c-406b-4e61-9c3a-3d8c6dfd49d2/mpegts
 
 #EXTINF:-1,..L2...,DE: DAZN 2 HD
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/83843.m3u8
