@@ -7,12 +7,17 @@ http://super-iptv.net:2052/live/1111/1111/38147.m3u8
 http://super-iptv.net:2052/live/1111/1111/38123.m3u8
 #EXTINF:-1,(US) ESPN 1 4K+
 http://super-iptv.net:2052/live/1111/1111/50145.m3u8
-
-
 #EXTINF:-1,(US) TSN 1 4K+
 http://super-iptv.net:2052/live/1111/1111/50151.m3u8
 #EXTINF:-1,TSN 1
 http://super-iptv.net:2052/live/1111/1111/38044.m3u8
+
+#EXTINF:-1,|FR|** EUROSPORT 1 FHD
+http://hdlocal.de:8080/live/Wahiba/Wahiba123/2444.m3u8
+#EXTINF:-1,|UK|*** USA:TSN 1 HD
+http://hdlocal.de:8080/live/Wahiba/Wahiba123/4152.m3u8
+#EXTINF:-1,|USA| ESPN 1 HD
+http://hdlocal.de:8080/live/Wahiba/Wahiba123/5398.m3u8
 
 #EXTINF:-1,DE: Eurosport 1
 http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2171813.m3u8
