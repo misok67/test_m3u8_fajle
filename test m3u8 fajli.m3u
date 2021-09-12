@@ -16,6 +16,12 @@ http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179035.m3u8
 http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179001.m3u8
 #EXTINF:-1,CA: TSN3 SD
 http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/2179036.m3u8
+#EXTINF:-1, L1...BEIN SPORT 12 AR
+http://geoiptv.me:8880/live/iptvtree/yfL7uQLwXl/115756.m3u8
+#EXTINF:-1, L1...US: ESPN 1 HD
+http://geoiptv.me:8880/live/iptvtree/yfL7uQLwXl/115825.m3u8
+#EXTINF:-1, L1...CA: TSN 1 HD
+http://geoiptv.me:8880/live/iptvtree/yfL7uQLwXl/108621.m3u8
 
 #EXTINF:-1,UK-S: BT SPORT 1 HD
 http://vstreams.tv:2082/live/Qw5C7Ahkv/dP5mHFHukk/1000900.m3u8
