@@ -393,34 +393,6 @@ http://smartgo.site:8080/live/8298937393816531/8298937393816531/223483.m3u8
 #EXTINF:-1,L2...[TH] TRUE TENNIS HD
 http://smartgo.site:8080/live/8298937393816531/8298937393816531/166224.m3u8
 
-#EXTINF:-1,DE: DAZN 1 HD (LOCAL)
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/94
-#EXTINF:-1,DE: DAZN 1 FHD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/17252
-#EXTINF:-1,DE: DAZN 2 HD (LOCAL)
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/95
-#EXTINF:-1,DE: DAZN 2 FHD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/17253
-#EXTINF:-1,DE: SKY SPORT F1 FORMEL 1 HD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14278
-#EXTINF:-1,DE: SKY SPORT F1 FORMEL 1 FHD 
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14279
-#EXTINF:-1,DE: SKY SPORT AUSTRIA 1 HD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/76
-#EXTINF:-1,DE: SKY SPORT AUSTRIA 2 HD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/785
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/119
-#EXTINF:-1,DE: SKY SPORT 1 FHD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/118
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/121
-#EXTINF:-1,DE: SKY SPORT 2 FHD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/120
-#EXTINF:-1,UK: SKY SPORT F1 FORMEL 1 FHD
-http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14061
-
-
 
 #EXTINF:-1,DE: DAZN 1 HD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/36634
@@ -560,3 +532,31 @@ http://live.iptvtotaal.com:8000/6234122498/8329556324/40534
 http://live.iptvtotaal.com:8000/6234122498/8329556324/42136
 #EXTINF:-1,L1...ES: M. L.CAMPEONES 1 FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/37330
+
+#EXTINF:-1,DE: DAZN 1 HD (LOCAL)
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/94
+#EXTINF:-1,DE: DAZN 1 FHD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/17252
+#EXTINF:-1,DE: DAZN 2 HD (LOCAL)
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/95
+#EXTINF:-1,DE: DAZN 2 FHD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/17253
+#EXTINF:-1,DE: SKY SPORT F1 FORMEL 1 HD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14278
+#EXTINF:-1,DE: SKY SPORT F1 FORMEL 1 FHD 
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14279
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 1 HD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/76
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 2 HD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/785
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/119
+#EXTINF:-1,DE: SKY SPORT 1 FHD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/118
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/121
+#EXTINF:-1,DE: SKY SPORT 2 FHD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/120
+#EXTINF:-1,UK: SKY SPORT F1 FORMEL 1 FHD
+http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14061
+
