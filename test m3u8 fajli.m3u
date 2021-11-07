@@ -11,62 +11,7 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,CRO (HD) -SPORT KLUB 1 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37148.m3u8
-#EXTINF:-1,CRO (HD) -SPORT KLUB 2 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37150.m3u8
-#EXTINF:-1,CRO (HD) -SPORT KLUB 3 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37151.m3u8
-#EXTINF:-1,RS (HD) -SPORT KLUB 1 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36898.m3u8
-#EXTINF:-1,RS (HD) -SPORT KLUB 1 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36899.m3u8
-#EXTINF:-1,RS (HD) -SPORT KLUB 2 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36900.m3u8
-#EXTINF:-1,RS (HD) -SPORT KLUB 2 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36901.m3u8
-#EXTINF:-1,RS (HD) -SPORT KLUB 3 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36902.m3u8
-#EXTINF:-1,RS (HD) -SPORT KLUB 3 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36903.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 1 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37014.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 1 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37015.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 2 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37016.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 2 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37017.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 3 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37018.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 3 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37019.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 4 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37020.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 4 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37021.m3u8
-#EXTINF:-1,CRO (HD) -ARENA SPORT 5 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/37022.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 1 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36765.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 1 (BACKUP)
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36768.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 2 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36767.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 2 (BACKUP)
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36770.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 3 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36769.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 3 (BACKUP)
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36772.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 4 HD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36771.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 4 (BACKUP)
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36774.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 5 FHD
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36773.m3u8
-#EXTINF:-1,RS (HD) -ARENA SPORT 5 (BACKUP)
-http://dream4k.co:2082/live/mminass770399/alvrdbib3s/36897.m3u8
+
 #EXTINF:-1,|HEVC| DAZN 1 HD
 http://dream4k.co:2082/live/mminass770399/alvrdbib3s/246762.m3u8
 #EXTINF:-1,|HEVC| DAZN 2 HD
