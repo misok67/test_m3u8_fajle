@@ -1,87 +1,24 @@
 #EXTM3U
-#EXTINF:-1,Eurosport 1 HD UK
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/117728
-#EXTINF:-1,Eurosport 1 FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8339.m3u8
-#EXTINF:-1,Eurosport 2 HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/128363.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/19521.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/19522.m3u8
-#EXTINF:-1,EUROSPORT 1 FR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/23006.m3u8
-#EXTINF:-1,EUROSPORT 2 FR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/23005.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD IT
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/50872.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD IT
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/50874.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/31249.m3u8
-#EXTINF:-1,EUROSPORT 2 HD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/31250.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111631.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD+ AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111632.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD+ AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111637.m3u8
-#EXTINF:-1,BEIN SPORTS 6 FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111639.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD+ AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111642.m3u8
-#EXTINF:-1,BEIN SPORTS 7 FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111644.m3u8
-#EXTINF:-1,TSN 1 HD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10921.m3u8
-#EXTINF:-1,TSN 2 FHD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10920.m3u8
-#EXTINF:-1,TSN 2 HD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10919.m3u8
-#EXTINF:-1,TSN 3 FHD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10918.m3u8
-#EXTINF:-1,TSN 3 HD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10917.m3u8
-#EXTINF:-1,TSN 4 FHD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10916.m3u8
-#EXTINF:-1,TSN 5 FHD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10915.m3u8
-#EXTINF:-1,TSN 5 HD CA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/10914.m3u8
-#EXTINF:-1,TENNIS CHANNEL HD US
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8244.m3u8
-#EXTINF:-1,SUPER TENNIS FHD IT
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/51138.m3u8
-#EXTINF:-1,SUPER TENNIS HD IT
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/51139.m3u8
-#EXTINF:-1,TENNIS HD TH
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/115805.m3u8
+
+#EXTINF:-1 ,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 ,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 ,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 ,RTL CRO
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
 #EXTINF:-1, L2...DE : EUROSPORT 1
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92355.m3u8
 #EXTINF:-1, L2...DE : EUROSPORT 2
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92356.m3u8
-#EXTINF:-1, L2...DUTCH: EUROSPORT 1
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92912.m3u8
-#EXTINF:-1, L2...DUTCH: EUROSPORT 2
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92913.m3u8
-#EXTINF:-1, L2...FR : EUROSPORT 1
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92214.m3u8
-#EXTINF:-1, L2...FR : EUROSPORT 2
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92215.m3u8
-#EXTINF:-1, L2...GB : EUROSPORT 1
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/72659.m3u8
-#EXTINF:-1, L2...GB : EUROSPORT 2
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/72660.m3u8
 #EXTINF:-1, L2...GB : EUROSPORT ONE
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/99200.m3u8
 #EXTINF:-1, L2...GB : EUROSPORT TWO
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/99201.m3u8
-#EXTINF:-1, L2...IT : EUROSPORT 1
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/94204.m3u8
-#EXTINF:-1, L2...IT : EUROSPORT 2
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/94203.m3u8
 #EXTINF:-1, L2...SPORTS : BEIN SPORTS 05
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66776.m3u8
 #EXTINF:-1, L2...SPORTS : BEIN SPORTS 06
@@ -92,21 +29,6 @@ http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66778.m3u8
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66783.m3u8
 #EXTINF:-1, L2...CA : TSN 1
 http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/3202.m3u8
-#EXTINF:-1, L2...CA : TSN 2
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/3201.m3u8
-#EXTINF:-1, L2...CA : TSN 3
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/8802.m3u8
-#EXTINF:-1, L2...CA : TSN 4
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/3199.m3u8
-#EXTINF:-1, L2...CA : TSN 5
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/3198.m3u8
-#EXTINF:-1, L2...US : TENNIS CHANNEL
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/327.m3u8
-#EXTINF:-1, L2...US : TENNIS CHANNEL FHD 1080
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/64029.m3u8
-#EXTINF:-1, L2...US-720 : TENNIS CHANNEL
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/95435.m3u8
-
 
 #EXTINF:-1,BEIN SPORTS ENGLISH 2 FHD VIP AR
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/689288.m3u8
@@ -268,176 +190,6 @@ http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/678027.m3u8
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/686282.m3u8
 #EXTINF:-1,SUPERTENNIS FHD IT
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/686281.m3u8
-
-#EXTINF:-1, L1...SPORT KLUB 1 HD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/14103.m3u8
-#EXTINF:-1, L1...SPORT KLUB 2 HD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/14102.m3u8
-#EXTINF:-1, L1...SPORT KLUB 3 HD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/14101.m3u8
-#EXTINF:-1, L1...SPORT KLUB 1 HD RS
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/29935.m3u8
-#EXTINF:-1, L1...SPORT KLUB 1 FHD RS
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/29938.m3u8
-#EXTINF:-1, L1...SPORT KLUB 2 HD RS
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/29934.m3u8
-#EXTINF:-1, L1...SPORT KLUB 2 FHD RS
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/29937.m3u8
-#EXTINF:-1, L1...SPORT KLUB 3 HD RS
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/29933.m3u8
-#EXTINF:-1, L1...SPORT KLUB 3 FHD RS
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/29936.m3u8
-#EXTINF:-1, L1...ARENA SPORT BIH 1 BA
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/107272.m3u8
-#EXTINF:-1, L1...ARENA SPORT FHD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/102553.m3u8
-#EXTINF:-1, L1...ARENA SPORT 1 HD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/41396.m3u8
-#EXTINF:-1, L1...ARENA SPORT 1 FHD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/102548.m3u8
-#EXTINF:-1, L1...ARENA SPORT 2 HD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/41395.m3u8
-#EXTINF:-1, L1...ARENA SPORT 2 FHD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/102549.m3u8
-#EXTINF:-1, L1...ARENA SPORT 3 HD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/41394.m3u8
-#EXTINF:-1, L1...ARENA SPORT 3 FHD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/102550.m3u8
-#EXTINF:-1, L1...ARENA SPORT 4 HD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/41393.m3u8
-#EXTINF:-1, L1...ARENA SPORT 4 FHD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/102551.m3u8
-#EXTINF:-1, L1...ARENA SPORT 5 FHD HR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/102552.m3u8
-#EXTINF:-1, L1...DAZN BAR 1 FHD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/26506.m3u8
-#EXTINF:-1, L1...DAZN BAR 1 2K DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/46200.m3u8
-#EXTINF:-1, L1...DAZN BAR 2 FHD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/26505.m3u8
-#EXTINF:-1, L1...DAZN BAR 2 2K DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/46201.m3u8
-#EXTINF:-1, L1...BT SPORTS 1 HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/9851.m3u8
-#EXTINF:-1, L1...BT SPORTS 1 FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/9850.m3u8
-#EXTINF:-1, L1...BT SPORTS 2 HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/9849.m3u8
-#EXTINF:-1, L1...BT SPORTS 2 FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/9848.m3u8
-#EXTINF:-1, L1...BT SPORTS 3 HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/9847.m3u8
-#EXTINF:-1, L1...BT SPORTS 3 FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/9846.m3u8
-#EXTINF:-1, L1...BT SPORTS ESPN FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/23657.m3u8
-#EXTINF:-1, L1...SKY SPORTS ACTION HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/35621.m3u8
-#EXTINF:-1, L1...SKY SPORTS ACTION FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/37071.m3u8
-#EXTINF:-1, L1...SKY SPORTS ARENA HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11656.m3u8
-#EXTINF:-1, L1...SKY SPORTS ARENA FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11655.m3u8
-#EXTINF:-1, L1...SKY SPORTS FOOTBALL HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11659.m3u8
-#EXTINF:-1, L1...SKY SPORTS FOOTBALL FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11658.m3u8
-#EXTINF:-1, L1...SKY SPORTS MAIN EVENT HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/24461.m3u8
-#EXTINF:-1, L1...SKY SPORTS MAIN EVENT FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/37073.m3u8
-#EXTINF:-1, L1...SKY SPORTS MIX HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/24462.m3u8
-#EXTINF:-1, L1...SKY SPORTS MIX FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8336.m3u8
-#EXTINF:-1, L1...SKY SPORTS NFL HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/85893.m3u8
-#EXTINF:-1, L1...SKY SPORTS PREMIER LEAGUE HD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/9807.m3u8
-#EXTINF:-1, L1...SKY SPORTS PREMIER LEAGUE FHD UK
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/37069.m3u8
-#EXTINF:-1, L1...SKY SPORT 1 FHD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11717.m3u8
-#EXTINF:-1, L1...SKY SPORT 2 HD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11716.m3u8
-#EXTINF:-1, L1...SKY SPORT BUNDESLIGA 1 HD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11715.m3u8
-#EXTINF:-1, L1...SKY SPORT BUNDESLIGA 2 FHD DE
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/11714.m3u8
-#EXTINF:-1, L1...FOX SPORTS 3 HD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/12092.m3u8
-#EXTINF:-1, L1...FOX SPORTS 3 FHD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8407.m3u8
-#EXTINF:-1, L1...FOX SPORTS 4 HD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8406.m3u8
-#EXTINF:-1, L1...FOX SPORTS 4 FHD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/12091.m3u8
-#EXTINF:-1, L1...FOX SPORTS 5 HD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/12090.m3u8
-#EXTINF:-1, L1...FOX SPORTS 5 FHD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8405.m3u8
-#EXTINF:-1, L1...FOX SPORTS 6 FHD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8404.m3u8
-#EXTINF:-1, L1...RMC SPORT UHD FR [ONLY ON 4K DEVICES]
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/101205.m3u8
-#EXTINF:-1, L1...RMC SPORT 2 HD FR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/27734.m3u8
-#EXTINF:-1, L1...RMC SPORT 3 HD FR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/27733.m3u8
-#EXTINF:-1, L1...ZIGGO SPORT VOETBAL HD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/37330.m3u8
-#EXTINF:-1, L1...ZIGGO SPORT VOETBAL FHD NL
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/12052.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 1 PREMIUM HD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111596.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 1 PREMIUM FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111599.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 2 PREMIUM FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111604.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 2 PREMIUM 4K AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111603.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 3 PREMIUM 4K AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111608.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 3 PREMIUM FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111609.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 1 HD+
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111612.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 2 HD+ AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111617.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 3 HD+ AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111622.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 4 FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111629.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 5 FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111634.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 6 FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111639.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 7 FHD AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111644.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 7 4K AR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/111643.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 1 FHD FR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/27738.m3u8
-#EXTINF:-1, L1...BEIN SPORTS 2 FHD FR
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/27737.m3u8
-#EXTINF:-1, L1...TENNIS CHANNEL HD US
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/8244.m3u8
-#EXTINF:-1, L1...SUPER TENNIS FHD IT
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/51138.m3u8
-#EXTINF:-1, L1...SUPER TENNIS HD IT
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/51139.m3u8
-#EXTINF:-1, L1...TENNIS HD TH
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/115805.m3u8
-#EXTINF:-1, L1...MOVISTAR DEPORTE 1 FHD ES
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/48795.m3u8
-#EXTINF:-1, L1...MOVISTAR DEPORTE 2 ES
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/48796.m3u8
-#EXTINF:-1, L1...LIGA CAMPEONES 1 ES
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/48757.m3u8
-#EXTINF:-1, L1...LIGA CAMPEONES 1 HD ES
-http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/48756.m3u8
-
 
 #EXTINF:-1,EN | FIFA | Croatia Vs Denmark
 http://my34.xyz:8080/movie/hiyk4qx9i5/df5ztup5ss/40383.mp4
