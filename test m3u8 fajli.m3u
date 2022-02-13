@@ -11,82 +11,139 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1, L2...DE : EUROSPORT 1
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92355.m3u8
-#EXTINF:-1, L2...DE : EUROSPORT 2
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/92356.m3u8
-#EXTINF:-1, L2...GB : EUROSPORT ONE
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/99200.m3u8
-#EXTINF:-1, L2...GB : EUROSPORT TWO
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/99201.m3u8
-#EXTINF:-1, L2...SPORTS : BEIN SPORTS 05
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66776.m3u8
-#EXTINF:-1, L2...SPORTS : BEIN SPORTS 06
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66777.m3u8
-#EXTINF:-1, L2...SPORTS : BEIN SPORTS 07
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66778.m3u8
-#EXTINF:-1, L2...SPORTS : BEIN SPORTS ENGLISH 02
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/66783.m3u8
-#EXTINF:-1, L2...CA : TSN 1
-http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/3202.m3u8
+#EXTINF:-1,UK BT SPORTS 1
+http://ky-iptv.com:80/live/grumpy/grumpy/1846762.m3u8
+#EXTINF:-1,UK BT SPORTS 2
+http://ky-iptv.com:80/live/grumpy/grumpy/1846763.m3u8
+#EXTINF:-1,UK BT SPORTS 3
+http://ky-iptv.com:80/live/grumpy/grumpy/1846764.m3u8
+#EXTINF:-1,UK SKY SPORTS NFL FHD
+http://ky-iptv.com:80/live/grumpy/grumpy/1400413.m3u8
+#EXTINF:-1,UK SKY SPORTS ARENA 2 (P)
+http://ky-iptv.com:80/live/grumpy/grumpy/1769167.m3u8
+#EXTINF:-1,UK SKY SPORTS PREMIER LEAGUE
+http://ky-iptv.com:80/live/grumpy/grumpy/1821337.m3u8
+#EXTINF:-1,UK SKY SPORTS ARENA
+http://ky-iptv.com:80/live/grumpy/grumpy/1846772.m3u8
+#EXTINF:-1,UK SKY SPORTS FOOTBALL
+http://ky-iptv.com:80/live/grumpy/grumpy/1846775.m3u8
+#EXTINF:-1,UK SKY SPORTS MAIN EVENTS
+http://ky-iptv.com:80/live/grumpy/grumpy/1847084.m3u8
+#EXTINF:-1,UK SKY SPORTS MIX
+http://ky-iptv.com:80/live/grumpy/grumpy/1847433.m3u8
+#EXTINF:-1,USA TENNIS CHANNEL
+http://ky-iptv.com:80/live/grumpy/grumpy/220448.m3u8
+#EXTINF:-1,USA TENNIS 01:
+http://ky-iptv.com:80/live/grumpy/grumpy/591816.m3u8
+#EXTINF:-1,USA TENNIS PLUS 1
+http://ky-iptv.com:80/live/grumpy/grumpy/1700527.m3u8
+#EXTINF:-1,USA TENNIS PLUS 2
+http://ky-iptv.com:80/live/grumpy/grumpy/1700528.m3u8
 
-#EXTINF:-1,BEIN SPORTS ENGLISH 2 FHD VIP AR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/689288.m3u8
-#EXTINF:-1,SUPERSPORT TENNIS HD VIP AF
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/678027.m3u8
-#EXTINF:-1,BEIN SPORTS 5 [HEVC] FHD VIP AR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682935.m3u8
-#EXTINF:-1,BEIN SPORTS 5 FHD VIP AR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5478.m3u8
-#EXTINF:-1,BEIN SPORTS 6 [HEVC] FHD VIP AR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/54777.m3u8
-#EXTINF:-1,BEIN SPORTS 7 [HEVC] FHD VIP AR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683135.m3u8
+#EXTINF:-1, L1...|DE| DAZN 1 FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/11018.m3u8
+#EXTINF:-1, L1...|DE| DAZN 2 FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/11017.m3u8
+#EXTINF:-1, L1...|UK|| BT SPORT 1 FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/9886.m3u8
+#EXTINF:-1, L1...|UK| BT SPORT 2 FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4195.m3u8
+#EXTINF:-1, L1...|UK| BT SPORT 3 FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4193.m3u8
+#EXTINF:-1, L1...|UK| BT SPORT ESPN FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4191.m3u8
+#EXTINF:-1, L1...|UK|| SKY SPORTS MIX FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/9887.m3u8
+#EXTINF:-1, L1...|UK|| SKY SPORTS ARENA FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/9888.m3u8
+#EXTINF:-1, L1...|UK|| SKY SPORTS ACTION FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/9889.m3u8
+#EXTINF:-1, L1...|UK| SKY SPORTS FOOTBALL FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4211.m3u8
+#EXTINF:-1, L1...|UK| SKY SPORTS MAIN EVENT FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4215.m3u8
+#EXTINF:-1, L1...|UK| SKY SPORTS MAIN EVENT HD
+http://hdlocal.de:8080/live/Wallas/Wallas/4216.m3u8
+#EXTINF:-1, L1...|UK| SKY SPORTS MIX FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4200.m3u8
+#EXTINF:-1, L1...|UK| SKY SPORTS PREM LG FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4213.m3u8
+#EXTINF:-1, L1...|UK| SKY SPORTS PREMIER LEAGUE HD
+http://hdlocal.de:8080/live/Wallas/Wallas/4214.m3u8
+#EXTINF:-1, L1...|DE| SKY SPORT 1 HD
+http://hdlocal.de:8080/live/Wallas/Wallas/11170.m3u8
+#EXTINF:-1, L1...|DE| SKY SPORT 2 HD
+http://hdlocal.de:8080/live/Wallas/Wallas/11171.m3u8
+#EXTINF:-1, L1...|FR| RMC SPORT 1 FIHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665029848.m3u8
+#EXTINF:-1, L1...|FR| RMC SPORT 2 FIHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665029847.m3u8
+#EXTINF:-1, L1...|FR| RMC SPORT 3 FIHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665029849.m3u8
+#EXTINF:-1, L1...|UK| BEIN SPORTS 11 (ENGLISH)
+http://hdlocal.de:8080/live/Wallas/Wallas/4156.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 1 PREMIUM FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665021082.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 2 PREMIUM FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665021083.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 3 PREMIUM FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665021084.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 1 HD LOCAL
+http://hdlocal.de:8080/live/Wallas/Wallas/665018450.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 1 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9681.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 2 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9680.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 3 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9679.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 4 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9678.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 5 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9677.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 6 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9676.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 7 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9675.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 8 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9674.m3u8
+#EXTINF:-1, L1...|AR.BEIN| BEIN SPORTS 9 FHD.
+http://hdlocal.de:8080/live/Wallas/Wallas/9673.m3u8
+#EXTINF:-1, L1...|ES| BEIN SPORTS LA LIGA FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/5417.m3u8
+#EXTINF:-1, L1...|UK| TENNIS CHANNEL
+http://hdlocal.de:8080/live/Wallas/Wallas/11033.m3u8
+#EXTINF:-1, L1...|IT| SUPERTENNIS HD
+http://hdlocal.de:8080/live/Wallas/Wallas/2813.m3u8
 
-#EXTINF:-1,SPORT KLUB 1 HD HR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/625227.m3u8
-#EXTINF:-1,SPORT KLUB HD 2 HR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/7088.m3u8
-#EXTINF:-1, SPORT KLUB HD 3 HR
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/7087.m3u8
-#EXTINF:-1,SPORT KLUB FHD 1 RS
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/53164.m3u8
-#EXTINF:-1,SPORT KLUB FHD 2 RS
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5444.m3u8
-#EXTINF:-1,SPORT KLUB HD 3 RS
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5443.m3u8
-#EXTINF:-1,BT SPORT 1 FHD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683858.m3u8
-#EXTINF:-1,BT SPORT 1 HD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683859.m3u8
-#EXTINF:-1,BT SPORT 1 UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683860.m3u8
-#EXTINF:-1,BT SPORT 2 FHD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683861.m3u8
-#EXTINF:-1,BT SPORT 2 HD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683862.m3u8
-#EXTINF:-1,BT SPORT 3 FHD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683865.m3u8
-#EXTINF:-1,BT SPORT 3 HD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683866.m3u8
-#EXTINF:-1,BT SPORT ESPN FHD VIP UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692291.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682993.m3u8
-#EXTINF:-1,SKY SPORTS MIX FHD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683003.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/684434.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/671299.m3u8
+
+#EXTINF:-1,BT SPORT 1 FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692280.m3u8
+#EXTINF:-1,BT SPORT 1 HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692281.m3u8
+#EXTINF:-1,BT SPORT 2 FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692282.m3u8
+#EXTINF:-1,BT SPORT 2 HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692283.m3u8
+#EXTINF:-1,BT SPORT 3 FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692284.m3u8
+#EXTINF:-1,BT SPORT 3 HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692285.m3u8
+#EXTINF:-1,BT SPORT ESPN HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692292.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692257.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692258.m3u8
 #EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD VIP UK
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692259.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692260.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692262.m3u8
 #EXTINF:-1,SKY SPORTS FOOTBALL FHD VIP UK
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692261.m3u8
 #EXTINF:-1,SKY SPORTS F1 FHD VIP UK
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692269.m3u8
-#EXTINF:-1,SKY SPORTS F1 HD VIP UK
-http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692270.m3u8
 #EXTINF:-1,SKY SPORTS ACTION FHD VIP UK
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692271.m3u8
 #EXTINF:-1,SKY SPORTS ACTION HD VIP UK
@@ -99,6 +156,18 @@ http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692795.m3u8
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692275.m3u8
 #EXTINF:-1,SKY SPORTS MIX VIP UK
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692278.m3u8
+#EXTINF:-1,DAZN 1 FHD DE
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/661090.m3u8
+#EXTINF:-1,DAZN 1 HD DE
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/625243.m3u8
+#EXTINF:-1,DAZN 1 [B] HD DE
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/661088.m3u8
+#EXTINF:-1,DAZN 2 FHD DE
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/661089.m3u8
+#EXTINF:-1,SKY SPORT 1 [B] DE
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/684429.m3u8
+#EXTINF:-1,SKY SPORT 2 FHD DE
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/7362.m3u8
 #EXTINF:-1,RMC SPORT 1 FHD FR
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682956.m3u8
 #EXTINF:-1,RMC SPORT 1 HD FR
@@ -180,6 +249,9 @@ http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683001.m3u8
 #EXTINF:-1,SuperSport PSL HD VIP AF.m3u8
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/678030.m3u8
 
+
+#EXTINF:-1,SUPERSPORT TENNIS HD VIP AF
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/678027.m3u8
 #EXTINF:-1,TENNIS CHANNEL FHD VIP US
 http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683506.m3u8
 #EXTINF:-1,TENNIS CHANNEL HD VIP US
