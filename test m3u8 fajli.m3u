@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1, L1...|UK| BT SPORT 2 FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4195.m3u8
+#EXTINF:-1, L1...|UK| BT SPORT 3 FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/4193.m3u8
+#EXTINF:-1, L1...|FR| RMC SPORT 1 FIHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665029848.m3u8
+#EXTINF:-1,DE : DAZN 1
+http://hostengine.live:25461/live/palmer/palmer/63714.m3u8
+#EXTINF:-1,GB : BT SPORTS 2
+http://hostengine.live:25461/live/palmer/palmer/53851.m3u8
+#EXTINF:-1,GB : BT SPORTS 3
+http://hostengine.live:25461/live/palmer/palmer/53852.m3u8
+#EXTINF:-1,DUTCH: ZIGGO SPORT SELECT
+http://hostengine.live:25461/live/palmer/palmer/79660.m3u8
+#EXTINF:-1,DUTCH: ZIGGO SPORT VOETBAL
+http://hostengine.live:25461/live/palmer/palmer/79661.m3u8
+#EXTINF:-1,FR : RMC SPORT 1
+http://hostengine.live:25461/live/palmer/palmer/57351.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS ENGLISH 01
+http://hostengine.live:25461/live/palmer/palmer/56341.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS ENGLISH 02
+http://hostengine.live:25461/live/palmer/palmer/56342.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS PREMIUM 01
+http://hostengine.live:25461/live/palmer/palmer/56339.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS PREMIUM 02
+http://hostengine.live:25461/live/palmer/palmer/56344.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 1 PREMIUM FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665021082.m3u8
+#EXTINF:-1, L1...BEIN SPORTS 2 PREMIUM FHD
+http://hdlocal.de:8080/live/Wallas/Wallas/665021083.m3u8
+
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
@@ -11,34 +42,6 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,UK BT SPORTS 1
-http://ky-iptv.com:80/live/grumpy/grumpy/1846762.m3u8
-#EXTINF:-1,UK BT SPORTS 2
-http://ky-iptv.com:80/live/grumpy/grumpy/1846763.m3u8
-#EXTINF:-1,UK BT SPORTS 3
-http://ky-iptv.com:80/live/grumpy/grumpy/1846764.m3u8
-#EXTINF:-1,UK SKY SPORTS NFL FHD
-http://ky-iptv.com:80/live/grumpy/grumpy/1400413.m3u8
-#EXTINF:-1,UK SKY SPORTS ARENA 2 (P)
-http://ky-iptv.com:80/live/grumpy/grumpy/1769167.m3u8
-#EXTINF:-1,UK SKY SPORTS PREMIER LEAGUE
-http://ky-iptv.com:80/live/grumpy/grumpy/1821337.m3u8
-#EXTINF:-1,UK SKY SPORTS ARENA
-http://ky-iptv.com:80/live/grumpy/grumpy/1846772.m3u8
-#EXTINF:-1,UK SKY SPORTS FOOTBALL
-http://ky-iptv.com:80/live/grumpy/grumpy/1846775.m3u8
-#EXTINF:-1,UK SKY SPORTS MAIN EVENTS
-http://ky-iptv.com:80/live/grumpy/grumpy/1847084.m3u8
-#EXTINF:-1,UK SKY SPORTS MIX
-http://ky-iptv.com:80/live/grumpy/grumpy/1847433.m3u8
-#EXTINF:-1,USA TENNIS CHANNEL
-http://ky-iptv.com:80/live/grumpy/grumpy/220448.m3u8
-#EXTINF:-1,USA TENNIS 01:
-http://ky-iptv.com:80/live/grumpy/grumpy/591816.m3u8
-#EXTINF:-1,USA TENNIS PLUS 1
-http://ky-iptv.com:80/live/grumpy/grumpy/1700527.m3u8
-#EXTINF:-1,USA TENNIS PLUS 2
-http://ky-iptv.com:80/live/grumpy/grumpy/1700528.m3u8
 
 #EXTINF:-1, L1...|DE| DAZN 1 FHD
 http://hdlocal.de:8080/live/Wallas/Wallas/11018.m3u8
