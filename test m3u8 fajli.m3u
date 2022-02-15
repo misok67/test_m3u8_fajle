@@ -31,6 +31,15 @@ http://hdlocal.de:8080/live/Wallas/Wallas/665021082.m3u8
 #EXTINF:-1, L1...BEIN SPORTS 2 PREMIUM FHD
 http://hdlocal.de:8080/live/Wallas/Wallas/665021083.m3u8
 
+#EXTINF:-1,VIP SPORT: BT SPORT 2 (UK)
+http://trabzontv.xyz:8080/live/CIFTCI/CIFTCI/94288.m3u8
+#EXTINF:-1,VIP SPORT: BT SPORT 3 (UK)
+http://trabzontv.xyz:8080/live/CIFTCI/CIFTCI/94289.m3u8
+#EXTINF:-1,UK: BT SPORT 2
+http://trabzontv.xyz:8080/live/CIFTCI/CIFTCI/199569.m3u8
+#EXTINF:-1,UK: BT SPORT 3
+http://trabzontv.xyz:8080/live/CIFTCI/CIFTCI/199570.m3u8
+
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
