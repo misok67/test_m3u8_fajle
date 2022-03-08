@@ -1,5 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1,BT SPORT 2 HD**
+http://exchangesat.com:8080/live/yrr3nG83/dmD631n/32701.m3u8
+#EXTINF:-1,BT SPORT 3 HD
+http://exchangesat.com:8080/live/yrr3nG83/dmD631n/18208.m3u8
+#EXTINF:-1, L2..UK: BT SPORT 3
+http://1tv1.net:8080/live/omnia2021/123456/9272.m3u8
+#EXTINF:-1, L2..UK: BT SPORT 2
+http://1tv1.net:8080/live/omnia2021/123456/9341.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 11 HD
+http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20848.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 12 HD
+http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20847.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 1 4K
+http://1tv1.net:8080/live/omnia2021/123456/141548.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 2 4K
+http://1tv1.net:8080/live/omnia2021/123456/141549.m3u8
+
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
