@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, L2..UK: BT SPORT 3
-http://1tv1.net:8080/live/omnia2021/123456/9272.m3u8
-#EXTINF:-1, L2..UK: BT SPORT 2
-http://1tv1.net:8080/live/omnia2021/123456/9341.m3u8
-#EXTINF:-1,UK BT SPORT 2 HD 1 (P)
-http://fortv.cc:8080/live/Rob/Rob2021/66784.m3u8
-#EXTINF:-1,UK BT SPORT 3 HD 1 (P)
-http://fortv.cc:8080/live/Rob/Rob2021/121961.m3u8
-#EXTINF:-1,AR: BEIN SPORTS 1 FHD (ENG)2
-http://fortv.cc:8080/live/Rob/Rob2021/86757.m3u8
-#EXTINF:-1,BEIN SPORTS ENGLISH 1 (P)
-http://fortv.cc:8080/live/Rob/Rob2021/119410.m3u8
-#EXTINF:-1,EPL: BEIN SPORTS 2 ENGLISH HD
-http://fortv.cc:8080/live/Rob/Rob2021/119411.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 1 4K
-http://1tv1.net:8080/live/omnia2021/123456/141548.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 2 4K
-http://1tv1.net:8080/live/omnia2021/123456/141549.m3u8
-
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
@@ -30,254 +11,418 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
+#EXTINF:-1,SPORT KLUB 2 HR HD
+http://grogi.online:80/live/smrtnik/B22032020/33.m3u8
+#EXTINF:-1,SPORT KLUB 3 HR HD
+http://grogi.online:80/live/smrtnik/B22032020/34.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD
+http://grogi.online:80/live/smrtnik/B22032020/62.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD
+http://grogi.online:80/live/smrtnik/B22032020/64.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD BH
+http://grogi.online:80/live/smrtnik/B22032020/128.m3u8
+#EXTINF:-1,ARENA SPORT 2 HR HD
+http://grogi.online:80/live/smrtnik/B22032020/192.m3u8
+#EXTINF:-1,ARENA SPORT 3 HR HD
+http://grogi.online:80/live/smrtnik/B22032020/193.m3u8
+#EXTINF:-1,ARENA SPORT 4 HR HD
+http://grogi.online:80/live/smrtnik/B22032020/194.m3u8
+#EXTINF:-1,ARENA SPORT 5 HR HD
+http://grogi.online:80/live/smrtnik/B22032020/645.m3u8
+#EXTINF:-1,SUPER TENNIS HD
+http://grogi.online:80/live/smrtnik/B22032020/2754.m3u8
 
-#EXTINF:-1, L2..ARENA SPORT 1 SR HD
-http://1tv1.net:8080/live/omnia2021/123456/101888.m3u8
-#EXTINF:-1, L2..ARENA SPORT 2 SR HD
-http://1tv1.net:8080/live/omnia2021/123456/101890.m3u8
-#EXTINF:-1, L2..ARENA SPORT 3 SR HD
-http://1tv1.net:8080/live/omnia2021/123456/101892.m3u8
-#EXTINF:-1, L2..ARENA SPORT 4 SR HD
-http://1tv1.net:8080/live/omnia2021/123456/101895.m3u8
-#EXTINF:-1, L2..ARENA SPORT 1 HR HD
-http://1tv1.net:8080/live/omnia2021/123456/101897.m3u8
-#EXTINF:-1, L2..ARENA SPORT 2 HR HD
-http://1tv1.net:8080/live/omnia2021/123456/101899.m3u8
-#EXTINF:-1, L2..ARENA SPORT 3 HR HD
-http://1tv1.net:8080/live/omnia2021/123456/101901.m3u8
-#EXTINF:-1, L2..ARENA SPORT 4 HR HD
-http://1tv1.net:8080/live/omnia2021/123456/101903.m3u8
-#EXTINF:-1, L2..ARENA SPORT 5 HR HD
-http://1tv1.net:8080/live/omnia2021/123456/101905.m3u8
-#EXTINF:-1, L2..DE:|VIP| DAZN 1 DE
-http://1tv1.net:8080/live/omnia2021/123456/44532.m3u8
-#EXTINF:-1, L2..DE:|VIP| DAZN 2 DE
-http://1tv1.net:8080/live/omnia2021/123456/44531.m3u8
-#EXTINF:-1, L2..UK: BT SPORT 3
-http://1tv1.net:8080/live/omnia2021/123456/9272.m3u8
-#EXTINF:-1, L2..UK: BT SPORT 2
-http://1tv1.net:8080/live/omnia2021/123456/9341.m3u8
-#EXTINF:-1, L2..UK: BT SPORT 1
-http://1tv1.net:8080/live/omnia2021/123456/9342.m3u8
-#EXTINF:-1, L2..UK: SKY SPORTS MAIN EVENT FHD
-http://1tv1.net:8080/live/omnia2021/123456/55382.m3u8
-#EXTINF:-1, L2..UK: SKY SPORTS FOOTBALL FHD
-http://1tv1.net:8080/live/omnia2021/123456/55390.m3u8
-#EXTINF:-1, L2..UK-SKY SPORTS PREMIER LEAGUE SD
-http://1tv1.net:8080/live/omnia2021/123456/84940.m3u8
-#EXTINF:-1, L2..DE:|VIP| SKY SPORT 1 HD DE
-http://1tv1.net:8080/live/omnia2021/123456/44552.m3u8
-#EXTINF:-1, L2..DE:|VIP| SKY SPORT 2 HD DE
-http://1tv1.net:8080/live/omnia2021/123456/44551.m3u8
-#EXTINF:-1, L2..DE:|VIP| SKY SPORT BUNDESLIGA 1 HD DE
-http://1tv1.net:8080/live/omnia2021/123456/44550.m3u8
-#EXTINF:-1, L2..NL: FOX SPORTS 3 HD EREDIVISIE
-http://1tv1.net:8080/live/omnia2021/123456/57502.m3u8
-#EXTINF:-1, L2..NL: FOX SPORTS 4 HD
-http://1tv1.net:8080/live/omnia2021/123456/57501.m3u8
-#EXTINF:-1, L2..NL: FOX SPORTS 5 HD
-http://1tv1.net:8080/live/omnia2021/123456/57500.m3u8
-#EXTINF:-1, L2..NL: FOX SPORTS 6 HD
-http://1tv1.net:8080/live/omnia2021/123456/57499.m3u8
-#EXTINF:-1, L2..NL: ZIGGO SPORT SELECT HD
-http://1tv1.net:8080/live/omnia2021/123456/57440.m3u8
-#EXTINF:-1, L2..NL.ZIGGO SPORT SELECT HD NL
-http://1tv1.net:8080/live/omnia2021/123456/67290.m3u8
-#EXTINF:-1, L2..NL: ZIGGO SPORT VOETBAL HD
-http://1tv1.net:8080/live/omnia2021/123456/57439.m3u8
-#EXTINF:-1, L2..NL.ZIGGO SPORT VOETBAL NL
-http://1tv1.net:8080/live/omnia2021/123456/67291.m3u8
-#EXTINF:-1, L2..FR: RMC SPORT 1 FHD
-http://1tv1.net:8080/live/omnia2021/123456/56311.m3u8
-#EXTINF:-1, L2..FR: RMC SPORT 2 FHD
-http://1tv1.net:8080/live/omnia2021/123456/56312.m3u8
-#EXTINF:-1, L2..FR: BEIN SPORTS 1 FHD
-http://1tv1.net:8080/live/omnia2021/123456/56225.m3u8
-#EXTINF:-1, L2..FR: BEIN SPORTS 2 FHD
-http://1tv1.net:8080/live/omnia2021/123456/56226.m3u8
-#EXTINF:-1, L2..FR: BEIN SPORTS 3 FHD
-http://1tv1.net:8080/live/omnia2021/123456/56227.m3u8
-#EXTINF:-1, L2..TR: BEIN SPORTS 1 HD
-http://1tv1.net:8080/live/omnia2021/123456/93433.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 1 4K
-http://1tv1.net:8080/live/omnia2021/123456/141548.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 2 4K
-http://1tv1.net:8080/live/omnia2021/123456/141549.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 3 4K
-http://1tv1.net:8080/live/omnia2021/123456/141550.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 4 4K
-http://1tv1.net:8080/live/omnia2021/123456/141551.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 5 4K
-http://1tv1.net:8080/live/omnia2021/123456/141552.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 6 4K
-http://1tv1.net:8080/live/omnia2021/123456/141553.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 7 4K
-http://1tv1.net:8080/live/omnia2021/123456/141554.m3u8
-#EXTINF:-1, L2..ES:  M.LALIGA HD
-http://1tv1.net:8080/live/omnia2021/123456/12077.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT 7 HD (LALIGA ESPANA)
-http://1tv1.net:8080/live/omnia2021/123456/92161.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT 1 HD
-http://1tv1.net:8080/live/omnia2021/123456/92155.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT 2 HD
-http://1tv1.net:8080/live/omnia2021/123456/92156.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT 3 HD
-http://1tv1.net:8080/live/omnia2021/123456/92157.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT 4 HD
-http://1tv1.net:8080/live/omnia2021/123456/92158.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT 5 HD
-http://1tv1.net:8080/live/omnia2021/123456/92159.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT 6 HD
-http://1tv1.net:8080/live/omnia2021/123456/92160.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT BLITZ
-http://1tv1.net:8080/live/omnia2021/123456/92169.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT EVENTS
-http://1tv1.net:8080/live/omnia2021/123456/92172.m3u8
-#EXTINF:-1, L2..IT: SUPER TENNIS
-http://1tv1.net:8080/live/omnia2021/123456/58994.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100795
+#EXTINF:-1,SPORT KLUB 1 HD (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100796
+#EXTINF:-1,SPORT KLUB 2 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100797
+#EXTINF:-1,SPORT KLUB 2 HD (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100798
+#EXTINF:-1,SPORT KLUB 3 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100799
+#EXTINF:-1,SPORT KLUB 3 HD (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100800
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100781
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100783
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100786
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100789
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100792
+#EXTINF:-1,DE- DAZN 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/52424
+#EXTINF:-1,DE- DAZN 1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/29411
+#EXTINF:-1,UK- BT SPORT 1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122183
+#EXTINF:-1,UK- BT SPORT 2 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122184
+#EXTINF:-1,UK- BT SPORT 3 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122185
+#EXTINF:-1,UK- BT SPORT ESPN FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122187
+#EXTINF:-1,DE- SKY SPORT F1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/255618
+#EXTINF:-1,DE- SKY SPORT 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/4686
+#EXTINF:-1,DE- SKY SPORT 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/4687
+#EXTINF:-1,DE- SKY SPORT BUND LIGA 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/7809
+#EXTINF:-1,DE- SKY SPORT 1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/51293
+#EXTINF:-1,DE- SKY SPORT 2 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/51292
+#EXTINF:-1,UK- SKY SPORTS PREMIER LEAGUE UHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94385
+#EXTINF:-1,UK- SKY SPORTS PREMIER LEAGUE HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94386
+#EXTINF:-1,UK- SKY SPORTS MAIN EVENT FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94389
+#EXTINF:-1,UK- SKY SPORTS F1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94393
+#EXTINF:-1,UK- SKY SPORTS F1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94394
+#EXTINF:-1,F1-  SKY SPORTS FORMULE 1 - 2021 - THE INSIDE LINE 28-04-2021
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260549.mkv
+#EXTINF:-1,F1-  SKY SPORTS FORMULE 1 - 2021 RACE 03 - PORTUGAL - THE F1 SHOW
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260550.mkv
+#EXTINF:-1,F1-  SKY SPORTS FORMULE 1 - 2021 - THE INSIDE LINE
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260535.mkv
+#EXTINF:-1,F1-  SKY SPORTS FORMULE 1 - 2021 - THE INSIDE LINE 19-05-2021
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260536.mkv
+#EXTINF:-1,F1-  SKY SPORTS FORMULE 1 - 2021 RACE 01 - BAHREIN - RACE
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260537.mkv
+#EXTINF:-1,F1-  SKY SPORTS FORMULE 1 - 2021 RACE 03 - PORTUGAL - KWALIFICATIE
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260538.mkv
+#EXTINF:-1,F1-  SKY SPORTS FORMULE 1 - 2021 RACE 05 - MONACO - THE F1 SHOW
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260539.mkv
+#EXTINF:-1,F1-  SKY SPORTS FORMULE1 RACE 03 - PORTUGAL - TED 'S QUALI NOTEBOOK
+http://predator-x.com:8000/movie/kdkm3ub840/4mxpah5f4n/260540.mkv
+#EXTINF:-1,NL-  ZIGGO SPORT SELECT HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/1953
+#EXTINF:-1,NL-  ZIGGO SPORT SELECT FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/52272
+#EXTINF:-1,NL-  ZIGGO SPORT VOETBAL HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/1954
+#EXTINF:-1,NL-  ZIGGO SPORT VOETBAL FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/52271
+#EXTINF:-1,FR- RMC SPORT 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/65639
+#EXTINF:-1,FR- RMC SPORT 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/65638
+#EXTINF:-1,BEIN SPORTS PREMIUM  1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/9494
+#EXTINF:-1,BEIN SPORTS PREMIUM 1 HD+
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/33268
+#EXTINF:-1,BEIN SPORTS PREMIUM  2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/9496
+#EXTINF:-1,BEIN SPORTS PREMIUM 2 HD+
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/33269
+#EXTINF:-1,BEIN SPORTS PREMIUM  3 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/9497
+#EXTINF:-1,BEIN SPORTS PREMIUM 3 HD+
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/33270
+#EXTINF:-1,beIN Sport English 4k 1
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/213986
+#EXTINF:-1,beIN Sport English 4k 2
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/213987
+#EXTINF:-1,beIN Sport English 4k 3
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/213988
+#EXTINF:-1,beIN Sport French 4k 1
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/213989
+#EXTINF:-1,beIN Sport French 4k 2
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/213990
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/135637
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/135638
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/135639
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/135640
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/135641
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://live.iptv-ksa.com:80/Ahmed1234/Ahmed4321/135642
+#EXTINF:-1,USA-   BEIN SPORTS USA HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211199
+#EXTINF:-1,DEPORTES LA-   TENNIS CHANNEL   HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285237
+#EXTINF:-1,IT- SUPER TENNIS FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/198384
+#EXTINF:-1,USA-  TENNIS CHANNEL
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211359
+#EXTINF:-1,DSTV- SUPER SPORTS TENNIS HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/257606
+
+
+#EXTINF:-1, L1..ARENA SPORT 1 HR HD
+http://stariptv.org:8080/live/wael2021/123456/101897.m3u8
+#EXTINF:-1, L1..ARENA SPORT 2 HR HD
+http://stariptv.org:8080/live/wael2021/123456/101899.m3u8
+#EXTINF:-1, L1..ARENA SPORT 3 HR HD
+http://stariptv.org:8080/live/wael2021/123456/101901.m3u8
+#EXTINF:-1, L1..ARENA SPORT 4 HR HD
+http://stariptv.org:8080/live/wael2021/123456/101903.m3u8
+#EXTINF:-1, L1..ARENA SPORT 5 HR HD
+http://stariptv.org:8080/live/wael2021/123456/101905.m3u8
+#EXTINF:-1, L1..DE:|VIP| DAZN 1 DE
+http://stariptv.org:8080/live/wael2021/123456/44532.m3u8
+#EXTINF:-1, L1..DE:|VIP| DAZN 2 DE
+http://stariptv.org:8080/live/wael2021/123456/44531.m3u8
+#EXTINF:-1, L1..UK: BT SPORTS ESPN HD
+http://stariptv.org:8080/live/wael2021/123456/9258.m3u8
+#EXTINF:-1, L1..UK: BT SPORT 3
+http://stariptv.org:8080/live/wael2021/123456/9272.m3u8
+#EXTINF:-1, L1..UK: BT SPORT 2
+http://stariptv.org:8080/live/wael2021/123456/9341.m3u8
+#EXTINF:-1, L1..UK: BT SPORT 1
+http://stariptv.org:8080/live/wael2021/123456/9342.m3u8
+#EXTINF:-1, L1..UK: SKY SPORTS PL FHD
+http://stariptv.org:8080/live/wael2021/123456/55384.m3u8
+#EXTINF:-1, L1..UK: SKY SPORTS MAIN EVENT FHD
+http://stariptv.org:8080/live/wael2021/123456/55382.m3u8
+#EXTINF:-1, L1..UK: SKY SPORTS F1 FHD
+http://stariptv.org:8080/live/wael2021/123456/55383.m3u8
+#EXTINF:-1, L1..UK-SKY SPORTS MAIN EVENT SD
+http://stariptv.org:8080/live/wael2021/123456/84937.m3u8
+#EXTINF:-1, L1..UK-SKY SPORTS F1 SD
+http://stariptv.org:8080/live/wael2021/123456/84934.m3u8
+#EXTINF:-1, L1..DE:|VIP| SKY SPORT F1 HD
+http://stariptv.org:8080/live/wael2021/123456/122822.m3u8
+#EXTINF:-1, L1..DE:|VIP| SKY SPORT 1 HD DE
+http://stariptv.org:8080/live/wael2021/123456/44552.m3u8
+#EXTINF:-1, L1..DE:|VIP| SKY SPORT 2 HD DE
+http://stariptv.org:8080/live/wael2021/123456/44551.m3u8
+#EXTINF:-1, L1..DE:|VIP| SKY SPORT BUNDESLIGA 1 HD DE
+http://stariptv.org:8080/live/wael2021/123456/44550.m3u8
+#EXTINF:-1, L1..NL: FOX SPORTS 3 HD EREDIVISIE
+http://stariptv.org:8080/live/wael2021/123456/57502.m3u8
+#EXTINF:-1, L1..NL: FOX SPORTS 4 HD
+http://stariptv.org:8080/live/wael2021/123456/57501.m3u8
+#EXTINF:-1, L1..NL: FOX SPORTS 5 HD
+http://stariptv.org:8080/live/wael2021/123456/57500.m3u8
+#EXTINF:-1, L1..NL: FOX SPORTS 6 HD
+http://stariptv.org:8080/live/wael2021/123456/57499.m3u8
+#EXTINF:-1, L1..NL: ZIGGO SPORT SELECT HD
+http://stariptv.org:8080/live/wael2021/123456/57440.m3u8
+#EXTINF:-1, L1..NL.ZIGGO SPORT SELECT HD NL
+http://stariptv.org:8080/live/wael2021/123456/67290.m3u8
+#EXTINF:-1, L1..NL: ZIGGO SPORT VOETBAL HD
+http://stariptv.org:8080/live/wael2021/123456/57439.m3u8
+#EXTINF:-1, L1..NL.ZIGGO SPORT VOETBAL NL
+http://stariptv.org:8080/live/wael2021/123456/67291.m3u8
+#EXTINF:-1, L1..FR: RMC SPORT 1 FHD
+http://stariptv.org:8080/live/wael2021/123456/56311.m3u8
+#EXTINF:-1, L1..FR: RMC SPORT 2 FHD
+http://stariptv.org:8080/live/wael2021/123456/56312.m3u8
+#EXTINF:-1, L1..FR: BEIN SPORTS 1 FHD
+http://stariptv.org:8080/live/wael2021/123456/56225.m3u8
+#EXTINF:-1, L1..FR: BEIN SPORTS 2 FHD
+http://stariptv.org:8080/live/wael2021/123456/56226.m3u8
+#EXTINF:-1, L1..FR: BEIN SPORTS 3 FHD
+http://stariptv.org:8080/live/wael2021/123456/56227.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 1 4K
+http://stariptv.org:8080/live/wael2021/123456/141548.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 2 4K
+http://stariptv.org:8080/live/wael2021/123456/141549.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 3 4K
+http://stariptv.org:8080/live/wael2021/123456/141550.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 4 4K
+http://stariptv.org:8080/live/wael2021/123456/141551.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 5 4K
+http://stariptv.org:8080/live/wael2021/123456/141552.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 6 4K
+http://stariptv.org:8080/live/wael2021/123456/141553.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 7 4K
+http://stariptv.org:8080/live/wael2021/123456/141554.m3u8
+#EXTINF:-1, L1..BEIN SPORTS HD1 FHD
+http://stariptv.org:8080/live/wael2021/123456/141566.m3u8
+#EXTINF:-1, L1..BEIN SPORTS HD2 FHD
+http://stariptv.org:8080/live/wael2021/123456/141567.m3u8
+#EXTINF:-1, L1..BEIN SPORTS HD3 FHD
+http://stariptv.org:8080/live/wael2021/123456/141568.m3u8
+#EXTINF:-1, L1..BEIN SPORTS HD4 FHD
+http://stariptv.org:8080/live/wael2021/123456/141569.m3u8
+#EXTINF:-1, L1..BEIN SPORTS HD5 FHD
+http://stariptv.org:8080/live/wael2021/123456/141570.m3u8
+#EXTINF:-1, L1..BEIN SPORTS HD6 FHD
+http://stariptv.org:8080/live/wael2021/123456/141571.m3u8
+#EXTINF:-1, L1..BEIN SPORTS HD7 FHD
+http://stariptv.org:8080/live/wael2021/123456/141572.m3u8
+#EXTINF:-1, L1..ES:  M.LALIGA HD
+http://stariptv.org:8080/live/wael2021/123456/12077.m3u8
+#EXTINF:-1, L1..ES:  M.LALIGA 1 HD
+http://stariptv.org:8080/live/wael2021/123456/55968.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 7 HD (LALIGA ESPANA)
+http://stariptv.org:8080/live/wael2021/123456/92161.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 1 HD
+http://stariptv.org:8080/live/wael2021/123456/92155.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 2 HD
+http://stariptv.org:8080/live/wael2021/123456/92156.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 3 HD
+http://stariptv.org:8080/live/wael2021/123456/92157.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 4 HD
+http://stariptv.org:8080/live/wael2021/123456/92158.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 5 HD
+http://stariptv.org:8080/live/wael2021/123456/92159.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 6 HD
+http://stariptv.org:8080/live/wael2021/123456/92160.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 7 HD (LALIGA ESPANA)
+http://stariptv.org:8080/live/wael2021/123456/92161.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 8 HD
+http://stariptv.org:8080/live/wael2021/123456/92162.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 9 HD (SERIE A ITALIA)
+http://stariptv.org:8080/live/wael2021/123456/92163.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 10 HD
+http://stariptv.org:8080/live/wael2021/123456/92164.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 11 HD
+http://stariptv.org:8080/live/wael2021/123456/92165.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 12 HD
+http://stariptv.org:8080/live/wael2021/123456/92166.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 13 HD
+http://stariptv.org:8080/live/wael2021/123456/92167.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT 15 HD
+http://stariptv.org:8080/live/wael2021/123456/92168.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT BLITZ
+http://stariptv.org:8080/live/wael2021/123456/92169.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT MXIMO 1
+http://stariptv.org:8080/live/wael2021/123456/92170.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT PLAY
+http://stariptv.org:8080/live/wael2021/123456/92171.m3u8
+#EXTINF:-1, L1..DSTV: SUPERSPORT EVENTS
+http://stariptv.org:8080/live/wael2021/123456/92172.m3u8
+#EXTINF:-1, L1..IT: SUPER TENNIS
+http://stariptv.org:8080/live/wael2021/123456/58994.m3u8
+#EXTINF:-1, L1..US: TENNIS CHANNEL
+http://stariptv.org:8080/live/wael2021/123456/148496.m3u8
+#EXTINF:-1, L1..SE: C MORE TENNIS
+http://stariptv.org:8080/live/wael2021/123456/58293.m3u8
+#EXTINF:-1, L1..046 - TENNIS CHUMPS
+http://stariptv.org:8080/live/movie/wael2021/123456/86898.mp4.m3u8
+
+#EXTINF:-1, L2..SPORT KLUB 1 HD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236319.m3u8
+#EXTINF:-1, L2..SPORT KLUB 2 HD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236320.m3u8
+#EXTINF:-1, L2..SPORT KLUB 3 HD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236321.m3u8
+#EXTINF:-1, L2..ARENA SPORT 1 FHD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236329.m3u8
+#EXTINF:-1, L2..ARENA SPORT 2 FHD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236330.m3u8
+#EXTINF:-1, L2..ARENA SPORT 3 FHD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236331.m3u8
+#EXTINF:-1, L2..ARENA SPORT 4 FHD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236332.m3u8
+#EXTINF:-1, L2..ARENA SPORT 5 FHD HR
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236333.m3u8
+#EXTINF:-1, L2..GERMANY- DAZN 1
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236765.m3u8
+#EXTINF:-1, L2..GERMANY- DAZN 2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236766.m3u8
+#EXTINF:-1, L2..UKHD BT SPORT 3 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236009.m3u8
+#EXTINF:-1, L2..UKHD BT SPORT 2 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236010.m3u8
+#EXTINF:-1, L2..UKHD BT SPORT 1 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236011.m3u8
+#EXTINF:-1, L2..HEVC: SKY SPORTS MAIN EVENTS
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235991.m3u8
+#EXTINF:-1, L2..UKHD SKY SPORTS PREMIER LEAGUE HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235994.m3u8
+#EXTINF:-1, L2..UKHD SKY SPORTS F1 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235999.m3u8
+#EXTINF:-1, L2..UK FHD  SKY SPORTS MAIN EVENT FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236016.m3u8
+#EXTINF:-1, L2..UK FHD  SKY SPORTS F1 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236019.m3u8
+#EXTINF:-1, L2..GERMANY- SKY SPORT 1 HD DE
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236753.m3u8
+#EXTINF:-1, L2..GERMANY- SKY SPORT 2 HD DE
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236754.m3u8
+#EXTINF:-1, L2..UK FHD  SKY SPORTS F1 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/234077.m3u8
+#EXTINF:-1, L2..UK HD SKY SPORTS F1 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/234230.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236741.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235779.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236743.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235781.m3u8
+#EXTINF:-1, L2..FRANCE -RMC SPORT 1 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236636.m3u8
+#EXTINF:-1, L2..FRANCE -RMC SPORT 2 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236637.m3u8
+#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 1
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213986.m3u8
+#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213987.m3u8
+#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 3
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213988.m3u8
+#EXTINF:-1, L2..BEIN SPORT FRENCH 4K 1
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213989.m3u8
+#EXTINF:-1, L2..BEIN SPORT FRENCH 4K 2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213990.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 1 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135637.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 2 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135638.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 3 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135639.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 4 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135640.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 5 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135641.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 6 FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135642.m3u8
+#EXTINF:-1, L2..BEIN SPORTS 7 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135660.m3u8
+#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD1
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213992.m3u8
+#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213993.m3u8
+#EXTINF:-1, L2..SPORTS: SUPERSPORT TENNIS
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236110.m3u8
+#EXTINF:-1, L2..SPORTS: SUPERSPORT MXIMO
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236185.m3u8
+#EXTINF:-1, L2..SPORTS: SUPERSPORT MOTORSPORT
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236186.m3u8
+#EXTINF:-1, L2..ZA: SUPERSPORT ACTION
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236538.m3u8
+#EXTINF:-1, L2..ZA: SUPERSPORT BLITZ
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236539.m3u8
+#EXTINF:-1, L2..ZA: SUPERSPORT FOOTBALL
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236541.m3u8
+#EXTINF:-1, L2..ZA: SUPERSPORT  GRANDSTAND FHD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236542.m3u8
+#EXTINF:-1, L2..ZA: SUPERSPORT LA LIGA
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236543.m3u8
+#EXTINF:-1, L2..ZA: SUPERSPORT PREMIER LEAGUE
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236544.m3u8
+#EXTINF:-1, L2..ZA: SUPERSPORT PSL
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236545.m3u8
+#EXTINF:-1, L2..DSTV : SUPERSPORT ESPN2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236603.m3u8
+#EXTINF:-1, L2..DSTV : SUPERSPORT ESPN
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236604.m3u8
+#EXTINF:-1, L2..DSTV: SUPERSPORT PLAY
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236605.m3u8
+#EXTINF:-1, L2..SPORTS: SUPERSPORT TENNIS
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236110.m3u8
 #EXTINF:-1, L2..US: TENNIS CHANNEL
-http://1tv1.net:8080/live/omnia2021/123456/148496.m3u8
-#EXTINF:-1, L2..SE: C MORE TENNIS
-http://1tv1.net:8080/live/omnia2021/123456/58293.m3u8
-#EXTINF:-1, L2..046 - TENNIS CHUMPS
-http://1tv1.net:8080/live/movie/omnia2021/123456/86898.mp4.m3u8
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/261649.m3u8
+#EXTINF:-1, L2..US: TENNIS CHANNEL
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/261718.m3u8
+#EXTINF:-1, L2..IT-VIP: SUPERTENNIS
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/278293.m3u8
 
-
-#EXTINF:-1, L1..VIP SPORT: SPORT KLUB 1 (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94327.m3u8
-#EXTINF:-1, L1..VIP SPORT: SPORT KLUB 2 (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94328.m3u8
-#EXTINF:-1, L1..VIP SPORT: SPORT KLUB 3 (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94329.m3u8
-#EXTINF:-1, L1..EX-YU: SPORT KLUB 1 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192177.m3u8
-#EXTINF:-1, L1..EX-YU: SPORT KLUB 2 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192178.m3u8
-#EXTINF:-1, L1..EX-YU: SPORT KLUB 3 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192179.m3u8
-#EXTINF:-1, L1..VIP SPORT: ARENA SPORT 1 HD (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94322.m3u8
-#EXTINF:-1, L1..VIP SPORT: ARENA SPORT 2 HD (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94323.m3u8
-#EXTINF:-1, L1..VIP SPORT: ARENA SPORT 3 HD (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94324.m3u8
-#EXTINF:-1, L1..VIP SPORT: ARENA SPORT 4 HD (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94325.m3u8
-#EXTINF:-1, L1..VIP SPORT: ARENA SPORT 5 HD (EX-YU)
-http://ch-media.site:8080/live/Sameda/Sameda1/94326.m3u8
-#EXTINF:-1, L1..EX-YU: ARENA SPORT 1 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192164.m3u8
-#EXTINF:-1, L1..EX-YU: ARENA SPORT 2 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192165.m3u8
-#EXTINF:-1, L1..EX-YU: ARENA SPORT 3 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192166.m3u8
-#EXTINF:-1, L1..EX-YU: ARENA SPORT 4 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192167.m3u8
-#EXTINF:-1, L1..EX-YU: ARENA SPORT 5 HD (HR)
-http://ch-media.site:8080/live/Sameda/Sameda1/192168.m3u8
-#EXTINF:-1, L1..DE: DAZN 1 BAR HEVC
-http://ch-media.site:8080/live/Sameda/Sameda1/96344.m3u8
-#EXTINF:-1, L1..DE: DAZN 2 BAR HEVC
-http://ch-media.site:8080/live/Sameda/Sameda1/96345.m3u8
-#EXTINF:-1, L1..VIP SPORT: BT SPORT 1 (UK)
-http://ch-media.site:8080/live/Sameda/Sameda1/94287.m3u8
-#EXTINF:-1, L1..VIP SPORT: BT SPORT 2 (UK)
-http://ch-media.site:8080/live/Sameda/Sameda1/94288.m3u8
-#EXTINF:-1, L1..VIP SPORT: BT SPORT 3 (UK)
-http://ch-media.site:8080/live/Sameda/Sameda1/94289.m3u8
-#EXTINF:-1, L1..DE: SKY SPORT BUNDESLIGA 1 RAW
-http://ch-media.site:8080/live/Sameda/Sameda1/199412.m3u8
-#EXTINF:-1, L1..DE: SKY SPORT 1 HD+
-http://ch-media.site:8080/live/Sameda/Sameda1/96714.m3u8
-#EXTINF:-1, L1..DE: SKY SPORT 2 HD+
-http://ch-media.site:8080/live/Sameda/Sameda1/96716.m3u8
-#EXTINF:-1, L1..NL: VIP SPORTS: FOX SPORTS 3 HEVC
-http://ch-media.site:8080/live/Sameda/Sameda1/100138.m3u8
-#EXTINF:-1, L1..NL: VIP SPORTS: FOX SPORTS 4 HEVC
-http://ch-media.site:8080/live/Sameda/Sameda1/100139.m3u8
-#EXTINF:-1, L1..NL: VIP SPORTS: FOX SPORTS 5 HEVC
-http://ch-media.site:8080/live/Sameda/Sameda1/118281.m3u8
-#EXTINF:-1, L1..NL: VIP SPORTS: FOX SPORTS 6 HEVC
-http://ch-media.site:8080/live/Sameda/Sameda1/118285.m3u8
-#EXTINF:-1, L1..VIP SPORT: ZIGGO SPORT SELECT HD (NL)
-http://ch-media.site:8080/live/Sameda/Sameda1/94307.m3u8
-#EXTINF:-1, L1..NL: ZIGGO SPORT VOETBAL HEVC
-http://ch-media.site:8080/live/Sameda/Sameda1/118287.m3u8
-#EXTINF:-1, L1..VIP SPORT: RMC SPORT 1 (FR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94316.m3u8
-#EXTINF:-1, L1..VIP SPORT: RMC SPORT 2 (FR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94317.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORTS 1 (FR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94313.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORTS 2 (FR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94314.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORTS 3 (FR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94315.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORTS 11 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94350.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORTS 12 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94351.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 1 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94340.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 2 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94341.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 3 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94342.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 4 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94343.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 5 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94344.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 6 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94345.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 7 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94346.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 8 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/94347.m3u8
-#EXTINF:-1, L1..VIP SPORT: BEIN SPORT 9 (AR)
-http://ch-media.site:8080/live/Sameda/Sameda1/238066.m3u8
-#EXTINF:-1, L1..|ES| BEIN SPORTS ESPANAA FHD
-http://ch-media.site:8080/live/Sameda/Sameda1/160419.m3u8
-#EXTINF:-1, L1..|ES| BEIN SPORTS LA LIGA FHD
-http://ch-media.site:8080/live/Sameda/Sameda1/160429.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 1 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177246.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 2 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177247.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 3 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177248.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 4 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177249.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 5 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177250.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 6 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177251.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 7 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177252.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS PREMIUM 1 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177253.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS PREMIUM 2 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177254.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS PREMIUM 3 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177255.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 1 EN HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177262.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 2 EN HD
-http://ch-media.site:8080/live/Sameda/Sameda1/177263.m3u8
-#EXTINF:-1, L1..BEIN SPORTS 1 PREMIUM FHD
-http://ch-media.site:8080/live/Sameda/Sameda1/231432.m3u8
-#EXTINF:-1, L1..BEIN SPORTS 2 PREMIUM FHD
-http://ch-media.site:8080/live/Sameda/Sameda1/231433.m3u8
-#EXTINF:-1, L1..BEIN SPORTS 3 PREMIUM FHD
-http://ch-media.site:8080/live/Sameda/Sameda1/231434.m3u8
-#EXTINF:-1, L1..|ES| BEIN LALIGA FHD
-http://ch-media.site:8080/live/Sameda/Sameda1/160418.m3u8
-#EXTINF:-1, L1..ES: MOVISTAR LALIGA HD
-http://ch-media.site:8080/live/Sameda/Sameda1/192271.m3u8
-#EXTINF:-1, L1..ES: M. LALIGA 3 HD
-http://ch-media.site:8080/live/Sameda/Sameda1/192296.m3u8
-#EXTINF:-1, L1..|IT| SUPERTENNIS HD
-http://ch-media.site:8080/live/Sameda/Sameda1/209542.m3u8
-#EXTINF:-1, L1..USA: TENNIS CHANNEL
-http://ch-media.site:8080/live/Sameda/Sameda1/191557.m3u8
-#EXTINF:-1, L1..USA: TENNIS CHANNEL HD
-http://ch-media.site:8080/live/Sameda/Sameda1/191909.m3u8
