@@ -1,5 +1,56 @@
 #EXTM3U
 
+#EXTINF:-1,DE: DAZN 1 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/48355.m3u8
+#EXTINF:-1,DE: DAZN 2 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2387.m3u8
+#EXTINF:-1,UK: BT SPORT 2 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273.m3u8
+#EXTINF:-1,UK: BT SPORT 3 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/271.m3u8
+#EXTINF:-1,UK BT SPORT 3 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/28348.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1937.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1938.m3u8
+#EXTINF:-1,QA: BEIN SPORTS ENGLISH 1 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/110.m3u8
+#EXTINF:-1,QA: BEIN SPORTS ENGLISH 2 FHD
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/111.m3u8
+#EXTINF:-1, L2..GERMANY- DAZN 1
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236765.m3u8
+#EXTINF:-1, L2..GERMANY- DAZN 2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236766.m3u8
+#EXTINF:-1, L2..UKHD BT SPORT 3 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236009.m3u8
+#EXTINF:-1, L2..UKHD BT SPORT 2 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236010.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236741.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235779.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236743.m3u8
+#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235781.m3u8
+#EXTINF:-1, L2..FRANCE -RMC SPORT 1 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236636.m3u8
+#EXTINF:-1, L2..FRANCE -RMC SPORT 2 HD
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236637.m3u8
+#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 1
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213986.m3u8
+#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213987.m3u8
+#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD1
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213992.m3u8
+#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD2
+http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213993.m3u8
+#EXTINF:-1, L1..ARENA SPORT 1 PREMIUM (BACKUP)
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21844.m3u8
+#EXTINF:-1, L1..ARENA SPORT 2 PREMIUM
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21443.m3u8
+
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 ,HRT 2
@@ -55,18 +106,6 @@ http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0b
 http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/271.m3u8
 #EXTINF:-1,UK BT SPORT 3 FHD
 http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/28348.m3u8
-#EXTINF:-1,UK: BT SPORT ESPN FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1124.m3u8
-#EXTINF:-1,UK: BT SPORT EXTRA 1 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7435.m3u8
-#EXTINF:-1,UK: BT SPORT EXTRA 2 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/47961.m3u8
-#EXTINF:-1,UK: BT SPORT EXTRA 3 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/279255.m3u8
-#EXTINF:-1,UK: BT SPORT EXTRA 4 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283203.m3u8
-#EXTINF:-1,UK: BT SPORT EXTRA 5 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/7438.m3u8
 #EXTINF:-1,UK: SKY SPORTS F1 FHD
 http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/265.m3u8
 #EXTINF:-1,UK SKY SPORTS F1 FHD
