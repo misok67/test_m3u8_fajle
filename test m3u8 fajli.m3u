@@ -50,6 +50,27 @@ http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213993.m3u8
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21844.m3u8
 #EXTINF:-1, L1..ARENA SPORT 2 PREMIUM
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21443.m3u8
+#EXTINF:-1, L1..DAZN 1
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/166.m3u8
+#EXTINF:-1, L1..DAZN 2
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/167.m3u8
+#EXTINF:-1, L1..BT SPORT 2
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/180.m3u8
+#EXTINF:-1, L1..BT SPORT 3
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/181.m3u8
+#EXTINF:-1, L1..NL: ZIGGO SPORT SELECT HD
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1258.m3u8
+#EXTINF:-1, L1..NL: ZIGGO SPORT VOETBAL HD
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1259.m3u8
+#EXTINF:-1, L1..FR: RMC SPORT 2
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21032.m3u8
+#EXTINF:-1, L1..FR: RMC SPORT 1
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/879.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 1 HD
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/168.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 2 HD
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/169.m3u8
+
 
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
