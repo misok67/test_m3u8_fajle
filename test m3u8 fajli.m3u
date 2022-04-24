@@ -1,76 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,DE: DAZN 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/48355.m3u8
-#EXTINF:-1,DE: DAZN 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2387.m3u8
-#EXTINF:-1,UK: BT SPORT 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273.m3u8
-#EXTINF:-1,UK: BT SPORT 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/271.m3u8
-#EXTINF:-1,UK BT SPORT 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/28348.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1937.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1938.m3u8
-#EXTINF:-1,QA: BEIN SPORTS ENGLISH 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/110.m3u8
-#EXTINF:-1,QA: BEIN SPORTS ENGLISH 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/111.m3u8
-#EXTINF:-1, L2..GERMANY- DAZN 1
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236765.m3u8
-#EXTINF:-1, L2..GERMANY- DAZN 2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236766.m3u8
-#EXTINF:-1, L2..UKHD BT SPORT 3 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236009.m3u8
-#EXTINF:-1, L2..UKHD BT SPORT 2 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236010.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236741.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235779.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236743.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235781.m3u8
-#EXTINF:-1, L2..FRANCE -RMC SPORT 1 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236636.m3u8
-#EXTINF:-1, L2..FRANCE -RMC SPORT 2 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236637.m3u8
-#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 1
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213986.m3u8
-#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213987.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD1
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213992.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213993.m3u8
-#EXTINF:-1, L1..ARENA SPORT 1 PREMIUM (BACKUP)
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21844.m3u8
-#EXTINF:-1, L1..ARENA SPORT 2 PREMIUM
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21443.m3u8
-#EXTINF:-1, L1..DAZN 1
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/166.m3u8
-#EXTINF:-1, L1..DAZN 2
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/167.m3u8
-#EXTINF:-1, L1..BT SPORT 2
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/180.m3u8
-#EXTINF:-1, L1..BT SPORT 3
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/181.m3u8
-#EXTINF:-1, L1..NL: ZIGGO SPORT SELECT HD
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1258.m3u8
-#EXTINF:-1, L1..NL: ZIGGO SPORT VOETBAL HD
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1259.m3u8
-#EXTINF:-1, L1..FR: RMC SPORT 2
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/21032.m3u8
-#EXTINF:-1, L1..FR: RMC SPORT 1
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/879.m3u8
-#EXTINF:-1, L1..BEIN SPORTS 1 HD
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/168.m3u8
-#EXTINF:-1, L1..BEIN SPORTS 2 HD
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/169.m3u8
-
 
 #EXTINF:-1 ,HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
@@ -83,273 +12,110 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,EX-YU: SPORT KLUB 1 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281911.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283202.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/282759.m3u8
-#EXTINF:-1,HR: SPORT KLUB 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3473.m3u8
-#EXTINF:-1,HR: SPORT KLUB 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/279841.m3u8
-#EXTINF:-1,HR: SPORT KLUB 3 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/279840.m3u8
-#EXTINF:-1,RS: ARENA SPORT 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/60225.m3u8
-#EXTINF:-1,RS ARENA SPORT 2 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273367.m3u8
-#EXTINF:-1,RS: ARENA SPORT 3 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3463.m3u8
-#EXTINF:-1,RS: ARENA SPORT 4 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3606.m3u8
-#EXTINF:-1,RS: ARENA SPORT 5 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/201020.m3u8
-#EXTINF:-1,HR ARENA SPORT 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273359.m3u8
-#EXTINF:-1,HR: ARENA SPORT 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3603.m3u8
-#EXTINF:-1,HR: ARENA SPORT 3 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3605.m3u8
-#EXTINF:-1,HR: ARENA SPORT 4 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3607.m3u8
-#EXTINF:-1,HR: ARENA SPORT 5 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3608.m3u8
-#EXTINF:-1,DE: DAZN 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/48355.m3u8
-#EXTINF:-1,DE: DAZN 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2387.m3u8
-#EXTINF:-1,UK: BT SPORT 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/270.m3u8
-#EXTINF:-1,UK: BT SPORT 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273.m3u8
-#EXTINF:-1,UK: BT SPORT 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/271.m3u8
-#EXTINF:-1,UK BT SPORT 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/28348.m3u8
-#EXTINF:-1,UK: SKY SPORTS F1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/265.m3u8
-#EXTINF:-1,UK SKY SPORTS F1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/37177.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283053.m3u8
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290047.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/263.m3u8
-#EXTINF:-1,UK SKY SPORTS PREMIER LEAGUE HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273424.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/202100.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8215.m3u8
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2431.m3u8
-#EXTINF:-1,DE: SKY SPORT F1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/279269.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1937.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1938.m3u8
-#EXTINF:-1,FR BEIN SPORTS 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273332.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/146.m3u8
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/144.m3u8
-#EXTINF:-1,QA: BEIN SPORTS 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/100.m3u8
-#EXTINF:-1,QA: BEIN SPORTS 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/101.m3u8
-#EXTINF:-1,QA: BEIN SPORTS 5 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/104.m3u8
-#EXTINF:-1,QA BEIN SPORTS 5 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291085.m3u8
-#EXTINF:-1,QA: BEIN SPORTS 6 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/105.m3u8
-#EXTINF:-1,QA BEIN SPORTS 6 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291087.m3u8
-#EXTINF:-1,QA: BEIN SPORTS 3 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/102.m3u8
-#EXTINF:-1,QA: BEIN SPORTS 4 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/103.m3u8
-#EXTINF:-1,QA: BEIN SPORTS 7 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/106.m3u8
-#EXTINF:-1,QA: BEIN SPORTS ENGLISH 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/110.m3u8
-#EXTINF:-1,QA: BEIN SPORTS ENGLISH 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/111.m3u8
-#EXTINF:-1,QA: BEIN SPORTS ENGLISH 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267769.m3u8
-#EXTINF:-1,QA: BEIN SPORTS PREMIUM 1 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/109.m3u8
-#EXTINF:-1,QA: BEIN SPORTS PREMIUM 2 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280145.m3u8
-#EXTINF:-1,QA: BEIN SPORTS PREMIUM 3 FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280249.m3u8
-#EXTINF:-1,ES: LALIGA TV BAR FHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/197711.m3u8
-#EXTINF:-1,ZA SUPERSPORT ACTION HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290640.m3u8
-#EXTINF:-1,ZA SUPERSPORT BLITZ HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290642.m3u8
-#EXTINF:-1,ZA: SUPERSPORT FOOTBALL HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38575.m3u8
-#EXTINF:-1,ZA: SUPERSPORT GRANDSTAND HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/194353.m3u8
-#EXTINF:-1,ZA: SUPERSPORT LALIGA HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/194358.m3u8
-#EXTINF:-1,ZA: SUPERSPORT MAXIMO 1 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/38572.m3u8
-#EXTINF:-1,ZA SUPERSPORT MAXIMO 1 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290637.m3u8
-#EXTINF:-1,ZA: SUPERSPORT PREMIER LEAGUE HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11642.m3u8
-#EXTINF:-1,ZA SUPERSPORT PREMIER LEAGUE HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290634.m3u8
-#EXTINF:-1,ZA: SUPERSPORT PSL HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11643.m3u8
-#EXTINF:-1,ZA: SUPERSPORT TENNIS HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/15200.m3u8
-#EXTINF:-1,ZA SUPERSPORT TENNIS HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290636.m3u8
-#EXTINF:-1,ZA: SUPERSPORT VARIETY 1 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11633.m3u8
-#EXTINF:-1,ZA: SUPERSPORT VARIETY 2 HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11634.m3u8
-#EXTINF:-1,US: TENNIS CHANNEL HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2275.m3u8
-#EXTINF:-1,NL: ZIGGO TENNIS HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2500.m3u8
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/285535.m3u8
-#EXTINF:-1,ZA: SUPERSPORT TENNIS HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/15200.m3u8
-#EXTINF:-1,ZA SUPERSPORT TENNIS HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290636.m3u8
-#EXTINF:-1,PH: PREMIER TENNIS HD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/276599.m3u8
+#EXTINF:-1,SPORTS : SPORT KLUB 1
+http://mains.services:2086/live/stanleyg/6916329/102324.m3u8
+#EXTINF:-1,SPORTS : SPORT KLUB 2
+http://mains.services:2086/live/stanleyg/6916329/102325.m3u8
+#EXTINF:-1,SPORTS : SPORT KLUB 3
+http://mains.services:2086/live/stanleyg/6916329/102326.m3u8
+#EXTINF:-1,DE : DAZN 1
+http://mains.services:2086/live/stanleyg/6916329/92343.m3u8
+#EXTINF:-1,DE : DAZN 2
+http://mains.services:2086/live/stanleyg/6916329/92344.m3u8
+#EXTINF:-1,GB : BT SPORTS 1
+http://mains.services:2086/live/stanleyg/6916329/67062.m3u8
+#EXTINF:-1,GB : BT SPORTS 2
+http://mains.services:2086/live/stanleyg/6916329/67063.m3u8
+#EXTINF:-1,GB : BT SPORTS 3
+http://mains.services:2086/live/stanleyg/6916329/67075.m3u8
+#EXTINF:-1,DE : SKY SPORT 1
+http://mains.services:2086/live/stanleyg/6916329/92331.m3u8
+#EXTINF:-1,DE : SKY SPORT 2
+http://mains.services:2086/live/stanleyg/6916329/92332.m3u8
+#EXTINF:-1,F1: SKY SPORTS F1
+http://mains.services:2086/live/stanleyg/6916329/101046.m3u8
+#EXTINF:-1,GB : SKY SPORTS F1
+http://mains.services:2086/live/stanleyg/6916329/67056.m3u8
+#EXTINF:-1,GB : SKY SPORTS MAIN EVENT
+http://mains.services:2086/live/stanleyg/6916329/67058.m3u8
+#EXTINF:-1,GB : SKY SPORTS PREMIER LEAGUE
+http://mains.services:2086/live/stanleyg/6916329/67060.m3u8
+#EXTINF:-1,IT : SKY SPORT F1
+http://mains.services:2086/live/stanleyg/6916329/94132.m3u8
+#EXTINF:-1,F1 : AU FOX SPORTS 506
+http://mains.services:2086/live/stanleyg/6916329/102322.m3u8
+#EXTINF:-1,DUTCH: ZIGGO SPORT SELECT
+http://mains.services:2086/live/stanleyg/6916329/92899.m3u8
+#EXTINF:-1,DUTCH: ZIGGO SPORT VOETBAL
+http://mains.services:2086/live/stanleyg/6916329/92901.m3u8
+#EXTINF:-1,FR : RMC SPORT 1
+http://mains.services:2086/live/stanleyg/6916329/92216.m3u8
+#EXTINF:-1,FR : RMC SPORT 2
+http://mains.services:2086/live/stanleyg/6916329/92217.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS ENGLISH 01
+http://mains.services:2086/live/stanleyg/6916329/66782.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS ENGLISH 02
+http://mains.services:2086/live/stanleyg/6916329/66783.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS LA LIGA
+http://mains.services:2086/live/stanleyg/6916329/66786.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS PREMIUM 01
+http://mains.services:2086/live/stanleyg/6916329/66772.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS PREMIUM 02
+http://mains.services:2086/live/stanleyg/6916329/66773.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS USA
+http://mains.services:2086/live/stanleyg/6916329/66771.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT ACTION
+http://mains.services:2086/live/stanleyg/6916329/99287.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT BLITZ
+http://mains.services:2086/live/stanleyg/6916329/90494.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT ESPN
+http://mains.services:2086/live/stanleyg/6916329/104569.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT ESPN2
+http://mains.services:2086/live/stanleyg/6916329/104570.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT FOOTBALL
+http://mains.services:2086/live/stanleyg/6916329/90489.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT FOOTBALL PLUS
+http://mains.services:2086/live/stanleyg/6916329/102771.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT GRANDSTAND
+http://mains.services:2086/live/stanleyg/6916329/90493.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT LA LIGA
+http://mains.services:2086/live/stanleyg/6916329/90490.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT MOTORSPORT
+http://mains.services:2086/live/stanleyg/6916329/99289.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT PLAY
+http://mains.services:2086/live/stanleyg/6916329/104571.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT PREMIER LEAGUE
+http://mains.services:2086/live/stanleyg/6916329/90491.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT PSL
+http://mains.services:2086/live/stanleyg/6916329/90492.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT TENNIS
+http://mains.services:2086/live/stanleyg/6916329/99291.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT VARIETY 1
+http://mains.services:2086/live/stanleyg/6916329/90488.m3u8
+#EXTINF:-1,F1 : SUPERSPORT MOTORSPORT
+http://mains.services:2086/live/stanleyg/6916329/102323.m3u8
+#EXTINF:-1,SPORTS : ASTRO SUPERSPORT 1
+http://mains.services:2086/live/stanleyg/6916329/104485.m3u8
+#EXTINF:-1,SPORTS : ASTRO SUPERSPORT 2
+http://mains.services:2086/live/stanleyg/6916329/104486.m3u8
+#EXTINF:-1,SPORTS : ASTRO SUPERSPORT 3
+http://mains.services:2086/live/stanleyg/6916329/104487.m3u8
+#EXTINF:-1,SPORTS : ASTRO SUPERSPORT 4
+http://mains.services:2086/live/stanleyg/6916329/104488.m3u8
+#EXTINF:-1,SPORTS : ASTRO SUPERSPORT 5
+http://mains.services:2086/live/stanleyg/6916329/104489.m3u8
+#EXTINF:-1,AFRICA : SUPERSPORT TENNIS
+http://mains.services:2086/live/stanleyg/6916329/99291.m3u8
+#EXTINF:-1,IT : SUPERTENNIS
+http://mains.services:2086/live/stanleyg/6916329/94124.m3u8
+#EXTINF:-1,US : TENNIS CHANNEL
+http://mains.services:2086/live/stanleyg/6916329/327.m3u8
+#EXTINF:-1,US : TENNIS CHANNEL FHD 1080
+http://mains.services:2086/live/stanleyg/6916329/64029.m3u8
+#EXTINF:-1,US-720 : TENNIS CHANNEL
+http://mains.services:2086/live/stanleyg/6916329/95435.m3u8
 
 
-
-#EXTINF:-1, L2..SPORT KLUB 1 HD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236319.m3u8
-#EXTINF:-1, L2..SPORT KLUB 2 HD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236320.m3u8
-#EXTINF:-1, L2..SPORT KLUB 3 HD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236321.m3u8
-#EXTINF:-1, L2..ARENA SPORT 1 FHD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236329.m3u8
-#EXTINF:-1, L2..ARENA SPORT 2 FHD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236330.m3u8
-#EXTINF:-1, L2..ARENA SPORT 3 FHD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236331.m3u8
-#EXTINF:-1, L2..ARENA SPORT 4 FHD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236332.m3u8
-#EXTINF:-1, L2..ARENA SPORT 5 FHD HR
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236333.m3u8
-#EXTINF:-1, L2..GERMANY- DAZN 1
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236765.m3u8
-#EXTINF:-1, L2..GERMANY- DAZN 2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236766.m3u8
-#EXTINF:-1, L2..UKHD BT SPORT 3 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236009.m3u8
-#EXTINF:-1, L2..UKHD BT SPORT 2 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236010.m3u8
-#EXTINF:-1, L2..UKHD BT SPORT 1 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236011.m3u8
-#EXTINF:-1, L2..HEVC: SKY SPORTS MAIN EVENTS
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235991.m3u8
-#EXTINF:-1, L2..UKHD SKY SPORTS PREMIER LEAGUE HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235994.m3u8
-#EXTINF:-1, L2..UKHD SKY SPORTS F1 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235999.m3u8
-#EXTINF:-1, L2..UK FHD  SKY SPORTS MAIN EVENT FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236016.m3u8
-#EXTINF:-1, L2..UK FHD  SKY SPORTS F1 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236019.m3u8
-#EXTINF:-1, L2..GERMANY- SKY SPORT 1 HD DE
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236753.m3u8
-#EXTINF:-1, L2..GERMANY- SKY SPORT 2 HD DE
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236754.m3u8
-#EXTINF:-1, L2..UK FHD  SKY SPORTS F1 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/234077.m3u8
-#EXTINF:-1, L2..UK HD SKY SPORTS F1 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/234230.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236741.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT SELECT HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235779.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236743.m3u8
-#EXTINF:-1, L2..NETHERLAND- ZIGGO SPORT VOETBAL HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/235781.m3u8
-#EXTINF:-1, L2..FRANCE -RMC SPORT 1 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236636.m3u8
-#EXTINF:-1, L2..FRANCE -RMC SPORT 2 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236637.m3u8
-#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 1
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213986.m3u8
-#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213987.m3u8
-#EXTINF:-1, L2..BEIN SPORT ENGLISH 4K 3
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213988.m3u8
-#EXTINF:-1, L2..BEIN SPORT FRENCH 4K 1
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213989.m3u8
-#EXTINF:-1, L2..BEIN SPORT FRENCH 4K 2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213990.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 1 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135637.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 2 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135638.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 3 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135639.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 4 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135640.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 5 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135641.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 6 FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135642.m3u8
-#EXTINF:-1, L2..BEIN SPORTS 7 HD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/135660.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD1
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213992.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/213993.m3u8
-#EXTINF:-1, L2..SPORTS: SUPERSPORT TENNIS
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236110.m3u8
-#EXTINF:-1, L2..SPORTS: SUPERSPORT MXIMO
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236185.m3u8
-#EXTINF:-1, L2..SPORTS: SUPERSPORT MOTORSPORT
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236186.m3u8
-#EXTINF:-1, L2..ZA: SUPERSPORT ACTION
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236538.m3u8
-#EXTINF:-1, L2..ZA: SUPERSPORT BLITZ
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236539.m3u8
-#EXTINF:-1, L2..ZA: SUPERSPORT FOOTBALL
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236541.m3u8
-#EXTINF:-1, L2..ZA: SUPERSPORT  GRANDSTAND FHD
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236542.m3u8
-#EXTINF:-1, L2..ZA: SUPERSPORT LA LIGA
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236543.m3u8
-#EXTINF:-1, L2..ZA: SUPERSPORT PREMIER LEAGUE
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236544.m3u8
-#EXTINF:-1, L2..ZA: SUPERSPORT PSL
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236545.m3u8
-#EXTINF:-1, L2..DSTV : SUPERSPORT ESPN2
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236603.m3u8
-#EXTINF:-1, L2..DSTV : SUPERSPORT ESPN
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236604.m3u8
-#EXTINF:-1, L2..DSTV: SUPERSPORT PLAY
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236605.m3u8
-#EXTINF:-1, L2..SPORTS: SUPERSPORT TENNIS
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/236110.m3u8
-#EXTINF:-1, L2..US: TENNIS CHANNEL
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/261649.m3u8
-#EXTINF:-1, L2..US: TENNIS CHANNEL
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/261718.m3u8
-#EXTINF:-1, L2..IT-VIP: SUPERTENNIS
-http://live.iptv-ksa.com:80/live/Ahmed1234/Ahmed4321/278293.m3u8
 
 #EXTINF:-1, L1..SPORT KLUB 1
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/137.m3u8
@@ -454,42 +220,125 @@ http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1119.m3u8
 #EXTINF:-1, L1..NL: ZIGGO SPORT TENNIS HD
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1254.m3u8
 
+#EXTINF:-1, L2..SPORTS- SPORT KLUB 1 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100795
+#EXTINF:-1, L2..SPORTS- SPORT KLUB 1 HD (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100796
+#EXTINF:-1, L2..SPORTS- SPORT KLUB 2 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100797
+#EXTINF:-1, L2..SPORTS- SPORT KLUB 2 HD (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100798
+#EXTINF:-1, L2..SPORTS- SPORT KLUB 3 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100799
+#EXTINF:-1, L2..SPORTS- SPORT KLUB 3 HD (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100800
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 1 (RS)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100779
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 1 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100781
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 2 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100783
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 2 HD (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100784
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 3 (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100785
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 3 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100786
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 4 (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100788
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 4 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100789
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 5 (SR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100791
+#EXTINF:-1, L2..SPORTS- ARENA SPORT 5 HD (HR)
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/100792
+#EXTINF:-1, L2..DE- DAZN 1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/29411
+#EXTINF:-1, L2..DE- DAZN 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/52423
+#EXTINF:-1, L2..UK- BT SPORT 1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122183
+#EXTINF:-1, L2..UK- BT SPORT 2 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122184
+#EXTINF:-1, L2..UK- BT SPORT 3 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122185
+#EXTINF:-1, L2..DEPORTES LA-  SKY SPORTS LA LIGA   HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285210
+#EXTINF:-1, L2..DE- SKY SPORT F1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/255618
+#EXTINF:-1, L2..DE- SKY SPORT BUND LIGA 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/7809
+#EXTINF:-1, L2..UK- SKY SPORTS PREMIER LEAGUE UHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94385
+#EXTINF:-1, L2..UK- SKY SPORTS PREMIER LEAGUE HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94386
+#EXTINF:-1, L2..UK- SKY SPORTS MAIN EVENT FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94389
+#EXTINF:-1, L2..UK- SKY SPORTS MAIN EVENT
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94390
+#EXTINF:-1, L2..UK- SKY SPORTS F1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94393
+#EXTINF:-1, L2..UK- SKY SPORTS F1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94394
+#EXTINF:-1, L2..NL-  ZIGGO SPORT SELECT HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/1953
+#EXTINF:-1, L2..NL-  ZIGGO SPORT SELECT FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/52272
+#EXTINF:-1, L2..NL-  ZIGGO SPORT VOETBAL HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/1954
+#EXTINF:-1, L2..NL-  ZIGGO SPORT VOETBAL FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/52271
+#EXTINF:-1, L2..FR- RMC SPORT 1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/65639
+#EXTINF:-1, L2..FR- RMC SPORT 2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/65638
+#EXTINF:-1, L2..FR- BEIN SPORT 1 SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/121403
+#EXTINF:-1, L2..FR- BEIN SPORT 2 SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/121404
+#EXTINF:-1, L2..FR- BEIN SPORT 3 SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/121405
+#EXTINF:-1, L2..BEIN SPORTS PREMIUM  1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/9494
+#EXTINF:-1, L2..BEIN SPORTS PREMIUM  2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/9496
+#EXTINF:-1, L2..BEIN SPORTS PREMIUM  3 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/9497
+#EXTINF:-1, L2..SAF- SUPERSPORT LALIGA FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307017
+#EXTINF:-1, L2..SAF- SUPERSPORT VARIETY 1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307025
+#EXTINF:-1, L2..SAF- SUPERSPORT TENNIS FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307024
+#EXTINF:-1, L2..SAF- SUPERSPORT PSL FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307022
+#EXTINF:-1, L2..SAF- SUPERSPORT PREMIER LEAGUE FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307021
+#EXTINF:-1, L2..SAF- SUPERSPORT PLAY HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307020
+#EXTINF:-1, L2..SAF- SUPERSPORT MOTORSPORT HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307019
+#EXTINF:-1, L2..SAF- SUPERSPORT MAXIMO HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307018
+#EXTINF:-1, L2..SAF- SUPERSPORT LALIGA FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307017
+#EXTINF:-1, L2..SAF- SUPERSPORT GRANDSTAND FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307016
+#EXTINF:-1, L2..SAF- SUPERSPORT FOOTBALL FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307014
+#EXTINF:-1, L2..SAF- SUPERSPORT BLITZ FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307012
+#EXTINF:-1, L2..SAF- SUPERSPORT ACTION FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307011
+#EXTINF:-1, L2..DEPORTES LA-   TENNIS CHANNEL   HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285237
+#EXTINF:-1, L2..IT- SKY SPORT TENNIS FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/322758
+#EXTINF:-1, L2..IT- SUPER TENNIS FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/198384
+#EXTINF:-1, L2..USA-  TENNIS CHANNEL
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211359
+#EXTINF:-1, L2..SAF- SUPERSPORT TENNIS FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/307024
 
-#EXTINF:-1, L1..UK BT SPORT 1 HD 1 (P)
-http://fortv.cc:8080/live/alphonso/alphonso/53711.m3u8
-#EXTINF:-1, L1..UK BT SPORT 2 HD 1 (P)
-http://fortv.cc:8080/live/alphonso/alphonso/66784.m3u8
-#EXTINF:-1, L1..UK BT SPORT 3 HD 1 (P)
-http://fortv.cc:8080/live/alphonso/alphonso/121961.m3u8
-#EXTINF:-1, L1..UK SKY SPORTS F1 FHD (D)
-http://fortv.cc:8080/live/alphonso/alphonso/53704.m3u8
-#EXTINF:-1, L1..UK-SKY SPORTS MAIN EVENT
-http://fortv.cc:8080/live/alphonso/alphonso/35243.m3u8
-#EXTINF:-1, L1..UK SKY SPORTS F1 FHD (D)
-http://fortv.cc:8080/live/alphonso/alphonso/35244.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 1 FHD2
-http://fortv.cc:8080/live/alphonso/alphonso/86751.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 2 FHD2
-http://fortv.cc:8080/live/alphonso/alphonso/86752.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 3 FHD2
-http://fortv.cc:8080/live/alphonso/alphonso/86753.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 4 FHD2
-http://fortv.cc:8080/live/alphonso/alphonso/86754.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 5 FHD2
-http://fortv.cc:8080/live/alphonso/alphonso/86755.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 6 FHD2
-http://fortv.cc:8080/live/alphonso/alphonso/86756.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 1 FHD (ENG)2
-http://fortv.cc:8080/live/alphonso/alphonso/86757.m3u8
-#EXTINF:-1, L1..USA: BEIN SPORTS LA LIGA2
-http://fortv.cc:8080/live/alphonso/alphonso/98198.m3u8
-#EXTINF:-1, L1..SP | SUPERSPORT VARIETY 1 FHD
-http://fortv.cc:8080/live/alphonso/alphonso/21790.m3u8
-#EXTINF:-1, L1..SUPERSPORT ACTION
-http://fortv.cc:8080/live/alphonso/alphonso/79811.m3u8
-#EXTINF:-1, L1..SUPERSPORT LA LIGA2
-http://fortv.cc:8080/live/alphonso/alphonso/86763.m3u8
-#EXTINF:-1, L1..US TENNIS CHANNEL (S)
-http://fortv.cc:8080/live/alphonso/alphonso/20184.m3u8
-#EXTINF:-1, L1..TENNIS BUDDIES (2019)
-http://fortv.cc:8080/live/movie/alphonso/alphonso/53063.mkv.m3u8
+
