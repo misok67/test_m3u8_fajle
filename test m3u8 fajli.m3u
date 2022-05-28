@@ -11,6 +11,39 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
+#EXTINF:-1,BT Sport 1 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/26787.ts
+#EXTINF:-1,BT Sport 1
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/36759.ts
+#EXTINF:-1,UK: BT SPORT 1 FHD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/270.m3u8
+#EXTINF:-1,UK BT SPORT 1 FHD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/28340.m3u8
+#EXTINF:-1,ZA: SUPERSPORT PREMIER LEAGUE HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11642.m3u8
+#EXTINF:-1,ZA SUPERSPORT PREMIER LEAGUE HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290634.m3u8
+#EXTINF:-1,QA: NIeb Sports English 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/110
+#EXTINF:-1,QA NIeb Sports English 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295872
+#EXTINF:-1,ZIGGO SPORT SELECT HD NL
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/37331.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT FHD NL
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/12053.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD NL
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/37330.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL FHD NL
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/12052.m3u8
+#EXTINF:-1,DAZN BAR 1 FHD DE
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/26506.m3u8
+#EXTINF:-1,DAZN BAR 1 FHD DE
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/26506.m3u8
+#EXTINF:-1,DAZN BAR 2 FHD DE
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/26505.m3u8
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/27735.m3u8
+
 #EXTINF:-1,EUROSPORT 1 FHD ES
 http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/48719.m3u8
 #EXTINF:-1,EUROSPORT 2 ES
