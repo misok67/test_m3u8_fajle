@@ -11,131 +11,172 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,...L1...EX-YU: SPORT KLUB 1
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/3605.m3u8
-#EXTINF:-1,...L1...EX-YU: SPORT KLUB 2
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/3604.m3u8
-#EXTINF:-1,...L1...EX-YU: SPORT KLUB 3
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/3603.m3u8
-#EXTINF:-1,...L1...EX-YU: ARENA SPORT 1 (SR)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/30759.m3u8
-#EXTINF:-1,...L1...EX-YU: ARENA SPORT 2 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/401.m3u8
-#EXTINF:-1,...L1...EX-YU: ARENA SPORT 2 HD (SR)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/28268.m3u8
-#EXTINF:-1,...L1...EX-YU: ARENA SPORT 3 (SR)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/31021.m3u8
-#EXTINF:-1,...L1...EX-YU: ARENA SPORT 4 HD (SR)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/31022.m3u8
-#EXTINF:-1,...L1...UK: BT SPORT EUROPE HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/3.m3u8
-#EXTINF:-1,...L1...UK: BT SPORT 1 BACKUP
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/8950.m3u8
-#EXTINF:-1,...L1...UK: BT SPORT 1 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/8.m3u8
-#EXTINF:-1,...L1...UK: BT SPORT 2 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6.m3u8
-#EXTINF:-1,...L1...UK: BT SPORT 3 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5547.m3u8
-#EXTINF:-1,...L1...UK: BT SPORT 3 SD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/4954.m3u8
-#EXTINF:-1,...L1...UK: BT SPORTS 2 SD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/2464.m3u8
-#EXTINF:-1,...L1...UK: BT SPORT 3 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6631.m3u8
-#EXTINF:-1,...L1...DE: SKY SPORT 1 FHD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6746.m3u8
-#EXTINF:-1,...L1...DE: SKY SPORT 2 FHD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6747.m3u8
-#EXTINF:-1,...L1...DE: SKY SPORT BUNDESLIGA 1 FHD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/7534.m3u8
-#EXTINF:-1,...L1...UK: SKY SPORTS MAIN EVENT HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/26.m3u8
-#EXTINF:-1,...L1...UK: SKY SPORTS PREMIER LEAGUE
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/2459.m3u8
-#EXTINF:-1,...L1...UK: SKY SPORTS PREMIER LEAGUE HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/18.m3u8
-#EXTINF:-1,...L1...UK: SKY SPORTS F1 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6628.m3u8
-#EXTINF:-1,...L1...NL: ZIGGO SPORT SELECT FHD 1080
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5452.m3u8
-#EXTINF:-1,...L1...NL: ZIGGO SPORT SELECT HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/3892.m3u8
-#EXTINF:-1,...L1...FR: RMC SPORT 2
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/3713.m3u8
-#EXTINF:-1,...L1...FR: RMC SPORT 3
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/3714.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 1 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5986.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 10 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5995.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 11 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5996.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 12 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5997.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 2 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5987.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 3 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5988.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 4 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5989.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 5 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5990.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 6 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5991.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 7 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5992.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 8 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5993.m3u8
-#EXTINF:-1,...L1...AR : BEIN SPORT 9 HD (BACKUP)
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/5994.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/29.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 1 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/30.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 10 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/39.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 11 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/40.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 12 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/41.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 13 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/42.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 2 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/31.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 3 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/32.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 4 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/33.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 5 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/34.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 6 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/35.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 7 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/36.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 8 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/37.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORTS 9 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/38.m3u8
-#EXTINF:-1,...L1...FR: BEIN SPORTS 1 FHD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/8310.m3u8
-#EXTINF:-1,...L1...FR: BEIN SPORTS 2 FHD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/8309.m3u8
-#EXTINF:-1,...L1...FR: BEIN SPORTS 3 FHD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/8308.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) 10 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6939.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) 8 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6937.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) 9 HD
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6938.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) HD 2
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6860.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) HD 4
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6862.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) HD 5
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6863.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) HD 6
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6864.m3u8
-#EXTINF:-1,...L1...AR: BEIN SPORT (BACKUP2) HD 7
-http://premium-iptv.link:8080/live/eclipse2000inflatables/HGSgcjY6sR/6865.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD ES
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/48719.m3u8
+#EXTINF:-1,EUROSPORT 2 ES
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/48721.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD DE
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/19521.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD DE
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/19522.m3u8
+#EXTINF:-1,EUROSPORT 1 HD RS
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8986.m3u8
+#EXTINF:-1,EUROSPORT 2 HD RS
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8987.m3u8
+#EXTINF:-1,TSN 1 HD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10921.m3u8
+#EXTINF:-1,TSN 2 FHD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10920.m3u8
+#EXTINF:-1,TSN 2 HD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10919.m3u8
+#EXTINF:-1,TSN 3 HD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10917.m3u8
+#EXTINF:-1,TSN 3 FHD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10918.m3u8
+#EXTINF:-1,TENNIS CHANNEL HD US
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8244.m3u8
+
+#EXTINF:-1, L1..Eurosport 1 
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/21422.m3u8
+#EXTINF:-1, L1..Eurosport 1 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/26789.m3u8
+#EXTINF:-1, L1..Eurosport 2
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/26788.m3u8
+#EXTINF:-1, L1..Eurosport 2 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/20189.m3u8
+#EXTINF:-1, L1..DE:Eurosport 1 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/35773.m3u8
+#EXTINF:-1, L1..DE:Eurosport 2 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/35775.m3u8
+#EXTINF:-1, L1..IT:EUROSPORT 1 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/38552.m3u8
+#EXTINF:-1, L1..IT:EUROSPORT 2 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/38553.m3u8
+#EXTINF:-1, L1..ES:EUROSPORT 1 FHD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39136.m3u8
+#EXTINF:-1, L1..ES:EUROSPORT 2 HD esp
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/39139.m3u8
+#EXTINF:-1, L1..USA.m3u8N 3
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/11129.m3u8
+#EXTINF:-1, L1..USA.m3u8N 2
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/27897.m3u8
+#EXTINF:-1, L1..USA.m3u8N 1
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/23310.m3u8
+#EXTINF:-1, L1..AR:beIN Spo.m3u8 4 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/20734.m3u8
+#EXTINF:-1, L1..AR:beIN Spo.m3u8 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/37678.m3u8
+#EXTINF:-1, L1..AR:beIN Spo.m3u8 1 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/20840.m3u8
+#EXTINF:-1, L1..AR:beIN Spo.m3u8 1 Premium
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/36270.m3u8
+#EXTINF:-1, L1..AR:beIN Spo.m3u8 3 Premium
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/41410.m3u8
+#EXTINF:-1, L1..AR:beIN Spo.m3u8 4 HD
+http://cs22cs.uk:2052/live/mickymicky/WGA23mifE9/20843.m3u8
+
+#EXTINF:-1,IT: EUROSPORT 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/995
+#EXTINF:-1,IT: EUROSPORT 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1040 
+#EXTINF:-1,CA: TSN 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/770
+#EXTINF:-1,CA TSN 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274904
+#EXTINF:-1,CA: TSN 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/771
+#EXTINF:-1,CA TSN 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274905
+#EXTINF:-1,CA: TSN 3 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/772
+#EXTINF:-1,CA TSN 3 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/274906 
+#EXTINF:-1,ZA: SuperSport Tennis HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/15200
+#EXTINF:-1,ZA SuperSport Tennis HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290636 
+#EXTINF:-1,QA: NIeb Sports 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/100
+#EXTINF:-1,QA: NIeb Sports 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/101
+#EXTINF:-1,QA: NIeb Sports 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/102
+#EXTINF:-1,QA: NIeb Sports 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/103
+#EXTINF:-1,QA: NIeb Sports 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/104
+#EXTINF:-1,QA NIeb Sports 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291085
+#EXTINF:-1,QA: NIeb Sports 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/105
+#EXTINF:-1,QA NIeb Sports 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291087
+#EXTINF:-1,QA: NIeb Sports 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/106
+#EXTINF:-1,QA NIeb Sports 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291088
+#EXTINF:-1,QA: NIeb Sports Premium 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/109
+#EXTINF:-1,QA NIeb Sports Premium 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290195
+#EXTINF:-1,QA: NIeb Sports Premium 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280145
+#EXTINF:-1,QA NIeb Sports Premium 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290196
+#EXTINF:-1,QA: NIeb Sports Premium 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280249
+#EXTINF:-1,QA NIeb Sports Premium 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290197
+#EXTINF:-1,QA: NIeb Sports English 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/110
+#EXTINF:-1,QA NIeb Sports English 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/295872
+#EXTINF:-1,QA: NIeb Sports English 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/111
+#EXTINF:-1,QA NIeb Sports English 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291086
+#EXTINF:-1,QA: NIeb Sports English 3 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267769
+#EXTINF:-1,QA NIeb Sports English 3 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290225 
+
+#EXTINF:-1,Eurosport 1 HD RS
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/8986
+#EXTINF:-1,Eurosport 2 HD RS
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/8987
+#EXTINF:-1,Fox Sports 3 FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45774
+#EXTINF:-1,Fox Sports 3 LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45773
+#EXTINF:-1,FOX SPORTS 2 FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45772
+#EXTINF:-1,Fox Sports 2 LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45771
+#EXTINF:-1,Fox Sports 1 FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45770
+#EXTINF:-1,Fox Sports 1 LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45769
+#EXTINF:-1,Fox Deportes FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45760
+#EXTINF:-1,ESPN U FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45748
+#EXTINF:-1,ESPN U LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45747
+#EXTINF:-1,ESPN Plus FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45746
+#EXTINF:-1,ESPN Plus LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45745
+#EXTINF:-1,ESPN Deportes FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45744
+#EXTINF:-1,ESPN 3 FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45743
+#EXTINF:-1,ESPN 3 LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45742
+#EXTINF:-1,ESPN 2 FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45741
+#EXTINF:-1,ESPN 2 LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45740
+#EXTINF:-1,ESPN FHD LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45739
+#EXTINF:-1,ESPN LAM
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45738
