@@ -151,6 +151,25 @@ http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45770
 http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45769
 #EXTINF:-1,Fox Deportes FHD LAM
 http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45760
+#EXTINF:-1,TSN 1 HD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10921.m3u8
+#EXTINF:-1,TSN 2 FHD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10920.m3u8
+#EXTINF:-1,TSN 2 HD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10919.m3u8
+#EXTINF:-1,TSN 3 HD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10917.m3u8
+#EXTINF:-1,TSN 3 FHD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10918.m3u8
+#EXTINF:-1,TSN 4 FHD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10916.m3u8
+#EXTINF:-1,TSN 5 HD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10914.m3u8
+#EXTINF:-1,TSN 5 FHD CA
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/10915.m3u8
+#EXTINF:-1,TENNIS CHANNEL HD US
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/8244.m3u8
+
 #EXTINF:-1,ESPN U FHD LAM
 http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/45748
 #EXTINF:-1,ESPN U LAM
