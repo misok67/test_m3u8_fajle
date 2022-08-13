@@ -27,6 +27,9 @@ http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62394.m3u8
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62395.m3u8
 #EXTINF:-1, L1..CRO: ARENA SPORT 3
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62396.m3u8
+#EXTINF:-1,SER: Arena Sport 3 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23390.m3u8
+
 #EXTINF:-1, L1..CRO: ARENA SPORT 4
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62397.m3u8
 #EXTINF:-1, L1..CRO: ARENA SPORT 5
@@ -175,6 +178,11 @@ http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/3448.m3u8
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/71454.m3u8
 #EXTINF:-1, L3..DE:  SKY SPORT TENNIS
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/161774.m3u8
+
+#EXTINF:-1,|HR| Planet Sport 1 HD+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/904
+#EXTINF:-1,|HR| Planet Sport 2 HD+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/903
 
 
 #EXTINF:-1,|HR| ARENA SPORT 1 4K+
