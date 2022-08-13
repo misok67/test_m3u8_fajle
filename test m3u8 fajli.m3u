@@ -27,13 +27,22 @@ http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62394.m3u8
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62395.m3u8
 #EXTINF:-1, L1..CRO: ARENA SPORT 3
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62396.m3u8
-#EXTINF:-1,SER: Arena Sport 3 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23390.m3u8
-
 #EXTINF:-1, L1..CRO: ARENA SPORT 4
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62397.m3u8
 #EXTINF:-1, L1..CRO: ARENA SPORT 5
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62398.m3u8
+
+#EXTINF:-1,SER: Arena Sport 1 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23388.m3u8
+#EXTINF:-1,SER: Arena Sport 2 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23389.m3u8
+#EXTINF:-1,SER: Arena Sport 3 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23390.m3u8
+#EXTINF:-1,SER: Arena Sport 4 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23391.m3u8
+#EXTINF:-1,SER: Arena Sport 5 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23392.m3u8
+
 #EXTINF:-1, L1..DE: DAZN SPORT
 http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122968.m3u8
 #EXTINF:-1, L1..DE: DAZN SPORT 2
