@@ -11,14 +11,144 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,Pt: Sport TV + 4K
-http://familyplus.me:8080/younes123/123456/72017
-#EXTINF:-1,Pt: Sport TV 8K
-http://familyplus.me:8080/younes123/123456/72026
-#EXTINF:-1,Pt: Sport TV 1 HD
-http://familyplus.me:8080/younes123/123456/70843
-#EXTINF:-1,Pt: Sport TV 1 4K
-http://familyplus.me:8080/younes123/123456/72018
+#EXTINF:-1, L1..SER: SPORT KLUB 1 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23393.m3u8
+#EXTINF:-1, L1..SER: SPORT KLUB 2 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23394.m3u8
+#EXTINF:-1, L1..SER: SPORT KLUB 3 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23395.m3u8
+#EXTINF:-1, L1..SER: SPORT KLUB 4 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23396.m3u8
+#EXTINF:-1, L1..SER: SPORT KLUB 5 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23397.m3u8
+#EXTINF:-1, L1..CRO: ARENA SPORT 1 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62394.m3u8
+#EXTINF:-1, L1..CRO: ARENA SPORT 2
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62395.m3u8
+#EXTINF:-1, L1..CRO: ARENA SPORT 3
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62396.m3u8
+#EXTINF:-1, L1..CRO: ARENA SPORT 4
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62397.m3u8
+#EXTINF:-1, L1..CRO: ARENA SPORT 5
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62398.m3u8
+#EXTINF:-1, L1..DE: DAZN SPORT
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122968.m3u8
+#EXTINF:-1, L1..DE: DAZN SPORT 2
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122970.m3u8
+#EXTINF:-1, L1..UK: BT SPORT 1 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116667.m3u8
+#EXTINF:-1, L1..UK: BT SPORT 2 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116668.m3u8
+#EXTINF:-1, L1..UK: BT SPORT 3 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116669.m3u8
+#EXTINF:-1, L1..DE: SKY SPORT 1 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122950.m3u8
+#EXTINF:-1, L1..DE: SKY SPORT 2 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122952.m3u8
+#EXTINF:-1, L1..DE: SKY SPORT 3 HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122954.m3u8
+#EXTINF:-1, L1..UK: SKY SPORT MAIN EVENTS
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116628.m3u8
+#EXTINF:-1, L1..UK: SKY SPORT MAIN EVENTS HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116629.m3u8
+#EXTINF:-1, L1..UK: SKY SPORT PREMIER LEAGUE HD
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116631.m3u8
+#EXTINF:-1, L1..FR: RMC SPORT 1
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67159.m3u8
+#EXTINF:-1, L1..FR: RMC SPORT 2
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67160.m3u8
+#EXTINF:-1, L1..FR: BEIN SPORTS 1
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67163.m3u8
+#EXTINF:-1, L1..FR: BEIN SPORTS 2
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67164.m3u8
+#EXTINF:-1, L1..FR: BEIN SPORTS 3
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67165.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 1 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108189.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 2 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108190.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 3 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108191.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 4 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108192.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 5 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108193.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 6 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108194.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 7 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108195.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 8 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108196.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 9 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108197.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS 10 HD VIP
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108198.m3u8
+#EXTINF:-1, L1..AR: BEIN SPORTS HEVC
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108308.m3u8
+
+
+#EXTINF:-1,|HR| ARENA SPORT 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13942
+#EXTINF:-1,|HR| ARENA SPORT 2 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13943
+#EXTINF:-1,|HR| ARENA SPORT 3 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13944
+#EXTINF:-1,|HR| ARENA SPORT 4 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13945
+#EXTINF:-1,|HR| ARENA SPORT 5 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13946
+#EXTINF:-1,|UK| BT SPORT 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13902
+#EXTINF:-1,|UK| BT SPORT 2 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13903
+#EXTINF:-1,|UK| BT SPORT 3 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13904
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13899
+#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13900
+#EXTINF:-1,|FR| RMC SPORT 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/839
+#EXTINF:-1,|FR| RMC SPORT 2 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/840
+#EXTINF:-1,|FR| BEIN SPORTS 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/805
+#EXTINF:-1,|FR| BEIN SPORTS 2 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/806
+#EXTINF:-1,|FR| BEIN SPORTS 3 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/807
+#EXTINF:-1,|QA| BEIN SPORTS 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14503
+#EXTINF:-1,|QA| BEIN SPORTS 2 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14507
+#EXTINF:-1,|QA| BEIN SPORTS 3 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14509
+#EXTINF:-1,|QA| BEIN SPORTS 4 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14511
+#EXTINF:-1,|QA| BEIN SPORTS 5 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14512
+#EXTINF:-1,|QA| BEIN SPORTS 6 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14514
+#EXTINF:-1,|QA| BEIN SPORTS 7 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14515
+#EXTINF:-1,|QA| BEIN SPORTS 8 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14516
+#EXTINF:-1,|QA| BEIN SPORTS 9 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14517
+#EXTINF:-1,|QA| BEIN SPORTS 10 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14518
+#EXTINF:-1,|QA| BEIN SPORTS 11 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14519
+#EXTINF:-1,|QA| BEIN SPORTS 12 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14520
+#EXTINF:-1,|QA| BEIN SPORTS 13 HD +
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14521
+#EXTINF:-1,|ES| MOVISTAR LALIGA 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13969
+#EXTINF:-1,|IT| SUPERTENNIS HD+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14672
+
+
 
 #EXTINF:-1,SPT-VIP| SRB: SPORT KLUB HD 1
 http://familyplus.me:8080/younes123/123456/116131
