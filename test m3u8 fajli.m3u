@@ -11,131 +11,78 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1, L1..SER: SPORT KLUB 1 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23393.m3u8
-#EXTINF:-1, L1..SER: SPORT KLUB 2 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23394.m3u8
-#EXTINF:-1, L1..SER: SPORT KLUB 3 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23395.m3u8
-#EXTINF:-1, L1..SER: SPORT KLUB 4 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23396.m3u8
-#EXTINF:-1, L1..SER: SPORT KLUB 5 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23397.m3u8
-#EXTINF:-1, L1..CRO: ARENA SPORT 1 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62394.m3u8
-#EXTINF:-1, L1..CRO: ARENA SPORT 2
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62395.m3u8
-#EXTINF:-1, L1..CRO: ARENA SPORT 3
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62396.m3u8
-#EXTINF:-1, L1..CRO: ARENA SPORT 4
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62397.m3u8
-#EXTINF:-1, L1..CRO: ARENA SPORT 5
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/62398.m3u8
-
-#EXTINF:-1,SER: Arena Sport 1 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23388.m3u8
-#EXTINF:-1,SER: Arena Sport 2 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23389.m3u8
-#EXTINF:-1,SER: Arena Sport 3 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23390.m3u8
-#EXTINF:-1,SER: Arena Sport 4 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23391.m3u8
-#EXTINF:-1,SER: Arena Sport 5 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/23392.m3u8
-
-#EXTINF:-1, L1..DE: DAZN SPORT
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122968.m3u8
-#EXTINF:-1, L1..DE: DAZN SPORT 2
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122970.m3u8
-#EXTINF:-1, L1..UK: BT SPORT 1 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116667.m3u8
-#EXTINF:-1, L1..UK: BT SPORT 2 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116668.m3u8
-#EXTINF:-1, L1..UK: BT SPORT 3 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116669.m3u8
-#EXTINF:-1, L1..DE: SKY SPORT 1 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122950.m3u8
-#EXTINF:-1, L1..DE: SKY SPORT 2 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122952.m3u8
-#EXTINF:-1, L1..DE: SKY SPORT 3 HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122954.m3u8
-#EXTINF:-1, L1..UK: SKY SPORT MAIN EVENTS
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116628.m3u8
-#EXTINF:-1, L1..UK: SKY SPORT MAIN EVENTS HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116629.m3u8
-#EXTINF:-1, L1..UK: SKY SPORT PREMIER LEAGUE HD
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116631.m3u8
-#EXTINF:-1, L1..FR: RMC SPORT 1
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67159.m3u8
-#EXTINF:-1, L1..FR: RMC SPORT 2
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67160.m3u8
-#EXTINF:-1, L1..FR: BEIN SPORTS 1
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67163.m3u8
-#EXTINF:-1, L1..FR: BEIN SPORTS 2
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67164.m3u8
-#EXTINF:-1, L1..FR: BEIN SPORTS 3
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67165.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 1 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108189.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 2 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108190.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 3 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108191.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 4 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108192.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 5 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108193.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 6 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108194.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 7 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108195.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 8 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108196.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 9 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108197.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS 10 HD VIP
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108198.m3u8
-#EXTINF:-1, L1..AR: BEIN SPORTS HEVC
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/108308.m3u8
-
-#EXTINF:-1, L2..AR | BEIN SPORTS PREMIUM 4K 1
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/154.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS PREMIUM 4K 2
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/155.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS PREMIUM 4K 3
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/156.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS 1 4K
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/157.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS 2 4K
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/158.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS 3 4K
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/159.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS 4 4K
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/160.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS 5 4K
+#EXTINF:-1,AR | BEIN SPORTS 5 4K
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/161.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS 6 4K
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/128.m3u8
+
+
+#EXTINF:-1, L1..AR | BEIN SPORTS PREMIUM 4K 1
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/154.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS PREMIUM 4K 2
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/155.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS PREMIUM 4K 3
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/156.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS 1 4K
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/157.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS 2 4K
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/158.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS 3 4K
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/159.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS 4 4K
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/160.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS 5 4K
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/161.m3u8
+#EXTINF:-1, L1..AR | BEIN SPORTS 6 4K
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/162.m3u8
-#EXTINF:-1, L2..AR | BEIN SPORTS 7 4K
+#EXTINF:-1, L1..AR | BEIN SPORTS 7 4K
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/163.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH SD2
+#EXTINF:-1, L1..BEIN SPORTS PREMIUM SD1
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/138.m3u8
+#EXTINF:-1, L1..BEIN SPORTS PREMIUM SD2
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/139.m3u8
+#EXTINF:-1, L1..BEIN SPORTS PREMIUM SD3
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/140.m3u8
+#EXTINF:-1, L1..BEIN SPORTS ENGLISH SD2
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/150.m3u8
-#EXTINF:-1, L2..BEIN SPORTS FRENCH SD1
+#EXTINF:-1, L1..BEIN SPORTS FRENCH SD1
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/151.m3u8
-#EXTINF:-1, L2..BEIN SPORTS FRENCH SD2
+#EXTINF:-1, L1..BEIN SPORTS FRENCH SD2
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/152.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH SD1
+#EXTINF:-1, L1..BEIN SPORTS ENGLISH SD1
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/153.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD2
+#EXTINF:-1, L1..BEIN SPORTS PREMIUM 1 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/121.m3u8
+#EXTINF:-1, L1..BEIN SPORTS PREMIUM 2 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/122.m3u8
+#EXTINF:-1, L1..BEIN SPORTS PREMIUM 3 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/123.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 1 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/124.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 2 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/125.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 3 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/126.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 4 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/127.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 5 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/128.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 6 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/129.m3u8
+#EXTINF:-1, L1..BEIN SPORTS 7 HD
+http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/130.m3u8
+#EXTINF:-1, L1..BEIN SPORTS ENGLISH HD2
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/132.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD3
+#EXTINF:-1, L1..BEIN SPORTS ENGLISH HD3
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/133.m3u8
-#EXTINF:-1, L2..BEIN SPORTS FRENCH HD1
+#EXTINF:-1, L1..BEIN SPORTS FRENCH HD1
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/134.m3u8
-#EXTINF:-1, L2..BEIN SPORTS FRENCH HD2
+#EXTINF:-1, L1..BEIN SPORTS FRENCH HD2
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/135.m3u8
-#EXTINF:-1, L2..BEIN SPORTS ENGLISH HD1
+#EXTINF:-1, L1..BEIN SPORTS ENGLISH HD1
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/136.m3u8
+
+
 
 #EXTINF:-1, L3..DE: DAZN SPORT
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/13863.m3u8
@@ -187,11 +134,6 @@ http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/3448.m3u8
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/71454.m3u8
 #EXTINF:-1, L3..DE:  SKY SPORT TENNIS
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/161774.m3u8
-
-#EXTINF:-1,|HR| Planet Sport 1 HD+
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/904
-#EXTINF:-1,|HR| Planet Sport 2 HD+
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/903
 
 
 #EXTINF:-1,|HR| ARENA SPORT 1 4K+
