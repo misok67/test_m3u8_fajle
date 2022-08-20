@@ -11,6 +11,32 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
+#EXTINF:-1,Sport Klub 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.3.hr.m3u8
+#EXTINF:-1,ExYu| SportKlub 3 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13974
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/133081.m3u8
+#EXTINF:-1, L2..EX-YU: SPORT KLUB 3
+http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/133077.m3u8
+#EXTINF:-1,SPT-VIP| SRB: SPORT KLUB HD 3
+http://familyplus.me:8080/younes123/123456/116133
+#EXTINF:-1,EX-YU | HR: SPORT KLUB 3 HD
+http://familyplus.me:8080/younes123/123456/33196
+
+
+#EXTINF:-1,Sport Klub 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.1.hr.m3u8
+#EXTINF:-1,Sport Klub 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.2.hr.m3u8
+#EXTINF:-1 ,|ExYu| Sportklub 1 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13970
+#EXTINF:-1 ,|ExYu| Sportklub 2 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13972
+#EXTINF:-1 ,|ExYu| Sportklub 3 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13974
+
+
 #EXTINF:-1, L2..DE:  SKY SPORT TENNIS
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/161774.m3u8
 #EXTINF:-1,AR | BEIN SPORTS 5 4K
