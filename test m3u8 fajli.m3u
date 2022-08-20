@@ -13,6 +13,9 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
 #EXTINF:-1,Sport Klub 3
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.3.hr.m3u8
+#EXTINF:-1,SPORTS : SPORT KLUB 3
+http://mains.services:2086/live/A.Jones01/1904550/102326.m3u8
+
 #EXTINF:-1,ExYu| SportKlub 3 4K+
 http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13974
 #EXTINF:-1,EX-YU: Sport Klub 3
@@ -24,6 +27,12 @@ http://familyplus.me:8080/younes123/123456/116133
 #EXTINF:-1,EX-YU | HR: SPORT KLUB 3 HD
 http://familyplus.me:8080/younes123/123456/33196
 
+#EXTINF:-1,SPORTS : SPORT KLUB 1
+http://mains.services:2086/live/A.Jones01/1904550/102324.m3u8
+#EXTINF:-1,SPORTS : SPORT KLUB 2
+http://mains.services:2086/live/A.Jones01/1904550/102325.m3u8
+#EXTINF:-1,SPORTS : SPORT KLUB 3
+http://mains.services:2086/live/A.Jones01/1904550/102326.m3u8
 
 #EXTINF:-1,Sport Klub 1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.1.hr.m3u8
@@ -43,6 +52,92 @@ http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/161774.m3u8
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/161.m3u8
 #EXTINF:-1,BEIN SPORTS 5 HD
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/128.m3u8
+
+
+#EXTINF:-1, L4..DE : DAZN 1
+http://mains.services:2086/live/A.Jones01/1904550/92343.m3u8
+#EXTINF:-1, L4..DE : DAZN 2
+http://mains.services:2086/live/A.Jones01/1904550/92344.m3u8
+#EXTINF:-1, L4..GB : BT SPORTS 01
+http://mains.services:2086/live/A.Jones01/1904550/67062.m3u8
+#EXTINF:-1, L4..GB : BT SPORTS 02
+http://mains.services:2086/live/A.Jones01/1904550/67063.m3u8
+#EXTINF:-1, L4..GB : BT SPORTS 03
+http://mains.services:2086/live/A.Jones01/1904550/67075.m3u8
+#EXTINF:-1, L4..DE : SKY SPORT 1
+http://mains.services:2086/live/A.Jones01/1904550/92331.m3u8
+#EXTINF:-1, L4..DE : SKY SPORT 2
+http://mains.services:2086/live/A.Jones01/1904550/92332.m3u8
+#EXTINF:-1, L4..GB : SKY SPORTS MAIN EVENT
+http://mains.services:2086/live/A.Jones01/1904550/67058.m3u8
+#EXTINF:-1, L4..GB : SKY SPORTS PREMIER LEAGUE
+http://mains.services:2086/live/A.Jones01/1904550/67060.m3u8
+#EXTINF:-1, L4..DUTCH: ZIGGO SPORT SELECT
+http://mains.services:2086/live/A.Jones01/1904550/92899.m3u8
+#EXTINF:-1, L4..DUTCH: ZIGGO SPORT VOETBAL
+http://mains.services:2086/live/A.Jones01/1904550/92901.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS 04
+http://mains.services:2086/live/A.Jones01/1904550/66775.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS 05
+http://mains.services:2086/live/A.Jones01/1904550/66776.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS 06
+http://mains.services:2086/live/A.Jones01/1904550/66777.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS 07
+http://mains.services:2086/live/A.Jones01/1904550/66778.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS 08
+http://mains.services:2086/live/A.Jones01/1904550/66779.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS ENGLISH 01
+http://mains.services:2086/live/A.Jones01/1904550/66782.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS ENGLISH 02
+http://mains.services:2086/live/A.Jones01/1904550/66783.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS ENGLISH 03
+http://mains.services:2086/live/A.Jones01/1904550/66784.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS LA LIGA
+http://mains.services:2086/live/A.Jones01/1904550/66786.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS PREMIUM 01
+http://mains.services:2086/live/A.Jones01/1904550/66772.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS PREMIUM 02
+http://mains.services:2086/live/A.Jones01/1904550/66773.m3u8
+#EXTINF:-1, L4..SPORTS : BEIN SPORTS PREMIUM 03
+http://mains.services:2086/live/A.Jones01/1904550/66774.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT ACTION
+http://mains.services:2086/live/A.Jones01/1904550/99287.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT BLITZ
+http://mains.services:2086/live/A.Jones01/1904550/90494.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT ESPN
+http://mains.services:2086/live/A.Jones01/1904550/104569.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT ESPN2
+http://mains.services:2086/live/A.Jones01/1904550/104570.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT FOOTBALL
+http://mains.services:2086/live/A.Jones01/1904550/90489.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT GRANDSTAND
+http://mains.services:2086/live/A.Jones01/1904550/90493.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT LA LIGA
+http://mains.services:2086/live/A.Jones01/1904550/90490.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT MAXIMO
+http://mains.services:2086/live/A.Jones01/1904550/99290.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT MOTORSPORT
+http://mains.services:2086/live/A.Jones01/1904550/99289.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT PLAY
+http://mains.services:2086/live/A.Jones01/1904550/104571.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT PREMIER LEAGUE
+http://mains.services:2086/live/A.Jones01/1904550/90491.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT PSL
+http://mains.services:2086/live/A.Jones01/1904550/90492.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT TENNIS
+http://mains.services:2086/live/A.Jones01/1904550/99291.m3u8
+#EXTINF:-1, L4..AFRICA : SUPERSPORT TENNIS
+http://mains.services:2086/live/A.Jones01/1904550/99291.m3u8
+#EXTINF:-1, L4..IT : SUPERTENNIS
+http://mains.services:2086/live/A.Jones01/1904550/94124.m3u8
+#EXTINF:-1, L4..STVP_UK : THE TENNIS CHANNEL INTERNATIONAL
+http://mains.services:2086/live/A.Jones01/1904550/100538.m3u8
+#EXTINF:-1, L4..US : TENNIS CHANNEL
+http://mains.services:2086/live/A.Jones01/1904550/327.m3u8
+#EXTINF:-1, L4..US : TENNIS CHANNEL FHD 1080
+http://mains.services:2086/live/A.Jones01/1904550/64029.m3u8
+#EXTINF:-1, L4..US-720 : TENNIS CHANNEL
+http://mains.services:2086/live/A.Jones01/1904550/95435.m3u8
 
 
 #EXTINF:-1, L1..AR | BEIN SPORTS PREMIUM 4K 1
