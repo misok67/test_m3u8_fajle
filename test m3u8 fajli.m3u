@@ -11,21 +11,16 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,Sport Klub 3
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.3.hr.m3u8
 #EXTINF:-1,SPORTS : SPORT KLUB 3
 http://mains.services:2086/live/A.Jones01/1904550/102326.m3u8
-
-#EXTINF:-1,ExYu| SportKlub 3 4K+
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13974
 #EXTINF:-1,EX-YU: Sport Klub 3
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/133081.m3u8
-#EXTINF:-1, L2..EX-YU: SPORT KLUB 3
-http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/133077.m3u8
 #EXTINF:-1,SPT-VIP| SRB: SPORT KLUB HD 3
 http://familyplus.me:8080/younes123/123456/116133
 #EXTINF:-1,EX-YU | HR: SPORT KLUB 3 HD
 http://familyplus.me:8080/younes123/123456/33196
+#EXTINF:-1,EX-YU | HR: SPORT KLUB 3 HD
+http://mhiptv.com:8080/live/awny2020/Awny2020/72449.m3u8
 
 #EXTINF:-1,SPORTS : SPORT KLUB 1
 http://mains.services:2086/live/A.Jones01/1904550/102324.m3u8
@@ -33,25 +28,6 @@ http://mains.services:2086/live/A.Jones01/1904550/102324.m3u8
 http://mains.services:2086/live/A.Jones01/1904550/102325.m3u8
 #EXTINF:-1,SPORTS : SPORT KLUB 3
 http://mains.services:2086/live/A.Jones01/1904550/102326.m3u8
-
-#EXTINF:-1,Sport Klub 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.1.hr.m3u8
-#EXTINF:-1,Sport Klub 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.2.hr.m3u8
-#EXTINF:-1 ,|ExYu| Sportklub 1 4K+
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13970
-#EXTINF:-1 ,|ExYu| Sportklub 2 4K+
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13972
-#EXTINF:-1 ,|ExYu| Sportklub 3 4K+
-http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13974
-
-
-#EXTINF:-1, L2..DE:  SKY SPORT TENNIS
-http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/161774.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 5 4K
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/161.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/128.m3u8
 
 
 #EXTINF:-1, L4..DE : DAZN 1
@@ -139,6 +115,56 @@ http://mains.services:2086/live/A.Jones01/1904550/64029.m3u8
 #EXTINF:-1, L4..US-720 : TENNIS CHANNEL
 http://mains.services:2086/live/A.Jones01/1904550/95435.m3u8
 
+#EXTINF:-1, L5..UK: BT SPORT 1 FHD
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2001.m3u8
+#EXTINF:-1, L5..UK: BT SPORT 2 FHD
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2000.m3u8
+#EXTINF:-1, L5..UK: BT SPORT 3 FHD
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1999.m3u8
+#EXTINF:-1, L5..UK: SKY SPORTS F1
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/35.m3u8
+#EXTINF:-1, L5..UK: SKY SPORTS PREMIER LEAGUE
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/39.m3u8
+#EXTINF:-1, L5..UK: SKY SPORTS PREMIER LEAGUE FHD
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2125.m3u8
+#EXTINF:-1, L5..UK: SKY SPORTS MAIN EVENT FHD
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2131.m3u8
+#EXTINF:-1, L5..US FHD: BEIN SPORTS ENGLISH
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1235.m3u8
+#EXTINF:-1, L5..UD HD: BEIN SPORTS ENGLISH
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/944.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT ACTION
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT BLITZ
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2600.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT CRICKET
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT FOOTBALL
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1415.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT GRANDSTAND
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1419.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT LA LIGA
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1416.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT MOTORSPORT
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2601.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT MXIMO
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2642.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT PREMIER LEAGUE
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1417.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT PSL
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1418.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT RUGBY
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1409.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT TENNIS
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2602.m3u8
+#EXTINF:-1, L5..USA FHD: TENNIS CHANNEL
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/861.m3u8
+#EXTINF:-1, L5..US FHD: TENNIS CHANNEL
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1352.m3u8
+#EXTINF:-1, L5..US HD: TENNIS CHANNEL
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/966.m3u8
+#EXTINF:-1, L5..SPORTS: SUPERSPORT TENNIS
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2602.m3u8
 
 #EXTINF:-1, L1..AR | BEIN SPORTS PREMIUM 4K 1
 http://darkteam.vip:25461/live/treeiptv32023o/jhdkjs/154.m3u8
