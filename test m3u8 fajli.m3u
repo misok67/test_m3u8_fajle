@@ -67,6 +67,17 @@ http://mains.services:2086/live/A.Jones01/1904550/102325.m3u8
 #EXTINF:-1,SPORTS : SPORT KLUB 3
 http://mains.services:2086/live/A.Jones01/1904550/102326.m3u8
 
+#EXTINF:-1,SPORTS : ARENA SPORT 01
+http://mains.services:2086/live/A.Jones01/1904550/115936.m3u8
+#EXTINF:-1,SPORTS : ARENA SPORT 02
+http://mains.services:2086/live/A.Jones01/1904550/115937.m3u8
+#EXTINF:-1,SPORTS : ARENA SPORT 03
+http://mains.services:2086/live/A.Jones01/1904550/115938.m3u8
+#EXTINF:-1,SPORTS : ARENA SPORT 04
+http://mains.services:2086/live/A.Jones01/1904550/115939.m3u8
+#EXTINF:-1,SPORTS : ARENA SPORT 05
+http://mains.services:2086/live/A.Jones01/1904550/115940.m3u8
+
 
 #EXTINF:-1, L4..DE : DAZN 1
 http://mains.services:2086/live/A.Jones01/1904550/92343.m3u8
