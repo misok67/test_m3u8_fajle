@@ -11,27 +11,6 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,Eurosport 1 FHD DE
-http://ipflix.click:80/live/sq1x0qr86b/7777/8218.m3u8
-#EXTINF:-1,Eurosport 2 FHD DE.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/9131.m3u8
-#EXTINF:-1,Eurosport 1 HD RS.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/5056.m3u8
-#EXTINF:-1,Eurosport 2 RS.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/5055.m3u8
-#EXTINF:-1,Eurosport 1 FHD FR.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/5672.m3u8
-#EXTINF:-1,Eurosport 1 HD FR.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/682922.m3u8
-#EXTINF:-1,Eurosport 2 FHD FR.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/5671.m3u8
-#EXTINF:-1,Eurosport 2 HD FR.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/12951.m3u8
-#EXTINF:-1,Eurosport 1 FHD ES.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/8746.m3u8
-#EXTINF:-1,Eurosport 2 FHD ES.m3u8
-http://ipflix.click:80/live/sq1x0qr86b/7777/13531.m3u8
-
 #EXTINF:-1,SPORT KLUB 1 HD RS
 http://ipflix.click:80/live/sq1x0qr86b/7777/625234.m3u8
 #EXTINF:-1,SPORT KLUB 2 HD RS
@@ -44,20 +23,8 @@ http://ipflix.click:80/live/sq1x0qr86b/7777/53605.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/9413.m3u8
 #EXTINF:-1,SPORT KLUB 3 HD HR
 http://ipflix.click:80/live/sq1x0qr86b/7777/53166.m3u8
-#EXTINF:-1,ARENA SPORT 1 FHD RS
-http://ipflix.click:80/live/sq1x0qr86b/7777/687925.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD RS
-http://ipflix.click:80/live/sq1x0qr86b/7777/5463.m3u8
-#EXTINF:-1,ARENA SPORT 3 FHD RS
-http://ipflix.click:80/live/sq1x0qr86b/7777/5461.m3u8
-#EXTINF:-1,ARENA SPORT 4 FHD RS
-http://ipflix.click:80/live/sq1x0qr86b/7777/5459.m3u8
-#EXTINF:-1,ARENA SPORT 5 FHD RS
-http://ipflix.click:80/live/sq1x0qr86b/7777/5456.m3u8
 #EXTINF:-1,ARENA SPORT 1 FHD HR
 http://ipflix.click:80/live/sq1x0qr86b/7777/5464.m3u8
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://ipflix.click:80/live/sq1x0qr86b/7777/694187.m3u8
 #EXTINF:-1,ARENA SPORT 2 FHD HR
 http://ipflix.click:80/live/sq1x0qr86b/7777/694747.m3u8
 #EXTINF:-1,ARENA SPORT 3 FHD HR
@@ -68,12 +35,18 @@ http://ipflix.click:80/live/sq1x0qr86b/7777/5458.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/545734.m3u8
 #EXTINF:-1,ARENA SPORT 6 FHD HR
 http://ipflix.click:80/live/sq1x0qr86b/7777/694364.m3u8
-#EXTINF:-1,MAXSport 1 FHD HR
-http://ipflix.click:80/live/sq1x0qr86b/7777/695594.m3u
+#EXTINF:-1,ARENA SPORT 1 FHD RS
+http://ipflix.click:80/live/sq1x0qr86b/7777/687925.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD RS
+http://ipflix.click:80/live/sq1x0qr86b/7777/5463.m3u8
+#EXTINF:-1,ARENA SPORT 3 FHD RS
+http://ipflix.click:80/live/sq1x0qr86b/7777/5461.m3u8
+#EXTINF:-1,ARENA SPORT 4 FHD RS
+http://ipflix.click:80/live/sq1x0qr86b/7777/5459.m3u8
+#EXTINF:-1,ARENA SPORT 5 FHD RS
+http://ipflix.click:80/live/sq1x0qr86b/7777/5456.m3u8
 #EXTINF:-1,DAZN 1 [B] FHD DE
 http://ipflix.click:80/live/sq1x0qr86b/7777/661090.m3u8
-#EXTINF:-1,DAZN 1 [B] HD DE
-http://ipflix.click:80/live/sq1x0qr86b/7777/6252430.m3u8
 #EXTINF:-1,DAZN 2 FHD DE
 http://ipflix.click:80/live/sq1x0qr86b/7777/661089.m3u8
 #EXTINF:-1,SKY SPORT TOP EVENT FHD DE
@@ -90,82 +63,7 @@ http://ipflix.click:80/live/sq1x0qr86b/7777/5710.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/12958.m3u8
 #EXTINF:-1,BEIN SPORTS 3 FHD FR
 http://ipflix.click:80/live/sq1x0qr86b/7777/5708.m3u8
-#EXTINF:-1,SKY SPORT TENNIS FHD DE
-http://ipflix.click:80/live/sq1x0qr86b/7777/694261.m3u8
-#EXTINF:-1,SKY SPORT TENNIS [B] HD DE
-http://ipflix.click:80/live/sq1x0qr86b/7777/694262.m3u8
-
-#EXTINF:-1, L2..EX-YU: SPORT KLUB 3
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/133077.m3u8
-#EXTINF:-1, L2..EX-YU: SPORT KLUB 2
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/133076.m3u8
-#EXTINF:-1, L2..EX-YU: SPORT KLUB 1
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/133075.m3u8
-#EXTINF:-1, L2..EX-YU: ARENA SPORT 5
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/133074.m3u8
-#EXTINF:-1, L2..EX-YU: ARENA SPORT 4
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/58709.m3u8
-#EXTINF:-1, L2..EX-YU: ARENA SPORT 3
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/73565.m3u8
-#EXTINF:-1, L2..EX-YU: ARENA SPORT 2
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/73566.m3u8
-#EXTINF:-1, L2..EX-YU: ARENA SPORT 1
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/73567.m3u8
-#EXTINF:-1, L2..DE: DAZN SPORT
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/13863.m3u8
-#EXTINF:-1, L2..DE: DAZN SPORT 2
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/13864.m3u8
-#EXTINF:-1, L2..UK: BT SPORT 1 HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/95052.m3u8
-#EXTINF:-1, L2..UK: BT SPORT 3 HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/95055.m3u8
-#EXTINF:-1, L2..UK: BT SPORT 2 HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/95053.m3u8
-#EXTINF:-1, L2..DE: SKY SPORTS TOP EVENTS HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/161663.m3u8
-#EXTINF:-1, L2..DE: SKY SPORTS PREMIER LEAGUE HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/161665.m3u8
-#EXTINF:-1, L2..DE:  SKY SPORT TENNIS
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/161774.m3u8
-#EXTINF:-1, L2..DE: SKY SPORT MIX
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/161775.m3u8
-#EXTINF:-1, L2..DE: SKY SPORT F1
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/115534.m3u8
-#EXTINF:-1, L2..UK: SKY SPORT F1 HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/95001.m3u8
-#EXTINF:-1, L2..UK: SKY SPORT MAIN EVENTS
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/95005.m3u8
-#EXTINF:-1, L2..UK: SKY SPORT MAIN EVENTS HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/95006.m3u8
-#EXTINF:-1, L2..UK: SKY SPORT PREMIER LEAGUE HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/95009.m3u8
-#EXTINF:-1, L2..FR: BEIN SPORTS 1
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/63179.m3u8
-#EXTINF:-1, L2..FR: BEIN SPORTS 2
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/63180.m3u8
-#EXTINF:-1, L2..FR: BEIN SPORTS 3
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/63181.m3u8
-#EXTINF:-1, L2..AR: BEIN SPORTS 1 HD VIP
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/58448.m3u8
-#EXTINF:-1, L2..AR: BEIN SPORTS 2 HD VIP
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/58449.m3u8
-#EXTINF:-1, L2..AR: BEIN SPORTS 3 HD VIP
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/74006.m3u8
-#EXTINF:-1, L2..AR: BEIN SPORTS 4 HD VIP
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/71484.m3u8
-#EXTINF:-1, L2..AR: BEIN SPORTS 5 HD VIP
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/7283.m3u8
-#EXTINF:-1, L2..AR: BEIN SPORTS 6 HD VIP
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/3448.m3u8
-#EXTINF:-1, L2..AR: BEIN SPORTS 7 HD VIP
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/71454.m3u8
-#EXTINF:-1, L2..DE:  SKY SPORT TENNIS
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/161774.m3u8
-#EXTINF:-1, L2..IT: SUPER TENNIS
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159574.m3u8
-#EXTINF:-1, L2..IT: TENNIS CHANNEL
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159575.m3u8
-#EXTINF:-1, L2..USA: TENNIS CHANNEL
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159549.m3u8
-
-
+#EXTINF:-1,Eurosport 1 FHD DE
+http://ipflix.click:80/live/sq1x0qr86b/7777/8218.m3u8
+#EXTINF:-1,Eurosport 2 FHD DE.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/9131.m3u8
