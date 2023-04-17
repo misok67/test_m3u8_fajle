@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 ,HRT 1.m3u8
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+http://195.29.70.84/PLTV/88888888/224/3221226139
 #EXTINF:-1 ,HRT 2.m3u8
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+http://195.29.70.82/PLTV/88888888/224/3221226140
 #EXTINF:-1 ,HRT 3.m3u8
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+http://195.29.70.67/PLTV/88888888/224/3221226280
 #EXTINF:-1 ,HRT 4.m3u8
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+http://195.29.70.89/PLTV/88888888/224/3221226281
 #EXTINF:-1 ,RTL CRO.m3u8
 
 #EXTINF:-1,SPORT KLUB 1 HD RS.m3u8
@@ -53,27 +53,27 @@ http://ipflix.click:80/live/sq1x0qr86b/7777/684432.m3u8
 #EXTINF:-1,SKY SPORT F1 FHD DE.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/687666.m3u8
 #EXTINF:-1,Sky Sport F1 [B] FHD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/695025.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/695025.m3u8
 #EXTINF:-1,Sky Sport F1 HD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/687667.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/687667.m3u8
 #EXTINF:-1,SKY SPORT PREMIER LEAGUE HD DE.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/695691.m3u8
 #EXTINF:-1,SKY SPORT TENNIS FHD DE.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/694261.m3u8
 #EXTINF:-1,Sky Sport Tennis HD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683896.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683896.m3u8
 #EXTINF:-1,Sky Sport Tennis [B] HD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/694262.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/694262.m3u8
 #EXTINF:-1,Sky Sport Top Event [B] HD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/684429.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/684429.m3u8
 #EXTINF:-1,Sky Sport Bundesliga FHD VIP DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/684005.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/684005.m3u8
 #EXTINF:-1,Magenta Sport 1 [Match Time] FHD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/679823.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/679823.m3u8
 #EXTINF:-1,Magenta Sport 2 [Match Time] FHD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/679822.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/679822.m3u8
 #EXTINF:-1,Magenta Sport 3 [Match Time] FHD DE.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/695829.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/695829.m3u8
 #EXTINF:-1,BEIN SPORTS 1 FHD FR.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/5710.m3u8
 #EXTINF:-1,BEIN SPORTS 2 FHD FR.m3u8
@@ -81,96 +81,96 @@ http://ipflix.click:80/live/sq1x0qr86b/7777/12958.m3u8
 #EXTINF:-1,BEIN SPORTS 3 FHD FR.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/5708.m3u8
 #EXTINF:-1,SuperSport Blitz FHD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/682921.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/682921.m3u8
 #EXTINF:-1,SuperSport Grandstand FHD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/695550.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/695550.m3u8
 #EXTINF:-1,SuperSport Grandstand HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/678031.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/678031.m3u8
 #EXTINF:-1,SuperSport PSL HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/678030.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/678030.m3u8
 #EXTINF:-1,SuperSport Premier League HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/694236.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/694236.m3u8
 #EXTINF:-1,SuperSport La Liga HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683001.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683001.m3u8
 #EXTINF:-1,SuperSport Football HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/678024.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/678024.m3u8
 #EXTINF:-1,SuperSport Variety 1 FHD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/678020.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/678020.m3u8
 #EXTINF:-1,SuperSport Action FHD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683568.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683568.m3u8
 #EXTINF:-1,SuperSport Action HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/694748.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/694748.m3u8
 #EXTINF:-1,SuperSport Tennis HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/678027.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/678027.m3u8
 #EXTINF:-1,SuperSport Motorsport HD VIP AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/678025.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/678025.m3u8
 #EXTINF:-1,SuperSport Maximo HD AF.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/682919.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/682919.m3u8
 #EXTINF:-1,✽✽⭒ Optus Sports ⭒✽✽.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683279.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683279.m3u8
 #EXTINF:-1,Optus 1 [Match Time] HD VIP AU.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683977.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683977.m3u8
 #EXTINF:-1,Optus 2 [Match Time] HD VIP AU.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683987.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683987.m3u8
 #EXTINF:-1,Optus 3 [Match Time] HD VIP AU.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683979.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683979.m3u8
 
 #EXTINF:-1,beIN Sports 1 [HEVC] FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/678748.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/678748.m3u8
 #EXTINF:-1,beIN Sports 2 [HEVC] FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/5481.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5481.m3u8
 #EXTINF:-1,beIN Sports 3 [HEVC] FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/5480.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5480.m3u8
 #EXTINF:-1,beIN Sports 4 [HEVC] FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/5479.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5479.m3u8
 #EXTINF:-1,beIN Sports 5 [HEVC] FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/682935.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/682935.m3u8
 #EXTINF:-1,beIN Sports 6 [HEVC] FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/54777.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/54777.m3u8
 #EXTINF:-1,beIN Sports 7 [HEVC] FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683135.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683135.m3u8
 #EXTINF:-1,beIN Sports Premium 1 FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/53432.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/53432.m3u8
 #EXTINF:-1,beIN Sports Premium 2 FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/688157.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/688157.m3u8
 #EXTINF:-1,beIN Sports Premium 3 FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/5473.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5473.m3u8
 #EXTINF:-1,beIN Sports English 1 FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/689287.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/689287.m3u8
 #EXTINF:-1,beIN Sports English 2 FHD VIP AR.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/689288.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/689288.m3u8
 #EXTINF:-1,Fox Sports 502 FHD AU.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/686916.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/686916.m3u8
 #EXTINF:-1,Fox Sports 503 HD AU.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/686917.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/686917.m3u8
 
 #EXTINF:-1,MySports 1 FHD CH.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/694172.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/694172.m3u8
 #EXTINF:-1,MySports 2 FHD CH.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/694173.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/694173.m3u8
 #EXTINF:-1,MySports 3 FHD CH.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/694174.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/694174.m3u8
 
 #EXTINF:-1,DAZN 1 FHD VIP ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683544.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683544.m3u8
 #EXTINF:-1,DAZN 2 HD VIP ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/683545.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/683545.m3u8
 #EXTINF:-1,DAZN Laliga FHD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/695843.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/695843.m3u8
 #EXTINF:-1,DAZN Laliga 2 FHD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/696724.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/696724.m3u8
 #EXTINF:-1,DAZN F1 FHD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/7246.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/7246.m3u8
 #EXTINF:-1,DAZN F1 HD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/13549.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/13549.m3u8
 #EXTINF:-1,Movistar La Liga FHD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/16274.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/16274.m3u8
 #EXTINF:-1,Movistar Liga De Campeones FHD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/620686.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/620686.m3u8
 #EXTINF:-1,Movistar Liga De Campeones HD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/620685.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/620685.m3u8
 #EXTINF:-1,Movistar Deportes FHD ES.m3u8
-http://ipflix.click:80/sq1x0qr86b/7777/16278.m3u8
+http://ipflix.click:80/live/sq1x0qr86b/7777/16278.m3u8
 
 #EXTINF:-1,Eurosport 1 FHD DE.m3u8
 http://ipflix.click:80/live/sq1x0qr86b/7777/8218.m3u8
